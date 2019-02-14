@@ -1,0 +1,3 @@
+I&#8217;m getting back into <a href="http://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx" target="_blank" class="broken_link">my column</a> writing, and I&#8217;m looking for topic suggestions&#8230; I actually have a long list of ideas already, but I&#8217;m always interested in hearing what you folks want to read about!
+
+So&#8230; suggest away! Feel free to include topics related to the <a href="http://www.microsoft.com/windowsxp/mediacenter/" target="_blank" class="broken_link">Media Center edition of Windows XP</a> as I&#8217;m planning to spend some time with the developer side of that product over the next few months.

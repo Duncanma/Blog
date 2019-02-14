@@ -1,0 +1,1 @@
+Only a few bloggers listed so far, but more will be coming in the near future: <a href="http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx" target="_blank" class="broken_link">http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx</a>

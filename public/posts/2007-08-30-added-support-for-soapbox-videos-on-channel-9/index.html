@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="When I started on the C9 dev team, one of the first things I did was to remove the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn&#8217;t really mind and in some cases would even like to encourage."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="When I started on the C9 dev team, one of the first things I did was to remove the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn&#8217;t really mind and in some cases would even like to encourage." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2007-08-30-added-support-for-soapbox-videos-on-channel-9/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 1 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>When I started on the C9 dev team, one of the first things I did was to <strong>remove</strong> the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn&#8217;t really mind and in some cases would even like to encourage.</p>
+
+<p>As a small step towards a more community-driven future, <a href="http://channel9.msdn.com/ShowPost.aspx?PostID=338082">I added support to C9 today to allow you to embed Soapbox videos in any forum post</a>{.broken_link}. Simple use the following markup in your post:</p>
+
+<p>[soapbox video=&#8221;(soapbox video id)&#8221;]</p>
+
+<p><a href="http://www.duncanmackenzie.net/images/8c137ad7-737a-4ae6-9a2b-08156604e749.png" atomicselection="true" rel="lightbox[521]" title="image"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="130" alt="image" src="http://www.duncanmackenzie.net/images/8338d4f6-9266-4adf-84cf-c2f7b46e354b.png" width="240" border="0" /></a></p>
+
+<p>and it will turn it into a full blown embed tag with a link to the source material underneath. The Soapbox video id is simply the GUID that appears on the permalink url (<a href="http://soapbox.msn.com/video.aspx?vid=5699dafe-d864-4d1f-976c-d5f4d9ed78db">http://soapbox.msn.com/video.aspx?vid=5699dafe-d864-4d1f-976c-d5f4d9ed78db</a>{.broken_link} for example) for a video and also shows up in its embed code if you take a look at that as well.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2007-09-04-added-silverlight-streaming-support-to-channel-9s-forums/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2007-08-29-overlaying-html-over-silverlight/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

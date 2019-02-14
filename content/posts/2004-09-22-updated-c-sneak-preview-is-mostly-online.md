@@ -1,0 +1,3 @@
+Lots of pretty pictures&#8230;. lots more info coming, but I thought I&#8217;d let you folks know that I have put **some** of it up onto the site&#8230; but nowhere near all&#8230; about half the &#8216;productivity&#8217; section is still pending and I still have the debugger and platform sections to build out&#8230;
+
+Anyway, check it out if you wish by <a href="http://msdn.microsoft.com/vcsharp/2005/overview/default.aspx" target="_blank" class="broken_link">clicking here</a>.

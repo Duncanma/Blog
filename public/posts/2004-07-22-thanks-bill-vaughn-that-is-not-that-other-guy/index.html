@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="I noticed yesterday that my poll wasn&#8217;t showing the question on the top of the list of choices, or the list of results. Viewing the source made it pretty obvious the asp:label was rendering, but that it was empty. Checking my code everything seemed fine, but when I retrieved the poll details through a Stored Proc I was using an Output param for the question text and it was always blank."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="I noticed yesterday that my poll wasn&#8217;t showing the question on the top of the list of choices, or the list of results. Viewing the source made it pretty obvious the asp:label was rendering, but that it was empty. Checking my code everything seemed fine, but when I retrieved the poll details through a Stored Proc I was using an Output param for the question text and it was always blank." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-07-22-thanks-bill-vaughn-that-is-not-that-other-guy/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>I noticed yesterday that my poll wasn&#8217;t showing the question on the top of the list of choices, or the list of results. Viewing the source made it pretty obvious the <a href="asp:label">asp:label</a> was rendering, but that it was empty. Checking my code everything seemed fine, but when I retrieved the poll details through a Stored Proc I was using an Output param for the question text and it was always blank.&nbsp;Well, I knew there was an entire article on MSDN on this exact topic&#8230; and a quick search on “Vaughn” on MSDN took me right to the article I knew would show me exactly what I needed to do.</p>
+
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+  <h4>
+    <a href="http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnadonet/html/gazoutas.asp">Retrieving the Gazoutas: Understanding SQL Server Return Codes and Output Parameters</a>
+  </h4>
+  
+  <p>
+    William Vaughn<br /><b><br />Summary:</b> Discusses how to capture, interrupt, and handle resultsets and rowsets, as well as the extra information that they return when executing a Microsoft SQL Server query. (7 printed pages)
+  </p>
+</blockquote>
+
+<p>Yep&#8230; turns out I had goofed up, I was calling the stored proc with ExecuteReader, but I was trying to read those params before I had closed the data reader. So I made one change to my code;</p>
+
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+  <pre><font color="blue" family="Microsoft Sans Serif">Dim</font> dr <font color="blue" family="Microsoft Sans Serif">As</font> SqlDataReader = _
+    cmdGetPollDetails.ExecuteReader( _
+    CommandBehavior.CloseConnection)
+<font color="blue" family="Microsoft Sans Serif">If</font> dr.HasRows <font color="blue" family="Microsoft Sans Serif">Then</font>
+    <font color="blue" family="Microsoft Sans Serif">Dim</font> po <font color="blue" family="Microsoft Sans Serif">As</font> PollOption
+    <font color="blue" family="Microsoft Sans Serif">Do</font> <font color="blue" family="Microsoft Sans Serif">While</font> dr.Read
+        po = <font color="blue" family="Microsoft Sans Serif">New</font> PollOption
+        po.OptionID = dr.GetInt32(0)
+        po.OptionText = dr.GetString(1)
+        result.Options.<font color="blue" family="Microsoft Sans Serif">Add</font>(po)
+    <font color="blue" family="Microsoft Sans Serif">Loop</font>
+    result.ID = pollID
+    result.Name = <font color="blue" family="Microsoft Sans Serif">CStr</font>( _
+        cmdGetPollDetails.Parameters(<font color="red" family="Microsoft Sans Serif">"@PollName"</font>).Value)
+    result.Question = <font color="blue" family="Microsoft Sans Serif">CStr</font>( _
+        cmdGetPollDetails.Parameters(<font color="red" family="Microsoft Sans Serif">"@PollQuestion"</font>).Value)
+    dr.Close()
+    <font color="blue" family="Microsoft Sans Serif">Return</font> result
+<font color="blue" family="Microsoft Sans Serif">Else</font>
+    dr.Close()
+    <font color="blue" family="Microsoft Sans Serif">Return</font> <font color="blue" family="Microsoft Sans Serif">Nothing</font>
+<font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">If</font>
+</pre>
+</blockquote>
+
+<p>I just moved the dr.Close( ) up to right after the end of the Do loop&#8230;</p>
+
+<pre><font color="blue" family="Microsoft Sans Serif">Loop</font>
+    dr.Close()
+    result.ID = pollID
+    result.Name = <font color="blue" family="Microsoft Sans Serif">CStr</font>( _
+        cmdGetPollDetails.Parameters(<font color="red" family="Microsoft Sans Serif">"@PollName"</font>).Value)
+    result.Question = <font color="blue" family="Microsoft Sans Serif">CStr</font>( _
+        cmdGetPollDetails.Parameters(<font color="red" family="Microsoft Sans Serif">"@PollQuestion"</font>).Value)
+    <font color="blue" family="Microsoft Sans Serif">Return</font> result
+</pre>
+
+<pre>&nbsp;</pre>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-07-23-resharper-1-0-released/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-07-21-previewing-my-quick-vote-article/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

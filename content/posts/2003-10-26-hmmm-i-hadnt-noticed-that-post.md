@@ -1,0 +1,1 @@
+[Kent and his little sony pda/camera thingy](http://weblogs.asp.net/ksharkey/posts/33339.aspx){.broken_link}&#8230;. hmmm&#8230; now where did I put that wma file of him playing his new musical instrument&#8230;

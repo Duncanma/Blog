@@ -1,0 +1,1 @@
+If you look through the pics, you may spot me with Laura Foy <a href="http://www.xbox365.com/news.cgi?id=GGNdHLiGri06182305" target="_blank">in this gallery</a>.

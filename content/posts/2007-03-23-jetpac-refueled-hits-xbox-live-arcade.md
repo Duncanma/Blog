@@ -1,0 +1,11 @@
+On Wednesday, a new <a href="http://www.xbox.com/en-US/games/livearcadexbox360/default.htm" target="_blank" class="broken_link">Xbox Live Arcade game</a> from Rare will be hitting the Marketplace&#8230; Jetpac Refueled. I have to say, from the moment we started shipping retro games onto the Xbox 360, this is what I&#8217;ve been waiting for.
+
+Not this game itself, I&#8217;ve never heard of it before to be honest (<a href="http://en.wikipedia.org/wiki/Jetpac" target="_blank">but wikipedia delivers the goods as always</a>), but I always figured that the retro games would be re-developed to take advantage of the 360&#8217;s graphics and sound&#8230; and this one has been. So, unlike Frogger, Pac Man, and Dig Dug&#8230; where I kept hoping to find a secret button to turn on the new and improved version&#8230; this one delivers. 
+
+<a href="http://www.duncanmackenzie.net/images/6e44eb47-0d77-4d90-8164-04a4c7a35b63.jpg" rel="lightbox[559]" title="New Jetpac Refueled Graphics"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="225" alt="New Jetpac Refueled Graphics" src="http://www.duncanmackenzie.net/images/115ca89c-8185-4e6a-8b84-e55a68c6f97b.jpg" width="400" border="0" /></a>
+
+Of course, and I would have&nbsp;expected this for all &#8216;retro&#8217; games, you can still play in &#8216;old skool&#8217; mode too&#8230;
+
+<a href="http://www.duncanmackenzie.net/images/d911ca3a-341a-4f68-8d04-eee8ec9e6820.jpg" rel="lightbox[559]" title="Original Graphics"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="225" alt="Original Graphics" src="http://www.duncanmackenzie.net/images/8c4357b3-666b-4f2c-beaa-288e3fcc891f.jpg" width="400" border="0" /></a>
+
+I get the appeal of playing the &#8216;original&#8217; way, but for games on the 360 I have been pretty disappointed in the lack of extras added to the new versions. Can you imagine Time Pilot where you could choose to play the original or the new awesomeness that would be possible on the 360?

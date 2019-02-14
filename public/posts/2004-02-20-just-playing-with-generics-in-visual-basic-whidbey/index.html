@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="My simple class:
+Public Class Customer Dim m_CustomerName As String Dim m_CustomerID As Integer Public Property CustomerName() As String Get Return m_CustomerName End Get Set(ByVal Value As String) m_CustomerName = Value End Set End Property Public Property CustomerID() As Integer Get Return m_CustomerID End Get Set(ByVal Value As Integer) m_CustomerID = Value End Set End Property End Class  Then creating a Generic List and working with it:
+Private Sub FillCustomers() Dim myCustomers _  As New Generic."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="My simple class:
+Public Class Customer Dim m_CustomerName As String Dim m_CustomerID As Integer Public Property CustomerName() As String Get Return m_CustomerName End Get Set(ByVal Value As String) m_CustomerName = Value End Set End Property Public Property CustomerID() As Integer Get Return m_CustomerID End Get Set(ByVal Value As Integer) m_CustomerID = Value End Set End Property End Class  Then creating a Generic List and working with it:
+Private Sub FillCustomers() Dim myCustomers _  As New Generic." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-02-20-just-playing-with-generics-in-visual-basic-whidbey/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 1 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>My simple class:</p>
+
+<pre><font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Class</font> Customer
+    <font color="blue" family="Microsoft Sans Serif">Dim</font> m_CustomerName <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">String</font>
+    <font color="blue" family="Microsoft Sans Serif">Dim</font> m_CustomerID <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>
+    <font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Property</font> CustomerName() <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">String</font>
+        <font color="blue" family="Microsoft Sans Serif">Get</font>
+            <font color="blue" family="Microsoft Sans Serif">Return</font> m_CustomerName
+        <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Get</font>
+        <font color="blue" family="Microsoft Sans Serif">Set</font>(<font color="blue" family="Microsoft Sans Serif">ByVal</font> Value <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">String</font>)
+            m_CustomerName = Value
+        <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Set</font>
+    <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Property</font>
+    <font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Property</font> CustomerID() <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>
+        <font color="blue" family="Microsoft Sans Serif">Get</font>
+            <font color="blue" family="Microsoft Sans Serif">Return</font> m_CustomerID
+        <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Get</font>
+        <font color="blue" family="Microsoft Sans Serif">Set</font>(<font color="blue" family="Microsoft Sans Serif">ByVal</font> Value <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>)
+            m_CustomerID = Value
+        <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Set</font>
+    <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Property</font>
+<font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Class</font>
+</pre>
+
+<p>Then creating a Generic List and working with it:</p>
+
+<pre><font color="blue" family="Microsoft Sans Serif">Private</font> <font color="blue" family="Microsoft Sans Serif">Sub</font> FillCustomers()
+        <font color="blue" family="Microsoft Sans Serif">Dim</font> myCustomers _
+<strong>            <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">New</font> Generic.List(<font color="#0000ff">Of</font> Customer)</strong>
+        <font color="blue" family="Microsoft Sans Serif">Dim</font> C <font color="blue" family="Microsoft Sans Serif">As</font> Customer
+        <font color="blue" family="Microsoft Sans Serif">For</font> i <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">Integer</font> = 1 <font color="blue" family="Microsoft Sans Serif">To</font> 500
+            C = <font color="blue" family="Microsoft Sans Serif">New</font> Customer
+            C.CustomerID = i
+            C.CustomerName = <font color="red" family="Microsoft Sans Serif">"Name "</font> & i
+            myCustomers.<font color="blue" family="Microsoft Sans Serif">Add</font>(C)
+        <font color="blue" family="Microsoft Sans Serif">Next</font>
+        <font color="blue" family="Microsoft Sans Serif">For</font> <font color="blue" family="Microsoft Sans Serif">Each</font> cust <font color="blue" family="Microsoft Sans Serif">As</font> Customer <font color="blue" family="Microsoft Sans Serif">In</font> myCustomers
+            Debug.<font color="blue" family="Microsoft Sans Serif">Print</font>(cust.CustomerName)
+        <font color="blue" family="Microsoft Sans Serif">Next</font>
+    <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Sub</font>
+</pre>
+
+<p>Now, isn&#8217;t that nice?</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-02-21-broderbund-software-and-c/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-02-20-12-free-sample-training-modules-about-net/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

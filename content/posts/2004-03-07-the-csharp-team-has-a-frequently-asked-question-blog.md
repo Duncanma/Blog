@@ -1,0 +1,1 @@
+[Click here](http://blogs.msdn.com/csharpfaq/archive/2004/03/06/85249.aspx)&nbsp;to see the first post, which is a request for some **questions!!**

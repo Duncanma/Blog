@@ -1,0 +1,3 @@
+_&#8220;a month-long webcast series focusing on interoperability why it matters to the business, common strategies and methods, and guidance on specific implementation scenarios between the major platform players. We&#8217;ll feature over 40 webcasts, cool giveaways, and brand-new technical guidance from experts such as Simon Guest, Dino Chiesa, and Navdip Bhachech.&#8221;_ &#8230; check it out <a href="https://www.interopmonth.com/home/" target="_blank">here</a>.
+
+Includes <a href="http://www.simonguest.com/" target="_blank" class="broken_link">Simon Guest</a>&rsquo;s new on-demand videos for 14 web services interop scenarios.

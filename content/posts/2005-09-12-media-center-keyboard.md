@@ -1,0 +1,1 @@
+I have no idea when <a href="http://www.microsoft.com/hardware/discover/remotekey.htm" target="_blank" class="broken_link">this</a> is coming out, but I have got to get one&#8230; I&#8217;ve tried various remote keyboards but this one seems much better designed for lap-based use, which is exactly what I&#8217;m aiming for&#8230;

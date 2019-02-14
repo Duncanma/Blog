@@ -1,0 +1,3 @@
+[Getting Started with ObjectSpaces](http://www.microsoft.com/belux/nl/msdn/community/columns/jtielens/objectspaces.mspx){.broken_link} by [Jan Tielens](http://weblogs.asp.net/jan) 
+
+> ObjectSpaces is one of the exciting features coming in the new version of .NET Framework, codename &#8220;Whidbey&#8221;. This article will explain what ObjectSpaces are and will provide a step-by-step guide to a first experience with ObjectSpaces.

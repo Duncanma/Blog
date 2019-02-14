@@ -1,0 +1,3 @@
+I blogged about it before, but there is a 15-part webcast series starting Tuesday February 3rd, presented by <a href="http://www.develop.com/us/technology/bio.aspx?id=9" target="_blank" class="broken_link">Dr. Joe Hummel</a>, focused on Visual Basic .NET topics for the Visual Basic 6.0 developer (and others!). 
+
+Check out all the details&nbsp;[here](http://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx){.broken_link}!

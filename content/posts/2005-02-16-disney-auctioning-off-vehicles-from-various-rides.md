@@ -1,0 +1,1 @@
+I won&#8217;t be bidding on <a href="http://cgi.go.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6512293555" target="_blank" class="broken_link">this</a>, but with some work I bet it would make a great addition to a home theater/gaming room 🙂

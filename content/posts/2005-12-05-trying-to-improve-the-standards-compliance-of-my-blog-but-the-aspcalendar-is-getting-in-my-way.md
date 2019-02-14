@@ -1,0 +1,6 @@
+I&#8217;ve been trying to fix some XHTML issues on my blog, but two pieces of technology are thwarting my plans&#8230;. first, there is the text editor in .Text (FreeTextBox) which appears to be making the first anchor or image tag in the post uppercase, even though I have its XHTML support enabled&#8230; (so my first link is <A href=&#8230;.>, instead of <a href=&#8230;>) and the second is the ASP.NET Calendar (1.1 framework version).
+
+  * <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fblogs.duncanmackenzie.net%2Fduncanma%2Fdefault.aspx&charset=%28detect+automatically%29&doctype=Inline" target="_blank">Page with calendar</a> produces 71 errors
+  * <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fblogs.duncanmackenzie.net%2Fduncanma%2Fdefault.aspx%3FCalendar%3DNo&charset=%28detect+automatically%29&doctype=Inline" target="_blank">Page without calendar</a> produces 13, all due to the first tag as uppercase problem I think
+
+There are enough problems for me to solve around producing valid pages with dynamic content, now I have to either find a replacement calendar or move the whole site up to the 2.0 framework 🙂

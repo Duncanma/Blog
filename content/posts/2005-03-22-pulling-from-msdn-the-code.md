@@ -1,0 +1,9 @@
+(see [this post](http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/19/1243.aspx){.broken_link} for an introduction to this topic&#8230;)
+
+I&#8217;ve wrapped my code up into a user control that you place anywhere on your page&#8230; it handles the load of data and then you can access its properties to output the html headers and body of the pulled content. I&#8217;ve just been using Output Caching on the host page, but if you decided to cache the body/headers that would certainly work as well&#8230;
+
+Here is an example of using the control on a bare bones page&#8230;
+
+<pre>&lt;%@ Page Language=<font color="red" family="Microsoft Sans Serif">"VB"</font> Debug=<font color="red" family="Microsoft Sans Serif">"true"</font> %&gt;<br />&lt;%@ OutputCache Duration=<font color="red" family="Microsoft Sans Serif">"360"</font> VaryByParam=<font color="red" family="Microsoft Sans Serif">"*"</font> %&gt;<br />&lt;%@ Register TagPrefix=<font color="red" family="Microsoft Sans Serif">"dm"</font> TagName=<font color="red" family="Microsoft Sans Serif">"Pull"</font> Src=<font color="red" family="Microsoft Sans Serif">"Pull.ascx"</font> %&gt;<br />&lt;dm:Pull id=pagePull runat=<font color="red" family="Microsoft Sans Serif">"server"</font> <br /> QueryParam=<font color="red" family="Microsoft Sans Serif">"pullURL"</font> <br /> DefaultURL=<font color="red" family="Microsoft Sans Serif">"http://msdn.microsoft.com"</font>/&gt;<br />&lt;html&gt;<br /> &lt;head&gt;<br /> &lt;%=pagePull.PageHeaders%&gt;<br /> &lt;/head&gt;<br /> &lt;body&gt;<br /> &lt;%=pagePull.PageBody%&gt;<br /> &lt;/body&gt;<br />&lt;/html&gt; <br /></pre>
+
+This simple page and the ascx are bundled up into a .zip file available <a href="http://www.duncanmackenzie.net/Samples/#pull" target="_blank" class="broken_link">here</a>

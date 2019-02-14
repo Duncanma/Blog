@@ -1,0 +1,5 @@
+A discussion at work today, along with my earlier post about <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2006/01/09/3517.aspx" target="_blank" class="broken_link">Phil&#8217;s issues with Google and MSN</a>, had me searching like crazy for this comment:
+
+> &#8220;I think they&#8217;re also vulnerable to being locked out of sites because they&#8217;ve missed the implicit bargain for search engines that my site being crawled results in listing for me. Without any public facing services how do I find out what value I am getting from allowing WebFountain to crawl my site ?&#8221; &#8212; <a href="http://battellemedia.com/archives/000428.php#comment_598" target="_blank">Matthew Walker&#8217;s comment on a Searchblog piece about WebFountain</a> 
+
+At what point do you block a search crawler? If you don&#8217;t recognize it? If you don&#8217;t like the results provided by the search engine it is crawling for?

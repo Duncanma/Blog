@@ -1,0 +1,3 @@
+[This page](http://msdn.microsoft.com/vcsharp/team/blogs){.broken_link} used to contain blog postings that I manually selected out of the mass of posts by members of the C# team, but (as with most manual processes) that didn&#8217;t scale as more and more team members posted more and more content&#8230;. today, as one of my tidy-up acts as the former owner of that site, I revamped the page to display an aggregated list of posts based off of an OPML file (using a cool ASP.NET control from [Kent](http://blogs.msdn.com/ksharkey){.broken_link}), so now it runs completely without any manual work. This is a good thing.
+
+ 

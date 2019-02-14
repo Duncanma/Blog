@@ -1,0 +1,3 @@
+For all you wanna-be ENG folks, video interviewers, YouTube/Soapbox producers, etc&#8230; you need this video. I need this video&#8230; we all need this video.
+
+Tina Wood, formerly of G4 and a host of our show on <http://on10.net>{.broken_link}, worked with Scott Finley (our cameraman extraordinaire) to produce a <a href="http://on10.net/Blogs/tina/how-to-shoot-video/" target="_blank" class="broken_link">how-to video about shooting a standard interview/product demo</a>&#8230; and it rocks. It also happens to be entertaining. For bonus points, to prove you watched it all the way through, feel free to discuss Tina&#8217;s favorite food in the comment section!

@@ -1,0 +1,3 @@
+Now, to me, VB 2005 is the &#8220;future&#8221;, and anything beyond that is really just coffee-break information to read briefly&#8230;. but I guess I wouldn&#8217;t be a very good Microsoft person if I didn&#8217;t start pushing the version-after-next version of our development tools **before the next version has even shipped**.
+
+So, with that in mind, check out <a href="http://msdn.microsoft.com/vbasic/future/" target="_blank" class="broken_link">http://msdn.microsoft.com/vbasic/future/</a> which, despite my comments, is quite a good pile of info on post-Whidbey VB features and even includes a download to bring LINQ features in VB 2005. Hmm&#8230; ok, I guess with that download it seems a bit more &#8216;current&#8217; to me &#8230; hmph&#8230;

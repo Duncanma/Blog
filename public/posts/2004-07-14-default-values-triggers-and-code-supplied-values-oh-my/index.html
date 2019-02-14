@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="In an earlier post{.broken_link}, I mentioned that I use a trigger to update a &#8220;DateCreated&#8221; field in one of my tables&#8230; and various people commented on this&#8230; asking &#8220;why not pass in a value in your Insert?&#8221; or &#8220;why not use a default value?&#8221;
+Since I feel that replying to comments in the comments section is generally just a black hole, I thought I&#8217;d raise this discussion up to a proper blog entry of its own 🙂"/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="In an earlier post{.broken_link}, I mentioned that I use a trigger to update a &#8220;DateCreated&#8221; field in one of my tables&#8230; and various people commented on this&#8230; asking &#8220;why not pass in a value in your Insert?&#8221; or &#8220;why not use a default value?&#8221;
+Since I feel that replying to comments in the comments section is generally just a black hole, I thought I&#8217;d raise this discussion up to a proper blog entry of its own 🙂" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-07-14-default-values-triggers-and-code-supplied-values-oh-my/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>In <a href="http://weblogs.asp.net/duncanma/archive/2004/07/10/179605.aspx">an earlier post</a>{.broken_link}, I mentioned that I use a trigger to update a &#8220;DateCreated&#8221; field in one of my tables&#8230; and various people commented on this&#8230; asking &#8220;why not pass in a value in your Insert?&#8221; or &#8220;why not use a default value?&#8221;</p>
+
+<p>Since I feel that replying to comments in the comments section is generally just a black hole, I thought I&#8217;d raise this discussion up to a proper blog entry of its own 🙂</p>
+
+<p>I tend to have audit information on my tables, and that often includes 4 columns; DateCreated, CreatedBy and DateModified, LastModifiedBy</p>
+
+<p>I use two triggers, an INSERT trigger that sets all of these fields to the current date and current user (as appropriate, and using Windows Authentication), and an UPDATE trigger that sets only the two modified columns.</p>
+
+<p>Why not just pass the value? Well, two reasons&#8230;</p>
+
+<p>sometimes data gets entered in through a different code path than mine&#8230; or through something like SQL Enterprise Manager (for lookup tables especially)&#8230;</p>
+
+<ol>
+<li>I just don&#8217;t like relying on&nbsp;code external to the database to put the right value in for audit information. This is true for both the modified and the created situations&#8230;</li>
+<li>Why not just use a default? Well, that is a better solution than passing the value in, except it doesn&#8217;t prevent the user from passing in (or setting) whatever value they want. If they pass in a value for DateCreated in their INSERT now, it will get overwritten with the &#8216;real value&#8217;. And, even if they do an UPDATE later to change the DateCreated (which <strong>is</strong> a real flaw&nbsp;in this method), at least the &#8216;last modified by&#8217; will be accurate.</li>
+</ol>
+
+<p>Of course, this is just my &#8216;simple&#8217; auditing method&#8230; for any situation where I really care about the audit information (this example was from <a href="http://weblogs.asp.net/duncanma/archive/2004/06/15/156543.aspx">my little polling system</a>{.broken_link}&#8230; auditing info is just a &#8216;nice to have&#8217;) then I would need to actually restrict access to those fields completely so that they can only be set through my triggers or stored procs. There are well documented ways to do this, so I won&#8217;t go into them here&#8230; (restrict all access to the table, only allow INSERTs and UPDATEs through your chosen Stored Procs&#8230; Stored Procs set those audit fields exactly as you specify, etc&#8230;).</p>
+
+<p>It is worth noting that in a more complex auditing solution tracking only the <strong>last</strong> modification probably wouldn&#8217;t be sufficient anyway.</p>
+
+<p>I&#8217;m sure there will be people, many of which know more about this problem space than me, that can chime in with dissenting or agreeing opinions&#8230; I&#8217;m looking forward to the discussion 🙂</p>
+
+<p>&nbsp;</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-07-14-express-paint-article-up/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-07-11-new-poll-is-up-and-a-silly-mistake/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

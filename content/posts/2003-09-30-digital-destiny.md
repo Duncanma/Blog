@@ -1,0 +1,9 @@
+Was it fate, or mere coincidence? Today, I checked out a little online message board where MSFT employees sell/trade various used items (computers, appliances, furniture, baby clothes&#8230; whatever) and someone was selling one of those new Samsung DVD players with DVI out&#8230; yep, [the very same one that I decided to buy, and then changed my mind](http://weblogs.asp.net/duncanma/posts/28158.aspx){.broken_link} after seeing the price of the DVI cables&#8230; 
+
+It was around a month old and $100 off retail price&#8230; so I bought it. I&#8217;d add some appropriate emoticons here, but I&#8217;m not sure I can find one that appropriately describes the girlish giggling I&#8217;m currently producing.
+
+I&#8217;m picking it up at 9am tomorrow, and then it will be sitting in my office **not hooked up to anything** for the entire day. That seems wrong in some way, but I will just have to be strong 🙂
+
+I still don&#8217;t have a DVI cable though, so I likely won&#8217;t even hook it up for a few days&#8230; but I&#8217;ll put it near the TV and they can start to get acquainted (you don&#8217;t want to rush something like this). Maybe I should bring the TV&#8217;s remote into the office and set it on the DVD player&#8217;s box during the day tomorrow&#8230; so that it will be less of a shock when they meet for the first time? I&#8217;m sure they&#8217;ll hit it off though, no worries.
+
+I&#8217;m a little more concerned about the TiVo though, the TV has DVI just like the DVD player, so they have something in common&#8230; the TiVo doesn&#8217;t even have component out (not that it needs it, I love the little guy, but the video quality is definitely lacking) &#8230; it will likely feel left out, and perhaps jealous&#8230; hmmm, maybe I should buy it something?

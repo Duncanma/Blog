@@ -1,0 +1,3 @@
+<a href="http://weblogs.asp.net/fmarguerie" target="_blank">Fabrice</a> just sent me a note about <a href="http://SharpToolbox.com" target="_blank">http://SharpToolbox.com</a> a huge directory of .NET tools and resources &#8230; pretty cool site that I hadn&#8217;t noticed before.
+
+Great&#8230; now I have to dig through it all&#8230; I hate the thought that I&#8217;ve missed out on something neat. 🙂

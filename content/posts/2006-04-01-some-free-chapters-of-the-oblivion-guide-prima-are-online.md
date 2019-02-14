@@ -1,0 +1,1 @@
+You can get 3 chapters from xbox.com (as PDF), <a href="http://www.xbox.com/en-US/community/portal/primagames/theelderscrollsIVoblivion/primaguide.htm" target="_blank" class="broken_link">a guide to the Fighter&#8217;s Guild quests, character classes and some misc. stuff</a>&#8230;. great content for no $$ or effort 🙂

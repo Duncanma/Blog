@@ -1,0 +1,1 @@
+From Dave Wanta, the guy behind <a href="http://www.kbalertz.com/" target="_blank" class="broken_link">kbalertz.com</a>, a detailed FAQ for the SMTP mail classes in the .NET Framework. If you are using System.Web.Mail, then you&#8217;ll want to check it out: <a href="http://www.systemwebmail.net/" target="_blank" class="broken_link">http://www.systemwebmail.net/</a>

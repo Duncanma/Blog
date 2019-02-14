@@ -1,0 +1,3 @@
+Ok, so I have to admit something&#8230; when I saw Assassin&#8217;s Creed in the various <a href="http://www.on10.net/Blogs/TheShow/3052/" target="_blank" class="broken_link">E3 videos</a>, I was sad. The game looked amazing, but I&#8217;m not going to buy a PS3 &#8230; you can see my dilemma.
+
+Then I see <a href="http://www.joystiq.com/2006/07/25/assassins-creed-for-xbox-360-gets-previewed/" target="_blank">this on Joystiq</a> &#8230; and considering God of War II is a PS2 title (not that I have a PS2, but I&#8217;m thinking about it&#8230; more on the later) &#8230;&nbsp; there isn&#8217;t anything announced yet for the PS3 that I feel like I&#8217;m going to miss.

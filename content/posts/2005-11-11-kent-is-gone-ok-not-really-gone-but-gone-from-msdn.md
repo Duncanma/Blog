@@ -1,0 +1,3 @@
+It is a sad day for MSDN and Microsoft, <a href="http://www.acmebinary.com/blogs/kent" target="_blank" class="broken_link">Kent Sharkey</a> (ASP.NET & Coding4Fun content strategist, coder of many of the coolest things on MSDN and the guy to whom I send entire projects full of not quite working code with the message &#8220;help!?!?&#8221;) has left to become an independent consultant type guy&#8230; Expect MSDN to get a bit duller as of this moment 🙂
+
+<a href="http://www.acmebinary.com/blogs/kent/archive/2005/11/09/350.aspx" target="_blank" class="broken_link">Kent&#8217;s official annoucement</a>

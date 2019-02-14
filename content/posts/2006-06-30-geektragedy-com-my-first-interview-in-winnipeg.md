@@ -1,0 +1,5 @@
+I&#8217;m in Winnipeg for a couple of weeks, and while I&#8217;m there I thought I&#8217;d track down a few interesting folks to film for on10.net. First up on my list, Ed from <a href="http://www.geektragedy.com" target="_blank" class="broken_link">www.geektragedy.com</a>. I can&#8217;t figure out a way to permalink it, but if you can find the entry for June 28 (scroll down, or go to his archives if it has left the page) you&#8217;ll see his comments on my visit&#8230; I left thinking I should have asked him for a signed copy of a sketch or something like that and he makes it sound like I was doing him a favour by filming him&#8230; humble guy!!
+
+> <a href="http://www.geektragedy.com" target="_blank" class="broken_link"><img src="http://www.geektragedy.com/images/blogpic.jpg" border="0" align="left" /></a>&#8230; being the budding media whore that I am, I agreed to the interview. 
+  
+> Now I was a little worried about it at first, as this time it was a video interview and I&#8217;m not big on being on camera, but now that it&#8217;s over the only way I can even think to describe it&#8230;way fuckin&#8217; cool!

@@ -1,0 +1,3 @@
+This is an interesting idea &#8230; <a href="http://www.exceptioncollection.com/" target="_blank">http://www.exceptioncollection.com/</a>, something that I&#8217;ve <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/08/1212.aspx" target="_blank" class="broken_link">pondered before.</a>..
+
+I&#8217;d have to know more about it, in terms of the privacy and security of their data collection&#8230; before I could recommend it without any pause, but I would certainly take a look if you are building a widely distributed application (outside of a single company/enterprise), and I would probably try to integrate with the Exception handling/logging block from PAG.

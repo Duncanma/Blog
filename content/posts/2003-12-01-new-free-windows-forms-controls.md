@@ -1,0 +1,1 @@
+Like a lot of other people, I&#8217;ve recently found [Tim Dawson&#8217;s Windows Forms controls](http://www.divil.co.uk/net/){.broken_link} along with a great set of useful articles&#8230; I&#8217;m particularly impressed with the design-time support he has built into these controls. Check them out if you are into Windows Forms development!

@@ -1,0 +1,3 @@
+I installed [MCE](http://www.microsoft.com/windowsxp/mediacenter/default.mspx){.broken_link} onto my main home computer recently, which happens to have a modem that supports caller id&#8230;. and I was just sitting in front of it tonight watching a recorded episode of “[The Dead Zone](http://www.usanetwork.com/series/thedeadzone/)” when someone called&#8230; a nice transparent message floated up telling me their name and #&#8230;. and when someone else answered the phone, it just faded away&#8230;
+
+Sweet

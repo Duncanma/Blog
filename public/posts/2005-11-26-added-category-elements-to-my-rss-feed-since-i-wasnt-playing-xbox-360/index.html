@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="About a year or so back I added  elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn&#8217;t until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn&#8217;t have categories specified in them at all. Not in the main feed or in the per-blog feeds&#8230;
+This seemed really odd to me, since much of the UI of the ."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="About a year or so back I added  elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn&#8217;t until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn&#8217;t have categories specified in them at all. Not in the main feed or in the per-blog feeds&#8230;
+This seemed really odd to me, since much of the UI of the ." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2005-11-26-added-category-elements-to-my-rss-feed-since-i-wasnt-playing-xbox-360/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>About a year or so back I added <category> elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn&#8217;t until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn&#8217;t have categories specified in them at all. Not in <a href="http://blogs.duncanmackenzie.net/MainFeed.aspx" target="_blank" class="broken_link">the main feed</a> or in the <a href="http://blogs.duncanmackenzie.net/duncanma/rss.aspx" target="_blank" class="broken_link">per-blog feeds</a>&#8230;</p>
+
+<p>This seemed really odd to me, since much of the UI of the .Text posting page, editing page, and even the blog skins themselves is dedicated to the listing and selecting of categories. Obviously, categories are seen as important information about blog entries, so why not include them in the RSS feeds? Oh well, there is little point in wondering about these sorts of things, not when you have the source, so I added category elements to my main and individual feeds. I haven&#8217;t added them to the per-category feeds yet, or to the ATOM feeds, but I&#8217;ll get to those in the near future.</p>
+
+<p>If you haven&#8217;t looked at the .Text source yourself, you might be wondering why adding these elements to one feed wouldn&#8217;t have added them to all of the feeds, because all RSS feeds are probably running through the same code path. While this is mostly true, they are running through the same ASP.NET handler and through the same feed generation code, the category-based feeds use a different stored procedure to retrieve their entries than the feeds that I have updated, and I had to make a change to the database query to return the list of categories along with each item. What I ended up doing, (and I&#8217;m not sure about the performance of this code but it is so highly cached that I&#8217;m not particularly worried about it for this use), was using a Function to retrieve the list of categories as a semi-colon deliminated string given a PostID (note that if you host multiple blogs on your .Text instance that this function should take both a BlogID <strong>and</strong> a PostID&#8230; I&#8217;ll have to update this for the multi-blog case).</p>
+
+<pre><br /> <span class="TSql_ReservedKeyword">CREATE</span> <span class="TSql_ReservedKeyword">FUNCTION</span> blog_GetCategoryTitles (@PostID <span class="TSql_DataType">int</span>) RETURNS <span class="TSql_DataType">nvarchar</span>(4000)<br /> <span class="TSql_ReservedKeyword">BEGIN</span><br /> <span class="TSql_ReservedKeyword">DECLARE</span> @CategoryList <span class="TSql_DataType">nvarchar</span>(4000)<br /> <span class="TSql_ReservedKeyword">SELECT</span> @CategoryList = <span class="TSql_Function">COALESCE</span><br />(@CategoryList + <span class="TSql_String">';'</span>, <span class="TSql_String">''</span>) +<br /> blog_LinkCategories.Title<br /> <span class="TSql_ReservedKeyword">FROM</span> blog_Content<br /> <span class="TSql_Function">LEFT</span> <span class="TSql_Operator">OUTER</span> <span class="TSql_Operator">JOIN</span> blog_Links <br /> <span class="TSql_ReservedKeyword">on</span> blog_Links.PostID = blog_Content.ID<br /> <span class="TSql_Function">LEFT</span> <span class="TSql_Operator">OUTER</span> <span class="TSql_Operator">JOIN</span> blog_LinkCategories<br /> <span class="TSql_ReservedKeyword">on</span> blog_Links.CategoryID = blog_LinkCategories.CategoryID<br /> <span class="TSql_ReservedKeyword">WHERE</span> blog_Content.ID=@PostID <span class="TSql_Operator">AND</span><br /> blog_Content.BlogID = blog_Links.BlogID <span class="TSql_Operator">AND</span><br /> blog_LinkCategories.Title != <span class="TSql_String">''</span><br /> <span class="TSql_ReservedKeyword">RETURN</span> @CategoryList<br /> <span class="TSql_ReservedKeyword">END</span><br /> </pre>
+
+<p>_thanks to <a href="http://www.sqlteam.com/item.asp?ItemID=2368" target="_blank">Garth&#8217;s 2001 article from SQLTeam.com for showing me COALESCE being used for this purpose&#8230;</a>_</p>
+
+<p>and then modifying the queries that retrieved entries to also return blog_GetCategoryTitles(<PostID>), and then modify the RSS writer to output the categories if any were returned.</p>
+
+<p>Interesting note, I figured the omission of category data from the feeds in .Text was a simple error and that it would have been added along the way to Community Server, but I noticed that the feeds on <a href="http://blogs.msdn.com/alexbarn/rss.aspx" target="_blank" class="broken_link">blogs.msdn.com</a> don&#8217;t appear to have category data either&#8230; is category information not considered useful in feeds?</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2005-12-04-finished-knife-of-dreams-with-a-bit-of-sadness-as-usual/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2005-11-22-waiting-for-a-360/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

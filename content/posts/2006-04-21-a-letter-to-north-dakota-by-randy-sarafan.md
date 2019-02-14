@@ -1,0 +1,3 @@
+I was browsing around on <a href="http://www.randywritesletters.com/portfolio/" target="_blank" class="broken_link">Randy&#8217;s web site</a> after reading about an upcoming session of his at Makers Faire (hacking USB keyboards!!), and I found this: <a href="http://www.randywritesletters.com/005.html" target="_blank" class="broken_link">http://www.randywritesletters.com/005.html</a>
+
+All of the letters on that site (which has little or no navigation elements, so just edit the URL appropriately to go up to the front page) are hilarious, but for some reason I find this one to be the best&#8230; let me know if you disagree.

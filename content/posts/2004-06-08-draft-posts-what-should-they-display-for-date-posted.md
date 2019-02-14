@@ -1,0 +1,5 @@
+I&#8217;ve been using unpublished posts as a way to create planned blog posts for later&#8230; then, when I have a chance I go back and finish them up and mark them as &#8216;Published&#8217;&#8230; but I just noticed that when I do that, the published date is the date on which I originally created the unpublished post. I can certainly understand why that is, but I&#8217;m curious as what everyone else expects?
+
+I&#8217;d like the &#8216;posted on&#8217; date to reflect the date it was first made accessible/visible to the public, so whenever it first posted if it is posted as visible, or whenever it is first made visible&#8230;. as it is now, I could create a draft post, then create 3 or 4 more posts (which I post as visible) and then, when I go back and mark the draft as ready to publish, it appears 3 or 4 posts down in my RSS feed (and on the site)&#8230; 
+
+So what do you think? Should posted on reflect the date the post was created, even if it was never published, or the date/time at which it first became visible to readers of the blog?

@@ -1,0 +1,5 @@
+I only recently noticed that my blog software (.Text 0.95) had <a href="http://blogs.duncanmackenzie.net/duncanma/atom.aspx" target="_blank" class="broken_link">atom support</a> built in, so I added a button to <a href="http://blogs.duncanmackenzie.net/duncanma/" target="_blank" class="broken_link">my main page</a>, and then I noticed it was Atom 0.3. Since 0.3 was <a href="http://www.feedvalidator.org/news/archives/2005/09/15/atom_03_deprecated.html" target="_blank">recently deprecated</a>, I updated the Atom generating code to output 1.0 instead and voila;
+
+[![[Valid Atom 1.0]](/images/valid-atom.png "Validate my Atom 1.0 feed")](http://www.feedvalidator.org/check.cgi?url=http://blogs.duncanmackenzie.net/duncanma/atom.aspx){.broken_link} 
+
+Much thanks to rakaz&#8217;s <a href="http://www.rakaz.nl/nucleus/item/103" target="_blank" class="broken_link">great guide on moving from 0.3 to 1.0</a>, which enabled me to update my code with almost no knowledge of Atom 0.3 or 1.0 🙂

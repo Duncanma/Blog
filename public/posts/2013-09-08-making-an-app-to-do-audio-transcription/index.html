@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Back in the day, I used to write articles for MSDN, and I started up this column called “Coding 4 Fun” (the name lives on today along with some of the same spirit). The premise was that I would write about code I wrote for my own personal use. An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures. A remote control using my Pocket PC (yep, that was a while ago)."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="Back in the day, I used to write articles for MSDN, and I started up this column called “Coding 4 Fun” (the name lives on today along with some of the same spirit). The premise was that I would write about code I wrote for my own personal use. An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures. A remote control using my Pocket PC (yep, that was a while ago)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2013-09-08-making-an-app-to-do-audio-transcription/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>Back in the day, <a href="http://www.duncanmackenzie.net/articles/">I used to write articles for MSDN</a>, and I started up this column called “Coding 4 Fun” (<a href="http://channel9.msdn.com/coding4fun">the name lives on today along with some of the same spirit</a>). The premise was that I would write about code I wrote for my own personal use. <a href="http://msdn.microsoft.com/en-us/magazine/cc163893.aspx">An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures</a>. <a href="http://msdn.microsoft.com/en-us/library/ms973247.aspx">A remote control using my Pocket PC (yep, that was a while ago).</a> You get the idea.</p>
+
+<p>That mostly all stopped when I joined the Channel 9 team. I didn’t just stop writing articles, I mostly stopped writing code for any reason other than work. Perhaps that’s a bad thing, but either way … no more writing about code for a few years.</p>
+
+<p>A month or so ago though, I was searching the internet for a solution to a problem for my wife Laura. <a href="http://www.parentmap.com/article/fears-fables-and-facts-what-parents-of-babies-and-toddler-worry-about-most-">She writes articles for ParentMap</a> (a local parenting publication here in the Seattle area), and as part of that job she records interviews with people on digital recorder. I noticed that after recording the interview, she would spend a long time transcribing the interview from the sound file into text. You can probably understand how time-consuming that is using something like Windows Media Player. Press play, type for a bit, use your mouse to move the slider back because you missed something, go back to typing, slide it back, pause it, play it… it took <strong>ages</strong> to turn the audio into text. My first thought was some sort of speech recognition, but:</p>
+
+<ul>
+<li>since she would be quoting people it had to be exact, not close and</li>
+<li>the results I experienced running a few of her recordings through a few apps ranged from hilarious to terrible.</li>
+</ul>
+
+<p>So I downloaded a bunch of apps, free or trial versions, that seemed to be what I wanted … an app for you to control audio playback while you typed up the transcript. Some of the high-priced ones, meant for legal or medical transcription, looked perfect… but Laura is not getting paid doctor or lawyer money to write these articles, so paying those types of prices seemed very wrong. Instead I decided to write something myself. This is the result of maybe 30-45 minutes work, and most of that was spent fiddling with different key bindings for controlling the playback.</p>
+
+<p><img class="alignright size-full wp-image-1414" alt="AudioTranscription.png" src="http://www.duncanmackenzie.net/wp-content/uploads/2013/09/AudioTranscription.png" width="626" height="507" srcset="http://www.duncanmackenzie.net/wp-content/uploads/2013/09/AudioTranscription.png 626w, http://www.duncanmackenzie.net/wp-content/uploads/2013/09/AudioTranscription-300x242.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+
+<p>The key bindings I settled on were designed to allow you to keep your hands on the keyboard during the entire transcription.</p>
+
+<ul>
+<li>Tab pauses the audio, press it again to jump back 5 seconds (configurable) and resume playback</li>
+<li>\ (which happens to be in a good spot on my keyboard and my wife’s … opposite side but same spot as Tab) just jumps back 5 seconds without pausing.</li>
+</ul>
+
+<p>It works really well for her purposes; well enough that I thought I should post it. <a href="http://www.duncanmackenzie.net/wp-content/uploads/2013/09/AudioTranscription.zip">So here you go, it is a Visual Studio 2012 package, written in C# and posted here in a zip</a>.</p>
+
+<p>If you just want to run it, I’m not offering free support but you can click on this link and follow the instructions from there: <a href="http://duncanmackenzie.net/transcribe/publish.htm" title="http://duncanmackenzie.net/transcribe/publish.htm">http://duncanmackenzie.net/transcribe/publish.htm</a></p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2013-09-09-we-live-in-a-zoo/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2013-08-06-channel-9-has-a-windows-phone-8-app-coming/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

@@ -1,0 +1,1 @@
+Kent <a href="http://www.acmebinary.com/blogs/kent/archive/2006/01/20/453.aspx" target="_blank" class="broken_link">blogs about the Name Registry that was sent up with the launch to Pluto</a>&#8230; If only Futurama was still on, they&#8217;d do a good job of writing the &#8216;what if&#8217; story about this one.

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="I&#8217;ve been using the Application Updater Block, as you may have gathered from some of my previous posts, and I like it a lot&#8230; but I&#8217;ve been wanting to add a few features to it. Well, I have it all planned out in my head, but I haven&#8217;t gotten around to it, so I thought I would at least throw out my feature ideas and see what people say about them&#8230;"/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="I&#8217;ve been using the Application Updater Block, as you may have gathered from some of my previous posts, and I like it a lot&#8230; but I&#8217;ve been wanting to add a few features to it. Well, I have it all planned out in my head, but I haven&#8217;t gotten around to it, so I thought I would at least throw out my feature ideas and see what people say about them&#8230;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2003-08-13-updating-the-updater/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>I&#8217;ve been using <a href="http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnbda/html/updater.asp">the Application Updater Block</a>, as you may have gathered from some of my previous posts, and I like it a lot&#8230; but I&#8217;ve been wanting to add a few features to it. Well, I have it all planned out in my head, but I haven&#8217;t gotten around to it, so I thought I would at least throw out my feature ideas and see what people say about them&#8230;</p>
+
+<p><strong>I would like to add:</strong></p>
+
+<ul>
+<li>The ability to include a mandatory flag when creating the manifest file for a new version/update. Client applications could see that flag and adjust their UI and UI options accordingly. This could be broken into two levels&#8230; mandatory update (download the update and make it the current version&#8230; then ask the user if they want to restart) or mandatory update and restart (download the update, make it the current version and then <strong>tell</strong> the user that the app is now restarting&#8230; Now, you can implement this in the client now, and make all updates mandatory&#8230; which is what I would do for an application without a UI (such as a service, or system tray app)&#8230; but I&#8217;d like to be able to specify it for only <strong>some</strong> updates via settings in the manifest file.</li>
+<li>I&#8217;d like to be able to include &#8220;what&#8217;s new&#8221; information in the new manifest file, either as XHTML right in the manifest or as a URL to a &#8220;what&#8217;s new&#8221; page&#8230; and then provide in the updater assembly a nice UI for displaying the complete &#8220;new version available&#8221; message along with this &#8220;What&#8217;s New&#8221; information.</li>
+</ul>
+
+<p>I&#8217;ve implemented part of the 2nd already, but I don&#8217;t include the what&#8217;s new URL with the manifest file, I specify it as a combination of a hard-coded (could be in the app.config) base URL with the version appended (<a href="http://server/whatsnew.aspx#1.6.3.2">http://server/whatsnew.aspx#1.6.3.2</a>) and then navigate to that URL using an embedded instance of IE</p>
+
+<p><img src="http://www.duncanmackenzie.net/UpdateBrowserWindow.png" border="0" /></p>
+
+<p>There is a <a href="http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5">workspace</a>{.broken_link} for the App Updater Block, so I suppose I could upload a modified version for people to use, but I just don&#8217;t have the time at the moment&#8230; and by the time I do, I suspect they&#8217;ll have released a new version!</p>
+
+<p>_On a related note&#8230; if you are looking for a URL where you can find a listing of the PAG application blocks, this (<a href="http://msdn.microsoft.com/vbasic/letters/20030724">http://msdn.microsoft.com/vbasic/letters/20030724</a>{.broken<em>link}) might do for the time being, but we are working on something better!</em></p>
+
+<div class="media">
+  (<a href="http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp" class="broken_link">Listening To</a>: Yawning or Snarling [<a href="http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip">The Tragically Hip</a> / Day for Night])
+</div>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2003-08-21-new-coding-4-fun-article-is-up/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2003-08-12-finally-got-back-to-the-article/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

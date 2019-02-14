@@ -1,0 +1,1 @@
+Check out a <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/12/12/3380.aspx" target="_blank" class="broken_link">single entry view</a> on my site to see the new additions

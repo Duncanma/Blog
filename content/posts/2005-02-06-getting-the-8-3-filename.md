@@ -1,0 +1,1 @@
+Quick sample (calling the GetShortPathName API) in VB.NET posted to <a href="http://www.duncanmackenzie.net/Samples/" target="_blank" class="broken_link">http://www.duncanmackenzie.net/Samples/</a>

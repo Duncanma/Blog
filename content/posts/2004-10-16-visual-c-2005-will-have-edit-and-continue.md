@@ -1,0 +1,1 @@
+Read <a href="http://blogs.msdn.com/somasegar/archive/2004/10/15/242853.aspx" target="_blank">Soma&#8217;s post</a> for more info&#8230;

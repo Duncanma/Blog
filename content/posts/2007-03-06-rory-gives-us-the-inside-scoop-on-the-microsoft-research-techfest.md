@@ -1,0 +1,7 @@
+> <a href="http://channel9.msdn.com/ShowPost.aspx?PostID=288554" target="_blank">Microsoft Research TechFest &#8211; Intro, DynaVis, and FastDash</a> 
+> 
+> _&#8230; In this, the first video in what will be a series covering this event, we get a nice introduction to TechFest, some info about Microsoft Research (MSR), and two projects: DynaVis and FastDash.</p> 
+> 
+> When you watch this video, hopefully you get an idea of why I&#8217;m so excited right now. Once I have the whole series online, you&#8217;ll be able to see the amazing work being done in MSR &#8211; and this only represents a few projects. There are many others. &#8230;</em></blockquote> 
+> 
+> Every year at Microsoft there is a little internal-only conference where Microsoft Research (MSR) shows off their projects. It is very cool but very private (badges checked at the door, etc&#8230;). Well, this year it is a bit different&#8230; For <a href="http://research.microsoft.com/aboutmsr/techfest/default.aspx" target="_blank">MSR TechFest 2007</a> they&#8217;ve allowed folks to come in and interview the researchers, take pictures/video, whatever&#8230; crazy stuff and you get to see the results first on Channel 9.&nbsp; <a href="http://www.neopoleon.com/home/default.aspx" target="_blank">Rory</a> tours us around, gives us an intro to the whole event and even covers a couple of projects&#8230; and this is just the first of the series!

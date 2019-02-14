@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="I was staring at my bandwidth usage tonight and it is quite high&#8230;. and thanks to this cool SVG based stats system that easerve provides, I can drill down and figure out which pages are causing the bulk of that traffic&#8230; well, the biggest offenders for # of hits were the aggBugs that .Text includes (because my blog posts, including the aggbugs, are shown on MSDN, and therefore generate 3 aggBug requests for every single view of the Visual Basic or C# Developer Center pages), but the biggest use of bandwidth was by far the mainfeed."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="I was staring at my bandwidth usage tonight and it is quite high&#8230;. and thanks to this cool SVG based stats system that easerve provides, I can drill down and figure out which pages are causing the bulk of that traffic&#8230; well, the biggest offenders for # of hits were the aggBugs that .Text includes (because my blog posts, including the aggbugs, are shown on MSDN, and therefore generate 3 aggBug requests for every single view of the Visual Basic or C# Developer Center pages), but the biggest use of bandwidth was by far the mainfeed." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-09-09-reducing-the-size-of-my-pages/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>I was staring at my bandwidth usage tonight and it is quite high&#8230;. and thanks to this cool SVG based stats system that easerve provides, I can drill down and figure out which pages are causing the bulk of that traffic&#8230; well, the biggest offenders for # of hits were the aggBugs that .Text includes (because my blog posts, including the aggbugs, are shown on MSDN, and therefore generate 3 aggBug requests for <strong>every single view of the <a href="http://msdn.microsoft.com/vbasic" target="_blank">Visual Basic</a> or <a href="http://msdn.microsoft.com/vcsharp" target="_blank">C# Developer Center</a> pages</strong>), but the biggest use of bandwidth was by far the mainfeed.aspx&#8230;. the main RSS feed for the site&#8230;</p>
+
+<p>I checked out that feed, and it included 35 items&#8230; a value that I couldn&#8217;t seem to change through any of the config options&#8230; I tracked it down to a stored proc (DNW_GetRecentPosts if you are interested) that had a &#8216;Top 35&#8217; option specified&#8230; so I knocked that way down (possibly too far, we&#8217;ll see) to 5&#8230; which should greatly reduce the bandwidth used by that page</p>
+
+<p>Next up was those pesky aggBugs&#8230; I turned them off for a few days, but I wanted a longer term solution, one where I wouldn&#8217;t get aggBug hits when the feed was displayed on MSDN, but I would for &#8216;normal&#8217; aggregator use&#8230;. so I modified the main and category based RSS handlers to skip adding the aggBugs if the RSS request had an additional param of &#8220;aggBug=False&#8221; &#8230;. normal users won&#8217;t have that, but I can control the URL being pulled onto MSDN so I&#8217;ll make sure it includes this little param&#8230; We&#8217;ll see how that work out over the next week or so&#8230;</p>
+
+<p>Its funny, I&#8217;ve worked on quite a few web systems, but they were all very &#8216;transaction&#8217; focused and most of our performance optimization was focused around avoiding trips to the database and execution of code. Basically we ended up creating a variety of caching systems (ASP.NET&#8217;s caching options would have been wonderful to have back then), but it was rare for me to spend much time on the bandwidth side of the equation, especially since many of these systems were Intranet applications (still potentially 1000s of users inside a company, but speed of page execution was all that mattered, size of payload or bandwidth didn&#8217;t matter much on a LAN). Looking at bandwidth usage is an interesting change&#8230;.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-09-12-like-code-like-fxcop-then-you-should-read-david-keans-blog/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-09-07-seeing-data-by-rebecca-riordan/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

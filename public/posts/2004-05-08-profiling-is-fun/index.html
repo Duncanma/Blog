@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Back in highschool, I cut lawns for a lot of people&#8230;. so many that it was really a summer job and kept me quite busy, and then in University I took a job laying sod for a landscape company&#8230;. kinda went from the amateur level to the professional there. Both jobs were hot, dirty and left me ready for nothing but sleep at the end of a day&#8230; but I&#8217;ve often remarked to my wife that sometimes I long for that type of job."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="Back in highschool, I cut lawns for a lot of people&#8230;. so many that it was really a summer job and kept me quite busy, and then in University I took a job laying sod for a landscape company&#8230;. kinda went from the amateur level to the professional there. Both jobs were hot, dirty and left me ready for nothing but sleep at the end of a day&#8230; but I&#8217;ve often remarked to my wife that sometimes I long for that type of job." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-05-08-profiling-is-fun/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>Back in highschool, I cut lawns for a lot of people&#8230;. so many that it was really a summer job and kept me quite busy, and then in University I took a job laying sod for a landscape company&#8230;. kinda went from the amateur level to the professional there. Both jobs were hot, dirty and left me ready for nothing but sleep at the end of a day&#8230; but I&#8217;ve often remarked to my wife that sometimes I long for that type of job. When you arrived at a site or a yard, it was in a bad state&#8230; it was an untidy lawn or perhaps a bare field of dirt&#8230; and at the end of the work it looked better. Not just a little bit better, but &#8220;very noticable by anyone walking by&#8221; better. I often work weeks on projects that don&#8217;t produce that clear of a result&#8230; it may be better in some way, but passers-by would be hard pressed to say how&#8230; or it might not be visibly better at all, it is just cleaner under the surface or slightly more efficient&#8230;.</p>
+
+<p>Do I want to go back to mowing lawns or weilding a sod knife? No, but I do enjoy it when I get to work on something that fits into that model&#8230; a clear pile of work in front of me, and a noticeable result at the end. Development can be like that, although it often isn&#8217;t, which may be why I enjoy it so much&#8230; but lately I get to spend less and less time coding. <strong>Well, that brings me to the actual thought that started this post; profiling is fun.</strong></p>
+
+<p>I downloaded and installed the <a href="http://www.compuware.com/media.asp?cid=3019X36">DevPartner Profiler Community Edition</a>{.broken_link} ages ago, but today I started it up and then ran through a basic usage simulation of a line of business application. Quit the app and, after a bit of chugging, I had my &#8220;pile of work&#8221;; a list of the method calls where my program spent most of its execution time&#8230; with # of calls, average time per call, and %s of the whole session&#8217;s time that was spent in this routine. This is all standard profiling information, but I have to admit that most of my heavy duty profiling has been done against SQL calls&#8230; using the beautiful combo of the Query Analyzer and the SQL Server Profiler. With this profiler, I was able to focus my perf work&#8230; look at each of the most expensive calls and in many cases make them take <sup>1</sup>&frasl;<sub>3</sub> the time. Eventually the top few methods in the list started to reflect only calls that are pretty much IO bound, which is what I expected to find. I know what&nbsp;some folks would say,&nbsp;that instead of just focusing on the worst offenders&nbsp;I should just improve all of my code, right? Probably, but I only have a little bit of time to spend on this&#8230;. and the profiling allowed me to make the most of that time.</p>
+
+<p>Anyway, this is old news to anyone who has used a profiler (.NET or otherwise), but the community edition profiler is available for free at <a href="http://www.compuware.com/media.asp?cid=3019X36" target="_blank" class="broken_link"><a href="http://www.compuware.com/media.asp?cid=3019X36">http://www.compuware.com/media.asp?cid=3019X36</a></a>, and it is worth a try if you don&#8217;t already have a profiling system in place (and doing &#8220;debug.writeline(DateTime.Now())&#8221; at the start and end of each function doesn&#8217;t count).</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-05-08-vb-sessions-at-teched-2004/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-05-08-grant-discusses-iterators/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

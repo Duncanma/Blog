@@ -1,0 +1,1 @@
+This should only be an issue if you&#8217;ve written code that checks for version=6, instead of version =>6, but that happens so you might want read <a href="http://blogs.msdn.com/ie/archive/2005/04/27/412813.aspx" target="_blank">the following blog entry</a> about this new version.

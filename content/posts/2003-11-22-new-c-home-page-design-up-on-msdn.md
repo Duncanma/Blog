@@ -1,0 +1,3 @@
+We&#8217;ve been playing with some new developer center home page designs, and we decided to update the C# site first. Check it out at <a href="http://msdn.microsoft.com/vcsharp/" target="_blank">http://msdn.microsoft.com/vcsharp/</a> and let me know what you think&#8230; 
+
+Of special interest to the blogging folks, notice that my blog is right on the home page&#8230; so expect regular C# updates feeding through weblogs.asp.net right onto MSDN.

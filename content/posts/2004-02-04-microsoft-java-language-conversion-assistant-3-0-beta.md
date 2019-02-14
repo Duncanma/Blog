@@ -1,0 +1,1 @@
+Get all the details on the 3.0 beta of the JLCA [here](http://msdn.microsoft.com/vstudio/downloads/tools/jlca/30beta/default.aspx){.broken_link}&nbsp;including information on how to join the beta program.

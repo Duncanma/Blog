@@ -1,0 +1,1 @@
+Flights are all delayed&#8230; smoke&#8230; hmm&#8230; flights to Juneau are still operating&#8230;

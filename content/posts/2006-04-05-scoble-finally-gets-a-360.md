@@ -1,0 +1,1 @@
+<a href="http://scobleizer.wordpress.com/2006/04/04/xboxs-still-in-high-demand/" target="_blank" class="broken_link">Seems you can actually buy them now</a>, maybe I should send him a book?

@@ -1,0 +1,7 @@
+Wow! Thanks for all the comments (you can stop now), I think I have a pretty good idea what you folks think.
+
+Just FYI, disk space is not an issue at all&#8230; it is testing that is the issue, we are going to sign this download and put it up in 2 days&#8230; our test team would need to do another complete test pass on a multi-file download (it is one now) since it truly is different bits&#8230; and we don&#8217;t have enough time for that! The real decision was whether or not we pushed out the download date to add multi-file downloads&#8230; and I don&#8217;t think we will. If we get feedback that requests the multiple files, we will add that as an additional option in the future
+
+Oh, and I&#8217;m looking into using the subscriber download tool&#8230; my belief right now is that we can&#8217;t use it for this without some major work (or as people around here like to say &#8220;non-trivial effort is required&#8221;), but in the meantime I think I&#8217;ll point some folks at my column on <a href="http://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx?pull=/library/en-us/dncodefun/html/code4fun02282003.asp" target="_blank" class="broken_link">background copying</a> 🙂
+
+Thanks everyone!

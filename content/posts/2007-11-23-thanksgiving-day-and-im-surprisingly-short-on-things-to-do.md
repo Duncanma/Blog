@@ -1,0 +1,1 @@
+Lots of plans for the weekend, lights to put up, some yard work&#8230; but today, my daughter is napping, my son is keeping himself very busy with a new remote control car that has a built in video camera (he is chasing the kitten around the family room)&#8230; I&#8217;m not quite &#8216;free&#8217; enough to put in Mass Effect and try it out, but that will come later!

@@ -1,0 +1,1 @@
+It has been a bit of work to get it down, but a team-driven section of the C# Developer Center is now available at <a href="http://msdn.microsoft.com/vcsharp/team" target="_blank" class="broken_link">http://msdn.microsoft.com/vcsharp/team</a> &#8230;

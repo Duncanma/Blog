@@ -1,0 +1,1 @@
+the site is live that is&#8230; well, so are we&#8230; anyway&#8230; the real code for <a href="http://on10.net" target="_blank" class="broken_link">http://on10.net</a> is up and running! We know about a few issues, but in general it is ready to rock, so feel free to shoot on over and grab your userid before all the good ones are gone 🙂

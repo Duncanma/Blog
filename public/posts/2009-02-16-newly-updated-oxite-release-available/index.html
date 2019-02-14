@@ -1,0 +1,27 @@
+<p><img class="inlineImage" alt="bring me the lavender frog!" src="http://duncanmackenzie.net/content/icons/frog.png" /><a href="http://erikporter.com/">Erik</a> pushed out <a href="http://www.codeplex.com/oxite/Release/ProjectReleases.aspx?ReleaseId=23315">a new release to Oxite</a> today, the first since January 5th. This release is an important one, because it reflects a great deal of changes made in response to internal and external feedback about our initial release.</p>
+
+<p>From the release notes:</p>
+
+<blockquote>
+<p>We made many [](<a href="http://www.codeplex.com/oxite/Wiki/View.aspx?title=architecture&amp;referringTitle=Home){.externalLink}improvements">http://www.codeplex.com/oxite/Wiki/View.aspx?title=architecture&amp;referringTitle=Home){.externalLink}improvements</a>, some based on community feedback, and added new features in this release:</p>
+
+<ul>
+<li>New Model, Services and Repositories</li>
+<li>Dependency Injection (Routes, Controllers, Services, Repositories, etc)</li>
+<li>ActionFilter Registry</li>
+<li>Better test coverage</li>
+<li>New validation class added</li>
+<li>Improved background services architecture</li>
+<li>Projects cleaned up and consolidated</li>
+<li>Views cleaned up</li>
+<li>No more *.cs or *.cs.designer for views in web project</li>
+<li>Now works in a sub directory</li>
+<li>New admin dashboard</li>
+<li>New and update (from last version) SQL scripts included</li>
+<li>Many other small features, improvements and bug fixes</li>
+</ul>
+</blockquote>
+
+<p>A lot of work went into these changes; they were the primary focus of <a href="http://erikporter.com/">Erik</a>, <a href="http://sampy.com/">Sampy</a>{.broken_link} and <a href="http://nathan.heskew.com/">Nathan</a> for the past 4+ weeks. <a href="http://codeplex.com/Unity">Unity</a> was implemented to provide Dependency Injection, <a href="http://codeplex.com/xunit">xUnit</a> was used as the test runner to remove a dependency on the higher level SKUs of Visual Studio, and a great deal of work was put into restructuring our data layer to completely abstract the Linq 2 SQL code from our actual objects. Like most software projects, there is always more work that could be done, and we will be making changes and additions as we continue to use this code for our work projects and for our personal sites.</p>
+
+<p>If you are looking for more about Oxite, <a href="http://codeplex.com/oxite">the discussions, issues and wiki pages on Codeplex</a> are a great source of information and you can always post a comment right here and ask me your question</p>

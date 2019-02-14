@@ -1,0 +1,3 @@
+Ok, so <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx" target="_blank" class="broken_link">the VB.NET 2003 version</a> worked fine upgraded to 2005, with only one warning, but with the recent release of <a href="http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvs05/html/vbnet2005_preview.asp" target="_blank">Beta 2</a>, I thought I should jump on the bandwagon like everyone else 🙂
+
+New .zip download linked from <a href="http://www.duncanmackenzie.net/Samples/#divider" target="_blank" class="broken_link">here</a>

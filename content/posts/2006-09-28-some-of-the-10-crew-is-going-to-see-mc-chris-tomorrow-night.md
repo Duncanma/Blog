@@ -1,0 +1,3 @@
+He&#8217;s <a href="http://elcorazonseattle.com/cgi-bin/showinfo.cgi" target="_blank" class="broken_link">performing in Seattle</a>, so we&#8217;re going to head down with our cameras and see what we can get on tape (or disk in the case of our newest camera).
+
+<a href="http://elcorazonseattle.com/cgi-bin/showinfo.cgi" target="_new" atomicselection="true" class="broken_link"><img alt="MC Chris at El Corazon" src="http://elcorazonseattle.com/albums/September_2006/MCChrisSEAsept06.jpg" /></a>

@@ -1,0 +1,1 @@
+Is it just me, or are urls from .info a nearly certain sign of spam? I&#8217;m considering making a .info address a high indicator for spam in some of my web site code, thoughts?

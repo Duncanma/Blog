@@ -1,0 +1,3 @@
+Thanks to <a href="http://developernotes.com/archive/2005/01/23/253.aspx" target="_blank" class="broken_link">a post</a> by <a href="http://developernotes.com/" target="_blank">Nick Parker</a>, I found out my blog site was not producing valid RSS&#8230; and now it is 🙂
+
+[<img src="http://www.duncanmackenzie.net/blogs/images/valid-rss.png" border="0" />](http://feedvalidator.org/check.cgi?url=http://blogs.duncanmackenzie.net/duncanma/Rss.aspx){.broken_link}

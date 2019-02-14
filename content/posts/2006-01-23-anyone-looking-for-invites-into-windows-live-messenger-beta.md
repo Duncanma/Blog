@@ -1,0 +1,1 @@
+If so, just use <a href="http://blogs.duncanmackenzie.net/duncanma/contact.aspx" target="_blank" class="broken_link">the contact link to send me a note (with your email)</a>&#8230; I only have 4 invites, but I bet they&#8217;ll just keep giving them to me so I&#8217;ll try to get to folks on a 1st come 1st served basis&#8230;.

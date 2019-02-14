@@ -1,0 +1,1 @@
+&#8220;By the way, you might want to send a Valentine to George Lucas. His first &#8220;Star Wars&#8221; trilogy is the most-wanted stuff on DVD, and the big announcement of the week is that it&#8217;s finally coming in September.&#8221; from [Mark Rahner at the Seattle Times&#8230;](http://seattletimes.nwsource.com/html/movies/video.html){.broken_link}

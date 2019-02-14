@@ -1,0 +1,3 @@
+I just got to my hotel (the Aladdin) here in Vegas; ready to roam around the conferences looking for folks to film for <a href="http://channel9.msdn.com" target="_blank">Channel 9</a> (or <a href="http://on10.net" target="_blank" class="broken_link">10</a>, if the topic fits). Hmm&#8230; Vegas and a video camera&#8230; could be trouble. 🙂
+
+If you are in town, email me or call me at the hotel, especially if you have an idea about something to film!

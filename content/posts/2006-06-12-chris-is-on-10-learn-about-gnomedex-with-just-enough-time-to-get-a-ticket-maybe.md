@@ -1,0 +1,3 @@
+<a href="http://on10.net/Blogs/TheShow/3518/" target="_blank" class="broken_link">Chris Pirillo is on 10 today</a>, chatting about Gnomedex, his tendency to write things on his chest, and more. I don&#8217;t know Chris myself, but I joined his &#8220;<a href="http://chris.pirillo.com/2006/06/05/50-weight-loss-tips/" target="_blank">FatBlasters</a>&#8221; mailing list awhile ago as part of my ongoing quest to lose weight&#8230; and also as a way to get emails from Chris in my Inbox every few days 🙂
+
+<a href="http://chris.pirillo.com/2006/06/11/windows-vista-bittorrent-tracker/" target="_blank">Oooh, just noticed he has a Torrent setup for Vista as well, cool stuff</a>

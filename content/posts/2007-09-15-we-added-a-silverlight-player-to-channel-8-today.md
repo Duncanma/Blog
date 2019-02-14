@@ -1,0 +1,7 @@
+</p> 
+
+We used&nbsp;a modified version of one of the templates that ships with <a href="http://www.microsoft.com/expression/products/overview.aspx?key=media" target="_blank" class="broken_link">Expression Media Encoder</a> as our player&#8230; and <a href="http://channel8.msdn.com/" target="_blank" class="broken_link">channel 8</a> has become the first of our sites (which include <a href="http://channel9.msdn.com" target="_blank">Channel 9</a>, <a href="http://on10.net" target="_blank" class="broken_link">Channel 10</a>, <a href="http://VisitMix.com" target="_blank" class="broken_link">VisitMix.com</a> and more) to have a Silverlight video player on them. And, below here, you can see that player embedded into this blog post&#8230;
+
+
+
+Note that I had to remove the &#8216;scrubbing bar&#8217; due to some&nbsp;odd bug around&nbsp;releasing the mouse after scrubbing was completed&#8230; but we&#8217;ll figure&nbsp;that out and get it back in as soon as we can.&nbsp;Check out the video above back in its home on C9&#8230;. <a href="http://channel8.msdn.com/Posts/4/" target="_blank" class="broken_link">check out the video from above on on Channel 8</a>, and <a href="http://timheuer.com/blog/archive/2007/09/11/expression-encoder-custom-templates.aspx" target="_blank">build your own player using those templates</a>!

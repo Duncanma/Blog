@@ -1,0 +1,1 @@
+As a big fan of KOTOR and Baldur&#8217;s Gate before that&#8230; <a href="http://masseffect.bioware.com/" target="_blank">this</a> is very exciting.

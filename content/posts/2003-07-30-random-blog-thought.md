@@ -1,0 +1,1 @@
+What would you folks think if I wrote one of my MSDN articles in a serial fashion into my blog? Basically just posted each section as I wrote it? I&#8217;m considering doing this for my next Coding 4 Fun article, but before I flood your aggregator with piles of text I thought I&#8217;d look for some feedback&#8230;

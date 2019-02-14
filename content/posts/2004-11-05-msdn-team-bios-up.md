@@ -1,0 +1,1 @@
+A variety of folks (including me) associated with the online MSDN site have their bios up at <a href="http://msdn.microsoft.com/aboutmsdn/team/default.aspx" target="_blank">http://msdn.microsoft.com/aboutmsdn/team/default.aspx</a>

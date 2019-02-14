@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="As with my earlier messing around with a poll, I took a concept from the www.asp.net site today and made my own &#8220;CheckDotNet.aspx&#8221; page. The one on www.asp.net only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases&#8230; recommending an upgrade for no framework or 1.0, and returning &#8220;Framework Found&#8221; if you have 1.1 already.
+http://www.duncanmackenzie.net/tools/checkdotnet.aspx{.broken_link}
+Difficult? Nope&#8230; nothing too impressive&#8230;"/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="As with my earlier messing around with a poll, I took a concept from the www.asp.net site today and made my own &#8220;CheckDotNet.aspx&#8221; page. The one on www.asp.net only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases&#8230; recommending an upgrade for no framework or 1.0, and returning &#8220;Framework Found&#8221; if you have 1.1 already.
+http://www.duncanmackenzie.net/tools/checkdotnet.aspx{.broken_link}
+Difficult? Nope&#8230; nothing too impressive&#8230;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-06-12-more-playing-with-asp-net/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>As with my earlier messing around with a poll, I took a concept from the <a href="http://www.asp.net/">www.asp.net</a> site today and made my own &#8220;CheckDotNet.aspx&#8221; page. The one on <a href="http://www.asp.net/">www.asp.net</a> only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases&#8230; recommending an upgrade for no framework or 1.0, and returning &#8220;Framework Found&#8221; if you have 1.1 already.</p>
+
+<p><a href="http://www.duncanmackenzie.net/tools/checkdotnet.aspx">http://www.duncanmackenzie.net/tools/checkdotnet.aspx</a>{.broken_link}</p>
+
+<p>Difficult? Nope&#8230; nothing too impressive&#8230;</p>
+
+<p>Useful? I have no idea, but I thought it was worth putting up. The page has only one bit of code, the load event handler (and yes, I know I could have overriden OnLoad&#8230; but the code I started with was using Page_Load, so I just went with it)&#8230;</p>
+
+<pre><span>&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Sub</span><span> Page_Load(sender </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Object</span><span>, e </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> EventArgs)<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Dim</span><span> clrVersion </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> Version = Request.Browser.ClrVersion<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">If</span><span> clrVersion.Major &gt; 0 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">If</span><span> clrVersion.Minor &gt; 0 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aOkPanel11.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">True<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Else<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aOkPanel1.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">True<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">End</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">If<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Else<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; downloadPanel.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">True<br /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">End</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">If<br /></span><span> &nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">End</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Sub</span><span></span></pre>
+
+<p>aOkPanel11 on my page contains the text to show if the user has the 1.1 version of the Framework&#8230; aOkPanel1 is shown if they have 1.0 only, and downloadPanel appears if they have no Framework at all.</p>
+
+<p><em>Ouch&#8230; I guess I was porting/modifying that code way too quickly&#8230; goofed up the logic in a bunch of ways (thanks for the comments folks!)&#8230; at the risk of trying again and <strong>still</strong> screwing it up&#8230; here is another try at that routine;</em></p>
+
+<pre><span>&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Sub</span><span> Page_Load(sender </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Object</span><span>, e </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> EventArgs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Dim</span><span> clrVersion </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">as</span><span> Version = Request.Browser.ClrVersion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">if</span><span> clrVersion.Major = 1 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">if</span><span> clrVersion.Minor &gt; = 1 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'1.1 or better, but less than 2.0
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aOkPanel11.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">ElseIf</span><span> clrVersion.Minor = 0 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'only 1.0
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aOkPanel1.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">end</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">if</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">elseif</span><span> clrVersion.Major &gt; 1 </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">Then</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'2.x or greater... could have its own panel
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'but showing the 1.1 panel is probably the next
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'best thing...
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aOkPanel11.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">else</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'anything else... should display for 
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'&lt; 1.0 or nothing...
+</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; downloadPanel.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">end</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">if</span><span>
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">end</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">sub</span><span>
+</span></pre>
+
+<pre>Also, in the html of the aOkPanel11, which can appear for the .NET Framework 1.1 or greater... I changed the text to reflect this possibility and added<br /><br />&lt;%Response.Write(Request.Browser.ClrVersion)%&gt;</pre>
+
+<p><em>hopefully, this &#8216;release&#8217; works better than the last one 🙂</em></p>
+
+<p>&nbsp;</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-06-13-using-statement-added-to-vb-in-whidbey-release/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-06-12-if-you-write-rfps-to-get-work/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="That may not seem like a big deal to most MIcrosoft developers, since most of them write code for that exact purpose, but I have spent most of my time in Redmond writing sample code and even with my switch to development I&#8217;m focused on writing internal systems that are not likely to ever be exposed outside of our own users. Recently, the Tablet PC folks released the &#8220;Experience Pack for Windows XP Tablet PC Edition 2005{."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="That may not seem like a big deal to most MIcrosoft developers, since most of them write code for that exact purpose, but I have spent most of my time in Redmond writing sample code and even with my switch to development I&#8217;m focused on writing internal systems that are not likely to ever be exposed outside of our own users. Recently, the Tablet PC folks released the &#8220;Experience Pack for Windows XP Tablet PC Edition 2005{." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2005-04-08-this-is-a-first-for-me-some-of-my-code-has-shipped-with-an-official-microsoft-product/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>That may not seem like a big deal to most MIcrosoft developers, since most of them write code for that exact purpose, but I have spent most of my time in Redmond writing sample code and even with my switch to development I&#8217;m focused on writing internal systems that are not likely to ever be exposed outside of our own users. Recently, the Tablet PC folks released the &#8220;<a href="http://www.microsoft.com/windowsxp/downloads/tabletpc/experiencepack/default.mspx">Experience Pack for Windows XP Tablet PC Edition 2005</a>{.broken_link}&#8220;, which includes the Media Transfer application/power toy.</p>
+
+<blockquote>
+<p><a href="http://www.microsoft.com/windowsxp/using/tabletpc/experiencepack/mediatransfer.mspx">Getting started with Media Transfer</a>{.broken_link}<br />
+<emphasis>Easily copy photos, music, and videos from your desktop PC to your Tablet PC, even over your wireless network.</emphasis></p>
+</blockquote>
+
+<p>Well, behind the scences, that application uses <a href="http://www.duncanmackenzie.net/pull.aspx?pageToPull=http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun02282003.asp">my BITS code</a>{.broken_link} to handle its file transfers. This Visual Basic .NET library is really <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwxp/html/WinXP_BITS.asp?frame=true">a wrapper around the BITS APIs</a>, but it is a pretty major abstraction (adding OO concepts and .NET niceties like collections to what is really a flat Win32 style API) that makes it a lot easier to work with the BITS features.</p>
+
+<p>I&#8217;ve seen a demo of the application itself, and the rest of that experience pack, and it looks amazing&#8230; but I wouldn&#8217;t ask me for any more info about it, because I don&#8217;t have a Tablet PC, so I can&#8217;t even run it!</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2005-04-11-interested-in-investigating-indigo/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2005-04-08-msdn-has-forums/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

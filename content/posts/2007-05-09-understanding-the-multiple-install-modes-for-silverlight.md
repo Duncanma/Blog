@@ -1,0 +1,1 @@
+I had seen both styles of banners, but until reading <a href="http://blogs.msdn.com/webnext/archive/2007/05/08/silverlight-install-modes.aspx" target="_blank" class="broken_link">Laurence&#8217;s post on the subject</a>, I didn&#8217;t know why there was two&#8230; or how to change which one showed up.

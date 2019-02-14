@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="I received another interesting, and common, question today about using Enter instead of (or in addition to) the Tab key to move the focus between fields on a form. Well, that isn&#8217;t too hard to accomplish, but it can get tricky once you consider all the different situations&#8230;
+First, the easy&#8230; set your Form&#8217;s KeyPreview property to true, override OnKeyUp (or OnKeyDown&#8230; can&#8217;t think of any real reason to use one or the other in this case), check for the Enter key, then call your Form&#8217;s ProcessTabKey method."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="I received another interesting, and common, question today about using Enter instead of (or in addition to) the Tab key to move the focus between fields on a form. Well, that isn&#8217;t too hard to accomplish, but it can get tricky once you consider all the different situations&#8230;
+First, the easy&#8230; set your Form&#8217;s KeyPreview property to true, override OnKeyUp (or OnKeyDown&#8230; can&#8217;t think of any real reason to use one or the other in this case), check for the Enter key, then call your Form&#8217;s ProcessTabKey method." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2004-12-13-enter-instead-of-tab/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>I received another interesting, and common, question today about using Enter instead of (or in addition to) the Tab key to move the focus between fields on a form. Well, that isn&#8217;t too hard to accomplish, but it can get tricky once you consider all the different situations&#8230;</p>
+
+<p>First, the easy&#8230; set your Form&#8217;s <strong>KeyPreview</strong> property to true, override <strong>OnKeyUp</strong> (or OnKeyDown&#8230; can&#8217;t think of any real reason to use one or the other in this case), check for the Enter key, then call your Form&#8217;s <strong>ProcessTabKey</strong> method.</p>
+
+<pre><font color="Blue" family="Microsoft Sans Serif">Protected</font> <font color="Blue" family="Microsoft Sans Serif">Overrides</font> <font color="Blue" family="Microsoft Sans Serif">Sub</font> OnKeyUp(<font color="Blue" family="Microsoft Sans Serif">ByVal</font> e <font color="Blue" family="Microsoft Sans Serif">As</font> System.Windows.Forms.KeyEventArgs)
+        <font color="Blue" family="Microsoft Sans Serif">If</font> e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then</font>
+            e.Handled = <font color="Blue" family="Microsoft Sans Serif">True</font>
+            <font color="Blue" family="Microsoft Sans Serif">Me</font>.ProcessTabKey(<font color="Blue" family="Microsoft Sans Serif">Not</font> e.Shift)
+        <font color="Blue" family="Microsoft Sans Serif">Else</font>
+            e.Handled = <font color="Blue" family="Microsoft Sans Serif">False</font>
+            <font color="Blue" family="Microsoft Sans Serif">MyBase</font>.OnKeyUp(e)
+        <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">If</font>
+    <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">Sub</font>
+
+</pre>
+
+<p>Now&#8230; what is wrong with that code?</p>
+
+<p>In the simple case, nothing&#8230; but I found a couple of issues with it.</p>
+
+<ul>
+<li>If you have the <strong>AcceptButton</strong> property of your Form set, which means you have a default button on the Form, then your code will never get called&#8230; the key event is handled at some point farther up the chain</li>
+<li>If you have multiline textboxes on your Form, the enter key will not work within them &#8230; which means your users will not be able to create any new lines in those textboxes.</li>
+</ul>
+
+<p>The first issue is easiest to solve if you just decide not to have a default button set on your form, because any other solution (such as overriding <strong>ProcessDialogKey</strong>) will stop the default button behaviour so that the enter key can be used for moving focus.</p>
+
+<p>The second problem is not too difficult to handle, you can modify your code to check for certain properties of the TextBox control, but this may not work for other controls that also wish to accept the Enter key as input.</p>
+
+<pre><font color="Blue" family="Microsoft Sans Serif">If</font> e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then</font>
+            <font color="Blue" family="Microsoft Sans Serif">If</font> <font color="Blue" family="Microsoft Sans Serif">TypeOf</font> <font color="Blue" family="Microsoft Sans Serif">Me</font>.ActiveControl <font color="Blue" family="Microsoft Sans Serif">Is</font> TextBox <font color="Blue" family="Microsoft Sans Serif">Then</font>
+                <font color="Blue" family="Microsoft Sans Serif">Dim</font> tb <font color="Blue" family="Microsoft Sans Serif">As</font> TextBox = <font color="Blue" family="Microsoft Sans Serif">DirectCast</font>(<font color="Blue" family="Microsoft Sans Serif">Me</font>.ActiveControl, TextBox)
+                <font color="Blue" family="Microsoft Sans Serif">If</font> tb.Multiline <font color="Blue" family="Microsoft Sans Serif">AndAlso</font> tb.AcceptsReturn <font color="Blue" family="Microsoft Sans Serif">Then</font>
+                    e.Handled = <font color="Blue" family="Microsoft Sans Serif">False</font>
+                    <font color="Blue" family="Microsoft Sans Serif">MyBase</font>.OnKeyUp(e)
+                    <font color="Blue" family="Microsoft Sans Serif">Exit</font> <font color="Blue" family="Microsoft Sans Serif">Sub</font>
+                <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">If</font>
+            <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">If</font>
+            e.Handled = <font color="Blue" family="Microsoft Sans Serif">True</font>
+            <font color="Blue" family="Microsoft Sans Serif">Me</font>.ProcessTabKey(<font color="Blue" family="Microsoft Sans Serif">Not</font> e.Shift)
+        <font color="Blue" family="Microsoft Sans Serif">Else</font>
+            e.Handled = <font color="Blue" family="Microsoft Sans Serif">False</font>
+            <font color="Blue" family="Microsoft Sans Serif">MyBase</font>.OnKeyUp(e)
+        <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">If</font>
+
+</pre>
+
+<p>Oh, and there was another part to the original question&#8230; what if I want to respond to the Enter key to do some processing on the value that was just entered. Well, for that result either with or without the &#8216;enter instead of tab&#8217; code, you would just choose to handle the <strong>KeyDown</strong> event for the control in question.</p>
+
+<pre><font color="Blue" family="Microsoft Sans Serif">Private</font> <font color="Blue" family="Microsoft Sans Serif">Sub</font> TextBox2_KeyDown(<font color="Blue" family="Microsoft Sans Serif">ByVal</font> sender <font color="Blue" family="Microsoft Sans Serif">As</font> <font color="Blue" family="Microsoft Sans Serif">Object</font>, _
+            <font color="Blue" family="Microsoft Sans Serif">ByVal</font> e <font color="Blue" family="Microsoft Sans Serif">As</font> System.Windows.Forms.KeyEventArgs) _
+            <font color="Blue" family="Microsoft Sans Serif">Handles</font> TextBox2.KeyDown
+        <font color="Blue" family="Microsoft Sans Serif">If</font> e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then</font>
+            <font color="Blue" family="Microsoft Sans Serif">MsgBox</font>(<font color="Red" family="Microsoft Sans Serif">"do something!"</font>)
+        <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">If</font>
+    <font color="Blue" family="Microsoft Sans Serif">End</font> <font color="Blue" family="Microsoft Sans Serif">Sub</font>
+</pre>
+
+<p>Of course, after your code &#8216;does something&#8217;, the focus will also move to the next control&#8230; both sets of code, the Form&#8217;s <strong>OnKeyUp</strong> routine and the control&#8217;s <strong>KeyDown</strong> event handler, execute when the user hits Enter on this particular control.</p>
+
+<p>I&#8217;ve gotten flack in the past for articles that discuss <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun07012004.asp" target="_blank">&#8216;simple&#8217; topics</a>, but I hope this is useful to some of the folks that find it 🙂</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2004-12-13-lead-developer-position-available-with-msdn/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2004-12-09-follow-up-to-drawing-rotated-text/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

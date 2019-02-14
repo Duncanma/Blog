@@ -1,0 +1,1 @@
+I just heard that our book, [XBox 360 4 Dummies](http://www.xbox4dummies.com "site for the book"){.broken_link}, has left the printer&#8230;. hopefully it will end up on bookshelves near you soon

@@ -1,0 +1,1 @@
+This page lists all of the C# team blogs (that I am aware of) and provides you with a list of featured posts that I&#8217;ve pulled out of the various individual blogs &#8230; check it out at <a href="http://msdn.microsoft.com/vcsharp/team/blogs" target="_blank" class="broken_link">http://msdn.microsoft.com/vcsharp/team/blogs</a> and let me know what you think.

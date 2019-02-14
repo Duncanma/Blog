@@ -1,0 +1,8 @@
+I&#8217;ve been messing around with using XSL to display RSS on MSDN, as a simpler alternative to a custom ASP.NET control, and while it works perfectly in the core case (display all the items in a feed in a format), there are two additional requirements that were very easy to handle in a .NET class, but trickier (for me) in XSL.
+
+  * Display the top _n_ items 
+      * Out of the full list, display _n_ randomly picked items 
+
+For the first, it was pretty easy&#8230; <xsl:if test=&#8221;position < 6&#8243;> could be used to only output the top 5 items, for example&#8230; For the second though, I was stumped for a bit&#8230; then I came up with an idea. I would write a script function that would pick _n_ items out of the total count, put those choices into an array, then use another function that tests the current position against that list of choices&#8230; sound good? Well, I&#8217;m still working on implementing this one&#8230; I have it working, but I&#8217;m not 100% sure of my solution.
+
+If you are interested, you can see the code running <a href="http://www.duncanmackenzie.net/xsltest.aspx" target="_blank" class="broken_link">here</a>, and pull down the xsl from <a href="http://www.duncanmackenzie.net/rsspretty.xsl" target="_blank" class="broken_link">here</a>, and the backing rss file from <a href="http://www.duncanmackenzie.net/msdnall.xml" target="_blank" class="broken_link">here</a>. <a href="http://www.duncanmackenzie.net/xsltest.aspx.txt" target="_blank" class="broken_link">Code for the page</a> &#8230; <a href="http://www.duncanmackenzie.net/xmlView.ascx.txt" target="_blank" class="broken_link">Code for the control it references</a>&#8230;

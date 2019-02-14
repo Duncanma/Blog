@@ -1,0 +1,21 @@
+As other people have probably mentioned here and there, there is a very nice&nbsp;health club&nbsp;near Microsoft and a membership to that club is one of the options in our benefits plan. Therefore, it isn&#8217;t all that surprising that most of the folks&nbsp;in the gym at any particular time are Microsoft employees. This can lead to an interesting occurance that has left me wondering (on more than one&nbsp;occasion), what is the &#8216;right&#8217; thing to do in this situation?
+
+Let&#8217;s pretend for a moment that you are me, a mid to low level Microsoft guy who just happens to be in the locker room at the gym before work&#8230; and along comes Steve Ballmer&#8230; and you end up standing around near this guy who is your great-great-great (and so on) grand boss&#8230; and a celebrity to boot. What do you do? Personally my approach has always been (and believe it or not this is not an extremely rare occurance) that since&nbsp;he (whoever it is, Steve being just one example) doesn&#8217;t know me, that I should treat him like any other guy at the gym that I don&#8217;t know&#8230; make friendly conversation about the fact that he is standing on my towel/foot/etc or whatever else needs to be said, but in general silence shall prevail.
+
+This approach seems the most polite and proper,&nbsp;since I don&#8217;t&nbsp;know the guy already&#8230; versus the alternative, which in my mind (I only picture the extremes) is walking up to him and saying:
+
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+  <p>
+    &#8220;um, hi&#8230; I work for you&#8230; I guess most people here work for you&#8230;&nbsp;that must be cool&#8230; um, anyway &#8230; you seem busy &#8230; name&#8217;s&nbsp;Duncan&#8230; I&#8217;ll probably blog this&#8230;&nbsp;&nbsp;um, yeah this is a camera phone&#8230; pictures? no, of course I didn&#8217;t&#8230;&#8221;
+  </p>
+</blockquote>
+
+After that, it doesn&#8217;t go well in my mental walkthrough of this scenario&#8230;
+
+Of course, if I know the guy, then none of this applies. Althought I do notice&nbsp;that when I talk to people from work, even when they have work issues they want to bring up with me, work doesn&#8217;t come up. There seems to be an unspoken agreement to ignore the fact that I have 5 to-dos outstanding for Eric Gunnerson when he runs into me at the gym, which I find quite a relief as it means I don&#8217;t have to hide in the steam room and wait for him to leave (anymore).
+
+Today though I ran into a situation that seemed rather borderline, and I didn&#8217;t have any handy reference manual to guide me, so I was lost. [Eric Rudder](http://msdn.microsoft.com/blogs/ericr/){.broken_link} was using the locker next to me, and while I&#8217;ve never met him, I&#8217;ve always thought of him as having a developer focus and therefore being at least one or two steps closer to my world. He knows a lot about what MSDN is doing and might have even visited the VB or C# developer centers once or twice&#8230; maybe I should say something, introduce myself&#8230; hey, if [he&#8217;ll pick up random guys on campus and let them attach a camera to his dash](http://channel9.msdn.com/ShowPost.aspx?PostID=9210), then I&#8217;m sure he&#8217;d be a great guy to talk to about a number of the big work issues that I am focused on (Developer Community, .NET Adoption, etc.).
+
+Sadly though, my own worries about being rude or inappropriate took precedence&#8230; I said the expected &#8216;excuse me&#8217; and whatever else the situation required, but nothing beyond that. Of course, if I ever had the need, I&#8217;d have no hesitation to email him about something at work&#8230; but in general that situation is not likely to occur&#8230; it isn&#8217;t that Microsoft is big on the hierarchy thing, but it does exist and there is little cause for me to be skipping 4 or 5 (or more?) layers by adding his name to an email. Maybe I need to put my picture on more developer centers, then people will recognize me and they can be the one to start the conversation? 🙂
+
+&nbsp;

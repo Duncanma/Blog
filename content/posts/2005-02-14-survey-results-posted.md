@@ -1,0 +1,1 @@
+Further to <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/02/12/1085.aspx" target="_blank" class="broken_link">my previous post</a>, the results are now available here: <a href="http://www.duncanmackenzie.net/VBSurveyResults.aspx" target="_blank" class="broken_link">Visual Basic Usage Survey</a>

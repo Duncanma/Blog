@@ -1,0 +1,3 @@
+I wrote my own for Trackbacks, which I used to incorporate trackbacks into <a href="http://on10.net" target="_blank" class="broken_link">http://on10.net</a>, but <a href="http://www.opinionatedgeek.com/Blog/blogentry=000037/Blog.aspx" target="_blank">Geoff provides one on his blog </a>(that doesn&#8217;t appear to support comments, but does support trackbacks, so I thought I had better blog about it to thank him) that does both.
+
+Silly me, I hadn&#8217;t built pingback support into on10.net, thinking that Trackbacks would handle most cases&#8230; but it turns out that many sites (including wordpress) only send pingbacks&#8230; oh well, at least it will be there after our next sprint.

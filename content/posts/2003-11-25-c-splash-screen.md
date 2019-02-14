@@ -1,0 +1,3 @@
+From <a href="http://www.codeproject.com" target="_blank">CodeProject.com</a> (via <a href="http://weblogs.asp.net/javery/posts/39574.aspx" target="_blank" class="broken_link">James Avery&#8217;s Blog</a>);
+
+> <a href="http://www.codeproject.com/csharp/PrettyGoodSplashScreen.asp" target="_blank" class="broken_link">A Pretty Good Splash Screen in C#</a> &#8211; Tutorial on how to build a full featured splash page (includes fading, progress bar, etc)

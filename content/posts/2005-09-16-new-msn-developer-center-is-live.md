@@ -1,0 +1,3 @@
+<img src="http://msdn.microsoft.com/msn/art/right_bnr_msn.jpg" align="right" />I&#8217;ve played around with coding against the Messenger APIs before, but it seems that MSN has really gone all out now and released a bunch of information for coding against their search, messenger, mapping services, and more&#8230; check it out on MSDN as of today!
+
+<a href="http://msdn.microsoft.com/msn/" target="_blank" class="broken_link">http://msdn.microsoft.com/msn/</a>

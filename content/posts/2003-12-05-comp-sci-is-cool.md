@@ -1,0 +1,3 @@
+A neat little discussion about Random Number generators (or pseudo-random that is) has been happening on <a href="http://www.gotdotnet.com" target="_blank" class="broken_link">GDN</a> for the last day or so, <a href="http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=169292&Page=1#169538" target="_blank" class="broken_link">http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=169292&Page=1#169538</a>
+
+neat stuff&#8230;.

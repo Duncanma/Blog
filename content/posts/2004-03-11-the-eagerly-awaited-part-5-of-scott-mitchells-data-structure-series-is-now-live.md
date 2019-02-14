@@ -1,0 +1,3 @@
+Check it out <a href="http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide5.asp" target="_blank">here</a>
+
+> _In this fifth installment of the article series we&#8217;re going to examine graphs. Graphs are composed of a set of nodes and edges, just like trees, but with graphs there are no rules for the connections between nodes. With graphs, there is no concept of a root node, nor is there a concept of parents and children. Rather, a graph is a collection of interconnected nodes._

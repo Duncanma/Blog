@@ -1,0 +1,3 @@
+The VB team is interested in collecting some stats about how you use VB, so I put a simple survey up for them at <a href="http://www.duncanmackenzie.net/visualbasicsurvey/" target="_blank" class="broken_link">http://www.duncanmackenzie.net/visualbasicsurvey/</a>, feel free to check it out if you are interested in providing information&#8230;
+
+_For whoever is interested, I used the <a href="http://www.nsurvey.org/" target="_blank">http://www.nsurvey.org/</a> software to create this survey&#8230;_

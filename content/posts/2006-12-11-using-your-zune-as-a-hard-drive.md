@@ -1,0 +1,9 @@
+If you are following Zune news, then I&#8217;m sure you&#8217;ve seen <a href="http://www.engadget.com/2006/11/24/zune-usb-drive-hack-splained/" target="_blank">this &#8216;hack&#8217; to let you see your Zune as a read-only hard drive</a>.
+
+ <img height="165" src="http://www.duncanmackenzie.net/images/DuncansZune.png" width="240" />
+
+There are additional steps to make it so you can write to your Zune, but it seems so odd that you do it by starting a sync (a long sync I guess) that I haven&#8217;t tried it myself. I honestly haven&#8217;t thought of any reason I&#8217;d need to write to the device at this point either, but reading off of the Zune works fine and I&#8217;ve&nbsp;already&nbsp;found it useful to snag some converted videos files that I&#8217;d like to store on my PC instead of the originals.
+
+Lets say you&#8217;ve sync&#8217;d 40 episodes of <a href="http://geekbriefwp.podshow.com/" target="_blank" class="broken_link">Geek Brief</a> onto your Zune (downloaded as MP4 before I noticed they have a WMV feed!), well the next time you try to sync those files (because you&#8217;ve deleted them from your Zune or whatever, or perhaps you have more than one Zune) then most of them will have to be converted again (maybe some will still be in your transcoding cache). What I did with this (very unsupported) hack is to copy all the videos back onto my machine and then delete the originals&#8230; anytime I want to copy them onto my Zune again it will be quick!
+
+If you are, like many folks I&#8217;ve talked to, worried about losing some of the pre-loaded music and video that ships with your Zune (it is possible to lose it in some of the &#8216;auto-sync&#8217; scenarios), then you could use this hack to pull those files off and add them to your Zune library on the PC.

@@ -1,0 +1,1 @@
+<a href="http://www.bungie.net/Account/profile.aspx?uid=2379002" target="_blank">My profile page</a>&#8230; not sure if you can find out, but I&#8217;ve lost the last 3 games of Halo 3&#8230;

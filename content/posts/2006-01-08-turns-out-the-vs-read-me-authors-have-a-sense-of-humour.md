@@ -1,0 +1,7 @@
+<a href="http://thecodingmonkey.blogspot.com/2006/01/readme-item-of-day.html" title="ReadMe Item of the Day" target="_blank">ReadMe Item of the Day</a> (from The Coding Monkey)
+
+> Was reading the Visual Studio 2005 SDK Readme and happened upon this rather humorous note:
+> 
+> > Setup fails if the installation path is customized to path with more than 128 characters excluding the drive letter and the slashes. (We realize it is ironic to put this information in a file that is installed by setup, but at least you know that we know about the problem you have already worked around).
+> 
+> And now you know that I know that they know about the problem&#8230;

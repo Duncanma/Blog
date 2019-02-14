@@ -1,0 +1,1 @@
+I haven&#8217;t had to write a parser since university, but if I had to write one now I&#8217;d definitely be checking out Tommy Carlier&#8217;s <a href="http://tommycarlier.blogspot.com/2007/05/writing-parser-overview.html" target="_blank">10 part series showing how to write a parser for a demo programming language of his own creation</a>.

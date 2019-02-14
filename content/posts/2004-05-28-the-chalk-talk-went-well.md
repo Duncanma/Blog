@@ -1,0 +1,3 @@
+<a href="http://www.duncanmackenzie.net/images/anderschalktalk.jpg" class="broken_link" rel="lightbox[115]" title="The 'Chalk Talk' went well...."><br /> <img src="http://www.duncanmackenzie.net/images/anderschalktalk_thumb.jpg" border="0" /><br /> </a>
+
+You can expect to see a MSDN TV version of this session at some point soon&#8230; should be pretty good quality, Anders was wearing a microphone&#8230; although it did fall off him for a bit 🙂

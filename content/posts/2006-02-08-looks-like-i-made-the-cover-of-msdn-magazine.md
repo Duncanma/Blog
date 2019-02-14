@@ -1,0 +1,1 @@
+My article about the My namespace was revamped and put out in a <a href="http://msdn.microsoft.com/msdnmag/issues/06/00/default.aspx" target="_blank" class="broken_link">&#8216;special bonus issue&#8217;</a> of MSDN Magazine.

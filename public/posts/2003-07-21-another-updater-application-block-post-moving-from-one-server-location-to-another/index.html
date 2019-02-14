@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="The app I am currently working on, and the one that I just recently moved from being an href-exe to being an application that updates itself via the PAG Updater Application Block, has always been located on my own Windows XP machine, that is to say&#8230; that is the web server where the .exe and other assemblies reside. Well, that causes me all sorts of problems, because it effectively makes my desktop machine into a production box, and one that many people depend upon&#8230; restarting is not a possibility, and I even try to minimize the load on the box as it will tend to wreak havoc on some of my users if I fire up 2 copies of VS."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="The app I am currently working on, and the one that I just recently moved from being an href-exe to being an application that updates itself via the PAG Updater Application Block, has always been located on my own Windows XP machine, that is to say&#8230; that is the web server where the .exe and other assemblies reside. Well, that causes me all sorts of problems, because it effectively makes my desktop machine into a production box, and one that many people depend upon&#8230; restarting is not a possibility, and I even try to minimize the load on the box as it will tend to wreak havoc on some of my users if I fire up 2 copies of VS." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2003-07-21-another-updater-application-block-post-moving-from-one-server-location-to-another/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 5 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>The app I am currently working on, and the one that I just recently moved from being an href-exe to being an application that updates itself via the <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/updater.asp">PAG Updater Application Block</a>, has always been located on my own Windows XP machine, that is to say&#8230; that is the web server where the .exe and other assemblies reside. Well, that causes me all sorts of problems, because it effectively makes my desktop machine into a production box, and one that many people depend upon&#8230; restarting is not a possibility, and I even try to minimize the load on the box as it will tend to wreak havoc on some of my users if I fire up 2 copies of VS.NET and Office 2003&#8230;</p>
+
+<p>So, I decided to move my web server files onto another machine&#8230; one that is already sitting in a operations center, is being maintained by people who make that their business, and is running a Server OS!!!! Well the process for doing that when you have active users using your application and that application was written using the Updater Application Block is pretty easy&#8230; but I had to think it through for a few moments to make sure I didn&#8217;t screw it up&#8230; so I thought I would share the process with anyone who is interested.</p>
+
+<p>If you&#8217;ve used the Updater before, then you probably know about the function of the 3 different XML files (as relates to the location of update files), but I&#8217;ll go through them anyway;</p>
+
+<ul>
+<li>The AppStart.exe.config file points at the local directory of your app&#8230; that&#8217;s it, <strong>no server paths are stored here</strong>&#8230; which is good because there is no mechanism built into the system to allow you to update this file.</li>
+<li>YourApp.exe.config contains a http path to the manifest file (an XML file that you generate to say what files make up a new version), so that will have to change, but this file is updated with every new version downloaded</li>
+<li>The Manifest file contains a http path to the directory that contains the new application files, so that will need to change as well, but you can change this file whenever you want because it is on the server</li>
+</ul>
+
+<p>To start with, the deployed version of your app (lets say it is version 3.0.0.0) has a http path to the Manifest file, lets say it is <a href="http://server1/yourapp/manifest.xml">http://server1/yourapp/manifest.xml</a>, so you will need to put a copy of your manifest file there as usual. In the Manifest file, provide the old server location for the updated (version 3.0.1.0) binaries. (<a href="http://server1/yourapp/update/">http://server1/yourapp/update/</a> for example). The new binaries include an updated .config file that points at the new server address for the manifest (<a href="http://server2/yourapp/manifest.xml">http://server2/yourapp/manifest.xml</a>) so any future queries for updated versions will now be pointing at the new server. To avoid any confusion put a new manifest file on the new server that indicates the same version # (3.0.1.0) but points at a server2 install location.</p>
+
+<p>At this point, so after all of the currently deployed applcations perform the next update, your server will never get hit again by that particular install (for that machine) of the application.</p>
+
+<p>The only real problem with this solution is that if anyone ever fires up an old version of the software (3.0.0.0 or earlier) then you will need to have that manifest file available on your old server&#8230; so if you wanted to retire or repurpose that server then you have a bit of a problem.</p>
+
+<p>Depending on the # of users you could either use a certain period of time (after which old apps will fail to update) or some programmatic method of confirming the list of users and the version being used by each one&#8230; but if it is a large # of users (an Internet distributed application, for example) then you would likely be better off using a different solution in the first place; Don&#8217;t use the name of any real server in your config file URLs, use a special name that corresponds to a custom DNS entry&#8230; and then you can point that entry to one or more servers (it could point at a cluster) however you see fit. Changing servers is merely a DNS update&#8230;</p>
+
+<p>In my case, I will leave the files up on my Windows XP server, but with the knowledge that within a few days most or all of the users will have been automatically udpated to point at the new files, so there will be little problem with my machine being offline from time to time.</p>
+
+<p>By leaving the files up, then if it is a year later and someone runs a 3.0.0.0 (or earlier) client, then their application will auto-update (against my desktop) to 3.0.1.0 and then, after the app has been restarted and has retrieved the current manifest file from the new server, update to whatever the current version is on the new server. They get a double-update, which isn&#8217;t perfect, but it is certainly acceptable for a solution with no coding requred.</p>
+
+<p>If you want to avoid that initial double-update after the server move, then you could do a redirect on the manifest file (using an ISAPI filter, or the like) to automatically redirect them to the new server&#8217;s manifest file&#8230; but that would (as far as I can imagine) require code and I&#8217;m going to stick with just updating the xml files as required.</p>
+
+<div class="media">
+  (<a href="http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp" class="broken_link">Listening To</a>: Reload [<a href="http://www.windowsmedia.com/mg/search.asp?srch=Rob+Zombie">Rob Zombie</a> / Matrix Reloaded: The Album Disc 1])
+</div>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2003-07-23-letter-from-the-editor-on-the-msdn-developer-centers/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2003-07-18-converting-an-application-to-use-the-application-updater-block-from-pag/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

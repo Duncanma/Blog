@@ -1,0 +1,5 @@
+At the end of May, Oprah is coming to Seattle to do an all day workshop&#8230; and I really wanted to get my wife (and a friend) tickets. Well, when the day of ordering came I was swamped and it totally slipped my mind until the evening&#8230; at which point it was too late. Next stop for the desperate man, eBay&#8230; lots of auctions of tickets, but once they reached up into 300 to 400% of face value, I declined to continue&#8230; so, no tickets that way. Just last week though an auction started up asking only face value, I bid &#8230; no one else bid&#8230; I won! Wait, upon closer inspection; the seller is in the Seattle area&#8230; the tickets are for St. Louis, MO&#8230; and they are for May 10th not May 31st&#8230;
+
+&nbsp;
+
+Great. I have $370 worth of Oprah tickets to a show in another state in three days.

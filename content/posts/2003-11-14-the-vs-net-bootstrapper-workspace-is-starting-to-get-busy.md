@@ -1,0 +1,1 @@
+If you haven&#8217;t <a href="http://workspaces.gotdotnet.com/vsboot" target="_blank" class="broken_link">checked it out yet</a>, you should.. people are starting to post questions, file bugs and **even get answers**

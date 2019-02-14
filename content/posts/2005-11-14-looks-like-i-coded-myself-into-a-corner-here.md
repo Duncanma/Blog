@@ -1,0 +1,3 @@
+This is the sort of thing that happens with large development teams, one team codes in &#8216;fixes&#8217; that break someone else&#8217;s work&#8230; I don&#8217;t normally do this all by myself! I <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/10/23/3112.aspx" target="_blank" class="broken_link">updated the Flairmaker to support Atom 0.3</a>, then I <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/11/01/3183.aspx" target="_blank" class="broken_link">updated my feeds to Atom 1.0</a> &#8230; great.
+
+[See the error, laugh at the coder&#8230; or will it be fixed by the time you click this?](http://eris1109.si-xios.info/FlairMaker.ashx?atom=http://blogs.duncanmackenzie.net/duncanma/atom.aspx){.broken_link}

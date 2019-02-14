@@ -1,0 +1,3 @@
+Free chapter on master pages from new ASP.NET 2.0 upgrade guide
+
+Murach Books is offering a free chapter from their new book, Murach&#8217;s ASP.NET 2.0 Upgrader&#8217;s Guide: VB Edition, at their web site at <a href="http://www.murach.com/books/ugvb/index.htm" target="_blank">www.murach.com/books/ugvb/index.htm</a>. Chapter 3, &#8220;How to use master pages,&#8221; shows how to use the new ASP.NET 2.0 master pages feature to easily include banners, navigation menus, and other elements on all of the pages in a web application. It&#8217;s a powerful, time-saving feature that most developers will want to use in every new application they create.

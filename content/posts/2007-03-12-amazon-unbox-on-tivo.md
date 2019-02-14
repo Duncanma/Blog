@@ -1,0 +1,3 @@
+I like <a href="http://www.tivo.com/4.9.24.asp" target="_blank" class="broken_link">this idea</a>&#8230; I&#8217;d like it more on a Media Center box, but I still like the idea
+
+<a href="http://a423.g.akamai.net/7/423/1788/fb192c1966c659/www.tivo.com/i/4.0/Unbox_tivo_logo.gif" class="broken_link" rel="lightbox[564]" title="Amazon Unbox on Tivo..."><img src="http://a423.g.akamai.net/7/423/1788/fb192c1966c659/www.tivo.com/i/4.0/Unbox_tivo_logo.gif" border="0" /></a>

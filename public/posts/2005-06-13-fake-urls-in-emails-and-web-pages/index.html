@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.54.0" />
+
+    
+    
+    
+
+<title> • Duncan Mackenzie</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Man, I&#8217;m getting sick of people&#8217;s attempts to trick me&#8230; mostly because they are just pretty lame, and also because I feel sorry for the number of folks that are quite possibly being hit by these scams. One of the more recent tricks is sending me a notice about my &#8220;insert online service or bank here&#8221; account and providing me a link to go and enter my userid/password&#8230; and the link text is something like &#8220;https://www."/>
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="Man, I&#8217;m getting sick of people&#8217;s attempts to trick me&#8230; mostly because they are just pretty lame, and also because I feel sorry for the number of folks that are quite possibly being hit by these scams. One of the more recent tricks is sending me a notice about my &#8220;insert online service or bank here&#8221; account and providing me a link to go and enter my userid/password&#8230; and the link text is something like &#8220;https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://duncanmackenzie.net/posts/2005-06-13-fake-urls-in-emails-and-web-pages/" />
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.9181f25ed2263aeb878ec6f8a84f10c4ebb16150000fca8767308880bdde5ca0.css" integrity="sha256-kYHyXtImOuuHjsb4qE8QxOuxYVAAD8qHZzCIgL3eXKA=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://duncanmackenzie.net/">Duncan Mackenzie</a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Duncan Mackenzie</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1></h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>Man, I&#8217;m getting sick of people&#8217;s attempts to trick me&#8230; mostly because they are just pretty lame, and also because I feel sorry for the number of folks that are quite possibly being hit by these scams. One of the more recent tricks is sending me a notice about my &#8220;insert online service or bank here&#8221; account and providing me a link to go and enter my userid/password&#8230; and the link text is something like &#8220;<a href="https://www.paypal.com/trustedlink.php&amp;#8221">https://www.paypal.com/trustedlink.php&amp;#8221</a>;, but the actual underlying URL is to &#8220;<a href="http://128.234.232.23/fakespammerssite.htm&amp;#8221">http://128.234.232.23/fakespammerssite.htm&amp;#8221</a>; &#8230; and it makes me think that some browser plug-ins could be useful here&#8230; especially if they worked for html content in email as well&#8230; how about checking the text against the url and if the text is structured to look like a valid link, but points to a different location then mark it as suspect&#8230; or make the URL visible on every link that isn&#8217;t already using its href value as its text&#8230; so a paragraph like this;</p>
+
+<blockquote>
+<p>Click <a href="http://www.duncanmackenzie.net/" target="_blank">here</a> to confirm your banking information!</p>
+</blockquote>
+
+<p>Would automatically appear as</p>
+
+<blockquote>
+<p>Click <a href="http://www.duncanmackenzie.net/" target="_blank">here [<i><a href="http://www.duncanmackenzie.net/">http://www.duncanmackenzie.net/</a></i>]</a> to confirm your banking information!</p>
+</blockquote>
+
+<p>Maybe making the anchor tag disabled in the text appears to be trying to look like a different url would be a selectable option, turning</p>
+
+<blockquote>
+<p>Click <a href="http://www.duncanmackenzie.net/" target="_blank"><a href="https://www.paypal.com">https://www.paypal.com</a></a> to confirm your banking information!</p>
+</blockquote>
+
+<p>into</p>
+
+<blockquote>
+<p>Click <font color="red"><u><a href="https://www.paypal.com">https://www.paypal.com</a> [Warning misleading link text detected!! Real target is <i><a href="http://www.duncanmackenzie.net/">http://www.duncanmackenzie.net/</a></i>]</u></font> to confirm your banking information!</p>
+</blockquote>
+
+<p>For Outlook, this might be doable as an Outlook Add-in, one that scans and edits your HTML and rich formatted emails for you&#8230; you could do this for IE with an add-in &#8230; and I&#8217;m sure some of the recent html insertion tools for Firefox would work for this purpose (but not in Thunderbird, it uses the gecko engine, but I don&#8217;t believe that plug-ins applied to Firefox have any affect on viewing/browsing inside your email&#8230; maybe a thunderbird plug-in would be needed).</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/posts/2005-06-20-article-about-the-use-of-glucosamine-and-chondroitin-for-joint-pain/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle"></span>
+    </a>
+    
+    
+    <a href="/posts/2005-06-12-remembering-one-of-my-favorite-books-from-my-youth/" class="navigation-next">
+      <span class="navigation-tittle"></span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+
+
+    
+    
+    <script type="text/javascript">
+        
+        hljs.initHighlightingOnLoad();
+    </script>
+    
+
+
+
+
+    
+
+
+
+    </body>
+</html>

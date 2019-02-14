@@ -1,0 +1,3 @@
+In <a href="http://blogs.duncanmackenzie.net/duncanma/archive/2004/08/25/589.aspx" target="_blank" class="broken_link">my first post on this site</a>, I mentioned an application that I wrote to copy blog posts from one .Text server to another. Overall, I didn&#8217;t think the application had any real use after the web service I used was removed from the weblogs.asp.net servers, but I&#8217;m posting it anyway for anyone who might find it useful.
+
+Source here: <a href="http://www.duncanmackenzie.net/Samples/#blogcopy" target="_blank" class="broken_link">http://www.duncanmackenzie.net/Samples/#blogcopy</a>

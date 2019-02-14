@@ -1,0 +1,1 @@
+I guess I could have just added a category to my blog, but this works&#8230; <a href="http://www.duncanmackenzie.net/articles/rss.xml" target="_blank" class="broken_link">http://www.duncanmackenzie.net/articles/rss.xml</a>

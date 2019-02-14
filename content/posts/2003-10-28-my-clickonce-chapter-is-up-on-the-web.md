@@ -1,0 +1,1 @@
+View in on the [vbasic](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp) Developer Center&#8230;
