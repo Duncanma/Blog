@@ -1,1 +1,1 @@
-If you are interested in portable video, downloading video podcasts, etc&#8230; <a href="http://on10.net/TheShow/1246/" target="_blank" class="broken_link">check out today&#8217;s episode on 10 </a> &#8230; featuring me!
+If you are interested in portable video, downloading video podcasts, etc... [check out today's episode on 10 ](http://on10.net/TheShow/1246/" target="_blank) ... featuring me!

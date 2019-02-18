@@ -1,1 +1,1 @@
-If so, wonder no longer&#8230; <a href="http://blogs.msdn.com/jroxe/archive/2005/03/11/394337.aspx" target="_blank" class="broken_link">Jay Roxe covers this in a post on his blog</a> and so does <a href="http://blogs.msdn.com/vbteam/archive/2005/03/11/394305.aspx" target="_blank">Rob Copeland</a>.
+If so, wonder no longer... [Jay Roxe covers this in a post on his blog](http://blogs.msdn.com/jroxe/archive/2005/03/11/394337.aspx" target="_blank) and so does [Rob Copeland](http://blogs.msdn.com/vbteam/archive/2005/03/11/394305.aspx" target="_blank).

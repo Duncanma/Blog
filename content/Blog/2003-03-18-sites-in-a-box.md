@@ -1,27 +1,27 @@
-<font face="Trebuchet MS" color="teal">I just read up a bit<br /> on the </font>
+I just read up a bit on the 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">InstantKB.NET </font>
+InstantKB.NET 
 				  
 ](http://www.instantasp.co.uk/products/instantkb/default.aspx) 
 				  
-<font face="Trebuchet MS" color="teal">product (after our own issues with over-using<br /> .NET, why does everyone else keep sticking it on their product names?) and it<br /> looks pretty cool. Between that, and the many other tools like it, including the<br /> </font>
+product (after our own issues with over-using .NET, why does everyone else keep sticking it on their product names?) and it looks pretty cool. Between that, and the many other tools like it, including the 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">ASP.NET starter kits</font>
+ASP.NET starter kits
 				  
 ](http://www.asp.net/Default.aspx?tabindex=9&tabid=47) 
 				  
- <font face="Trebuchet MS" color="teal">from </font>
+ from 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">www.asp.net</font>
+www.asp.net
 				  
 ](http://www.asp.net) 
 				  
-<font face="Trebuchet MS" color="teal">, I am starting to wish I had a site to build&#8230; all of these tool<br /> kits seem like&nbsp;wonderful ways to jump start&nbsp;a site!</font> 
+, I am starting to wish I had a site to build... all of these tool kits seem like wonderful ways to jump start a site! 
 
-<font face="Trebuchet MS" color="teal">From the InstantKB.NET site: &#8220;The End<br /> User License cost is $119 USD per web site, per URL and per server.&#8221;<br /> </font><font face="Trebuchet MS" color="teal">What does that mean? site, url and<br /> server? Do you get to pick one? Is it only that price if you are running one<br /> site on one server with one url (guess it will be a big default.aspx<br /> page)?</font>
+From the InstantKB.NET site: "The End User License cost is $119 USD per web site, per URL and per server." What does that mean? site, url and server? Do you get to pick one? Is it only that price if you are running one site on one server with one url (guess it will be a big default.aspx page)?

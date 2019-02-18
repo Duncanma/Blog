@@ -1,4 +1,4 @@
-<a href="http://samgentile.com/blog" target="_blank" class="broken_link">Sam &#8220;blogger guy&#8221; Gentile</a> has a new article up on MSDN: <a href="http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dndotnet/html/bridge.asp" target="_blank">Beyond (COM) Add Reference: Has Anyone Seen the Bridge?</a>
+[Sam "blogger guy" Gentile](http://samgentile.com/blog" target="_blank) has a new article up on MSDN: [Beyond (COM) Add Reference: Has Anyone Seen the Bridge?](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dndotnet/html/bridge.asp" target="_blank)
 
 **Summary** Sam Gentile explains the need for bridges between COM Interop and the Microsoft .NET Framework, and how bridges are implemented in the .NET Framework.
 

@@ -1,3 +1,3 @@
-This is definitely a frequently asked question&#8230; &#8220;how do I print a text file?&#8221;
+This is definitely a frequently asked question... "how do I print a text file?"
 
-Well there is more than one answer to that, but I&#8217;ve put a simple sample up on <a href="http://www.duncanmackenzie.net/Samples/default.aspx" target="_blank" class="broken_link">http://www.duncanmackenzie.net/Samples/default.aspx</a> to give you a head start if you have ever wondered how to print a text file.
+Well there is more than one answer to that, but I've put a simple sample up on [http://www.duncanmackenzie.net/Samples/default.aspx](http://www.duncanmackenzie.net/Samples/default.aspx" target="_blank) to give you a head start if you have ever wondered how to print a text file.

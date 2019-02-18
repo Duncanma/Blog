@@ -1,1 +1,1 @@
-Check it out at <a href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=4d56495b-0799-4ede-898f-7f07637d2dfc" target="_blank" class="broken_link">its GDN workspace</a>
+Check it out at [its GDN workspace](http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=4d56495b-0799-4ede-898f-7f07637d2dfc" target="_blank)

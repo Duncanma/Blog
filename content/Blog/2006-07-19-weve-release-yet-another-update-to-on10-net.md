@@ -1,1 +1,1 @@
-This one appears <a href="http://on10.net/Forums/Lounge/3962/" target="_blank" class="broken_link"><font color="#0000cc">to be a bit special</font></a>, as we are labeling it 1.0, which I guess means the site up until now was in Beta&#8230; I had no idea 🙂
+This one appears [<font color="#0000cc">to be a bit special](http://on10.net/Forums/Lounge/3962/" target="_blank), as we are labeling it 1.0, which I guess means the site up until now was in Beta... I had no idea 🙂

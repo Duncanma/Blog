@@ -1,4 +1,4 @@
-Yet another Developer Center has been launched, this one is all about Security and is being run by one of my colleagues; Brian Johnson&#8230; check it out at <http://msdn.microsoft.com/security>
+Yet another Developer Center has been launched, this one is all about Security and is being run by one of my colleagues; Brian Johnson... check it out at <http://msdn.microsoft.com/security>
 
 **Welcome to the Security Developer Center**
   

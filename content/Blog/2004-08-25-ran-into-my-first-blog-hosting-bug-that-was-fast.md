@@ -1,4 +1,4 @@
-Within a few hours of being up, I ran into <a href="http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx" target="_blank">this issue.</a>.. odd, since it doesn&#8217;t appear to be affecting very many folks&#8230; 
+Within a few hours of being up, I ran into [this issue.](http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx" target="_blank).. odd, since it doesn't appear to be affecting very many folks...
 
-> **<a href="http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx" target="_blank">.Text Threading Bug</a>**  
-> ._..If you are one of the 7 regular readers here you might have noticed some problems over the last few weeks. Every so often .Text would display an error page with the message: “Value cannot be null. Parameter name: value”. Once the error happened it would stick around until the application restarted. Unfortunately, the error was appearing everyday. After asking around on some of the boards to no avail I did some sleuthing&#8230;_
+> **[.Text Threading Bug](http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx" target="_blank)**
+> ._..If you are one of the 7 regular readers here you might have noticed some problems over the last few weeks. Every so often .Text would display an error page with the message: “Value cannot be null. Parameter name: value”. Once the error happened it would stick around until the application restarted. Unfortunately, the error was appearing everyday. After asking around on some of the boards to no avail I did some sleuthing..._

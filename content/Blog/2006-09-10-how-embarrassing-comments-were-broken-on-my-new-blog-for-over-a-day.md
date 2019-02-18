@@ -1,1 +1,1 @@
-Fixed now though&#8230; sorry to anyone who posted a comment (and received a nice &#8220;your comment was posted!&#8221;) &#8230; it was lost into the magical ether.
+Fixed now though... sorry to anyone who posted a comment (and received a nice "your comment was posted!") ... it was lost into the magical ether.

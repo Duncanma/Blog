@@ -1,9 +1,9 @@
-<font face="Trebuchet MS" color="teal">It seems he managed<br /> to get his cool shaped control library </font>
+It seems he managed to get his cool shaped control library 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">finished and uploaded</font>
+finished and uploaded
 				  
 ](http://windowsforms.net/ControlGallery/ControlDetail.aspx?Control=219&tabindex=9){.broken_link} 
 				  
-<font face="Trebuchet MS" color="teal">! Very cool stuff, especially if shaped apps like<br /> Windows Media Player, WinAmp, etc. have always appealed to<br /> you!</font>
+! Very cool stuff, especially if shaped apps like Windows Media Player, WinAmp, etc. have always appealed to you!

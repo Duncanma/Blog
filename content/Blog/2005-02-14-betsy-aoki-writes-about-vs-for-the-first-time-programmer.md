@@ -1,5 +1,5 @@
-First things first, this article is not for people who already code in Visual Studio, or Eclipse, or who are in anyway an experienced developer. This is for folks who are new to code and have decided that VB.NET is the way to get started into this world. I just put this reminder here in the hope of preventing a whole bunch of low ratings that say things like &#8220;I already know this&#8230;&#8221;, &#8220;I program in VS every day&#8230;&#8221;, &#8220;Why are you writing about something so simple?!?!&#8221;
+First things first, this article is not for people who already code in Visual Studio, or Eclipse, or who are in anyway an experienced developer. This is for folks who are new to code and have decided that VB.NET is the way to get started into this world. I just put this reminder here in the hope of preventing a whole bunch of low ratings that say things like "I already know this...", "I program in VS every day...", "Why are you writing about something so simple?!?!"
 
-Ok, ok&#8230; disclaimer out of the way I present **<a href="http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/VSFreakOut.asp" target="_blank">Don&#8217;t Freak Out About Visual Studio</a>**
+Ok, ok... disclaimer out of the way I present **[Don't Freak Out About Visual Studio](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/VSFreakOut.asp" target="_blank)**
 
-On a related note, Betsy&#8217;s blog is available at <a href="http://weblogs.asp.net/betsya" target="_blank" class="broken_link">http://weblogs.asp.net/betsya</a>
+On a related note, Betsy's blog is available at [http://weblogs.asp.net/betsya](http://weblogs.asp.net/betsya" target="_blank)

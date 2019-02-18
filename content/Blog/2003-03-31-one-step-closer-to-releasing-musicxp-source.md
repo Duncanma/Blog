@@ -1,37 +1,37 @@
-<font face="Trebuchet MS" color="teal">I have a home music<br /> system, that I have dubbed </font>
+I have a home music system, that I have dubbed 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">MusicXP</font>
+MusicXP
 				  
 ](http://www.duncanmackenzie.net/musicxp){.broken_link} 
 				  
- <font face="Trebuchet MS" color="teal">(mostly<br /> because that is the name of the machine it is on, the actual&nbsp;app that runs<br /> is called &#8220;Shell.exe&#8221;)&#8230; and I&#8217;ve been meaning to upload the full source for<br /> some time. I&#8217;ve covered bits and pieces of it in </font>
+ (mostly because that is the name of the machine it is on, the actual app that runs is called "Shell.exe")... and I've been meaning to upload the full source for some time. I've covered bits and pieces of it in 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">various</font>
+various
 				  
 ](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun01242003.asp){.broken_link} 
 				  
- <font face="Trebuchet MS" color="teal"></font>
+ 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">articles</font>
+articles
 				  
 ](http://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp){.broken_link} 
 				  
- <font face="Trebuchet MS" color="teal">but now I&#8217;ve decided to create a </font>
+ but now I've decided to create a 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">GotDotNet Workspace </font>
+GotDotNet Workspace 
 				  
 ](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9){.broken_link} 
 				  
-<font face="Trebuchet MS" color="teal">and get the whole thing up there.</font> 
+and get the whole thing up there. 
 
-<font face="Trebuchet MS" color="teal">I added the first set of files to the<br /> Workspace today (as a &#8220;release&#8221;), the mdf/ldf files for the database, which<br /> aren&#8217;t all that useful on their own, but I thought it would be good to post<br /> something and start moving down the path to full disclosure:)</font>
+I added the first set of files to the Workspace today (as a "release"), the mdf/ldf files for the database, which aren't all that useful on their own, but I thought it would be good to post something and start moving down the path to full disclosure:)
 
-<font face="Trebuchet MS" color="teal">Why haven&#8217;t I just posted the entire app<br /> up as is? To be perfectly honest, I&#8217;m trying to walkthrough the code once before<br /> I post it, to remove anything that ties it directly to my implementation (yep, I<br /> might have hardcoded a path or something deep in there&#8230;), and even that simple<br /> task seems to be taking me ages!</font>
+Why haven't I just posted the entire app up as is? To be perfectly honest, I'm trying to walkthrough the code once before I post it, to remove anything that ties it directly to my implementation (yep, I might have hardcoded a path or something deep in there...), and even that simple task seems to be taking me ages!

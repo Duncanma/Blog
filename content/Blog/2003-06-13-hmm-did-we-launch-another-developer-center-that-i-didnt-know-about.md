@@ -1,3 +1,3 @@
-[Ed Kaim](http://blogs.gotdotnet.com/edkaim/){.broken_link} appears to &#8220;like&#8221; our new Developer Center format&#8230;
+[Ed Kaim](http://blogs.gotdotnet.com/edkaim/){.broken_link} appears to "like" our new Developer Center format...
 
 I especially like his architecture model.

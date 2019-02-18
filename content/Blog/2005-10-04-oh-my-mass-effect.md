@@ -1,1 +1,1 @@
-As a big fan of KOTOR and Baldur&#8217;s Gate before that&#8230; <a href="http://masseffect.bioware.com/" target="_blank">this</a> is very exciting.
+As a big fan of KOTOR and Baldur's Gate before that... [this](http://masseffect.bioware.com/" target="_blank) is very exciting.

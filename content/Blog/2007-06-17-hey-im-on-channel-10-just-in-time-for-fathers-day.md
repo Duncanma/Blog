@@ -1,3 +1,3 @@
-I sat down to chat with <a href="http://on10.net/blogs/tina/" target="_blank" class="broken_link">Tina</a> from Channel 10 to chat about <a href="http://www.xbox.com/en-US/community/personality/xboxdad/default.htm" target="_blank" class="broken_link">my Xbox Dad articles</a>, gaming with your kids, etc&#8230; 
+I sat down to chat with [Tina](http://on10.net/blogs/tina/" target="_blank) from Channel 10 to chat about [my Xbox Dad articles](http://www.xbox.com/en-US/community/personality/xboxdad/default.htm" target="_blank), gaming with your kids, etc...
 
-<a title="Happy Father&#039;s Day! Featuring gaming Dad Duncan Mackenzie" href="http://on10.net/Blogs/tina/happy-fathers-day-featuring-gaming-dad-duncan-mackenzie/" target="_blank" atomicselection="true" class="broken_link"><img src="http://on10.net/images/entries/preview/DuncanDad_large_on10.jpg" border="0" /></a>
+<a title="Happy Father&#039;s Day! Featuring gaming Dad Duncan Mackenzie" href="http://on10.net/Blogs/tina/happy-fathers-day-featuring-gaming-dad-duncan-mackenzie/" target="_blank" atomicselection="true"><img src="http://on10.net/images/entries/preview/DuncanDad_large_on10.jpg" border="0" /></a>

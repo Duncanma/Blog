@@ -1,4 +1,4 @@
-Ok, I know that [Paul](http://www.panopticoncentral.net/) knew this, but did anyone else notice that the [VB.NET Try&#8230;Catch syntax](http://msdn.microsoft.com/library/en-us/vblr7/html/vastmTryCatchFinally.asp){.broken_link} includes a &#8216;when&#8217; clause?
+Ok, I know that [Paul](http://www.panopticoncentral.net/) knew this, but did anyone else notice that the [VB.NET Try...Catch syntax](http://msdn.microsoft.com/library/en-us/vblr7/html/vastmTryCatchFinally.asp){.broken_link} includes a &#8216;when' clause?
 
 <pre class="syntax"><b>Try
 </b>   [ <i>tryStatements </i>]
@@ -15,4 +15,4 @@ Ok, I know that [Paul](http://www.panopticoncentral.net/) knew this, but did any
   
 _Optional. A Catch statement with a When clause will only catch exceptions when expression evaluates to True. A When clause is only applied after checking the type of the exception, and expression may refer to the identifier representing the exception._ 
 
-I never did! I can&#8217;t think of a good use for it right at this moment, but I&#8217;m still shocked that I never noticed it before&#8230; now what to do with it?
+I never did! I can't think of a good use for it right at this moment, but I'm still shocked that I never noticed it before... now what to do with it?

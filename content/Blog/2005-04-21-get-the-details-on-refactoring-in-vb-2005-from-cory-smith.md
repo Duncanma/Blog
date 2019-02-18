@@ -1,1 +1,1 @@
-<a href="http://addressof.com/blog/archive/2005/04/20/1804.aspx" title="" target="_blank">Refactoring to debut in VB 2005!</a>
+[Refactoring to debut in VB 2005!](http://addressof.com/blog/archive/2005/04/20/1804.aspx" title="" target="_blank)

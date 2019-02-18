@@ -1,8 +1,8 @@
-From [KC Lemson&#8217;s blog](http://blogs.msdn.com/kclemson){.broken_link}&#8230;
+From [KC Lemson's blog](http://blogs.msdn.com/kclemson){.broken_link}...
 
 > **[ASP.Net samples of WebDAV against Exchange 2003](http://blogs.msdn.com/kclemson/archive/2004/01/23/62247.aspx){.broken_link}**
   
-> In a previous entry, I received a comment about how there were no examples of using WebDAV in the Exchange SDK with ASP.Net&#8230; I forwarded it to our SDK team (who can be reached at exsdkfb AT microsoft DOT com) and they pointed out several examples for me:
+> In a previous entry, I received a comment about how there were no examples of using WebDAV in the Exchange SDK with ASP.Net... I forwarded it to our SDK team (who can be reached at exsdkfb AT microsoft DOT com) and they pointed out several examples for me:
 > 
 >   * Searching Folders (WebDAV) &#8211; C# and VB.Net
 >   * Sending a Message (WebDAV) &#8211; C# and VB.Net

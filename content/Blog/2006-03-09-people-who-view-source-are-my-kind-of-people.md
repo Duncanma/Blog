@@ -1,1 +1,1 @@
-It didn&#8217;t take too long, people found <a href="http://www.adamkinney.com" target="_blank" class="broken_link">Adam&#8217;s</a> little puzzle (<a href="http://channel9.msdn.com/ShowPost.aspx?PostID=169842" target="_blank" class="broken_link">Channel 9</a>)
+It didn't take too long, people found [Adam's](http://www.adamkinney.com" target="_blank) little puzzle ([Channel 9](http://channel9.msdn.com/ShowPost.aspx?PostID=169842" target="_blank))

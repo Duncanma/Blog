@@ -1,1 +1,1 @@
-I&#8217;ve created a quick and simple list of the 10 team&#8217;s various blog feeds&#8230; so if you&#8217;d like to follow along with their personal musings (including mine) then you can <a href="http://www.duncanmackenzie.net/on10OPML.xml" target="_blank" class="broken_link">grab the OPML file here</a>.
+I've created a quick and simple list of the 10 team's various blog feeds... so if you'd like to follow along with their personal musings (including mine) then you can [grab the OPML file here](http://www.duncanmackenzie.net/on10OPML.xml" target="_blank).

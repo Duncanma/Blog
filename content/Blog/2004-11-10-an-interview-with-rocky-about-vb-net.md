@@ -1,10 +1,10 @@
 [
-						  
-<img src="http://www.theserverside.net/talks/videos/RockyLhotka/LhotkaFeatured.jpg" border="0" />
-						  
 
-  
-Rocky Lhotka discusses VB.NET&#8217;s focus on business application development.](http://www.theserverside.net/talks/index.tss)
-				  
-   
-_(from <a href="http://www.theserverside.net" target="_blank">TheServerSide.NET</a>)_
+<img src="http://www.theserverside.net/talks/videos/RockyLhotka/LhotkaFeatured.jpg" border="0" />
+
+
+
+Rocky Lhotka discusses VB.NET's focus on business application development.](http://www.theserverside.net/talks/index.tss)
+
+
+_(from [TheServerSide.NET](http://www.theserverside.net" target="_blank))_

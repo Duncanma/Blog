@@ -1,4 +1,4 @@
-Hmm&#8230; I had no idea it was going up, but there it is&#8230; 
+Hmm... I had no idea it was going up, but there it is... 
 
 > [**Click to read Chapter 3: Building Windows Applications
   

@@ -1,1 +1,1 @@
-A new developer center has been launched; <a href="http://msdn.microsoft.com/data/" target="_blank">http://msdn.microsoft.com/data/</a> covering both Data Access (ADO, ADO.NET, OLEDB, etc&#8230;) and Storage (SQL Server, Access, etc&#8230;). Check it out!
+A new developer center has been launched; [http://msdn.microsoft.com/data/](http://msdn.microsoft.com/data/" target="_blank) covering both Data Access (ADO, ADO.NET, OLEDB, etc...) and Storage (SQL Server, Access, etc...). Check it out!

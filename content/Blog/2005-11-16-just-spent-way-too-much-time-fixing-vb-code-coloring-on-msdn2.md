@@ -1,4 +1,4 @@
-You may have already noticed this, but the current build of MSDN2 has a bug in the way it colors VB code snippets, as you can see <a href="http://msdn2.microsoft.com/en-us/library/chsc1tx6(en-US,VS.80).aspx" target="_blank">here</a> (scroll down, there are quite a few problems in the code snippet coloring, see how many you can spot!)&#8230; turns out the code wasn&#8217;t handling comments right, text in quotes, and it didn&#8217;t have a full list of the VB keywords (so MsgBox was not recognized, for example). I&#8217;ve fixed it all up now (I think) so that code will work its way through review and test then get added to some not-too-distant update of the site code&#8230; but for now, here is the revised output for those particular code samples.
+You may have already noticed this, but the current build of MSDN2 has a bug in the way it colors VB code snippets, as you can see [here](http://msdn2.microsoft.com/en-us/library/chsc1tx6(en-US,VS.80).aspx" target="_blank) (scroll down, there are quite a few problems in the code snippet coloring, see how many you can spot!)... turns out the code wasn't handling comments right, text in quotes, and it didn't have a full list of the VB keywords (so MsgBox was not recognized, for example). I've fixed it all up now (I think) so that code will work its way through review and test then get added to some not-too-distant update of the site code... but for now, here is the revised output for those particular code samples.
 
 #### Broken
 
@@ -19,7 +19,7 @@ You may have already noticed this, but the current build of MSDN2 has a bug in t
 <pre class="code"><span style="color: blue;">Public</span> <span style="color: blue;">Sub</span> TestCallByName2()
     <span style="color: blue;">Dim</span> col <span style="color: blue;">As</span> <span style="color: blue;">New</span> Collection()
 
-    'Store the string "Item One" in a collection by 
+    'Store the string "Item One" in a collection by
     <span style="color: green;">'calling the Add method.</span>
     CallByName(col, "Add", CallType.Method, "Item One")
 

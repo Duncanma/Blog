@@ -1,1 +1,1 @@
-Localized versions of the Visual Studio Bootstrapper are now available on <a href="http://workspaces.gotdotnet.com/vsboot" target="_blank" class="broken_link">the bootstrapper workspace</a> including French, Spanish, German, Korean, Italian, Chinese (Traditional and Simplified), and English.
+Localized versions of the Visual Studio Bootstrapper are now available on [the bootstrapper workspace](http://workspaces.gotdotnet.com/vsboot" target="_blank) including French, Spanish, German, Korean, Italian, Chinese (Traditional and Simplified), and English.

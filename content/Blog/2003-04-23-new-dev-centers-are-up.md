@@ -1,3 +1,3 @@
-<font face="Trebuchet MS" color="teal">After many, many<br /> weeks of work by many, many people&#8230; the new developer centers are up on<br /> MSDN!</font> 
+After many, many weeks of work by many, many people... the new developer centers are up on MSDN! 
 
-<font face="Trebuchet MS" color="teal">Feel free to check out mine </font>[<font face="Trebuchet MS" color="teal">http://msdn.microsoft.com/vbasic/default.aspx</font>](http://msdn.microsoft.com/vbasic/default.aspx)<font face="Trebuchet MS" color="teal">&nbsp;(mine being a vague word that suggests I<br /> had a lot to do with and will have a lot to do with it going forward!) and let<br /> me know what you think!</font>
+Feel free to check out mine [http://msdn.microsoft.com/vbasic/default.aspx](http://msdn.microsoft.com/vbasic/default.aspx) (mine being a vague word that suggests I had a lot to do with and will have a lot to do with it going forward!) and let me know what you think!

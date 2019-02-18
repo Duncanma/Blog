@@ -1,6 +1,6 @@
 **A new .NET Rocks! has been posted:** <http://msdn.microsoft.com/dotnetrocks/>
 
-> In this, Mark&#8217;s last show, Carl and Mark welcome Rory Blyth, who writes a very popular blog at http://www.neopoleon.com. Rory talks about the .NET community and the Open Source Software (OSS) community, writing, blogging, driving to the PDC from Las Vegas, Longhorn, and more. 
+> In this, Mark's last show, Carl and Mark welcome Rory Blyth, who writes a very popular blog at http://www.neopoleon.com. Rory talks about the .NET community and the Open Source Software (OSS) community, writing, blogging, driving to the PDC from Las Vegas, Longhorn, and more. 
 
 **A new MSDN TV has been posted.**
   
@@ -11,4 +11,4 @@
 >**   
 > During this episode, Alex Kipman shows how to fundamentally alter the Visual Studio build process with the new build platform for Microsoft: MSBuild. 
 
-Does anyone else think of [Red Vs. Blue&#8217;s Blood Gulch Chronicles](http://www.redvsblue.com/bloodgulch.shtml) when they read that last title?
+Does anyone else think of [Red Vs. Blue's Blood Gulch Chronicles](http://www.redvsblue.com/bloodgulch.shtml) when they read that last title?

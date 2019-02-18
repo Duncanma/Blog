@@ -1,0 +1,12 @@
+baseURL = "https://duncanmackenzie.net/"
+languageCode = "en-us"
+title = "Duncan's Blog"
+theme = ["capsule"]
+
+[params.social]
+    twitter = "Duncanma"
+    github = "DuncanmaMSFT"
+
+[params]
+    themeColor = "theme-base-0b"
+    layoutReverse = "true"

@@ -1,7 +1,7 @@
-<font face="Trebuchet MS" color="teal">The GDN User<br /> Samples area has been radically updated into what I find to be a much more<br /> useful interface&#8230;. </font>
+The GDN User Samples area has been radically updated into what I find to be a much more useful interface.... 
 				  
 [
 						  
-<font face="Trebuchet MS" color="teal">check it out!</font>
+check it out!
 				  
 ](http://www.gotdotnet.com/community/usersamples/){.broken_link}

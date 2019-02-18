@@ -1,9 +1,9 @@
-When I started on the C9 dev team, one of the first things I did was to **remove** the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn&#8217;t really mind and in some cases would even like to encourage.
+When I started on the C9 dev team, one of the first things I did was to **remove** the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn't really mind and in some cases would even like to encourage.
 
 As a small step towards a more community-driven future, [I added support to C9 today to allow you to embed Soapbox videos in any forum post](http://channel9.msdn.com/ShowPost.aspx?PostID=338082){.broken_link}. Simple use the following markup in your post:
 
-[soapbox video=&#8221;(soapbox video id)&#8221;]
+[soapbox video="(soapbox video id)"]
 
-<a href="http://www.duncanmackenzie.net/images/8c137ad7-737a-4ae6-9a2b-08156604e749.png" atomicselection="true" rel="lightbox[521]" title="image"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="130" alt="image" src="http://www.duncanmackenzie.net/images/8338d4f6-9266-4adf-84cf-c2f7b46e354b.png" width="240" border="0" /></a>
+[<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="130" alt="image" src="http://www.duncanmackenzie.net/images/8338d4f6-9266-4adf-84cf-c2f7b46e354b.png" width="240" border="0" />](http://www.duncanmackenzie.net/images/8c137ad7-737a-4ae6-9a2b-08156604e749.png" atomicselection="true" rel="lightbox[521]" title="image)
 
 and it will turn it into a full blown embed tag with a link to the source material underneath. The Soapbox video id is simply the GUID that appears on the permalink url (<http://soapbox.msn.com/video.aspx?vid=5699dafe-d864-4d1f-976c-d5f4d9ed78db>{.broken_link} for example) for a video and also shows up in its embed code if you take a look at that as well.

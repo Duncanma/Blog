@@ -1,4 +1,4 @@
-Last night, I wrote up a little Visual Basic .NET app that uses the .Text web services and moved all my categories and posts to <a href="" target="_blank">a new .Text server</a>&#8230; 
+Last night, I wrote up a little Visual Basic .NET app that uses the .Text web services and moved all my categories and posts to [a new .Text server](" target="_blank)...
 
 ![](http://www.duncanmackenzie.net/images/blogcopier.png)
 

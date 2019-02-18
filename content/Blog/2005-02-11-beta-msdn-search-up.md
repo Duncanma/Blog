@@ -1,1 +1,1 @@
-Check it out at <a href="http://lab.msdn.microsoft.com/searchbeta/" target="_blank">http://lab.msdn.microsoft.com/searchbeta/</a>, pretty cool stuff coming out of some of the other members of the MSDN dev team.
+Check it out at [http://lab.msdn.microsoft.com/searchbeta/](http://lab.msdn.microsoft.com/searchbeta/" target="_blank), pretty cool stuff coming out of some of the other members of the MSDN dev team.

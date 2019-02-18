@@ -1,4 +1,4 @@
-A series of 15 webcasts & lab exercises for the VB6 programmer&#8230; (see the full list [here](http://www.lfc.edu/~hummel/webcasts.htm){.broken_link})
+A series of 15 webcasts & lab exercises for the VB6 programmer... (see the full list [here](http://www.lfc.edu/~hummel/webcasts.htm){.broken_link})
 
 **
 				  

@@ -1,1 +1,1 @@
-My wife just did a count, and my upcoming move into a house will be my 15th or 16th move between residences (although some of those were within the same city). Hmm&#8230; I&#8217;m averaging less than 2 yrs per location&#8230; I suspect this next move will be for quite a bit longer!
+My wife just did a count, and my upcoming move into a house will be my 15th or 16th move between residences (although some of those were within the same city). Hmm... I'm averaging less than 2 yrs per location... I suspect this next move will be for quite a bit longer!

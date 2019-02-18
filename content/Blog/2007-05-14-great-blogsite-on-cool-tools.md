@@ -1,12 +1,12 @@
-I found this today, and I just couldn&#8217;t stop reading through it. I would normally say I&#8217;m not really into tools, but I guess I am:
+I found this today, and I just couldn't stop reading through it. I would normally say I'm not really into tools, but I guess I am:
 
 <a title="http://www.kk.org/cooltools/index.php" href="http://www.kk.org/cooltools/index.php" target="_blank">Kevin Kelly &#8212; Cool Tools</a>
 
-&nbsp;
+ 
 
 a sample entry:
 
-&nbsp;
+ 
 
 > [Peanut Butter Mixer](http://www.kk.org/cooltools/archives/001674.php)
 > 
@@ -19,7 +19,7 @@ a sample entry:
 > 
 > Peanut Butter Mixer  
 > $8  
-> Available from [Lehman&#8217;s](http://www.lehmans.com/shopping/product/detailmain.jsp?itemID=5912&itemType=PRODUCT&RS=1&keyword=peanut+butter){.broken_link} 
+> Available from [Lehman's](http://www.lehmans.com/shopping/product/detailmain.jsp?itemID=5912&itemType=PRODUCT&RS=1&keyword=peanut+butter){.broken_link} 
 > 
 > Or $11 from [Amazon](http://www.amazon.com/exec/obidos/ASIN/B000A3I3BA/ref=nosim/kkorg-20) 
 > 

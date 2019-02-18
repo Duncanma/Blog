@@ -1,7 +1,7 @@
-<a href="http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032247637&Culture=en-US" target="_blank" class="broken_link"><br /> <b>Test Driven Development as a Practice – Level 400</b><br /> </a>
-		  
+[ <b>Test Driven Development as a Practice – Level 400</b> ](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032247637&Culture=en-US" target="_blank)
 
-  
+
+
 Thursday, April 15, 2004, 9:00-10:30 A.M. Pacific Time
-  
-Microsoft&reg; Press author Ron Jeffries, author of the recently released “Extreme Programming Adventures in C#” will discuss the application of Extreme Programming design and development techniques using Visual C#&reg; and and the Microsoft .NET Framework. Topics include &#8220;Spikes&#8221;, unit-testing, and your questions regarding the fundamental techniques of simple design, test-driven development, and refactoring to create practical, .NET-ready applications.
+
+Microsoft&reg; Press author Ron Jeffries, author of the recently released “Extreme Programming Adventures in C#” will discuss the application of Extreme Programming design and development techniques using Visual C#&reg; and and the Microsoft .NET Framework. Topics include "Spikes", unit-testing, and your questions regarding the fundamental techniques of simple design, test-driven development, and refactoring to create practical, .NET-ready applications.

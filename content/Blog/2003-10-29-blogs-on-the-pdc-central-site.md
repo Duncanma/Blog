@@ -1,1 +1,1 @@
-If you haven&#8217;t seen them, check out the blog feeds visible [on the PDC Central site](http://msdn.microsoft.com/events/pdc/community/blogs/default.aspx). We&#8217;ve seen a problem where they sometimes show up blank&#8230; but it appears to be working fine now!
+If you haven't seen them, check out the blog feeds visible [on the PDC Central site](http://msdn.microsoft.com/events/pdc/community/blogs/default.aspx). We've seen a problem where they sometimes show up blank... but it appears to be working fine now!

@@ -1,6 +1,6 @@
-I recently noticed a bug in the trackback code on Channel 10, some sites were failing to send us trackbacks, even though we were receiving trackbacks from other sources and those sites were happily trackbacking (I&#8217;m just annoying the spell checker today) other blogs.
+I recently noticed a bug in the trackback code on Channel 10, some sites were failing to send us trackbacks, even though we were receiving trackbacks from other sources and those sites were happily trackbacking (I'm just annoying the spell checker today) other blogs.
 
-Turns out the problem appears to be in our RDF block on our blog pages. On a page like <a href="http://on10.net/blogs/tina/exclusive-video-first-look-at-the-xbox-elite/" target="_blank" class="broken_link">this</a>, the RDF block contains the following element:
+Turns out the problem appears to be in our RDF block on our blog pages. On a page like [this](http://on10.net/blogs/tina/exclusive-video-first-look-at-the-xbox-elite/" target="_blank), the RDF block contains the following element:
 
 `dc:identifier="http://on10.net/Blogs/tina/exclusive-video-first-look-at-the-xbox-elite/"`
 
@@ -10,6 +10,6 @@ This uses the permalink URL that we provide for this page, but of course there a
   * http://www.on10.net/Blogs/tina/exclusive-video-first-look-at-the-xbox-elite/ and
   * http://www.on10.net/Blogs/tina/exclusive-video-first-look-at-the-xbox-elite/default.aspx
 
-When a client, some other blog or blog posting software, goes to auto-discover our trackback URL they try to match the dc:identifier to whatever url they used in their post. So, if they didn&#8217;t use the one we&#8217;ve chosen for our dc:identifier, then they don&#8217;t find our trackback info, they don&#8217;t send the trackback, and we don&#8217;t get the trackback.
+When a client, some other blog or blog posting software, goes to auto-discover our trackback URL they try to match the dc:identifier to whatever url they used in their post. So, if they didn't use the one we've chosen for our dc:identifier, then they don't find our trackback info, they don't send the trackback, and we don't get the trackback.
 
 This sucks, but what is the right way to handle it? Add four distinct RDF blocks? Or is there some way to include all four URLs in the one RDF block?

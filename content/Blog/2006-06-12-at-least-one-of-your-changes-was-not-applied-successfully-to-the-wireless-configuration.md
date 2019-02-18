@@ -1,1 +1,1 @@
-I have no idea what this means. I get it all the time, whenever I hookup to an airport or conference hotspot. The connection always works, so the message doesn&#8217;t seem to matter, but I still wonder what it means 🙂
+I have no idea what this means. I get it all the time, whenever I hookup to an airport or conference hotspot. The connection always works, so the message doesn't seem to matter, but I still wonder what it means 🙂

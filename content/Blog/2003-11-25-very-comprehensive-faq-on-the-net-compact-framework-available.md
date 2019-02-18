@@ -1,1 +1,1 @@
-This isn&#8217;t new, but it is new to me&#8230; <a href="http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx" target="_blank" class="broken_link">http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx</a>
+This isn't new, but it is new to me... [http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx](http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx" target="_blank)

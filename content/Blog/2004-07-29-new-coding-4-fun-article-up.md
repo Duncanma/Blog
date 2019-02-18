@@ -2,6 +2,6 @@
 				  
 
 				  
-**Summary:** Duncan Mackenzie describes his process to build a &#8220;Quick Poll&#8221; using Visual Basic and ASP.NET.
+**Summary:** Duncan Mackenzie describes his process to build a "Quick Poll" using Visual Basic and ASP.NET.
 
-Recent discussions have motivated me to add some &#8216;anti-repeat-voting&#8217; code to this sample&#8230; I&#8217;ve finished up most of the changes, so grab the sample from the article if you are interested and then watch this space for more information on the additions!
+Recent discussions have motivated me to add some &#8216;anti-repeat-voting' code to this sample... I've finished up most of the changes, so grab the sample from the article if you are interested and then watch this space for more information on the additions!

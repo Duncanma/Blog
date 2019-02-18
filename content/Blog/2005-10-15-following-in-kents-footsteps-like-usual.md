@@ -1,3 +1,3 @@
-<a href="http://www.acmebinary.com/blogs/kent/archive/2005/10/07/273.aspx" target="_blank" class="broken_link">Kent&#8217;s flair</a> was cool&#8230; so I made my own, using his code of course, but targetting whatever feed you want&#8230; check out the source of this image and I&#8217;m sure you can figure out how to change the feed it is pointing to&#8230;
+[Kent's flair](http://www.acmebinary.com/blogs/kent/archive/2005/10/07/273.aspx" target="_blank) was cool... so I made my own, using his code of course, but targetting whatever feed you want... check out the source of this image and I'm sure you can figure out how to change the feed it is pointing to...
 
 <img src="http://eris1109.si-xios.info/FlairMaker.ashx?rss=http://blogs.duncanmackenzie.net/duncanma/Rss.aspx" border="0" />

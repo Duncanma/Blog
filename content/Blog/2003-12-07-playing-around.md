@@ -1,4 +1,4 @@
-I&#8217;ve been playing with some serial port code lately, working out the details of controlling an LCD Panel&#8230;
+I've been playing with some serial port code lately, working out the details of controlling an LCD Panel...
   
 ![](http://www.duncanmackenzie.net/images/DSC00263.JPG)
 

@@ -1,3 +1,3 @@
-[Sampy](http://blog.sampy.com){.broken_link} and I were looking at some photos of the MC Chris concert from PAX05 and I had to go dig up the song. Easy enough to find the MP3 on <a href="http://www.myspace.com/mcchris" target="_blank">MC Chris&#8217;s site</a>, but I remembered a video &#8230; <a href="http://www.youtube.com/watch?v=erP1K_9yf6o" target="_blank">not this one, but close enough</a>.
+[Sampy](http://blog.sampy.com){.broken_link} and I were looking at some photos of the MC Chris concert from PAX05 and I had to go dig up the song. Easy enough to find the MP3 on [MC Chris's site](http://www.myspace.com/mcchris" target="_blank), but I remembered a video ... [not this one, but close enough](http://www.youtube.com/watch?v=erP1K_9yf6o" target="_blank).
 
-<a href="http://www.flickr.com/photos/dalangalma/37850224/" target="_new"><img src="http://static.flickr.com/26/37850224_1fc2ca62be_m_d.jpg" /></a>
+[<img src="http://static.flickr.com/26/37850224_1fc2ca62be_m_d.jpg" />](http://www.flickr.com/photos/dalangalma/37850224/" target="_new)

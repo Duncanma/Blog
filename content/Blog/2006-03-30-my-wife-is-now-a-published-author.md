@@ -1,1 +1,1 @@
-Guess I had better <a href="http://www.parentmap.com/april_06/0406_2.htm" target="_blank" class="broken_link">watch my manners</a>!!
+Guess I had better [watch my manners](http://www.parentmap.com/april_06/0406_2.htm" target="_blank)!!

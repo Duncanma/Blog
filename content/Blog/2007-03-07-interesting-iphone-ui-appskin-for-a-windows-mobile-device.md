@@ -2,4 +2,4 @@
 </embed>
 
   
-<a title="windows mobile iphone" href="http://soapbox.msn.com/video.aspx?vid=5b3f42eb-d269-43f9-9b9e-d4070d20b652" target="_new" class="broken_link">Video: windows mobile iphone</a>
+<a title="windows mobile iphone" href="http://soapbox.msn.com/video.aspx?vid=5b3f42eb-d269-43f9-9b9e-d4070d20b652" target="_new">Video: windows mobile iphone</a>

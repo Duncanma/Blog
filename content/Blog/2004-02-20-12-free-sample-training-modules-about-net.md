@@ -1,4 +1,4 @@
-Free sample modules available from the following training courses&#8230; 
+Free sample modules available from the following training courses... 
 
   * [Programming with C#](http://www.microsoft.com/traincert/syllabi/2124Cfinal.asp){.broken_link}
   * [Developing Microsoft ASP.NET Web Applications Using Visual Studio .NET](http://www.microsoft.com/traincert/syllabi/2310Bfinal.asp){.broken_link}

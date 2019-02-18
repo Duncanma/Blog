@@ -1,8 +1,8 @@
-We recently had Donovan West ([LiveGadgets.net](http://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop. 
+We recently had Donovan West ([LiveGadgets.net](http://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop.
 
-<a href="http://duncanmackenzie.net/images/a40241c2-1d0c-4f58-97bc-215eb3c7ffc4.png" rel="lightbox[492]" title="The Gadget in its open state"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="147" alt="The Gadget in its open state" src="http://duncanmackenzie.net/images/9cfa4634-abe8-466b-8564-036df610d1d3.png" width="320" border="0" /></a> 
+[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="147" alt="The Gadget in its open state" src="http://duncanmackenzie.net/images/9cfa4634-abe8-466b-8564-036df610d1d3.png" width="320" border="0" />](http://duncanmackenzie.net/images/a40241c2-1d0c-4f58-97bc-215eb3c7ffc4.png" rel="lightbox[492]" title="The Gadget in its open state)
 
-&nbsp;
+
 
 You can check out the gadgets (for [Channel 9](http://channel9.msdn.com), [Mix](http://visitmix.com/){.broken_link}, [C8](http://channel8.msdn.com/){.broken_link}, [Edge](http://edge.technet.com/){.broken_link}, and [on10.net](http://on10.net/){.broken_link}) by clicking on the appropriate image below:
 

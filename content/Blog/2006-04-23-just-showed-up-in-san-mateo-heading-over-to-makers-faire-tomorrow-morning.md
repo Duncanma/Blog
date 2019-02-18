@@ -1,3 +1,3 @@
-I&#8217;ll be <a href="http://makezine.com/faire/" target="_blank">there</a> tomorrow with <a href="http://on10.net/people/laura/" target="_blank" class="broken_link">Laura Foy</a> (host) and Scott Finley (expert camera dude)&#8230;. and I&#8217;ll be doing&#8230; well, it is hard to describe what I&#8217;ll be doing, but hopefully most of it will be fun!
+I'll be [there](http://makezine.com/faire/" target="_blank) tomorrow with [Laura Foy](http://on10.net/people/laura/" target="_blank) (host) and Scott Finley (expert camera dude).... and I'll be doing... well, it is hard to describe what I'll be doing, but hopefully most of it will be fun!
 
-Check out the program at <a href="http://makezine.com/faire/" target="_blank">http://makezine.com/faire/</a> and let me know what you would want to go see&#8230;
+Check out the program at [http://makezine.com/faire/](http://makezine.com/faire/" target="_blank) and let me know what you would want to go see...

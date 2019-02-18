@@ -1,1 +1,1 @@
-For the next 6 months, many of the PDC Sessions will available at <a href="http://microsoft.sitestream.com/PDC2003/Default.htm" target="_blank" class="broken_link">http://microsoft.sitestream.com/PDC2003/Default.htm</a> as streaming audio with synchronized PPT and demos. Check it out!!
+For the next 6 months, many of the PDC Sessions will available at [http://microsoft.sitestream.com/PDC2003/Default.htm](http://microsoft.sitestream.com/PDC2003/Default.htm" target="_blank) as streaming audio with synchronized PPT and demos. Check it out!!

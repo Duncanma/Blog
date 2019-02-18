@@ -1,1 +1,1 @@
-<a href="http://www.ttgames.com/node/119" target="_new" atomicselection="true" class="broken_link"><img height="480" alt="Lego Batman" src="http://www.ttgames.com/files/images/Batman_announce_image.jpg" width="378" border="0" /></a>
+[<img height="480" alt="Lego Batman" src="http://www.ttgames.com/files/images/Batman_announce_image.jpg" width="378" border="0" />](http://www.ttgames.com/node/119" target="_new" atomicselection="true)

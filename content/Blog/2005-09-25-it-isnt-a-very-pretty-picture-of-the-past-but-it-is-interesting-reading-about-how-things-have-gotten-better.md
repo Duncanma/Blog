@@ -1,1 +1,1 @@
-<a href="http://online.wsj.com/article/0,,SB112743680328349448,00.html" target="_blank" class="broken_link">Battling Google, Microsoft Changes How It Builds Software</a>
+[Battling Google, Microsoft Changes How It Builds Software](http://online.wsj.com/article/0,,SB112743680328349448,00.html" target="_blank)

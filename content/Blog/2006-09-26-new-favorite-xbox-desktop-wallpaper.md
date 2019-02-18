@@ -1,3 +1,3 @@
-I went over to 360Style.net today to find that it has been totally redesigned&#8230; same great content, much easier to find your way around. While I was there I picked up <a href="http://www.360style.net/wallpapers28.html" target="_blank" class="broken_link">a new background for my Vista box</a>. The wallpapers that ship with Vista are beautiful, but they can&#8217;t compare with this&#8230;
+I went over to 360Style.net today to find that it has been totally redesigned... same great content, much easier to find your way around. While I was there I picked up [a new background for my Vista box](http://www.360style.net/wallpapers28.html" target="_blank). The wallpapers that ship with Vista are beautiful, but they can't compare with this...
 
-<a href="http://www.360style.net/wallpapers28.html" target="_new" atomicselection="true" class="broken_link"><img src="http://www.360style.net/wallpapers/28/thumb_10.jpg" /></a>
+[<img src="http://www.360style.net/wallpapers/28/thumb_10.jpg" />](http://www.360style.net/wallpapers28.html" target="_new" atomicselection="true)

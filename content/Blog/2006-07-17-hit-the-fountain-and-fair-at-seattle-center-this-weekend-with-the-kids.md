@@ -4,6 +4,6 @@ Good times were had by all, although mostly by my son (Connor)!
 
 Played in the fountain, ate some hotdogs and did a few rides (very few) at the fair that sits below the Space Needle (you can see the needle in the back of this shot).
 
-My high-point of the trip? When my son looked over a perfect stranger in line (a guy, probably around my age&#8230; no kids with him) and asked for a bite of his cotton candy. Well, after a look at me to make sure it was ok, the dude pulled the plastic bag off the top of his cotton candy so that Connor could grab a previously untouched piece and Connor got his first taste of pure sugar in stringy/fluffy form.
+My high-point of the trip? When my son looked over a perfect stranger in line (a guy, probably around my age... no kids with him) and asked for a bite of his cotton candy. Well, after a look at me to make sure it was ok, the dude pulled the plastic bag off the top of his cotton candy so that Connor could grab a previously untouched piece and Connor got his first taste of pure sugar in stringy/fluffy form.
 
-Now, I don&#8217;t want my son to be all weird about strangers but I did mention to him later that asking strangers for candy is not normally a good idea&#8230; although I&#8217;m less concerned about folks that he **asks** for candy, compared to someone who offers 🙂
+Now, I don't want my son to be all weird about strangers but I did mention to him later that asking strangers for candy is not normally a good idea... although I'm less concerned about folks that he **asks** for candy, compared to someone who offers 🙂

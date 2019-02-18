@@ -2,6 +2,6 @@
 </embed>
 
   
-<a title="Jada Mackenzie" href="http://soapbox.msn.com/video.aspx?vid=078440d0-2fc7-4da6-bd93-5d47cd310c11" target="_new" class="broken_link">Video: Jada Mackenzie</a>
+<a title="Jada Mackenzie" href="http://soapbox.msn.com/video.aspx?vid=078440d0-2fc7-4da6-bd93-5d47cd310c11" target="_new">Video: Jada Mackenzie</a>
 
-&nbsp;
+ 

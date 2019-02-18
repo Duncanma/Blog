@@ -2,8 +2,8 @@
 </embed>
 
   
-<a title="Connor gets out of School" href="http://soapbox.msn.com/video.aspx?vid=ae13d47c-bc1c-4e4e-9ccd-d2a9470305a5" target="_new" class="broken_link">Video: Connor gets out of School</a>
+<a title="Connor gets out of School" href="http://soapbox.msn.com/video.aspx?vid=ae13d47c-bc1c-4e4e-9ccd-d2a9470305a5" target="_new">Video: Connor gets out of School</a>
 
-For those of you who aren&#8217;t in my family&#8230; no worries&#8230; I&#8217;ll stop with the videos now 🙂
+For those of you who aren't in my family... no worries... I'll stop with the videos now 🙂
 
-This video seems a bit choppy to me&#8230; although the source material was just as good as the previous ones&#8230; hmm&#8230;
+This video seems a bit choppy to me... although the source material was just as good as the previous ones... hmm...

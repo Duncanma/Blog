@@ -1,3 +1,3 @@
-I even got to be the &#8216;preview&#8217; image! <a href="http://channel9.msdn.com/showpost.aspx?postid=226369" target="_blank">Check this out</a> to hear a bit more about our design and implementation of on10.net, and for some more info on our plans around on10.net going forward and for moving Channel 9 on to this new code base.
+I even got to be the &#8216;preview' image! [Check this out](http://channel9.msdn.com/showpost.aspx?postid=226369" target="_blank) to hear a bit more about our design and implementation of on10.net, and for some more info on our plans around on10.net going forward and for moving Channel 9 on to this new code base.
 
 [<img src="http://channel9.msdn.com/Photos/226369.jpg" border="0" />](http://channel9.msdn.com/showpost.aspx?postid=226369)

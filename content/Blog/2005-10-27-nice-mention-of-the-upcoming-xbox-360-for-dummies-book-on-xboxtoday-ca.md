@@ -1,7 +1,7 @@
-> **<a href="http://www.xboxtoday.ca/xbox_360_for_dummies?PHPSESSID=9f04573df4d8291ac5fa620cfb08cf1d" target="_blank" class="broken_link">Xbox 360 for Dummies</a>**  
-> By Sean Lennox  
-> A new book entitiled &#8220;<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0471771805/ref=ase_duncanmackenz-20/002-2336965-9825627?v=glance&s=books" target="_blank">Xbox 360 for Dummies</a>&#8221; might be exactly what some of us need
-> 
-> The new Xbox 360 will be released on November 22nd here in North America. To help you along the process of setting up and using your new fangled contraption, the creators of the best selling &#8220;For Dummies&#8217; series have written a book for the not so savvy Xbox users entitled &#8220;Xbox 360 For Dummies&#8221; The book is a basic how-to manual. Topics covered include&#8230; 
+> **[Xbox 360 for Dummies](http://www.xboxtoday.ca/xbox_360_for_dummies?PHPSESSID=9f04573df4d8291ac5fa620cfb08cf1d" target="_blank)**
+> By Sean Lennox
+> A new book entitiled "[Xbox 360 for Dummies](http://www.amazon.com/exec/obidos/tg/detail/-/0471771805/ref=ase_duncanmackenz-20/002-2336965-9825627?v=glance&s=books" target="_blank)" might be exactly what some of us need
+>
+> The new Xbox 360 will be released on November 22nd here in North America. To help you along the process of setting up and using your new fangled contraption, the creators of the best selling "For Dummies' series have written a book for the not so savvy Xbox users entitled "Xbox 360 For Dummies" The book is a basic how-to manual. Topics covered include...
 
-More info on <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0471771805/ref=ase_duncanmackenz-20/002-2336965-9825627?v=glance&s=books" target="_blank">the book</a> will be available online soon at [http://www.xbox4dummies.com](http "Xbox 4 Dummies"){.broken_link}
+More info on [the book](http://www.amazon.com/exec/obidos/tg/detail/-/0471771805/ref=ase_duncanmackenz-20/002-2336965-9825627?v=glance&s=books" target="_blank) will be available online soon at [http://www.xbox4dummies.com](http "Xbox 4 Dummies"){.broken_link}

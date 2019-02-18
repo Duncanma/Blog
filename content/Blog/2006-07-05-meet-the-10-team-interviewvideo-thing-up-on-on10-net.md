@@ -1,1 +1,1 @@
-<a href="http://on10.net/Blogs/TheShow/3723/" target="_blank" class="broken_link"><br /> <img src="http://on10.net/images/entries/previewsmall/10team.jpg" title="" border="0" /><br /> </a>
+[ <img src="http://on10.net/images/entries/previewsmall/10team.jpg" title="" border="0" /> ](http://on10.net/Blogs/TheShow/3723/" target="_blank)

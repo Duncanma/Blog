@@ -1,45 +1,45 @@
-Someone suggested to me that VB.NET Whidbey didn&#8217;t have support for &#8216;Generic Methods&#8217;, so I quickly wrote a bit of sample code to check (yes, it does support Generic Methods) and I thought I&#8217;d post that test code for your amusement.
+Someone suggested to me that VB.NET Whidbey didn't have support for &#8216;Generic Methods', so I quickly wrote a bit of sample code to check (yes, it does support Generic Methods) and I thought I'd post that test code for your amusement.
 
-<pre><font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Class</font> GenericMethodSample
-    <font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Sub</font> Swap(<font color="blue" family="Microsoft Sans Serif">Of</font> T)(<font color="blue" family="Microsoft Sans Serif">ByRef</font> i <font color="blue" family="Microsoft Sans Serif">As</font> T, <font color="blue" family="Microsoft Sans Serif">ByRef</font> j <font color="blue" family="Microsoft Sans Serif">As</font> T)
-        <font color="blue" family="Microsoft Sans Serif">Dim</font> temp <font color="blue" family="Microsoft Sans Serif">As</font> T
+<pre><font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Class GenericMethodSample
+    <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Sub Swap(<font color="blue" family="Microsoft Sans Serif">Of T)(<font color="blue" family="Microsoft Sans Serif">ByRef i <font color="blue" family="Microsoft Sans Serif">As T, <font color="blue" family="Microsoft Sans Serif">ByRef j <font color="blue" family="Microsoft Sans Serif">As T)
+        <font color="blue" family="Microsoft Sans Serif">Dim temp <font color="blue" family="Microsoft Sans Serif">As T
         temp = j
         j = i
         i = temp
-    <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Sub</font>
-<font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Class</font>
+    <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Sub
+<font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Class
 
-<font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Class</font> Sample
+<font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Class Sample
 
-    <font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Sub</font> TestSwap()
-        <font color="blue" family="Microsoft Sans Serif">Dim</font> i, j <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>
+    <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Sub TestSwap()
+        <font color="blue" family="Microsoft Sans Serif">Dim i, j <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">Integer
         i = 3
         j = 12
 
         Debug.WriteLine(i)
         Debug.WriteLine(j)
-        Debug.WriteLine(<font color="red" family="Microsoft Sans Serif">"-------"</font>)
+        Debug.WriteLine(<font color="red" family="Microsoft Sans Serif">"-------")
 
-        <font color="blue" family="Microsoft Sans Serif">Dim</font> gm <font color="blue" family="Microsoft Sans Serif">As</font> <font color="blue" family="Microsoft Sans Serif">New</font> GenericMethodSample
-        gm.Swap(<font color="blue" family="Microsoft Sans Serif">Of</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>)(i, j)
+        <font color="blue" family="Microsoft Sans Serif">Dim gm <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">New GenericMethodSample
+        gm.Swap(<font color="blue" family="Microsoft Sans Serif">Of <font color="blue" family="Microsoft Sans Serif">Integer)(i, j)
         Debug.WriteLine(i)
         Debug.WriteLine(j)
 
 
-    <font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Sub</font>
+    <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Sub
 
-<font color="blue" family="Microsoft Sans Serif">End</font> <font color="blue" family="Microsoft Sans Serif">Class</font>
+<font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Class
 
 </pre>
 
-If you need the &#8216;blow-by-blow&#8217; explanation of that code&#8230; the key lines to notice are;
+If you need the &#8216;blow-by-blow' explanation of that code... the key lines to notice are;
 
-<pre><font color="blue" family="Microsoft Sans Serif">Public</font> <font color="blue" family="Microsoft Sans Serif">Sub</font> Swap(<font color="blue" family="Microsoft Sans Serif">Of</font> T)(<font color="blue" family="Microsoft Sans Serif">ByRef</font> i <font color="blue" family="Microsoft Sans Serif">As</font> T, <font color="blue" family="Microsoft Sans Serif">ByRef</font> j <font color="blue" family="Microsoft Sans Serif">As</font> T)
+<pre><font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Sub Swap(<font color="blue" family="Microsoft Sans Serif">Of T)(<font color="blue" family="Microsoft Sans Serif">ByRef i <font color="blue" family="Microsoft Sans Serif">As T, <font color="blue" family="Microsoft Sans Serif">ByRef j <font color="blue" family="Microsoft Sans Serif">As T)
 </pre>
 
-Which declares a &#8220;Generic Method&#8221;, which is then strongly typed at runtime via code like this; 
+Which declares a "Generic Method", which is then strongly typed at runtime via code like this; 
 
-<pre>gm.Swap(<font color="blue" family="Microsoft Sans Serif">Of</font> <font color="blue" family="Microsoft Sans Serif">Integer</font>)(i, j)
+<pre>gm.Swap(<font color="blue" family="Microsoft Sans Serif">Of <font color="blue" family="Microsoft Sans Serif">Integer)(i, j)
 </pre>
 
 **[Update]**: [Paul Vick](http://www.panopticoncentral.net/) points out that (Of Integer) can be skipped on the call, making it just 

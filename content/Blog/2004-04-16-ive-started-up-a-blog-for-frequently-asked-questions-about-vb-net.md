@@ -1,1 +1,1 @@
-Visual Basic 2003 or 2005 (Whidbey) questions are welcome&#8230; just come on over and post your thoughts: <http://blogs.msdn.com/vbfaq/>{.broken_link}
+Visual Basic 2003 or 2005 (Whidbey) questions are welcome... just come on over and post your thoughts: <http://blogs.msdn.com/vbfaq/>{.broken_link}

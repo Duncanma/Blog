@@ -1,9 +1,9 @@
-I&#8217;m running a poll on <http://www.duncanmackenzie.net> to see what topics I should write about next in [my Coding 4 Fun column](http://msdn.microsoft.com/vbasic/using/columns/code4fun){.broken_link}&#8230; There are 7 choices in total, but 3 are getting the lion&#8217;s share of the votes&#8230;
+I'm running a poll on <http://www.duncanmackenzie.net> to see what topics I should write about next in [my Coding 4 Fun column](http://msdn.microsoft.com/vbasic/using/columns/code4fun){.broken_link}... There are 7 choices in total, but 3 are getting the lion's share of the votes...
 
 <table style="WIDTH: 1%" cellspacing="2" border="0">
   <tr>
     <td style="FONT-SIZE: 0.7em; FONT-FAMILY: Verdana,Arial" nowrap="">
-      Game Dev (a &#8216;battleship&#8217; networked game, etc..)
+      Game Dev (a &#8216;battleship' networked game, etc..)
     </td>
     
     <td>
@@ -230,6 +230,6 @@ I&#8217;m running a poll on <http://www.duncanmackenzie.net> to see what topics 
   </tr>
 </table>
 
-It seems these three categories are by far the most popular&#8230; with gaming leading the pack&#8230;
+It seems these three categories are by far the most popular... with gaming leading the pack...
 
-[Go vote](http://www.duncanmackenzie.net/) and let me know what you want to see&#8230;
+[Go vote](http://www.duncanmackenzie.net/) and let me know what you want to see...

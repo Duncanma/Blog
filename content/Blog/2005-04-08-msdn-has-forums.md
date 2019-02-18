@@ -1,5 +1,5 @@
-Looks like I have a new place to hang out and answer questions&#8230; 
+Looks like I have a new place to hang out and answer questions...
 
-<a href="http://forums.microsoft.com/msdn/" target="_blank" class="broken_link">http://forums.microsoft.com/msdn/</a> 
+[http://forums.microsoft.com/msdn/](http://forums.microsoft.com/msdn/" target="_blank)
 
-&#8230;there is even a VB board!
+...there is even a VB board!

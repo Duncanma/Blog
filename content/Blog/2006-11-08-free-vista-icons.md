@@ -1,3 +1,3 @@
-If you are looking for Aero/Glass style icons&#8230; check out [http://www.vistaico.com/](http://www.vistaico.com/ "http://www.vistaico.com/"){.broken_link} 
+If you are looking for Aero/Glass style icons... check out [http://www.vistaico.com/](http://www.vistaico.com/ "http://www.vistaico.com/"){.broken_link} 
 
-This is a spin-off site from [http://www.vistaicons.com/](http://www.vistaicons.com/ "http://www.vistaicons.com/"){.broken_link}&nbsp;where you can find a few more icons&#8230; I&#8217;m still trying to find the money side of this (I&#8217;m assuming you give away good icons to lead to a purchase of more? But I can&#8217;t find any to buy&#8230;) so let me know if you figure it out.
+This is a spin-off site from [http://www.vistaicons.com/](http://www.vistaicons.com/ "http://www.vistaicons.com/"){.broken_link} where you can find a few more icons... I'm still trying to find the money side of this (I'm assuming you give away good icons to lead to a purchase of more? But I can't find any to buy...) so let me know if you figure it out.
