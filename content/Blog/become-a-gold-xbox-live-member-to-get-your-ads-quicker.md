@@ -1,10 +1,10 @@
-Interesting news, [content that is only for Xbox Live Gold members](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx" target="_blank)... which even [Tycho](http://www.penny-arcade.com/" target="_blank) thinks is understandable, but I agree with [his comments about what kind of content is being restricted](http://www.penny-arcade.com/2006/10/25" target="_blank).
+Interesting news, [content that is only for Xbox Live Gold members](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx)... which even [Tycho](http://www.penny-arcade.com/) thinks is understandable, but I agree with [his comments about what kind of content is being restricted](http://www.penny-arcade.com/2006/10/25).
 
 > they made a serious misstep with the content they chose to inaugurate Silver's descent into squalor: a trailer for Gears of War. An _advertisement_. Now, don't get me wrong. This is really _quite_ a [trailer](http://www.gametrailers.com/player.php?id=14418&type=wmv&pl=game). The term "trailer" may even be insufficient. But, um... When you make people pony up for instant access to ads? They might get the impression that you are taking advantage of them.
 
 Don't we put up trailers to help us sell the game? In which case, wouldn't we want every person with a pulse (and a wallet) to view them? Can Silver members play Gears? (the answer is yes, by the way) Then why not show them ad and convince them to buy? Oh, you want them to move up to Gold... well, shouldn't the cool multi-player gaming features of a game like Gear be the carrot for that type of move?
 
-[Some relevant comments from Major Nelson's post](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx#comments" target="_blank)... there were many "this is an amazing trailer, I'm going to buy the game" type of comments as well, but in regards to the gold vs. silver bit there were these:
+[Some relevant comments from Major Nelson's post](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx#comments)... there were many "this is an amazing trailer, I'm going to buy the game" type of comments as well, but in regards to the gold vs. silver bit there were these:
 
   * _You need to pay (gold) to download a commercial? What an idiots....._
   * _Just gold members? I hope this doesn't turn into a trend, videos were for all members before. It's not like silver members aren't buying the damn game you know._

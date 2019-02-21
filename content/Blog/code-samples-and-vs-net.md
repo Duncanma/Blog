@@ -2,7 +2,7 @@
 
 Jimski
 
-](http://dotnetweblogs.com/JArnold){.broken_link}
+](http://dotnetweblogs.com/JArnold)
 
 
 
@@ -10,7 +10,7 @@ Jimski
 
 blogged about the IDE
 
-](http://dotnetweblogs.com/JArnold/posts/2740.aspx){.broken_link}
+](http://dotnetweblogs.com/JArnold/posts/2740.aspx)
 
 the other day... since I am a writer for MSDN and other places, this a topic that I've thought about quite a bit... sadly, the only real solution seems to be posting code that works with both situations (VS.NET and non-VS.NET) because posting code that doesn't work well in the Windows Forms designer is a bad-experience for people using VS.NET and designer-generated code produces a bad experience for those who are not using VS.NET.
 

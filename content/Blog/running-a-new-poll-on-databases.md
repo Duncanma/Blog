@@ -1,6 +1,6 @@
 I've put up a new poll on my site:
 
-> [What type of database do you use for the majority of your applications?](http://www.duncanmackenzie.net/" target="_blank)
+> [What type of database do you use for the majority of your applications?](http://www.duncanmackenzie.net/)
 
 
 

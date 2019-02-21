@@ -8,6 +8,6 @@ Jay writes:
 
 
   <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">
-    <span style="FONT-FAMILY: Tahoma"> <em>In Whidbey, the WinForms designer takes advantage of a new C# language feature called “</em> [ <em>partial classes</em> ](http://www.google.com/search?sourceid=navclient&ie=UTF-8&oe=UTF-8&q=C%23+partial+classes) <em>”.<span style="mso-spacerun: yes">  </span>This allows them to pull out the designer generated code into a separate file.<span style="mso-spacerun: yes">  </span>It has several advantages...<br style="mso-special-character: line-break" /></em> </span>
+    <span style="FONT-FAMILY: Tahoma"> _In Whidbey, the WinForms designer takes advantage of a new C# language feature called “_ [ _partial classes_ ](http://www.google.com/search?sourceid=navclient&ie=UTF-8&oe=UTF-8&q=C%23+partial+classes) _”.<span style="mso-spacerun: yes">  </span>This allows them to pull out the designer generated code into a separate file.<span style="mso-spacerun: yes">  </span>It has several advantages...<br style="mso-special-character: line-break" />_ </span>
 
 </blockquote>

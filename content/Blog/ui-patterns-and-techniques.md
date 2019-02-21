@@ -8,5 +8,5 @@ This is not about .NET. I just found a site full of information about standard p
 > </i> </blockquote>
 >
 > <p align="right">
->   [from UI Patterns and Techniques](http://time-tripper.com/uipatterns/index.php" target="_blank)
+>   [from UI Patterns and Techniques](http://time-tripper.com/uipatterns/index.php)
 >

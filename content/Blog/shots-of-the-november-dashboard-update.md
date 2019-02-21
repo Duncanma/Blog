@@ -4,4 +4,4 @@ These aren't from an official source, as far as I know, but they look pretty leg
 
 
 
-From [MaxConsole](http://www.maxconsole.net/?mode=news&newsid=9846" target="_blank)
+From [MaxConsole](http://www.maxconsole.net/?mode=news&newsid=9846)

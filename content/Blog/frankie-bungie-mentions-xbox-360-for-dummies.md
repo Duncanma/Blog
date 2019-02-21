@@ -2,4 +2,4 @@ He also talks about using a picture, (off of your computer, a CD, a digital came
 
 [<img src="http://www.duncanmackenzie.net/images/xbox/custombackground.jpg" border="0" />](http://www.duncanmackenzie.net/images/xbox/MediaPhotosApplyAsBackground_CustomBackground.JPG" rel="lightbox[749]" title="Frankie @ Bungie mentions XBox 360 for dummies...)
 
-[Check out his full post here.](http://www.bungie.net/News/TopStory.aspx?story=updatefeb24th&p=6267330" target="_blank)
+[Check out his full post here.](http://www.bungie.net/News/TopStory.aspx?story=updatefeb24th&p=6267330)

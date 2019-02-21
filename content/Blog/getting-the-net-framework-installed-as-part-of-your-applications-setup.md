@@ -1,6 +1,6 @@
 I'm working on the bootstrapper chapter for my upcoming ClickOnce book and it occured to me that a lot of people probably haven't heard about the bootstrapper for Visual Studio .NET 2003...
 
-> **[Visual Studio .NET Framework Bootstrapper Plug-in](http://msdn.microsoft.com/vstudio/downloads/tools/bootstrapper/" target="_blank)**
+> **[Visual Studio .NET Framework Bootstrapper Plug-in](http://msdn.microsoft.com/vstudio/downloads/tools/bootstrapper/)**
 
 > The Visual Studio .NET Framework Bootstrapper Plug-in modifies the behavior of the Setup project's Bootstrapper property to include the .NET Framework bootstrapper as well as the Windows Installer bootstrapper.
 

@@ -2,7 +2,7 @@
 
 I've never even tried to count the lines of code in a project, and I have no
 
-idea why I would. Jason mentions in his [post](http://dotnetweblogs.com/Jtucker/posts/3685.aspx){.broken_link} that some
+idea why I would. Jason mentions in his [post](http://dotnetweblogs.com/Jtucker/posts/3685.aspx) that some
 
 people have to account for their lines of code produced in a day and I think
 

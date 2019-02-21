@@ -1,1 +1,1 @@
-[Interview with the dev team](http://channel9.msdn.com/showpost.aspx?postid=171265" target="_blank) (including me) is up on Channel 9
+[Interview with the dev team](http://channel9.msdn.com/showpost.aspx?postid=171265) (including me) is up on Channel 9

@@ -1,4 +1,4 @@
-From [Dan Fernandez's Blog](http://blogs.msdn.com/danielfe/archive/2004/02/01/65925.aspx" target="_blank);
+From [Dan Fernandez's Blog](http://blogs.msdn.com/danielfe/archive/2004/02/01/65925.aspx);
 
 > Below are some recently released articles on C# Whidbey, definitely check them
 

@@ -1,4 +1,4 @@
-I captured some footage of [Viva Piñata](http://on10.net/Blogs/erik/viva-pinata-help-cheats-info-wiki/" target="_blank) to test the quality of capturing the analog video out from the 360 into a miniDV camera... worked out pretty good I think.
+I captured some footage of [Viva Piñata](http://on10.net/Blogs/erik/viva-pinata-help-cheats-info-wiki/) to test the quality of capturing the analog video out from the 360 into a miniDV camera... worked out pretty good I think.
 
 
 

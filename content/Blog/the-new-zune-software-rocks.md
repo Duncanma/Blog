@@ -4,7 +4,7 @@ Great UI, podcast support, music video downloads... and a firmware that works on
 
 
 
- [and look at the great member info page!](http://social.zune.net/member/Festive+Turkey" target="_blank)
+ [and look at the great member info page!](http://social.zune.net/member/Festive+Turkey)
 
 <embed id="flashUserCard" name="flashUserCard" src="http://social.zune.net/xweb/lx/swf/zunecard.swf?ver=1192" width="414" height="196" type="application/x-shockwave-flash" flashvars="baseURL=http%3a%2f%2fsocial.zune.net%2fzcard%2fusercardservice.ashx%3fzunetag%3dFestive+Turkey%26src%3dlarge&MMplayerType=PlugIn" salign="tl" wmode="opaque" bgcolor="#FFF">
 </embed>

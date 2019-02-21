@@ -1,4 +1,4 @@
-[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp" target="_blank)
+[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp)
 
 
 

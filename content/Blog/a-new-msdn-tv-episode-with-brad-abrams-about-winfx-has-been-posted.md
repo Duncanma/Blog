@@ -1,6 +1,6 @@
 Erica doesn't have a blog, so I'm just trying to be helpful...
 
-[http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml ](http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml" target="_blank)
+[http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml ](http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml)
 
 **What is WinFX -The New Programming Interface Introduced in Windows "Longhorn"**
 

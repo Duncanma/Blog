@@ -1,6 +1,6 @@
 I love Winnipeg, but it doesn't normally get all that many developer focused talks... so if you live there and you are interested in .NET based web development, you should really get down to this event.
 
-> [Winnipeg .NET User Group](http://www.dotnetwired.com/" target="_blank)
+> [Winnipeg .NET User Group](http://www.dotnetwired.com/)
 >
 > Winnipeg, Canada
 > October 5, 2006 "Bleeding Edge Web Services"

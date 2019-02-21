@@ -4,4 +4,4 @@
 
 ](http://www.flickr.com/photos/11836230@N00/183571589/ "Photo Sharing")
 
-No idea what I'm talking about? Head over [here](http://c9park.wordpress.com/2006/07/03/9-patrol" target="_blank) to find out more.
+No idea what I'm talking about? Head over [here](http://c9park.wordpress.com/2006/07/03/9-patrol) to find out more.

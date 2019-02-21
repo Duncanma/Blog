@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td>
-      [<img alt="Checkers Solitaire" src="http://www.addressof.com/articles/checkerssolitaire_v0.1.jpg" border="0" />](http://addressof.com/blog/archive/2005/04/07/1677.aspx" target="_blank)
+      [<img alt="Checkers Solitaire" src="http://www.addressof.com/articles/checkerssolitaire_v0.1.jpg" border="0" />](http://addressof.com/blog/archive/2005/04/07/1677.aspx)
     </td>
 
     <td>
 
-        There is even an accompanying [article](http://addressof.com/blog/articles/checkerssolitaire.aspx" target="_blank). Oh, and a challenge:
+        There is even an accompanying [article](http://addressof.com/blog/articles/checkerssolitaire.aspx). Oh, and a challenge:
 
 
       <blockquote>

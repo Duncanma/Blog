@@ -1,6 +1,6 @@
 Ok, you are going to see this a lot today, but my posts go onto the C# and VB home pages, so here goes;
 
-[Microsoft Consumer Virus Alert](http://www.microsoft.com/security/antivirus/mydoom.asp" target="_blank)
+[Microsoft Consumer Virus Alert](http://www.microsoft.com/security/antivirus/mydoom.asp)
 
 **Why We Are Issuing This Alert**
 
@@ -10,4 +10,4 @@ W32/Mydoom@MM spreads through e-mail. This worm can disguise the sender's addres
 
 Treat all e-mail attachments with caution, particularly .zip files in the case of this virus, even if they appear to be from a trusted source. Learn what to do about virus infections.
 
-Complete Information: [http://www.microsoft.com/security/antivirus/mydoom.asp](http://www.microsoft.com/security/antivirus/mydoom.asp" target="_blank)
+Complete Information: [http://www.microsoft.com/security/antivirus/mydoom.asp](http://www.microsoft.com/security/antivirus/mydoom.asp)

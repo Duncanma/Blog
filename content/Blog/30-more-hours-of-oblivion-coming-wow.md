@@ -1,6 +1,6 @@
 I'm far from having used up all the gameplay in the initial release of Oblivion, and I haven't even gotten into the expansions, and now they've annouced an additional expansion with a ton more gameplay that I can jump into on the 360... amazing.
 
-> [Even More Oblivion on the Shivering Isles](http://news.digitaltrends.com/article12115.html){.broken_link}
+> [Even More Oblivion on the Shivering Isles](http://news.digitaltrends.com/article12115.html)
 > Thursday, January 18 @ 11:10:00 PST
 >
 > Bethesda Softworks has announced The Elder Scrolls IV: Shivering Isles, an official Oblivion expansion for Windows and the Xbox 360.

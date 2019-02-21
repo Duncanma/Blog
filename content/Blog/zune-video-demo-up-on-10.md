@@ -1,1 +1,1 @@
-Brian and I just posted [a demo of the wireless sharing features in the Zune](http://on10.net/Blogs/duncan/sharing-songs-and-pictures-with-the-zune/" target="_blank), so if you are into that sort of thing you should check it out.
+Brian and I just posted [a demo of the wireless sharing features in the Zune](http://on10.net/Blogs/duncan/sharing-songs-and-pictures-with-the-zune/), so if you are into that sort of thing you should check it out.

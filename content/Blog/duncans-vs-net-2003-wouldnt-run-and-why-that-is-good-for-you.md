@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <span></span> 
+  <span></span>
 </div>
 
 <div>
@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <span></span> 
+  <span></span>
 </div>
 
 <div>
@@ -19,19 +19,19 @@
 </div>
 
 <div>
-  <span></span> 
+  <span></span>
 </div>
 
 <div>
-  <span>I didn't try reinstalling <strong>because I really wanted to know what was actually going wrong &#8216;behind-the-scences'</strong>, and here is where you benefit... I found out what was causing it, so if it happens to you, you'll know too 🙂</span>
+  <span>I didn't try reinstalling **because I really wanted to know what was actually going wrong &#8216;behind-the-scences'**, and here is where you benefit... I found out what was causing it, so if it happens to you, you'll know too 🙂</span>
 </div>
 
 <div>
-  <span></span> 
+  <span></span>
 </div>
 
 <div>
-  <span>I had a small flash of insight... everything that was failing relies upon xml serialization, which uses temp files ... so I dug around and found that my TEMP and TMP environment variables were pointing to a secondary hard drive <strong>which was no longer there.</strong> (I popped it out to put in my CD drive.... can't run Halo without it)</span>
+  <span>I had a small flash of insight... everything that was failing relies upon xml serialization, which uses temp files ... so I dug around and found that my TEMP and TMP environment variables were pointing to a secondary hard drive **which was no longer there.** (I popped it out to put in my CD drive.... can't run Halo without it)</span>
 </div>
 
 <div>
@@ -39,5 +39,5 @@
 </div>
 
 <div align="left">
-  <span>So... no temp folder and you get a whole bunch of errors trying to open config file, and VS.NET fails (with a "please reinstall" error). Problem solved, although I had no luck finding any docs on this issue...</span> 
+  <span>So... no temp folder and you get a whole bunch of errors trying to open config file, and VS.NET fails (with a "please reinstall" error). Problem solved, although I had no luck finding any docs on this issue...</span>
 </div>

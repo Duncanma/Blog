@@ -1,6 +1,6 @@
-I bet I've mentioned these before, but the joy of rediscovery is the positive side of a poor memory... [Christopher Frazier](http://www.chrisfrazier.net/blog" target="_blank) pointed to these in a email discussion today, and I thought you might be interested!
+I bet I've mentioned these before, but the joy of rediscovery is the positive side of a poor memory... [Christopher Frazier](http://www.chrisfrazier.net/blog) pointed to these in a email discussion today, and I thought you might be interested!
 
-> [SteepValley.NET: XP Common Controls](http://www.steepvalley.net/dev/projects/xpcc/xpcc.aspx" target="_blank)
+> [SteepValley.NET: XP Common Controls](http://www.steepvalley.net/dev/projects/xpcc/xpcc.aspx)
 >
 > The XP Common Controls are a collection of themed and unthemed controls that are currently missing from the Visual Studio IDE...
 >

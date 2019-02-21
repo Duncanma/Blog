@@ -1,1 +1,1 @@
-You may want to check them out at [http://blogs.msdn.com/csharpfaq/category/7580.aspx](http://blogs.msdn.com/csharpfaq/category/7580.aspx" target="_blank)
+You may want to check them out at [http://blogs.msdn.com/csharpfaq/category/7580.aspx](http://blogs.msdn.com/csharpfaq/category/7580.aspx)

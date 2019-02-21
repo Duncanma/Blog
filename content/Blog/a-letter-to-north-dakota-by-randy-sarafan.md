@@ -1,3 +1,3 @@
-I was browsing around on [Randy's web site](http://www.randywritesletters.com/portfolio/" target="_blank) after reading about an upcoming session of his at Makers Faire (hacking USB keyboards!!), and I found this: [http://www.randywritesletters.com/005.html](http://www.randywritesletters.com/005.html" target="_blank)
+I was browsing around on [Randy's web site](http://www.randywritesletters.com/portfolio/) after reading about an upcoming session of his at Makers Faire (hacking USB keyboards!!), and I found this: [http://www.randywritesletters.com/005.html](http://www.randywritesletters.com/005.html)
 
 All of the letters on that site (which has little or no navigation elements, so just edit the URL appropriately to go up to the front page) are hilarious, but for some reason I find this one to be the best... let me know if you disagree.

@@ -1,4 +1,4 @@
-Brian Randell has written 4 (really 7, but 3 of them are just the same article as both VB and C#) articles on using MSDE in your applications... (via [Kent Sharkey's blog](http://blogs.msdn.com/ksharkey" target="_blank));
+Brian Randell has written 4 (really 7, but 3 of them are just the same article as both VB and C#) articles on using MSDE in your applications... (via [Kent Sharkey's blog](http://blogs.msdn.com/ksharkey));
 
 > <div class="post">
 >   <h4>

@@ -1,1 +1,1 @@
-I guess I could have just added a category to my blog, but this works... [http://www.duncanmackenzie.net/articles/rss.xml](http://www.duncanmackenzie.net/articles/rss.xml" target="_blank)
+I guess I could have just added a category to my blog, but this works... [http://www.duncanmackenzie.net/articles/rss.xml](http://www.duncanmackenzie.net/articles/rss.xml)

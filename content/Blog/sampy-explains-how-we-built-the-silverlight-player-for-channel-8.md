@@ -2,4 +2,4 @@ In an interview with Adam Kinney on Channel 9 today, Sampy goes over how the pla
 
 
 
-[See this video on Channel 9!](http://channel9.msdn.com/ShowPost.aspx?PostID=344297" target="_blank)
+[See this video on Channel 9!](http://channel9.msdn.com/ShowPost.aspx?PostID=344297)

@@ -5,12 +5,12 @@ Although I did hit some snags with odd unsorted feeds (MSDN's!), I managed to ge
 * * *
 
 I wrote all of the code you've seen so far, and tested the various bits of XSL code, using a small sample application (see Figure 2). I ended up throwing that sample away as I continued on, but for now it is a good way to test my code against various RSS feeds.
-   
 
-  
+
+
 <img src="http://www.duncanmackenzie.net/rssviewer.jpg" border="0" />
-  
-**Figure 2** 
+
+**Figure 2**
 
 ### Making Sure Everything is in Order
 
@@ -22,7 +22,7 @@ The first problem I ran into was that some feeds were not displaying in descendi
       Dim myDate as Date = CDate(pubDate)
       Return myDate.ToString("yyyyMMddHHmmss")
   Catch
-  
+
   End Try
 end function
 <font color="#0000FF">&lt;/<font color="#800000">msxsl:script<font color="#0000FF">&gt;
@@ -49,11 +49,11 @@ The specification for RSS is flexible in many ways, including the proper handlin
 
 <pre class="code"><font color="#000000"><font color="#0000FF">&lt;<font color="#800000">xsl:choose<font color="#0000FF">&gt;
     &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='pubDate'&gt;
-        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on: 
+        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on:
             <font color="#0000FF">&lt;<font color="#800000">xsl:value-of <font color="#FF0000">select<font color="#0000FF">="pubDate" /&gt;&lt;/<font color="#800000">p<font color="#0000FF">&gt;
     &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
     &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='dc:date'&gt;
-        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on: 
+        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on:
             <font color="#0000FF">&lt;<font color="#800000">xsl:value-of <font color="#FF0000">select<font color="#0000FF">="dc:date" /&gt;&lt;/<font color="#800000">p<font color="#0000FF">&gt;
     &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
     &lt;<font color="#800000">xsl:otherwise<font color="#0000FF">&gt;
@@ -92,11 +92,11 @@ To make sure I could handle each of these three cases, I used another xsl:choose
 The end result should work for any feed that is using one of these three methods for exposing their content as a RSS feed (xhtml:body, description, or content:encoding), producing a final display similar to what is shown in Figure 3.
 
 <img src="http://www.duncanmackenzie.net/Figure3.png" border="0" />
-  
+
 **Figure 3**
 
-Now, it is very important to note that whenever you are going to display HTML content that someone else has provided (such as the content inside of an RSS feed), you need to be aware of the possible risks, especially when you are using my method of replacing the contents of the "about:blank" page. When HTML is displayed in the embedded browser, it is running within the local zone, which will likely have much lower security restrictions than the Internet zone. Although there are ways in which you can clean up HTML before displaying it, it takes quite a bit of work to guarantee that it is completely safe. Check out [this useful blog post](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely) that describes some of the issues caused by HTML in RSS, and gives some suggestions on avoiding them. 
+Now, it is very important to note that whenever you are going to display HTML content that someone else has provided (such as the content inside of an RSS feed), you need to be aware of the possible risks, especially when you are using my method of replacing the contents of the "about:blank" page. When HTML is displayed in the embedded browser, it is running within the local zone, which will likely have much lower security restrictions than the Internet zone. Although there are ways in which you can clean up HTML before displaying it, it takes quite a bit of work to guarantee that it is completely safe. Check out [this useful blog post](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely) that describes some of the issues caused by HTML in RSS, and gives some suggestions on avoiding them.
 
-* * *More to come soon... I've updated the XSLT at 
+* * *More to come soon... I've updated the XSLT at
 
-<http://www.duncanmackenzie.net/rss2html2.zip>{.broken_link} for your viewing pleasure...
+<http://www.duncanmackenzie.net/rss2html2.zip> for your viewing pleasure...

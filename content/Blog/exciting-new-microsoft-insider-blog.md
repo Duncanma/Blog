@@ -1,7 +1,7 @@
-Check it out! 
-				  
+Check it out!
+
 [
-						  
+
 http://blogs.gotdotnet.com/thayer/
-				  
-](http://blogs.gotdotnet.com/thayer/){.broken_link}
+
+](http://blogs.gotdotnet.com/thayer/)

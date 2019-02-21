@@ -1,5 +1,5 @@
-Yet another control development topic... this time I'm building a &#8216;star rating' control, similar to what you find in Windows Media Player's UI... 
+Yet another control development topic... this time I'm building a &#8216;star rating' control, similar to what you find in Windows Media Player's UI...
 
 ![](http://msdn.microsoft.com/msdnmag/issues/05/01/AdvancedBasics/fig01.gif)
 
-Check out the article here: [Creating a Five-Star Rating Control](http://msdn.microsoft.com/msdnmag/issues/05/01/AdvancedBasics/default.aspx){.broken_link}
+Check out the article here: [Creating a Five-Star Rating Control](http://msdn.microsoft.com/msdnmag/issues/05/01/AdvancedBasics/default.aspx)

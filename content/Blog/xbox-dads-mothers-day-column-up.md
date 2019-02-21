@@ -1,1 +1,1 @@
-[Nothing very exciting for you gamers out there](http://www.xbox.com/en-US/community/personality/xboxdad/2007/0507-unlockgoodhusbandsonachievement.htm" target="_blank), but you know... 'tis the season.
+[Nothing very exciting for you gamers out there](http://www.xbox.com/en-US/community/personality/xboxdad/2007/0507-unlockgoodhusbandsonachievement.htm), but you know... 'tis the season.

@@ -2,7 +2,7 @@ This very recent article from [CodeProject.com](http://www.codeproject.com/) sho
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <strong>[Active Directory object picker control](http://www.codeproject.com/cs/miscctrl/ADPickerCtrl.asp)By </strong>[<strong>Marc Merritt</strong>](http://www.codeproject.com/script/profile/whos_who.asp?id=2851==)<strong> </strong>
+    **[Active Directory object picker control](http://www.codeproject.com/cs/miscctrl/ADPickerCtrl.asp)By **[**Marc Merritt**](http://www.codeproject.com/script/profile/whos_who.asp?id=2851==)** **
 
 
 

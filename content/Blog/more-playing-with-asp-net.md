@@ -1,6 +1,6 @@
 As with my earlier messing around with a poll, I took a concept from the [www.asp.net](http://www.asp.net/) site today and made my own "CheckDotNet.aspx" page. The one on [www.asp.net](http://www.asp.net/) only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases... recommending an upgrade for no framework or 1.0, and returning "Framework Found" if you have 1.1 already.
 
-<http://www.duncanmackenzie.net/tools/checkdotnet.aspx>{.broken_link} 
+<http://www.duncanmackenzie.net/tools/checkdotnet.aspx>
 
 Difficult? Nope... nothing too impressive...
 
@@ -28,11 +28,11 @@ _Ouch... I guess I was porting/modifying that code way too quickly... goofed up 
 </span><span>            </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'best thing...
 </span><span>            aOkPanel11.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
         </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">else</span><span>
-            </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'anything else... should display for 
+            </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'anything else... should display for
 </span><span>            </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #008000; FONT-FAMILY: Courier New">'&lt; 1.0 or nothing...
 </span><span>            downloadPanel.Visible = </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">true</span><span>
         </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">end</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">if</span><span>
-    
+
     </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">end</span><span> </span><span style="FONT-WEIGHT: 400; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: Courier New">sub</span><span>
 </span></pre>
 
@@ -40,4 +40,3 @@ _Ouch... I guess I was porting/modifying that code way too quickly... goofed up 
 
 _hopefully, this &#8216;release' works better than the last one 🙂_
 
- 

@@ -2,20 +2,20 @@ You may have been hearing a bit about nullable types in Whidbey (a feature in bo
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
   <div class="postTitle">
-    <a id="viewpost.ascx_TitleUrl" href="http://www.panopticoncentral.net/archive/2004/06/04/1180.aspx"> <strong>The Truth about Nullable Types and VB...</strong> </a> <strong> </strong>
+    <a id="viewpost.ascx_TitleUrl" href="http://www.panopticoncentral.net/archive/2004/06/04/1180.aspx"> **The Truth about Nullable Types and VB...** </a> ** **
   </div>
 
   <div class="postText">
 
-      <em>There's been a little confusion about how VB's going to handle nullable types in VB 2005, so let me try and amplify a little bit on the </em> [ <em>entry on the VB team blog</em> ](http://blogs.msdn.com/vbteam/archive/2004/05/28/143813.aspx) <em>.</em>
+      _There's been a little confusion about how VB's going to handle nullable types in VB 2005, so let me try and amplify a little bit on the _ [ _entry on the VB team blog_ ](http://blogs.msdn.com/vbteam/archive/2004/05/28/143813.aspx) _._
 
 
 
-      <strong> <em>What are nullable types?</em> </strong>
+      ** _What are nullable types?_ **
 
 
 
-      <em>One of the primary differences between value types such as Integer or structures and reference types such as Form or String is that reference types support a null value.... ([continued in the full post](http://www.panopticoncentral.net/archive/2004/06/04/1180.aspx))</em>
+      _One of the primary differences between value types such as Integer or structures and reference types such as Form or String is that reference types support a null value.... ([continued in the full post](http://www.panopticoncentral.net/archive/2004/06/04/1180.aspx))_
 
   </div>
 </blockquote>

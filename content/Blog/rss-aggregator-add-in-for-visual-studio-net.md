@@ -1,6 +1,6 @@
-Very cool article from [Code Project](http://www.codeproject.com" target="_blank); this is something I have wanted for awhile..... from the moment we started outputing [RSS from MSDN](http://msdn.microsoft.com/aboutmsdn/rss" target="_blank), it seemed to me that you'd want to view them **inside** of VS... I'm downloading this right to try it out, but the article is well written and covers a lot of good topics (like Isolated Storage, async delegates and more), so I'm pretty confident the add-in will work well 🙂
+Very cool article from [Code Project](http://www.codeproject.com); this is something I have wanted for awhile..... from the moment we started outputing [RSS from MSDN](http://msdn.microsoft.com/aboutmsdn/rss), it seemed to me that you'd want to view them **inside** of VS... I'm downloading this right to try it out, but the article is well written and covers a lot of good topics (like Isolated Storage, async delegates and more), so I'm pretty confident the add-in will work well 🙂
 
-> [Blog Reader Add-In for Visual Studio .NET](http://www.codeproject.com/dotnet/BlogReaderArticle.asp" target="_blank)
+> [Blog Reader Add-In for Visual Studio .NET](http://www.codeproject.com/dotnet/BlogReaderArticle.asp)
 > By jconwell
 >
 > A blog reader, integrated into Visual Studio. Shows a list of blogs, blog entries, and which entries you haven’t read yet

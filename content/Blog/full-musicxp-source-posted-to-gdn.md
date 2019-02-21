@@ -4,7 +4,7 @@ The full source for the
 
 MusicXP
 
-](http://www.duncanmackenzie.net/musicxp){.broken_link}
+](http://www.duncanmackenzie.net/musicxp)
 
  application, without the database (which is up in the
 
@@ -12,7 +12,7 @@ MusicXP
 
 GDN Workspace
 
-](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9){.broken_link}
+](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9)
 
 as a release) is now available as a
 

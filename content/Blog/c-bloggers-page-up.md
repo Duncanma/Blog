@@ -1,1 +1,1 @@
-Only a few bloggers listed so far, but more will be coming in the near future: [http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx](http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx" target="_blank)
+Only a few bloggers listed so far, but more will be coming in the near future: [http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx](http://msdn.microsoft.com/vcsharp/community/blogs/default.aspx)

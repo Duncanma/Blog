@@ -7,4 +7,4 @@
 Rocky Lhotka discusses VB.NET's focus on business application development.](http://www.theserverside.net/talks/index.tss)
 
 
-_(from [TheServerSide.NET](http://www.theserverside.net" target="_blank))_
+_(from [TheServerSide.NET](http://www.theserverside.net))_

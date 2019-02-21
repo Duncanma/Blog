@@ -1,4 +1,4 @@
-Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357" target="_blank) so I thought I would answer it here;
+Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357) so I thought I would answer it here;
 
 Glenn Holden asks how to turn this file based function into one for images stored at http addresses...
 
@@ -62,7 +62,7 @@ with a bit of test code thrown into a button.....
 
 A generalized solution that will accept file paths or URIs and automatically determine how to retrieve the stream would likely be useful, but I think this will do for Glenn...
 
-_Markup provided by [Darren Neimke's](http://weblogs.asp.net/dneimke" target="_blank) [cool markup sample from MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp" target="_blank)_
+_Markup provided by [Darren Neimke's](http://weblogs.asp.net/dneimke) [cool markup sample from MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp)_
 
 <div class="media">
   ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Pets [[Porno For Pyros](http://www.windowsmedia.com/mg/search.asp?srch=Porno+For+Pyros) / Big Shiny 90's])

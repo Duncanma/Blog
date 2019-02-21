@@ -1,1 +1,1 @@
-[http://www.gamestay.com/](http://www.gamestay.com/" target="_blank) is a blog/site with info on all those topics, so you might want to check it out!
+[http://www.gamestay.com/](http://www.gamestay.com/) is a blog/site with info on all those topics, so you might want to check it out!

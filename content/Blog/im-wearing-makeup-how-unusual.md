@@ -1,1 +1,1 @@
-I'm on the set of [10](http://on10.net" target="_blank) today, filming a segment. Crazy stuff for a dev!
+I'm on the set of [10](http://on10.net) today, filming a segment. Crazy stuff for a dev!

@@ -1,6 +1,6 @@
 I didn't write it (Peter Hallam did), but I was just using it and thought "wow, this is cool, it needs to be found by more people!"
 
-If you build console apps that take multiple arguments (generate.exe /vroot:vbasic /target:c:\files\ ... etc.) then [this](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=62a0f27e-274e-4228-ba7f-bc0118ecc41e){.broken_link} makes it very easy. To use it, just compile the provided code into a library and reference from your own C#, VB.NET, etc. application.
+If you build console apps that take multiple arguments (generate.exe /vroot:vbasic /target:c:\files\ ... etc.) then [this](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=62a0f27e-274e-4228-ba7f-bc0118ecc41e) makes it very easy. To use it, just compile the provided code into a library and reference from your own C#, VB.NET, etc. application.
 
 From the readme;
 

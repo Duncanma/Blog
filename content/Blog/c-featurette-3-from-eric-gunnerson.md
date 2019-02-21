@@ -2,14 +2,14 @@ Eric describes a new Whidbey feature focused on creating those &#8216;utility' c
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <em><b><a id="viewpost.ascx_TitleUrl" href="http://blogs.msdn.com/ericgu/archive/2004/04/13/112274.aspx">C# Whidbey Featurette #3: Static classes</a> </b>
+    _<b><a id="viewpost.ascx_TitleUrl" href="http://blogs.msdn.com/ericgu/archive/2004/04/13/112274.aspx">C# Whidbey Featurette #3: Static classes</a> </b>
 
 
-      Because all functions in C# must live inside of a class, there are some clases &#8211; System.Math is a canonical example &#8211; that are merely collections of static methods. Since it's useless to create an instance of such a class, in current versions of C#, you can protect against this by creating a private constructor. The constructor can never be called, and therefore no instance can be created.</em>
+      Because all functions in C# must live inside of a class, there are some clases &#8211; System.Math is a canonical example &#8211; that are merely collections of static methods. Since it's useless to create an instance of such a class, in current versions of C#, you can protect against this by creating a private constructor. The constructor can never be called, and therefore no instance can be created._
 
 
 
-      <em>There are three issues with this approach:</em>
+      _There are three issues with this approach:_
     </blockquote>
 
 

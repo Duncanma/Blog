@@ -16,7 +16,7 @@ you that I haven't really spent much time looking at the &#8216;other' side of t
 
 players. When someone first asked me what player they should buy, I decided that I needed to look into
 
-the various [iPods](http://www.FreeiPodShuffle.com/?r=14790940" target="_blank) so that I could consider them as options, but I was very puzzled by what I found. I had
+the various [iPods](http://www.FreeiPodShuffle.com/?r=14790940) so that I could consider them as options, but I was very puzzled by what I found. I had
 
 assumed a few things that turned out to be incorrect. I knew that iTunes was focused on MP3, and I
 
@@ -42,7 +42,7 @@ hacks... that is definitely not mother-friendly)? By recommending an iPod for a 
 
 purchase, I would be locking them into one set of software and hardware for a very long time. Instead, I
 
-end up looking around at [all the other options](http://www.mp3players4free.com/default.aspx?r=206786" target="_blank) (Rio, iRiver, Creative, Samsung). These devices work with both
+end up looking around at [all the other options](http://www.mp3players4free.com/default.aspx?r=206786) (Rio, iRiver, Creative, Samsung). These devices work with both
 
 WMA and MP3 (and some work with other formats as well) and they work with multiple media players,
 
@@ -90,7 +90,7 @@ a little 64mb job that he was able to expand using SD cards, and he has been muc
 
 the Sony device certainly looked nicer. In the end though, I'm still easily tempted by Sony; I saw that
 
-they had a new digital music player and I clicked on [the link](http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?ProductSKU=NWE99&#038;Dept=audio&#038;CategoryName=pa_flashMemory" target="_blank) in seconds, even though I'll never buy it.
+they had a new digital music player and I clicked on [the link](http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?ProductSKU=NWE99&#038;Dept=audio&#038;CategoryName=pa_flashMemory) in seconds, even though I'll never buy it.
 
 Whenever I decide to spend the money on a new car stereo (it still works, what's a cracked faceplate
 

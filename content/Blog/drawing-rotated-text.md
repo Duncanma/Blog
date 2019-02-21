@@ -8,7 +8,7 @@ If you want to try this code, create a new Windows Forms application in VS.NET 2
 
 The result will be an image like this: ![](http://msdn.microsoft.com/vbasic/art/compass.png)
 
-If you are looking for more info on GDI+ drawing in VB.NET, I'd suggest [my article on the subject](http://msdn.microsoft.com/library/en-us/dndotnet/html/designsurface.asp" target="_blank) 🙂 and there is [a good book available from AW](http://www.amazon.com/exec/obidos/ASIN/0321160770/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2" target="_blank)
+If you are looking for more info on GDI+ drawing in VB.NET, I'd suggest [my article on the subject](http://msdn.microsoft.com/library/en-us/dndotnet/html/designsurface.asp) 🙂 and there is [a good book available from AW](http://www.amazon.com/exec/obidos/ASIN/0321160770/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2)
 
 **Update:** Ugh... I messed up the directions... and didn't even notice (thanks Edward!!)
 

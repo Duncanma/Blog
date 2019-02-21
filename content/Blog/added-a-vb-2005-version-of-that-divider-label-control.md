@@ -1,3 +1,3 @@
-Ok, so [the VB.NET 2003 version](http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx" target="_blank) worked fine upgraded to 2005, with only one warning, but with the recent release of [Beta 2](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvs05/html/vbnet2005_preview.asp" target="_blank), I thought I should jump on the bandwagon like everyone else 🙂
+Ok, so [the VB.NET 2003 version](http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx) worked fine upgraded to 2005, with only one warning, but with the recent release of [Beta 2](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvs05/html/vbnet2005_preview.asp), I thought I should jump on the bandwagon like everyone else 🙂
 
-New .zip download linked from [here](http://www.duncanmackenzie.net/Samples/#divider" target="_blank)
+New .zip download linked from [here](http://www.duncanmackenzie.net/Samples/#divider)

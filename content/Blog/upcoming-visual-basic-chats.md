@@ -1,4 +1,4 @@
-Check out these chats on [http://msdn.microsoft.com/chats/](http://msdn.microsoft.com/chats/" target="_blank)
+Check out these chats on [http://msdn.microsoft.com/chats/](http://msdn.microsoft.com/chats/)
 
 > **Using Windows Forms Controls in Visual Basic .NET**
 

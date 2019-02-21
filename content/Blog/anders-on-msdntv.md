@@ -2,7 +2,7 @@
 
 
 
-** [Whiteboard with Anders Hejlsberg](http://msdn.microsoft.com/msdntv/" target="_blank)
+** [Whiteboard with Anders Hejlsberg](http://msdn.microsoft.com/msdntv/)
 
 **
 At Tech Ed 2004, Anders Hejlsberg gave an informal talk, answered attendee questions, and wrote some code examples on the whiteboard. (July 29)

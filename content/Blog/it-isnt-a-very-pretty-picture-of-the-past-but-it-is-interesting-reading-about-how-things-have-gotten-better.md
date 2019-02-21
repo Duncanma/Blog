@@ -1,1 +1,1 @@
-[Battling Google, Microsoft Changes How It Builds Software](http://online.wsj.com/article/0,,SB112743680328349448,00.html" target="_blank)
+[Battling Google, Microsoft Changes How It Builds Software](http://online.wsj.com/article/0,,SB112743680328349448,00.html)

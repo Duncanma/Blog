@@ -1,1 +1,1 @@
-Check out <http://msdn.microsoft.com/vcsharp/using/books/default.aspx>{.broken_link} for a small selection of books that I've found useful... and I'm always looking for suggestions!
+Check out <http://msdn.microsoft.com/vcsharp/using/books/default.aspx> for a small selection of books that I've found useful... and I'm always looking for suggestions!

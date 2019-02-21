@@ -1,4 +1,4 @@
-The source behind several of our questions for [the recent Major Nelson bit on 10](http://on10.net/theshow/2206/" target="_blank) is revealed, thanks Xbox Elle!
+The source behind several of our questions for [the recent Major Nelson bit on 10](http://on10.net/theshow/2206/) is revealed, thanks Xbox Elle!
 
 > <div>
 >   <div>
@@ -10,4 +10,4 @@ The source behind several of our questions for [the recent Major Nelson bit on 1
 >   </div>
 > </div>
 
-_[Via [Circlets](http://spaces.msn.com/xboxelle/Blog/cns!E83A6D6C82C489F1!409.entry){.broken_link}]_
+_[Via [Circlets](http://spaces.msn.com/xboxelle/Blog/cns!E83A6D6C82C489F1!409.entry)]_

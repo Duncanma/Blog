@@ -1,4 +1,4 @@
-From [Dan's blog](http://blogs.msdn.com/danielfe/archive/2004/05/03/125078.aspx){.broken_link}:
+From [Dan's blog](http://blogs.msdn.com/danielfe/archive/2004/05/03/125078.aspx):
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

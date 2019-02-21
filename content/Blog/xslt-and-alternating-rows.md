@@ -1,6 +1,6 @@
-Saw this today (it is over a year old though) on [Roger Hartford's blog](http://blogs.dev.bayshoresolutions.com/roger/default.aspx" target="_blank);
+Saw this today (it is over a year old though) on [Roger Hartford's blog](http://blogs.dev.bayshoresolutions.com/roger/default.aspx);
 
-> #### [XSLT alternating rows](http://blogs.dev.bayshoresolutions.com/roger/archive/2006/07/31/4008.aspx" target="_blank)
+> #### [XSLT alternating rows](http://blogs.dev.bayshoresolutions.com/roger/archive/2006/07/31/4008.aspx)
 >
 > In an XSLT template tag you can simulate the same functionality as in  GridView/DataGrid "AlternatingRowClass" property using this syntax:
 > <div class="MyClass">

@@ -1,1 +1,1 @@
-I didn't know this existed... so I'm going to assume that a few of you don't know about it either... there is a Blog site for MVPs at [http://www.msmvps.com/](http://www.msmvps.com/" target="_blank), with some blogs hosted on that site (using .Text) and links to MVP blogs on other sites.
+I didn't know this existed... so I'm going to assume that a few of you don't know about it either... there is a Blog site for MVPs at [http://www.msmvps.com/](http://www.msmvps.com/), with some blogs hosted on that site (using .Text) and links to MVP blogs on other sites.

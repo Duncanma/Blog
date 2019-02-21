@@ -1,8 +1,8 @@
-The same programmer who ask for [an example of rotated text](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx" target="_blank) is back with another interesting request; how to partially fill a circle from the bottom up...
+The same programmer who ask for [an example of rotated text](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx) is back with another interesting request; how to partially fill a circle from the bottom up...
 
 ![](http://msdn.microsoft.com/vbasic/art/compass_filled.png)
 
-as if it was a glass that you've poured water into... so here goes (this is only a snippet of the code, see [the original post ](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx" target="_blank)for the rest);
+as if it was a glass that you've poured water into... so here goes (this is only a snippet of the code, see [the original post ](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx)for the rest);
 
 <pre><font color="Blue" family="Microsoft Sans Serif">Protected <font color="Blue" family="Microsoft Sans Serif">Overrides <font color="Blue" family="Microsoft Sans Serif">Sub OnPaint( _
             <font color="Blue" family="Microsoft Sans Serif">ByVal e <font color="Blue" family="Microsoft Sans Serif">As System.Windows.Forms.PaintEventArgs)

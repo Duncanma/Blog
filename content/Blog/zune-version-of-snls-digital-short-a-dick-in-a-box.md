@@ -1,1 +1,1 @@
-Grab it here if you'd like, <a title="A Special Christmas (SNL)" href="http://www.duncanmackenzie.net/videos/SNLDigitalShortASpecialChristmas.wmv" target="_blank">A Special Christmas</a>
+Grab it here if you'd like, <a title="A Special Christmas (SNL)" href="http://www.duncanmackenzie.net/videos/SNLDigitalShortASpecialChristmas.wmv">A Special Christmas</a>

@@ -1,4 +1,4 @@
-I was reading the [dotnetjunkies.com](http://dotnetjunkies.com" target="_blank) newsletter and I spotted these [podcasts](http://www.ddj.com/podcast/dotnetcast/" target="_blank), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
+I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I spotted these [podcasts](http://www.ddj.com/podcast/dotnetcast/), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
 
 > [
 
@@ -22,7 +22,7 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com" target="_blank) 
 >
 > [
 
-> Perf Stats of the Upgrade Tools](http://www.ddj.com/documents/ddj051007dnc/ "http://www.ddj.com/documents/ddj051007dnc/"){.broken_link}
+> Perf Stats of the Upgrade Tools](http://www.ddj.com/documents/ddj051007dnc/ "http://www.ddj.com/documents/ddj051007dnc/")
 
 > Keith Pleas discusses the performance characteristics of the Upgrade Wizard and
 
@@ -34,7 +34,7 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com" target="_blank) 
 >
 > [
 
-> .NET Upgrade Metrics and the Migration Assessment Tool](http://www.ddj.com/documents/ddj050927dnc/ "http://www.ddj.com/documents/ddj050927dnc/"){.broken_link}
+> .NET Upgrade Metrics and the Migration Assessment Tool](http://www.ddj.com/documents/ddj050927dnc/ "http://www.ddj.com/documents/ddj050927dnc/")
 
 > Keith Pleas of Keith Pleas & Associates explains how the new .NET Migration
 

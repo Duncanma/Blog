@@ -1,4 +1,4 @@
-Recently we launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies){.broken_link}, releasing them only a few at a time... but now we've finished that process and all 101 of the videos are available on the site.
+Recently we launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies), releasing them only a few at a time... but now we've finished that process and all 101 of the videos are available on the site.
 
 <p class="MsoNormal" align="center">
   [<img alt="" hspace="0" src="http://msdn.microsoft.com/nodehomes/graphics/140x100/VBMovies.jpg" align="baseline" border="0" />](http://msdn.microsoft.com/vbasic/atthemovies)

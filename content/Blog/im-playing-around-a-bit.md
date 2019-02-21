@@ -1,3 +1,3 @@
-I've added some functionality to my personal site because I now have SQL Server available on the back end... so, as a test, I've put a voting component onto the home page at [http://www.duncanmackenzie.net](http://www.duncanmackenzie.net" target="_blank) ... I plan to add some features to it (like &#8216;just show me the results, I don't want to vote'), but for now feel free to check it out as it is.
+I've added some functionality to my personal site because I now have SQL Server available on the back end... so, as a test, I've put a voting component onto the home page at [http://www.duncanmackenzie.net](http://www.duncanmackenzie.net) ... I plan to add some features to it (like &#8216;just show me the results, I don't want to vote'), but for now feel free to check it out as it is.
 
-Note that, at the moment, I am just using the component that is in use on [www.asp.net](http://www.asp.net" target="_blank) and is available from the &#8216;control gallery' on that site.
+Note that, at the moment, I am just using the component that is in use on [www.asp.net](http://www.asp.net) and is available from the &#8216;control gallery' on that site.

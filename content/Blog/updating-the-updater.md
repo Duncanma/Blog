@@ -9,9 +9,9 @@ I've implemented part of the 2nd already, but I don't include the what's new URL
 
 <img src="http://www.duncanmackenzie.net/UpdateBrowserWindow.png" border="0" />
 
-There is a [workspace](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5){.broken_link} for the App Updater Block, so I suppose I could upload a modified version for people to use, but I just don't have the time at the moment... and by the time I do, I suspect they'll have released a new version!
+There is a [workspace](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5) for the App Updater Block, so I suppose I could upload a modified version for people to use, but I just don't have the time at the moment... and by the time I do, I suspect they'll have released a new version!
 
-_On a related note... if you are looking for a URL where you can find a listing of the PAG application blocks, this (<http://msdn.microsoft.com/vbasic/letters/20030724>{.broken_link}) might do for the time being, but we are working on something better!_
+_On a related note... if you are looking for a URL where you can find a listing of the PAG application blocks, this (<http://msdn.microsoft.com/vbasic/letters/20030724>) might do for the time being, but we are working on something better!_
 
 <div class="media">
   ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Yawning or Snarling [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])

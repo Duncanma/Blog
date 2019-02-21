@@ -4,7 +4,7 @@
 
 
 
-[http://msdn.microsoft.com/architecture/default.aspx?pull=/library/en-us/dnpag/html/Logging.asp](http://msdn.microsoft.com/architecture/default.aspx?pull=/library/en-us/dnpag/html/Logging.asp" target="_blank)
+[http://msdn.microsoft.com/architecture/default.aspx?pull=/library/en-us/dnpag/html/Logging.asp](http://msdn.microsoft.com/architecture/default.aspx?pull=/library/en-us/dnpag/html/Logging.asp)
 
 _"This block is a reusable code component that uses the Microsoft Enterprise Instrumentation Framework (EIF) and the Microsoft .NET Framework to help you design instrumented applications."_
 

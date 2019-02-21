@@ -1,3 +1,3 @@
-An A-List of .NET consultants, including my friend [Joel Semeniuk](http://weblogs.asp.net/jsemeniuk" target="_blank) amongst others, are auctioning themselves off on EBay... with the proceeds going towards disaster relief in Indonesia. Check out the details (and the full list of folks) [here](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=5552696499" target="_blank);
+An A-List of .NET consultants, including my friend [Joel Semeniuk](http://weblogs.asp.net/jsemeniuk) amongst others, are auctioning themselves off on EBay... with the proceeds going towards disaster relief in Indonesia. Check out the details (and the full list of folks) [here](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=5552696499);
 
-[<img src="http://www.thedatafarm.com/blog/content/binary/auctionimage.jpg" border="0/" />](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=5552696499" target="_blank)
+[<img src="http://www.thedatafarm.com/blog/content/binary/auctionimage.jpg" border="0/" />](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=5552696499)

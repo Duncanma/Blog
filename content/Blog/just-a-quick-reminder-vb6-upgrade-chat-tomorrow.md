@@ -1,4 +1,4 @@
-[MSDN Chat: Upgrading Visual Basic 6 Skills and Applications to Visual Basic .NET](http://msdn.microsoft.com/chats/" target="_blank)
+[MSDN Chat: Upgrading Visual Basic 6 Skills and Applications to Visual Basic .NET](http://msdn.microsoft.com/chats/)
 
 
 

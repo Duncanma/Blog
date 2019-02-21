@@ -1,4 +1,4 @@
-After going to **the movie** this morning (movies in the morning just aren't natural, by the way) with [Kent](http://dotnetweblogs.com/ksharkey/posts/7083.aspx){.broken_link}, I was reading some reviews of Matrix 2 (follow [the link](http://www.lasvegasmercury.com/2003/MERC-May-15-Thu-2003/21315704.html) at your own risk... they are full of spoilers...) and I came upon [a word](http://dictionary.reference.com/search?q=callipygian)that had me visiting [www.dictionary.com](http://www.dictionary.com) moments later.
+After going to **the movie** this morning (movies in the morning just aren't natural, by the way) with [Kent](http://dotnetweblogs.com/ksharkey/posts/7083.aspx), I was reading some reviews of Matrix 2 (follow [the link](http://www.lasvegasmercury.com/2003/MERC-May-15-Thu-2003/21315704.html) at your own risk... they are full of spoilers...) and I came upon [a word](http://dictionary.reference.com/search?q=callipygian)that had me visiting [www.dictionary.com](http://www.dictionary.com) moments later.
 
 I didn't realize there were words for this type of thing... though more words along the same theme could make for interesting, if cryptic, conversations.
 

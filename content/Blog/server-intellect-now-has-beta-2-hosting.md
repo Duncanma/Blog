@@ -1,4 +1,4 @@
-[Server Intellect](http://www.serverintellect.com/host/duncanma/" target="_blank), my web host and the folks that I called "the best hosting company I have ever worked with" have annouced that they now have ASP.NET Beta 2 hosting available... for free **for anyone using one of their other hosting plans**!
+[Server Intellect](http://www.serverintellect.com/host/duncanma/), my web host and the folks that I called "the best hosting company I have ever worked with" have annouced that they now have ASP.NET Beta 2 hosting available... for free **for anyone using one of their other hosting plans**!
 
 > Server Intellect is proud to announce hosting support for ASP.NET 2.0 Beta 2!
 >

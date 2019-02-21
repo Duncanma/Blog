@@ -7,4 +7,4 @@ For that price, you can pick up this system instead of a DVD player with HDMI ou
 
 Crazy stuff, and perfect for you family focused Xbox gamers... and perhaps soon to be a second 360 for my house, since I now have a TV with HDMI in and nothing to hook into it... and it would be great to have the ability to play my music, TV and movies on our second TV as well...
 
-[More info on Xbox.com](http://www.xbox.com/en-US/hardware/x/xbox360arcadesystem/" target="_blank)
+[More info on Xbox.com](http://www.xbox.com/en-US/hardware/x/xbox360arcadesystem/)

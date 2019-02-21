@@ -1,1 +1,1 @@
-Adam Kinney, Silverlight dude and my colleague at work, [has released an updated version of his Xbox Friends Watch gadget and a new standalone gamercard gadget for your website that uses Silverlight 2.0](http://adamkinney.com/blog/322/default.aspx" target="_blank).
+Adam Kinney, Silverlight dude and my colleague at work, [has released an updated version of his Xbox Friends Watch gadget and a new standalone gamercard gadget for your website that uses Silverlight 2.0](http://adamkinney.com/blog/322/default.aspx).

@@ -1,1 +1,1 @@
-I've put the draft of my next Coding 4 Fun column (&#8216;Duncan Mackenzie describes his process to build a "Quick Poll" using Visual Basic and ASP.NET.') up onto my personal site, click [here](http://www.duncanmackenzie.net/writing/Previews/QuickVote/default.aspx){.broken_link} to check it out.
+I've put the draft of my next Coding 4 Fun column (&#8216;Duncan Mackenzie describes his process to build a "Quick Poll" using Visual Basic and ASP.NET.') up onto my personal site, click [here](http://www.duncanmackenzie.net/writing/Previews/QuickVote/default.aspx) to check it out.

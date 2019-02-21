@@ -2,4 +2,4 @@
 >
 > Congrats to the Telligent team...I'm looking forward to trying out CS 1.0 for my personal blog, which is currently running on an older version of .Text.
 
-[from G. Andrew Duthie's blog....](http://weblogs.asp.net/gduthie/archive/2005/02/19/376610.aspx" target="_blank)
+[from G. Andrew Duthie's blog....](http://weblogs.asp.net/gduthie/archive/2005/02/19/376610.aspx)

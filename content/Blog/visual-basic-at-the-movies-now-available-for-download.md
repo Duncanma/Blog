@@ -1,3 +1,3 @@
-[<img src="http://msdn.microsoft.com/nodehomes/graphics/140x100/VBMovies.jpg" alt="VB at the Movies" width="140" height="100" border="0" />](http://msdn.microsoft.com/vbasic/atthemovies/download/" target="_blank)
+[<img src="http://msdn.microsoft.com/nodehomes/graphics/140x100/VBMovies.jpg" alt="VB at the Movies" width="140" height="100" border="0" />](http://msdn.microsoft.com/vbasic/atthemovies/download/)
 
-Interested in [VB at the Movies](http://msdn.microsoft.com/vbasic/atthemovies" target="_blank), but wanted to pull the video files local? Now you can... [Click here to go to the download page](http://msdn.microsoft.com/vbasic/atthemovies/download/" target="_blank).
+Interested in [VB at the Movies](http://msdn.microsoft.com/vbasic/atthemovies), but wanted to pull the video files local? Now you can... [Click here to go to the download page](http://msdn.microsoft.com/vbasic/atthemovies/download/).

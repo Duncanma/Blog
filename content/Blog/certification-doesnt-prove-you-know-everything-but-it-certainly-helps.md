@@ -1,14 +1,14 @@
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <font face="Verdana" color="black" size="2"><em>My name is Julie and I am not certified.</em>
+    <font face="Verdana" color="black" size="2">_My name is Julie and I am not certified._
 
 
 
-    <font face="Verdana" color="black" size="2"><em>I stress out about it because I feel that it might garner me some peer recognition that I do not have after almost 20 years of programming. I don't need it for my clients or my business.</em>
+    <font face="Verdana" color="black" size="2">_I stress out about it because I feel that it might garner me some peer recognition that I do not have after almost 20 years of programming. I don't need it for my clients or my business._
 
 
 
-    <em><font face="Verdana" size="2">[[Julie Lerman](http://dotnetweblogs.com/JLerman/posts/4964.aspx)]</em>
+    _<font face="Verdana" size="2">[[Julie Lerman](http://dotnetweblogs.com/JLerman/posts/4964.aspx)]_
 
 </blockquote>
 

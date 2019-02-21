@@ -8,14 +8,14 @@
 
 
 
-    <em>All versions of VS support debugging both managed and unmanaged code. However there is a big difference between doing one or the other and doing both. GreggM has written about some of the </em> [ <em>reasons interop debugging is difficult</em> ](http://blogs.msdn.com/greggm/archive/2004/01/23/62455.aspx) <em>. Here I will refer to debugging both managed and unmanaged at the same time as Mixed debugging.</em>
+    _All versions of VS support debugging both managed and unmanaged code. However there is a big difference between doing one or the other and doing both. GreggM has written about some of the _ [ _reasons interop debugging is difficult_ ](http://blogs.msdn.com/greggm/archive/2004/01/23/62455.aspx) _. Here I will refer to debugging both managed and unmanaged at the same time as Mixed debugging._
 
 
 
-    <em> </em>
+    _ _
 
 
 
-    <em>If you are having stability problems when debugging, one reason may be you are doing Mixed debugging without realizing it.... </em>
+    _If you are having stability problems when debugging, one reason may be you are doing Mixed debugging without realizing it.... _
 
 </blockquote>

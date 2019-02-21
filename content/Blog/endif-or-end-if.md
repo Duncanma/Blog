@@ -6,7 +6,7 @@
 
     <td>
 
-        The recent annoucements around [Visual Fox Pro 9.0](http://msdn.microsoft.com/vfoxpro/productinfo/" target="_blank) have brought up a bunch of memories, and have me tempted to install VFP for the first time in years...
+        The recent annoucements around [Visual Fox Pro 9.0](http://msdn.microsoft.com/vfoxpro/productinfo/) have brought up a bunch of memories, and have me tempted to install VFP for the first time in years...
 
     </td>
   </tr>
@@ -22,7 +22,7 @@ Whether or not you have a chance to give VFP 9 a try, if you are planning on get
 
     <td>
 
-        [Visual FoxPro to Visual Basic .NET, by Les Pinter](http://www.amazon.com/exec/obidos/ASIN/0672326493/duncanmackenz-20?creative=327641&camp=14573&link_code=as1" target="_blank)
+        [Visual FoxPro to Visual Basic .NET, by Les Pinter](http://www.amazon.com/exec/obidos/ASIN/0672326493/duncanmackenz-20?creative=327641&camp=14573&link_code=as1)
 
     </td>
   </tr>
@@ -34,7 +34,7 @@ Whether or not you have a chance to give VFP 9 a try, if you are planning on get
 
     <td>
 
-        [Microsoft .NET for Visual FoxPro Developers, by Kevin McNeish](http://www.amazon.com/exec/obidos/ASIN/1930919301/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2" target="_blank)
+        [Microsoft .NET for Visual FoxPro Developers, by Kevin McNeish](http://www.amazon.com/exec/obidos/ASIN/1930919301/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2)
 
     </td>
   </tr>

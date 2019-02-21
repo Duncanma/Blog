@@ -6,4 +6,4 @@ If you are so busy that you have no idea how long they've been on the computer a
 
 To be clear, I'm a fan of these tools as soon as I see them... but when I think it through I think our current system is working fairly well. On any given day my wife or I can say that Connor was using the Xbox "a lot" or "not much" and thereby decide if he can play some more. Sometimes we have to take away his right to play Xbox for a day or two, and during that time we don't hide the Xbox we just tell him that he can't play it... and while he might get upset about that... he knows exactly how to get a controller, put in a game and start up the Xbox but yet he doesn't do it.
 
-[Link to Techie Diva's Guide to Gadgets ?: Parents Can Use ComputerTime](http://www.techiediva.com/weblog/2006/07/parents_can_uti.html){.broken_link}
+[Link to Techie Diva's Guide to Gadgets ?: Parents Can Use ComputerTime](http://www.techiediva.com/weblog/2006/07/parents_can_uti.html)

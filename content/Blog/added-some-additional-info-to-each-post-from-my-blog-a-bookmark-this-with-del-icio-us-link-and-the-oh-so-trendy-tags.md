@@ -1,1 +1,1 @@
-Check out a [single entry view](http://blogs.duncanmackenzie.net/duncanma/archive/2005/12/12/3380.aspx" target="_blank) on my site to see the new additions
+Check out a [single entry view](http://blogs.duncanmackenzie.net/duncanma/archive/2005/12/12/3380.aspx) on my site to see the new additions

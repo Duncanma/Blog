@@ -1,36 +1,36 @@
-I have a home music system, that I have dubbed 
-				  
+I have a home music system, that I have dubbed
+
 [
-						  
+
 MusicXP
-				  
-](http://www.duncanmackenzie.net/musicxp){.broken_link} 
-				  
- (mostly because that is the name of the machine it is on, the actual app that runs is called "Shell.exe")... and I've been meaning to upload the full source for some time. I've covered bits and pieces of it in 
-				  
+
+](http://www.duncanmackenzie.net/musicxp)
+
+ (mostly because that is the name of the machine it is on, the actual app that runs is called "Shell.exe")... and I've been meaning to upload the full source for some time. I've covered bits and pieces of it in
+
 [
-						  
+
 various
-				  
-](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun01242003.asp){.broken_link} 
-				  
- 
-				  
+
+](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun01242003.asp)
+
+
+
 [
-						  
+
 articles
-				  
-](http://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp){.broken_link} 
-				  
- but now I've decided to create a 
-				  
+
+](http://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp)
+
+ but now I've decided to create a
+
 [
-						  
-GotDotNet Workspace 
-				  
-](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9){.broken_link} 
-				  
-and get the whole thing up there. 
+
+GotDotNet Workspace
+
+](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9)
+
+and get the whole thing up there.
 
 I added the first set of files to the Workspace today (as a "release"), the mdf/ldf files for the database, which aren't all that useful on their own, but I thought it would be good to post something and start moving down the path to full disclosure:)
 

@@ -1,1 +1,1 @@
-Like [this one](http://www.compusa.com/products/product_info.asp?product_code=315808&#038;pfp=cat3" target="_blank)? How did it work out?
+Like [this one](http://www.compusa.com/products/product_info.asp?product_code=315808&#038;pfp=cat3)? How did it work out?

@@ -6,11 +6,11 @@ Part of vbCity's newsletter, the &#8216;diary' column always has some great cont
 
 
 
-    <em>...Just recently, I wanted to create a small form that would pop up in response to a button click to give the user somewhere to type in temporary notes. A Do It Yourself one-page Notepad, if you will.</em>
+    _...Just recently, I wanted to create a small form that would pop up in response to a button click to give the user somewhere to type in temporary notes. A Do It Yourself one-page Notepad, if you will._
 
 
 
-    <em>Starting from basics, using Form.Show certainly got the jotter form up and running. But there was a small problem with this approach. As soon as focus returned to the main form (maybe because the user clicked on a main form's control) then the popup form would be partially or even totally hidden behind the main form. In fact in cases where the main form was maximized, the popup form was completely ?lost' behind the main form as soon as the jotter form lost focus. OK, so the user could redisplay it from the icon in the Windows status bar at the bottom of the screen, but I wasn't too impressed with that as a professional solution, so assumed that my users wouldn't be either....</em>
+    _Starting from basics, using Form.Show certainly got the jotter form up and running. But there was a small problem with this approach. As soon as focus returned to the main form (maybe because the user clicked on a main form's control) then the popup form would be partially or even totally hidden behind the main form. In fact in cases where the main form was maximized, the popup form was completely ?lost' behind the main form as soon as the jotter form lost focus. OK, so the user could redisplay it from the icon in the Windows status bar at the bottom of the screen, but I wasn't too impressed with that as a professional solution, so assumed that my users wouldn't be either...._
 
 </blockquote>
 

@@ -2,4 +2,4 @@ For quite some time I've thought Pageviews were a mostly useless number to be tr
 
 RSS is one reason why PageViews are useless, site design considerations are another (if high page views are a goal, then reducing the # of clicks for a user to get from your home page to an article becomes a bad thing... when it should a wonderful thing).
 
-I found [a great article today](http://evhead.com/2006/08/pageviews-are-obsolete.asp" target="_blank), via [Alex Barnett's deli.cio.us links](http://del.icio.us/alexbarn" target="_blank), on this exact topic.
+I found [a great article today](http://evhead.com/2006/08/pageviews-are-obsolete.asp), via [Alex Barnett's deli.cio.us links](http://del.icio.us/alexbarn), on this exact topic.

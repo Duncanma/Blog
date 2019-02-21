@@ -1,4 +1,4 @@
-Ok, so [the Oprah tickets](http://dotnetweblogs.com/duncanma/posts/6681.aspx){.broken_link} didn't pan out... but I'm hoping some flowers and breakfast will see me through!
+Ok, so [the Oprah tickets](http://dotnetweblogs.com/duncanma/posts/6681.aspx) didn't pan out... but I'm hoping some flowers and breakfast will see me through!
 
 <img src="http://www.duncanmackenzie.net/DSC00104.JPG" alt="Flowers!" border="0" />
 

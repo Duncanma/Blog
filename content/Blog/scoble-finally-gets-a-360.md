@@ -1,1 +1,1 @@
-[Seems you can actually buy them now](http://scobleizer.wordpress.com/2006/04/04/xboxs-still-in-high-demand/" target="_blank), maybe I should send him a book?
+[Seems you can actually buy them now](http://scobleizer.wordpress.com/2006/04/04/xboxs-still-in-high-demand/), maybe I should send him a book?

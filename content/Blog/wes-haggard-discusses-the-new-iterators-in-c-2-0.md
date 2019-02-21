@@ -1,6 +1,6 @@
 > **
 
-> [Recusive GetFiles for DirectoryInfo via a C# Iterator](http://weblogs.asp.net/whaggard/archive/2004/08/15/214864.aspx" target="_blank)
+> [Recusive GetFiles for DirectoryInfo via a C# Iterator](http://weblogs.asp.net/whaggard/archive/2004/08/15/214864.aspx)
 
 >**
 >

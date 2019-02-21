@@ -1,4 +1,4 @@
-I had been planning to go to Spiderman 2 last night at 12:01 am... but I decided to skip it instead... so I went out during the day and spent my Father's Day gift (a gift certificate for Best Buy... my wife made a great choice) on [a wireless xbox controller](http://www.logitech.com/index.cfm/products/details/US/EN,CRID=1581,CONTENTID=6110){.broken_link} from Logitech and the new [Spiderman 2 game](http://www.xbox.com/en-us/spiderman2/bethehero.htm){.broken_link}.
+I had been planning to go to Spiderman 2 last night at 12:01 am... but I decided to skip it instead... so I went out during the day and spent my Father's Day gift (a gift certificate for Best Buy... my wife made a great choice) on [a wireless xbox controller](http://www.logitech.com/index.cfm/products/details/US/EN,CRID=1581,CONTENTID=6110) from Logitech and the new [Spiderman 2 game](http://www.xbox.com/en-us/spiderman2/bethehero.htm).
 
 Now, I loved the first game... so my opinion should be considered in that light, but I really enjoyed playing this game. The &#8216;manual' style of swinging is more difficult but seems so much more realistic and leads to more realistic movement patterns as you need to use buildings on either side of the street to lock your webline to... and when you swing out over a park you have that sudden realization that there is nothing out there for you to swing from ... and then you fall into the trees 🙂
 
@@ -8,4 +8,3 @@ Anyway, it was a lot of fun... the new controller worked perfectly and felt grea
 
 **Update:** While I don't mind the discussion in the comments at all, people might find the XBox forums at <http://forums.xbox.com/ShowForum.aspx?ForumID=28> to be a more enjoyable place to talk about this game... I'm afraid I don't know enough about it to help with very many of the questions, but I'm sure there are a lot of people who would be able to help over on those forums. Thanks!
 
- 

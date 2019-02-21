@@ -1,4 +1,4 @@
-[ReadMe Item of the Day](http://thecodingmonkey.blogspot.com/2006/01/readme-item-of-day.html" title="ReadMe Item of the Day" target="_blank) (from The Coding Monkey)
+[ReadMe Item of the Day](http://thecodingmonkey.blogspot.com/2006/01/readme-item-of-day.html" title="ReadMe Item of the Day) (from The Coding Monkey)
 
 > Was reading the Visual Studio 2005 SDK Readme and happened upon this rather humorous note:
 >

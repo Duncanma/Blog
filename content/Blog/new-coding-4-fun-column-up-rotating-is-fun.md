@@ -1,4 +1,4 @@
-> #### [Rotating Is Fun](http://msdn.microsoft.com/vbasic/using/columns/code4fun/?pull=/library/en-us/dncodefun/html/code4fun09072004.asp" target="_blank)
+> #### [Rotating Is Fun](http://msdn.microsoft.com/vbasic/using/columns/code4fun/?pull=/library/en-us/dncodefun/html/code4fun09072004.asp)
 
 >
 >

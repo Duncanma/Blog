@@ -1,1 +1,1 @@
-If you are interested in portable video, downloading video podcasts, etc... [check out today's episode on 10 ](http://on10.net/TheShow/1246/" target="_blank) ... featuring me!
+If you are interested in portable video, downloading video podcasts, etc... [check out today's episode on 10 ](http://on10.net/TheShow/1246/) ... featuring me!

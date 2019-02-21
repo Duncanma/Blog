@@ -1,6 +1,6 @@
-[My twitter app](http://www.duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/" target="_blank) uses a web service hosted on my site to get all the necessary Xbox Live info.... way more than the twitter app actually uses. This is a SOAP API, located here:
+[My twitter app](http://www.duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/) uses a web service hosted on my site to get all the necessary Xbox Live info.... way more than the twitter app actually uses. This is a SOAP API, located here:
 
-<http://duncanmackenzie.net/services/XboxInfo.asmx>{.broken_link}
+<http://duncanmackenzie.net/services/XboxInfo.asmx>
 
 
 

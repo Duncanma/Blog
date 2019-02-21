@@ -1,1 +1,1 @@
-I won't be bidding on [this](http://cgi.go.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6512293555" target="_blank), but with some work I bet it would make a great addition to a home theater/gaming room 🙂
+I won't be bidding on [this](http://cgi.go.ebay.com/ws/eBayISAPI.dll?ViewItem&item=6512293555), but with some work I bet it would make a great addition to a home theater/gaming room 🙂

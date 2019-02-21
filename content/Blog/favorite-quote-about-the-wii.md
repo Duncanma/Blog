@@ -1,4 +1,4 @@
-This is from a great blog "[SuburbanJoe](http://suburbanjoe.blogspot.com/2006/05/wii.html" target="_blank)" :
+This is from a great blog "[SuburbanJoe](http://suburbanjoe.blogspot.com/2006/05/wii.html)" :
 
 > "The fact that it is pronounced like "we" lets them say silly things like "Wii are going to change gaming" and the double lowercase "i" is supposed to be evocative of both the controller and the ability for people to play together as it looks like two people standing next to each other. Two limbless, hairless, featureless people who live next to a giant "W"."
 

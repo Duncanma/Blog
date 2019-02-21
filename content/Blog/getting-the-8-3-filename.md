@@ -1,1 +1,1 @@
-Quick sample (calling the GetShortPathName API) in VB.NET posted to [http://www.duncanmackenzie.net/Samples/](http://www.duncanmackenzie.net/Samples/" target="_blank)
+Quick sample (calling the GetShortPathName API) in VB.NET posted to [http://www.duncanmackenzie.net/Samples/](http://www.duncanmackenzie.net/Samples/)

@@ -1,4 +1,4 @@
-From [Justin Rogers](http://weblogs.asp.net/justin_rogers){.broken_link}
+From [Justin Rogers](http://weblogs.asp.net/justin_rogers)
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
@@ -6,11 +6,11 @@ From [Justin Rogers](http://weblogs.asp.net/justin_rogers){.broken_link}
 
 
 
-    <strong> <em>[Editorial note: A more complete sample is available through article: </em> [ <em>http://weblogs.asp.net/justin_rogers/articles/151757.aspx</em> ](http://weblogs.asp.net/justin_rogers/articles/151757.aspx) <em>]</em> </strong>
+    ** _[Editorial note: A more complete sample is available through article: _ [ _http://weblogs.asp.net/justin_rogers/articles/151757.aspx_ ](http://weblogs.asp.net/justin_rogers/articles/151757.aspx) _]_ **
 
 
 
-    <em>I find little conversion functions to be the most interesting type of programming you can spend your time on.  You wind up exercising so many areas of programming expertise to make the algorithms short, complete, bug free, and as fast as possible....</em>
+    _I find little conversion functions to be the most interesting type of programming you can spend your time on.  You wind up exercising so many areas of programming expertise to make the algorithms short, complete, bug free, and as fast as possible...._
 
 </blockquote>
 

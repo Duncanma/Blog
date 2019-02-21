@@ -1,4 +1,4 @@
-I'm sure [Alan Cooper](http://www.cooper.com/) has a better name for it, but [this thread](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=112688&Page=1#112745){.broken_link} on [GDN](http://www.gotdotnet.com){.broken_link} caught my eye today;
+I'm sure [Alan Cooper](http://www.cooper.com/) has a better name for it, but [this thread](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=112688&Page=1#112745) on [GDN](http://www.gotdotnet.com) caught my eye today;
 
 Question: I want to make sure that the txtBox is Numeric Only on "Leave". I'm sure a user will at eventually enter a $ into the txtBox. I want to bring up a MessageBox on "Leave" that will notify the user to take the $ of the txtBox and prevent further data entry until the $ is removed.
 

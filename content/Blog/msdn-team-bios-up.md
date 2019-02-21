@@ -1,1 +1,1 @@
-A variety of folks (including me) associated with the online MSDN site have their bios up at [http://msdn.microsoft.com/aboutmsdn/team/default.aspx](http://msdn.microsoft.com/aboutmsdn/team/default.aspx" target="_blank)
+A variety of folks (including me) associated with the online MSDN site have their bios up at [http://msdn.microsoft.com/aboutmsdn/team/default.aspx](http://msdn.microsoft.com/aboutmsdn/team/default.aspx)

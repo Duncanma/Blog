@@ -26,7 +26,7 @@ Then creating a Generic List and working with it:
 
 <pre><font color="blue" family="Microsoft Sans Serif">Private <font color="blue" family="Microsoft Sans Serif">Sub FillCustomers()
         <font color="blue" family="Microsoft Sans Serif">Dim myCustomers _
-<strong>            <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">New Generic.List(<font color="#0000ff">Of Customer)</strong>
+**            <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">New Generic.List(<font color="#0000ff">Of Customer)**
         <font color="blue" family="Microsoft Sans Serif">Dim C <font color="blue" family="Microsoft Sans Serif">As Customer
         <font color="blue" family="Microsoft Sans Serif">For i <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">Integer = 1 <font color="blue" family="Microsoft Sans Serif">To 500
             C = <font color="blue" family="Microsoft Sans Serif">New Customer

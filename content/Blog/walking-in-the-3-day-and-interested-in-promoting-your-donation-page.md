@@ -1,4 +1,4 @@
-[My wife is going to be in the 3-Day walk for Breast Cancer](http://www.duncanmackenzie.net/blog/laura-is-going-to-do-the-breast-cancer-3-day-walk/" target="_blank) and I thought it might be useful to build a widget to display your donation info on a website. So if you are going to walk in the event, or if you know someone who is, then you might be interested in this.
+[My wife is going to be in the 3-Day walk for Breast Cancer](http://www.duncanmackenzie.net/blog/laura-is-going-to-do-the-breast-cancer-3-day-walk/) and I thought it might be useful to build a widget to display your donation info on a website. So if you are going to walk in the event, or if you know someone who is, then you might be interested in this.
 
 
 

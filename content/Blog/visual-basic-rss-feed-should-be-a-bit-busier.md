@@ -1,1 +1,1 @@
-There was a little issue with our criteria for [the VB feed](http://msdn.microsoft.com/vbasic/rss.xml" target="_blank), which has now been resolved... so you should notice that feed will have a fair bit more content going forward... all of it hopefully relevant to VB types (like me!)
+There was a little issue with our criteria for [the VB feed](http://msdn.microsoft.com/vbasic/rss.xml), which has now been resolved... so you should notice that feed will have a fair bit more content going forward... all of it hopefully relevant to VB types (like me!)

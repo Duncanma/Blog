@@ -1,4 +1,4 @@
-As someone who works on [a video based Microsoft site](http://on10.net" target="_blank), you'd think I would have already found this... but I had no idea it was out... description from the site itself:
+As someone who works on [a video based Microsoft site](http://on10.net), you'd think I would have already found this... but I had no idea it was out... description from the site itself:
 
 > **What it is**
 >
@@ -9,4 +9,4 @@ As someone who works on [a video based Microsoft site](http://on10.net" target="
 > 3. Watch original videos and browse for new ones at the same time
 > 4. Set up your own personal RSS feeds for videos you’re interested in
 
-Go to [soapbox.msn.com](http://soapbox.msn.com/){.broken_link} to sign up to use the beta...
+Go to [soapbox.msn.com](http://soapbox.msn.com/) to sign up to use the beta...

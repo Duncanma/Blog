@@ -1,6 +1,6 @@
-Ages ago, [Scott Mitchell](http://scottonwriting.net/sowblog/" target="_blank) wrote the 1st of 6 articles on Data Structures in C#... and now it is finally up (through no fault of Scott's)
+Ages ago, [Scott Mitchell](http://scottonwriting.net/sowblog/) wrote the 1st of 6 articles on Data Structures in C#... and now it is finally up (through no fault of Scott's)
 
-Check it out here: [http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide.asp](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide.asp" target="_blank)
+Check it out here: [http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide.asp](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide.asp)
 
 
 

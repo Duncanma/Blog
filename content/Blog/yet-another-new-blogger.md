@@ -4,7 +4,7 @@ Wow,
 
 dotnetweblogs
 
-](http://dotnetweblogs.com){.broken_link}
+](http://dotnetweblogs.com)
 
 is certainly the place to be... now
 
@@ -12,7 +12,7 @@ is certainly the place to be... now
 
 Mike Harsh
 
-](http://dotnetweblogs.com/mharsh/){.broken_link}
+](http://dotnetweblogs.com/mharsh/)
 
 is here too! Blogs are certainly proving to be an up-to-date source of info;
 

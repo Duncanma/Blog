@@ -1,17 +1,17 @@
-<font face="Tahoma">I thought it was shocking enough when 
-		  
+<font face="Tahoma">I thought it was shocking enough when
+
 [
-				  
+
 <font face="Tahoma">my grand-boss
-		  
-](http://blogs.gotdotnet.com/saraw/){.broken_link} 
-		  
- <font face="Tahoma">started blogging, but now the Senior Vice President of Microsoft's Developer Platform and Evangelism Group, 
-		  
+
+](http://blogs.gotdotnet.com/saraw/)
+
+ <font face="Tahoma">started blogging, but now the Senior Vice President of Microsoft's Developer Platform and Evangelism Group,
+
 [
-				  
+
 <font face="Tahoma">Eric Rudder
-		  
-](http://msdn.microsoft.com/blogs/ericr/){.broken_link} 
-		  
+
+](http://msdn.microsoft.com/blogs/ericr/)
+
  <font face="Tahoma">has a blog... I've already learned that he codes at night and I'm sure there will be more interesting tidbits coming! Yet another feed added to my OPML.

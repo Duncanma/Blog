@@ -1,1 +1,1 @@
-This time we are [shipping the latest update to Microsoft 10](http://channel9.msdn.com/Showpost.aspx?postid=238667" target="_blank), fun stuff... and an example of exactly how far from normal our team can be.
+This time we are [shipping the latest update to Microsoft 10](http://channel9.msdn.com/Showpost.aspx?postid=238667), fun stuff... and an example of exactly how far from normal our team can be.

@@ -1,6 +1,6 @@
 This keeps happening to me on Microsoft sites, and it really bugs me...
 
-  * I go to view a product on one of our sites, [Xbox.com](http://www.xbox.com/en-US/games/viewer.aspx?productId=992&assetTypeId=1&shotId=0" target="_blank) and [Zune.net](http://www.zune.net/en-us/accessories/zune/mediaviewers/mv-homeavpack.htm" target="_blank) most recently
+  * I go to view a product on one of our sites, [Xbox.com](http://www.xbox.com/en-US/games/viewer.aspx?productId=992&assetTypeId=1&shotId=0) and [Zune.net](http://www.zune.net/en-us/accessories/zune/mediaviewers/mv-homeavpack.htm) most recently
   * I click on some image to see a larger view...
   * I right-click on the image with the intent of saving it to my machine, only to get the standard Flash context menu (Zoom, etc...)
 

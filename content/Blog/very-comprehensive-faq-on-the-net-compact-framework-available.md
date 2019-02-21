@@ -1,1 +1,1 @@
-This isn't new, but it is new to me... [http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx](http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx" target="_blank)
+This isn't new, but it is new to me... [http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx](http://msdn.microsoft.com/mobility/prodtechinfo/devtools/netcf/faq/default.aspx)

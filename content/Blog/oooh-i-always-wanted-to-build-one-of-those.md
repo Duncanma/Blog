@@ -3,7 +3,7 @@ Actually, I've always wanted to mimic something simpler, just the error message 
 via [Sijin Joseph](http://weblogs.asp.net/sjoseph/archive/2004/02/13/72341.aspx)
 
 > Found some great components to integrate into my project.
-  
-> 
-  
-> 1. Error Dialog – I was always looking for a better way to show exceptions, one that could help the developer with debugging as well. This component seems to do the job well. <http://www.jasonbock.net/errordialog.html>{.broken_link}
+
+>
+
+> 1. Error Dialog – I was always looking for a better way to show exceptions, one that could help the developer with debugging as well. This component seems to do the job well. <http://www.jasonbock.net/errordialog.html>

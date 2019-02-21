@@ -1,4 +1,4 @@
-I have been, since I started using .NET, a big supporter of the [&#8216;Smart Client' or &#8216;Rich Client' application](http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/toc.asp). I've talked about it to people, I've dug deep into the underlying technology, I've built samples... <strong>big fan of the whole idea</strong>
+I have been, since I started using .NET, a big supporter of the [&#8216;Smart Client' or &#8216;Rich Client' application](http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/toc.asp). I've talked about it to people, I've dug deep into the underlying technology, I've built samples... **big fan of the whole idea**
 
 
   . On a parallel track, I wrote several systems internal to MSDN using VB.NET and Windows Forms, but I didn't make any of them into auto-deploying apps (aka no-touch apps, aka HREF EXEs, etc.). Why not? Habit I suppose, it just really didn't occur to me, until after I had sent out a few updates for each of them, then I felt really silly... I'm not supposed to have to do this anymore, sending out updates is a thing of the past!
@@ -24,7 +24,7 @@ I have been, since I started using .NET, a big supporter of the [&#8216;Smart Cl
 
 
 
-    Now, if I build a new version and copy those files to the appropriate web server directory... <strong>bang</strong>, everyone is running the new version the next time they launch the app. No update, no need to send out a "new version" email, unless I just want to let the users know what is new... it is a good thing.
+    Now, if I build a new version and copy those files to the appropriate web server directory... **bang**, everyone is running the new version the next time they launch the app. No update, no need to send out a "new version" email, unless I just want to let the users know what is new... it is a good thing.
 
 
 

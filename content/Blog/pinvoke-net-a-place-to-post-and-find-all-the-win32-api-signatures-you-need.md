@@ -1,4 +1,4 @@
-[Adam Nathan](http://blogs.msdn.com/adam_nathan){.broken_link} has created [a home for a ton of PInvoke signatures](http://pinvoke.net/), organized by Module/DLL and pre-populated ([by the man himself](http://www.amazon.com/exec/obidos/ASIN/067232170X/)) with a ton of the most common signatures... I'll let the site describe itself with this text from the "What is this site?" page;
+[Adam Nathan](http://blogs.msdn.com/adam_nathan) has created [a home for a ton of PInvoke signatures](http://pinvoke.net/), organized by Module/DLL and pre-populated ([by the man himself](http://www.amazon.com/exec/obidos/ASIN/067232170X/)) with a ton of the most common signatures... I'll let the site describe itself with this text from the "What is this site?" page;
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
   <div class="Section1">
@@ -35,4 +35,4 @@
 </blockquote>
 
 <p class="MsoNormal" dir="ltr">
-  <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">For those of you who are primarily VB.NET developers (like myself), I fear you will find the VB content a bit light on this site... but this is bound to change over time since, as was mentioned earlier, this <strong>is</strong> a Wiki and I'm sure people will be adding VB.NET signatures...</span>
+  <span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">For those of you who are primarily VB.NET developers (like myself), I fear you will find the VB content a bit light on this site... but this is bound to change over time since, as was mentioned earlier, this **is** a Wiki and I'm sure people will be adding VB.NET signatures...</span>

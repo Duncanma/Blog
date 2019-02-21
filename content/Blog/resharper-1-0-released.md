@@ -2,9 +2,9 @@ From their site...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <em>"ReSharper is an add-in for Microsoft Visual Studio .NET 2003 that brings intelligent C# coding assistance, real-time error highlighting, and refactoring features to this popular development platform."</em>
+    _"ReSharper is an add-in for Microsoft Visual Studio .NET 2003 that brings intelligent C# coding assistance, real-time error highlighting, and refactoring features to this popular development platform."_
 
 </blockquote>
 
 <p dir="ltr">
-  [More info here...](http://www.jetbrains.com/resharper/index.html" target="_blank)
+  [More info here...](http://www.jetbrains.com/resharper/index.html)

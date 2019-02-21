@@ -1,4 +1,4 @@
-[ <b>Test Driven Development as a Practice – Level 400</b> ](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032247637&Culture=en-US" target="_blank)
+[ <b>Test Driven Development as a Practice – Level 400</b> ](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032247637&Culture=en-US)
 
 
 

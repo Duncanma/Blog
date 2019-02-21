@@ -2,11 +2,11 @@ I had read this in the &#8216;offline' version of MSDN magazine (you know, that 
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <strong> [Robert Green Talks About Communities for Visual Basic .NET](http://msdn.microsoft.com/msdnmag/issues/04/04/TalkingTo/default.aspx) </strong>
+    ** [Robert Green Talks About Communities for Visual Basic .NET](http://msdn.microsoft.com/msdnmag/issues/04/04/TalkingTo/default.aspx) **
 
 
 
-    <em>MSDN Magazine recently talked to Robert Green, the Community Lead Program Manager for Visual Basic, about what to expect in the next version and how the Visual Basic team hopes to work more closely with the Visual Basic community.<strong>MSDN</strong> What can we expect in the Whidbey release?<strong>Green</strong> More productivity and more power. For example ...</em>
+    _MSDN Magazine recently talked to Robert Green, the Community Lead Program Manager for Visual Basic, about what to expect in the next version and how the Visual Basic team hopes to work more closely with the Visual Basic community.**MSDN** What can we expect in the Whidbey release?**Green** More productivity and more power. For example ..._
 
 </blockquote>
 

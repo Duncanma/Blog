@@ -1,6 +1,6 @@
-I'm a big [FxCop](http://www.gotdotnet.com/team/fxcop/" target="_blank) fan, so I'm pretty happy to see this episode....
+I'm a big [FxCop](http://www.gotdotnet.com/team/fxcop/) fan, so I'm pretty happy to see this episode....
 
-> <a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031204FxCopMM/manifest.xml" target="_blank">
+> <a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031204FxCopMM/manifest.xml">
 >
 > <h3>
 >   Code Correctness with FxCop

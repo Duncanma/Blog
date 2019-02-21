@@ -2,24 +2,24 @@ Check out <http://msdn.microsoft.com/chats> for a full listing of upcoming chats
 
 **
 
-[Debugging Visual Basic .NET Applications](http://msdn.microsoft.com/chats/#vs_0420" target="_blank)
+[Debugging Visual Basic .NET Applications](http://msdn.microsoft.com/chats/#vs_0420)
 
 **
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    On <strong>Tuesday April 20 at 1:00 P.M. Pacific Time</strong>, join members of the Visual Basic and Debugger teams and talk about debugging Visual Basic .NET applications with the Visual Studio .NET Debugger.
+    On **Tuesday April 20 at 1:00 P.M. Pacific Time**, join members of the Visual Basic and Debugger teams and talk about debugging Visual Basic .NET applications with the Visual Studio .NET Debugger.
 
 </blockquote>
 
 **
 
-[Working with the DataGrid Control in Visual Basic .NET](http://msdn.microsoft.com/chats/#vs_0427" target="_blank)
+[Working with the DataGrid Control in Visual Basic .NET](http://msdn.microsoft.com/chats/#vs_0427)
 
 **
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    On <strong>Tuesday April 27 at 1:00 P.M. Pacific Time</strong>, join members of the Visual Basic and Windows Forms teams and talk about using the Windows Forms DataGrid control with Visual Basic .NET
+    On **Tuesday April 27 at 1:00 P.M. Pacific Time**, join members of the Visual Basic and Windows Forms teams and talk about using the Windows Forms DataGrid control with Visual Basic .NET
 
 </blockquote>

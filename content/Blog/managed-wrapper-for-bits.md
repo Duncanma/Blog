@@ -4,7 +4,7 @@ Wow, [people](http://aspnetweblog.com/posts/5055.aspx) [pick this stuff up ](htt
 
 <font face="Trebuchet MS">http://msdn.microsoft.com/library/en-us/dnwxp/html/WinXP_BITS.asp
 
-](http://msdn.microsoft.com/library/en-us/dnwxp/html/WinXP_BITS.asp){.broken_link}
+](http://msdn.microsoft.com/library/en-us/dnwxp/html/WinXP_BITS.asp)
 
 ) instead of just pulling down the code... or at least the column I wrote that uses the same managed wrapper (
 
@@ -12,6 +12,6 @@ Wow, [people](http://aspnetweblog.com/posts/5055.aspx) [pick this stuff up ](htt
 
 <font face="Trebuchet MS">http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun02282003.asp
 
-](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun02282003.asp){.broken_link}
+](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun02282003.asp)
 
 ). Code is cool, code with some explanation can be cooler!

@@ -2,7 +2,7 @@ Hey folks.... I've been thinking (dangerous, I know) and I've decided that you n
 
 Should we (MSFT, VB Team, Me, etc...) focus on the simple stuff for beginners or is that all covered on other sites and in the docs? Should we be focusing on those top few percentage of hard problems that very few folks have a good example for?
 
-I'm leaning towards the &#8216;simple' samples at the moment, like [my printing example a few weeks back](http://weblogs.asp.net/duncanma/archive/2004/01/30/65350.aspx){.broken_link}, and considering doing a simple data-entry application as a demo, then perhaps an application that uses the WebBrowser COM control (it comes up a lot on the forums I frequent)... and then, despite having already written [an article on it](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbtchWorkingWithMultipleFormsInVisualBasicNETUpgradingToNET.asp), something involving multiple forms and passing data back and forth...
+I'm leaning towards the &#8216;simple' samples at the moment, like [my printing example a few weeks back](http://weblogs.asp.net/duncanma/archive/2004/01/30/65350.aspx), and considering doing a simple data-entry application as a demo, then perhaps an application that uses the WebBrowser COM control (it comes up a lot on the forums I frequent)... and then, despite having already written [an article on it](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbtchWorkingWithMultipleFormsInVisualBasicNETUpgradingToNET.asp), something involving multiple forms and passing data back and forth...
 
 If you have any ideas or if you are just sick of answering a particular question over and over again (or asking it, and not getting a good answer) then just let me know.
 

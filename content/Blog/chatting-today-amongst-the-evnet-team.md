@@ -8,7 +8,7 @@ source code formatting checked in
 
 Duncan M.
 
-[http://localhost/posts/Sampy/PAX-Day-3-In-...](http://localhost/posts/Sampy/PAX-Day-3-In-depth-coverage-from-the-Sampy-Cam/?CommentID=342016){.broken_link}
+[http://localhost/posts/Sampy/PAX-Day-3-In-...](http://localhost/posts/Sampy/PAX-Day-3-In-depth-coverage-from-the-Sampy-Cam/?CommentID=342016)
 
 Aug 29
 
@@ -40,7 +40,7 @@ Aug 29
 
 nathan h.
 
-[http://users.tkk.fi/~tkarvine/pre-wrap-css...](http://users.tkk.fi/~tkarvine/pre-wrap-css3-mozilla-opera-ie.html){.broken_link}
+[http://users.tkk.fi/~tkarvine/pre-wrap-css...](http://users.tkk.fi/~tkarvine/pre-wrap-css3-mozilla-opera-ie.html)
 
 Aug 29
 

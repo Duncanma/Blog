@@ -2,7 +2,7 @@ Many things on GotDotNet now have RSS feeds, including User Samples!
 
 [http://www.gotdotnet.com/community/resources/rss.aspx?feed=sample
 
-](http://www.gotdotnet.com/community/resources/rss.aspx?feed=sample){.broken_link}
+](http://www.gotdotnet.com/community/resources/rss.aspx?feed=sample)
 
 I'm very excited.
 

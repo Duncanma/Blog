@@ -1,4 +1,4 @@
-We just launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies){.broken_link}, check them out!
+We just launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies), check them out!
 
 <p class="MsoNormal" align="center">
   [ <img alt="" hspace="0" src="http://msdn.microsoft.com/nodehomes/graphics/140x100/VBMovies.jpg" align="baseline" border="0" /> ](http://msdn.microsoft.com/vbasic/atthemovies)
