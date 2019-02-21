@@ -1,3 +1,8 @@
+---
+date: 2005-01-25T08:22:00+00:00
+title: Some thoughts on losing weight from someone who doesn&#8217;t really know that much about it&#8230;
+type: posts
+---
 When I first came down to the US, I had to pick a doctor and go in for a physical, and when the doctor was done with all the various procedures he needed to perform, he asked me if I had any particular health concerns. I really only had one, but I didn't see the point in mentioning it, I didn't really think there was anything he would be able to do for me anyway. I decided I had better let him know though, it seemed stupid not to tell your doctor about your only real medical concern. "Well..", I said, "my only real concern is about my weight... I'd really like to drop some pounds". The doctor's face seemed to light up and he said, excitedly, "I have just the thing for you, I can tell you exactly how to get rid of that excess weight...". At this point, I have to admit I felt a little surge of excitement, however unrealistic it seemed, maybe he knew of some great solution that I had never heard about, so I waited for his next words eagerly. He sat down in front of me and told me the answer: "Eat less, do more... it's that simple". Ah... funny guy.
 
 He was definitely right about what was required, I have no doubt about that, but that simple formula never seems quite as easy to accomplish as healthy people make it sound. That was almost three years ago, and it didn't really cause any change in my activity level or my weight.

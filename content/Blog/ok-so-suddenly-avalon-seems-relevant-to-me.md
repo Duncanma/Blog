@@ -1,3 +1,8 @@
+---
+date: 2004-08-28T00:07:00+00:00
+title: Ok&#8230; so suddenly Avalon seems relevant to me :)
+type: posts
+---
 With [the recent annoucements](http://www.microsoft.com/presspass/press/2004/Aug04/08-27Target2006PR.asp), I get to check something off of my personal wishlist.... Avalon (and some connected systems thing... "purple" I think it's called...) will be available on WinXP!!
 
 I mean, Longhorn seems cool and all... but I just wasn't all that interested in a UI technology that wouldn't run on anything but the very latest OS, especially considering the very wide deployment of XP that will exist by the time Longhorn ships. I've often thought though, that if they made it run on XP, then I'd be interested, and I guess I wasn't the only person hoping for that!

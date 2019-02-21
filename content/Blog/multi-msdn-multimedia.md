@@ -1,3 +1,8 @@
+---
+date: 2004-01-23T08:35:00+00:00
+title: Multi MSDN Multimedia
+type: posts
+---
 **A new .NET Rocks! has been posted:** <http://msdn.microsoft.com/dotnetrocks/>
 
 > In this, Mark's last show, Carl and Mark welcome Rory Blyth, who writes a very popular blog at http://www.neopoleon.com. Rory talks about the .NET community and the Open Source Software (OSS) community, writing, blogging, driving to the PDC from Las Vegas, Longhorn, and more. 

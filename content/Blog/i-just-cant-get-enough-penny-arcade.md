@@ -1,3 +1,8 @@
+---
+date: 2004-12-05T19:14:00+00:00
+title: I just can&#8217;t get enough Penny Arcade&#8230;
+type: posts
+---
 He was talking about the generic bad guys in the new Prince of Persia game, but this line crosses into Halo, and it is so true...
 
 > "Halo has those little grunts, and I guess I'm supposed to feel like a bad-ass when I destroy them but I actually just feel like an asshole. They both seem like races that just fell in with the wrong crowd. What they need are compelling after school activities, not death."

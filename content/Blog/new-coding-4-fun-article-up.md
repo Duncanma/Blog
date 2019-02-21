@@ -1,3 +1,8 @@
+---
+date: 2004-07-29T01:20:00+00:00
+title: New Coding 4 Fun Article up&#8230;
+type: posts
+---
 [Add a Quick Poll to Your Web Site](http://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx?pull=/library/en-us/dncodefun/html/code4fun08032004.asp)
 
 

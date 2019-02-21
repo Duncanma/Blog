@@ -1,3 +1,8 @@
+---
+date: 2005-04-08T08:22:00+00:00
+title: Cory Smith release new VB.NET game&#8230; Checkers Solitaire&#8230;
+type: posts
+---
 <table>
   <tr>
     <td>

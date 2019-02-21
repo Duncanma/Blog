@@ -1,3 +1,8 @@
+---
+date: 2004-10-18T22:02:00+00:00
+title: New C# E &#038; C article published
+type: posts
+---
 > **
 
 > [Using the Edit and Continue Feature in C# 2.0](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/edit_continue.asp)

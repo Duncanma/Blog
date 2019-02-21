@@ -1,3 +1,8 @@
+---
+date: 2005-12-17T09:31:00+00:00
+title: I&#8217;m making a change&#8230; (a rambling post that contains some nuggets of information)
+type: posts
+---
 I've recently accepted a job with the [Channel 9 team](http://channel9.msdn.com/about.aspx) (working for [Jeff](http://www.jeffsandquist.com/) and working with [Adam](http://www.adamkinney.com), [Erik](http://weblogs.asp.net/eporter/), [Robert](http://scobleizer.wordpress.com/), and [Charles](http://carmine.blogs.com/kernel/)), and ... because I'm mostly a one-job kind of guy, that means I have to stop working at MSDN. So, come January 16th, I'll be over in a new office at Channel 9, probably not coding anything yet as it always take a few days to get ramped up, connected to the right source trees, etc...
 
 This is quite a big move for me, even though it is still within Microsoft. I joined the company back in 1999, working as a MCS consultant up in Winnipeg, MB, and then I moved down to Redmond in 2001 to join [the MSDN article writing team](http://www.duncanmackenzie.net/articles/default.aspx). Since then I may have moved around a bit in terms of role (Writer, Content Strategist, Developer), but I stayed with the same group for the last four and a half years. As time goes by, it becomes harder and harder to make a change; you get very comfortable working with the same people on the same issues, in the same offices, even the same source trees and server names. I think that, as much as I have enjoyed the last year, even my move to the MSDN development team was a bit of cold-feet about leaving MSDN. I had decided that it was time to make a change and try out a different role within Microsoft, but it seemed so much safer, so much more familar to find another position that was still within MSDN.

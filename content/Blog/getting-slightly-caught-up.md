@@ -1,3 +1,8 @@
+---
+date: 2003-09-15T11:55:00+00:00
+title: Getting slightly caught up&#8230;
+type: posts
+---
 Well, I haven't produced anything of staggering brillance tonight, but I'm a little less behind on some of my writing obligations (now those SAMS editors will stop posting my picture in the coffee room with nasty words beneath it)... still behind on 3 or 4 other projects, but progress is progress... I'm not going to complain!
 
 Some very cool stuff coming soon on the [Visual C# Developer Center](http://msdn.microsoft.com/vcsharp), which I have recently taken over &#8216;stewardship' of, I'll leave it to [someone else](http://blogs.gotdotnet.com/ericgu/) to give away details if he wants and just say that if you care at all about the C# language itself, beyond the basics, then you are going to want to spend some time at the developer center in the next while!

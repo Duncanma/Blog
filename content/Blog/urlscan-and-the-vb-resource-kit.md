@@ -1,3 +1,8 @@
+---
+date: 2003-10-04T10:29:00+00:00
+title: URLScan and the VB Resource Kit
+type: posts
+---
 I haven't tried this out myself, but Mark Hurd posted a useful comment to my VB Resource Kit post... 
 
 > re: Visual Basic Resource Kit Download Available 10/3/2003 6:45 PM **Mark Hurd**

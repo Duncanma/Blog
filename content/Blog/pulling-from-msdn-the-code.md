@@ -1,3 +1,8 @@
+---
+date: 2005-03-22T08:26:00+00:00
+title: Pulling from MSDN&#8230; the code&#8230;
+type: posts
+---
 (see [this post](http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/19/1243.aspx) for an introduction to this topic...)
 
 I've wrapped my code up into a user control that you place anywhere on your page... it handles the load of data and then you can access its properties to output the html headers and body of the pulled content. I've just been using Output Caching on the host page, but if you decided to cache the body/headers that would certainly work as well...

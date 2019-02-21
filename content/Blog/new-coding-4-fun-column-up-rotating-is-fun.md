@@ -1,3 +1,8 @@
+---
+date: 2004-08-26T22:05:00+00:00
+title: New Coding 4 Fun Column up&#8230; &#8220;Rotating Is Fun&#8221;
+type: posts
+---
 > #### [Rotating Is Fun](http://msdn.microsoft.com/vbasic/using/columns/code4fun/?pull=/library/en-us/dncodefun/html/code4fun09072004.asp)
 
 >

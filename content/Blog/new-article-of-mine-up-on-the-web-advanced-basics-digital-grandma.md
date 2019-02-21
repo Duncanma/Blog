@@ -1,3 +1,8 @@
+---
+date: 2004-10-26T12:26:00+00:00
+title: 'New article of mine up on the web&#8230; &#8220;Advanced Basics: Digital Grandma&#8221;'
+type: posts
+---
 > **[Advanced Basics: Digital Grandma](http://msdn.microsoft.com/vbasic/default.aspx?pull=/msdnmag/issues/04/11/AdvancedBasics/default.aspx)**
 > Duncan shows you how to build a client application that pulls down new images from a web server onto his mother's machine to give her the functionality of a &#8216;digital photo frame'.
 

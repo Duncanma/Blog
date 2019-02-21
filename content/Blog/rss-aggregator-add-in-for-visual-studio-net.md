@@ -1,3 +1,8 @@
+---
+date: 2004-05-01T23:16:00+00:00
+title: RSS Aggregator add-in for Visual Studio .NET
+type: posts
+---
 Very cool article from [Code Project](http://www.codeproject.com); this is something I have wanted for awhile..... from the moment we started outputing [RSS from MSDN](http://msdn.microsoft.com/aboutmsdn/rss), it seemed to me that you'd want to view them **inside** of VS... I'm downloading this right to try it out, but the article is well written and covers a lot of good topics (like Isolated Storage, async delegates and more), so I'm pretty confident the add-in will work well 🙂
 
 > [Blog Reader Add-In for Visual Studio .NET](http://www.codeproject.com/dotnet/BlogReaderArticle.asp)

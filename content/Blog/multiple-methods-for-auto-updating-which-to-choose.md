@@ -1,3 +1,8 @@
+---
+date: 2003-06-22T17:59:00+00:00
+title: Multiple Methods for Auto-Updating, which to choose?
+type: posts
+---
 My last two posts mentioned two different ways of achieving similar results; deploying and updating an application over the Internet. Not suprisingly, I received a comment asking how do you determine which of the two methods to use, a very good question which I will try to answer here.
 
 The first thing to understand is that, while the two methods have similar goals, they are different in a key respect; one deploys over the network when you run it, the other uses the network to retrieve updates. No Touch Deployment, or href-exes as they are sometimes called, deploy over the network, reside in the cache, and are kept up-to-date simply because they are always running from their original location and (when run) they always pull down the latest files. Jamie Cool's or PAG's application updater is for update only; the application is installed just like any other application and resides on the local system, but uses the network to check for updated files from one or more servers.

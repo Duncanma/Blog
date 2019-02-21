@@ -1,3 +1,8 @@
+---
+date: 2003-03-19T11:44:00+00:00
+title: And speaking of Mike Harsh&#8230;
+type: posts
+---
 It seems he managed to get his cool shaped control library
 
 [

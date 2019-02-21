@@ -1,3 +1,8 @@
+---
+date: 2003-10-27T22:11:00+00:00
+title: Keynote Fun
+type: posts
+---
 Well, those demos have certainly floored me... but I must say I'm torn.
 
 As a Microsoft guy, I'm pretty pumped about all of the new stuff... but as a developer, I have to admit a feeling of sadness seeing all of this cool code (mostly the Avalon and WinFS stuff for me) that I won't be able to write into a production app for quite some time.

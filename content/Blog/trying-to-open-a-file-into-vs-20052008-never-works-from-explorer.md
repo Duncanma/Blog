@@ -1,3 +1,8 @@
+---
+date: 2007-12-20T20:26:00+00:00
+title: Trying to open a file into VS 2005/2008 &#8230; never works from Explorer
+type: posts
+---
 So I have a file on disk, web.config in this case, and I right click and pick &#8216;open with | Visual Studio 2008' ... and I get this:
 
  

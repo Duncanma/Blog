@@ -1,3 +1,8 @@
+---
+date: 2003-11-11T11:13:00+00:00
+title: ClickOnce and &#8220;locked down&#8221; systems
+type: posts
+---
 Ron Krauter posted this comment to [one of my earlier posts](http://weblogs.asp.net/duncanma/posts/34182.aspx);
 
 > **re: Reading Blogs... 11/2/2003 9:59 AM Ron Krauter**

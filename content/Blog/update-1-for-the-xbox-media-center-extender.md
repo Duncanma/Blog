@@ -1,3 +1,8 @@
+---
+date: 2005-02-21T22:24:00+00:00
+title: Update 1 for the XBox Media Center Extender..
+type: posts
+---
 I saw a newsgroup post (by Todd Bowra) that an update was available for my XBox media center extender, but I can't find anything about this on any of the media center sites on [http://www.microsoft.com](http://www.microsoft.com) or xbox.com, so I thought I would spread the word via my blog 🙂
 
 > For those of you who have been patiently waiting for Update Rollup 1 for Media Center Extender for Xbox (aka "the restricted content update"), the wait is now over. This afternoon, Update Rollup 1 was released via Xbox Live and simultaneously made available on disc for users who do not have Xbox Live. Summarized details are below.

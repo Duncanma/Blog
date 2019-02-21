@@ -1,3 +1,8 @@
+---
+date: 2003-10-11T10:48:00+00:00
+title: Home Machine is up and &#8220;loaded for code&#8230;&#8221;
+type: posts
+---
 Kent used a phrase a few days ago "loaded for bear", and while I can't even really explain what it meant (though [Google](http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%22loaded+for+bear%22) certainly can), it makes me laugh every time I think of it...
 
 Anyway, I recently bought a home machine (from Dell, because I realized that if I built it myself I would probably spend weeks doing it for 20-30 minutes a night), and I've finally loaded it up with VS.NET 2003.

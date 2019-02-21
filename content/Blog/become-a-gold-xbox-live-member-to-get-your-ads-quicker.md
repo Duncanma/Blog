@@ -1,3 +1,8 @@
+---
+date: 2006-10-30T19:22:00+00:00
+title: Become a Gold Xbox Live member to get your ads quicker
+type: posts
+---
 Interesting news, [content that is only for Xbox Live Gold members](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx)... which even [Tycho](http://www.penny-arcade.com/) thinks is understandable, but I agree with [his comments about what kind of content is being restricted](http://www.penny-arcade.com/2006/10/25).
 
 > they made a serious misstep with the content they chose to inaugurate Silver's descent into squalor: a trailer for Gears of War. An _advertisement_. Now, don't get me wrong. This is really _quite_ a [trailer](http://www.gametrailers.com/player.php?id=14418&type=wmv&pl=game). The term "trailer" may even be insufficient. But, um... When you make people pony up for instant access to ads? They might get the impression that you are taking advantage of them.

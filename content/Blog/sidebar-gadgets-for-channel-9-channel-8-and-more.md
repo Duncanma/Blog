@@ -1,3 +1,8 @@
+---
+date: 2008-04-05T05:32:00+00:00
+title: Sidebar Gadgets for Channel 9, Channel 8 and more
+type: posts
+---
 We recently had Donovan West ([LiveGadgets.net](http://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop.
 
 [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="147" alt="The Gadget in its open state" src="http://duncanmackenzie.net/images/9cfa4634-abe8-466b-8564-036df610d1d3.png" width="320" border="0" />](http://duncanmackenzie.net/images/a40241c2-1d0c-4f58-97bc-215eb3c7ffc4.png" rel="lightbox[492]" title="The Gadget in its open state)

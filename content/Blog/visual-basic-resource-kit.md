@@ -1,3 +1,8 @@
+---
+date: 2003-10-02T00:23:00+00:00
+title: Visual Basic Resource Kit
+type: posts
+---
 The download isn't up yet, it takes some time to sign and virus scan an entire CD packaged up as a zip, but the site that details what is included is there!
 
 Check out [http://msdn.microsoft.com/vbasic/vbrkit](http://msdn.microsoft.com/vbasic/vbrkit/) for all the details, and you can even order yourself a copy of the CD if you want to avoid the downloading hassles...

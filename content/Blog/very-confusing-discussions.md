@@ -1,3 +1,8 @@
+---
+date: 2003-05-11T09:17:00+00:00
+title: Very confusing discussions&#8230;
+type: posts
+---
 [Some](http://dotnetweblogs.com/rosherove/posts/6550.aspx) [folks](http://www.dotnetweblogs.com/datagridgirl/posts/6821.aspx) have been discussing [the idea of paying for technical work](http://chris.pirillo.com/archives/2003_05.html#000929)... well, they are actually talking about paying for technical work done over email... but what is the difference?
 
 I need some work done, whether that is easy or hard for the person I hire isn't relevant... and if they answer my question too quickly that certainly shouldn't be a problem either. So why is [Jeff Julian](http://blog.jjulian.com/) upset by this? Why **wouldn't** you have to pay for a technical resource doing work for you? If you want free support then do as [Chris says](http://chris.pirillo.com/ask/), just post your question on a [forum](http://www.gotdotnet.com)... (and some nice MVP or a non-MVP like myself will try and answer your question) if, on the other hand, you want someone to actually dig up an answer to your question (and whether that is easy or hard for them isn't relevant) then you should have to pay.

@@ -1,3 +1,8 @@
+---
+date: 2005-11-16T11:24:00+00:00
+title: Just spent way too much time fixing VB code coloring on MSDN2
+type: posts
+---
 You may have already noticed this, but the current build of MSDN2 has a bug in the way it colors VB code snippets, as you can see [here](http://msdn2.microsoft.com/en-us/library/chsc1tx6(en-US,VS.80).aspx) (scroll down, there are quite a few problems in the code snippet coloring, see how many you can spot!)... turns out the code wasn't handling comments right, text in quotes, and it didn't have a full list of the VB keywords (so MsgBox was not recognized, for example). I've fixed it all up now (I think) so that code will work its way through review and test then get added to some not-too-distant update of the site code... but for now, here is the revised output for those particular code samples.
 
 #### Broken

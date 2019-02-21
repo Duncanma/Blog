@@ -1,3 +1,8 @@
+---
+date: 2004-08-25T21:38:00+00:00
+title: Ran into my first blog hosting bug&#8230; that was fast&#8230;
+type: posts
+---
 Within a few hours of being up, I ran into [this issue.](http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx).. odd, since it doesn't appear to be affecting very many folks...
 
 > **[.Text Threading Bug](http://odetocode.com/Blogs/scott/archive/2004/05/26/259.aspx)**

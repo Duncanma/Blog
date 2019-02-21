@@ -1,3 +1,8 @@
+---
+date: 2003-03-18T12:31:00+00:00
+title: Sites in a box
+type: posts
+---
 I just read up a bit on the 
 				  
 [

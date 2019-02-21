@@ -1,3 +1,8 @@
+---
+date: 2004-06-21T10:20:00+00:00
+title: Just saw a concert&#8230; already have the live CD&#8230;
+type: posts
+---
 It is like bootleg concert recordings but the quality is better and I had to pay for it 🙂
 
 Tonight my wife and I went out to [a Jewel Concert](http://www.instantliveconcerts.com/bands_main.php3?id=192), which was great... although our position on the grass gave us a better view of one of the main support poles on the stage than of Jewel herself... and at the end of the show, we picked up our "Instant Live" CD of the concert (yes, the concert that had just ended). I wasn't keeping exact track, but it seems like it was approximately 15 minutes from the end of the show until the first boxes of CDs, already in _&#8216;jewel'_ cases, came out for distribution.

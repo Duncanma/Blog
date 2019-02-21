@@ -1,3 +1,8 @@
+---
+date: 2006-10-22T09:26:00+00:00
+title: Code Monkey by Jonathon Coulton
+type: posts
+---
 Ok, if you are a programmer... or even if you just can relate enough that you think Office Space is one of the best movies in the world (doesn't everyone?) then I need you to do this:
 
   * Go to [http://www.jonathancoulton.com/songs](http://www.jonathancoulton.com/songs)

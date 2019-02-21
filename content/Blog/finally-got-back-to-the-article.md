@@ -1,3 +1,8 @@
+---
+date: 2003-08-12T11:20:00+00:00
+title: Finally got back to the article
+type: posts
+---
 Thanks to everyone who emailed me and offered to help... but the problem was time, not technical... despite my joke about working on the cool stuff first, a ton of high-priority stuff has made me weeks late on my article!
 
 Although I did hit some snags with odd unsorted feeds (MSDN's!), I managed to get everything working the way I wanted. I'm still a little unhappy with the system because I don't strip out potentially bad tags from any HTML content included in the RSS (as per [http://diveintomark.org/archives/2003/06/12/how\_to\_consume\_rss\_safely](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely)) , but it has certainly progressed far enough in code for me to finish up the article.

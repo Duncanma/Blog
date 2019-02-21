@@ -1,3 +1,8 @@
+---
+date: 2007-02-02T23:44:00+00:00
+title: Nike+ actually makes me consider an iPod
+type: posts
+---
 If you know me, or read my blog much, you'll probably gather that I've fully bought into the WMA/WMV world. I've always been a bit annoyed at the iPod model of things as well... I mean, seriously, you can only use iTunes with iPods and iPods with iTunes... talk about crazy... people need choice, who wants to be locked into one music player or one music store?!?
 
 Of course, I don't get to rant about that anymore, now that we are doing the exact same thing with [Zune](http://www.zune.net/)... I don't like it any better just because we are doing it, but I've decided that I must be in the minority and that most consumers must not really care about being locked into a single store/brand.

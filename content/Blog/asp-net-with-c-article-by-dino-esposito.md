@@ -1,3 +1,8 @@
+---
+date: 2004-04-17T12:16:00+00:00
+title: ASP.NET (with C#) article by Dino Esposito&#8230;
+type: posts
+---
 [via Kent Sharkey's Blog](http://weblogs.asp.net/ksharkey/archive/2004/04/15/114054.aspx)
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

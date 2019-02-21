@@ -1,3 +1,8 @@
+---
+date: 2004-05-15T10:33:00+00:00
+title: SteveJS discusses unmanaged/managed and mixed debugging in VS
+type: posts
+---
 <p dir="ltr">
   Steve Steiner, a developer on the VS debugger team, fills us in on some of the differences between the different types of debugging that VS is capable of...
 

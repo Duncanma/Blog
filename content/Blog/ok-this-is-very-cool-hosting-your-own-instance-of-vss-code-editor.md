@@ -1,3 +1,8 @@
+---
+date: 2004-08-30T20:52:00+00:00
+title: Ok&#8230; this is very cool, hosting your own instance of VS&#8217;s code editor?
+type: posts
+---
 Dr. Ex(tensibility) posted this recently;
 
 > **[Deploying Managed Packages and Hosting Code Editor in Tool Windows](http://blogs.msdn.com/Dr._Ex/archive/2004/08/29/222425.aspx)**

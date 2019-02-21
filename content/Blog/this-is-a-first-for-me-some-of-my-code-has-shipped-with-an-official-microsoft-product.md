@@ -1,3 +1,8 @@
+---
+date: 2005-04-08T17:29:00+00:00
+title: This is a first for me, some of my code has shipped with an official Microsoft product&#8230;
+type: posts
+---
 That may not seem like a big deal to most MIcrosoft developers, since most of them write code for that exact purpose, but I have spent most of my time in Redmond writing sample code and even with my switch to development I'm focused on writing internal systems that are not likely to ever be exposed outside of our own users. Recently, the Tablet PC folks released the "[Experience Pack for Windows XP Tablet PC Edition 2005](http://www.microsoft.com/windowsxp/downloads/tabletpc/experiencepack/default.mspx)", which includes the Media Transfer application/power toy.
 
 > [Getting started with Media Transfer](http://www.microsoft.com/windowsxp/using/tabletpc/experiencepack/mediatransfer.mspx)

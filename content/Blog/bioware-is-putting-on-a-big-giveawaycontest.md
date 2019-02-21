@@ -1,3 +1,8 @@
+---
+date: 2006-06-21T15:52:00+00:00
+title: BioWare is putting on a big giveaway/contest&#8230;
+type: posts
+---
 I'm certain I can't enter, being a MSFT employee and all, but you can!
 
 > [<img src="http://www.bioware.com/3million/images/grandprize_158x173.jpg" title="" border="0" />](http://www.bioware.com/3million/)

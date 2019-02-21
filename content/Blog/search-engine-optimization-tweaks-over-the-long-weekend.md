@@ -1,3 +1,8 @@
+---
+date: 2007-11-25T09:57:00+00:00
+title: Search Engine Optimization Tweaks over the long weekend
+type: posts
+---
 My team builds a fair number of community sites including [Channel 8 (for Students)](http://channel8.msdn.com/), [TechNet Edge (for IT Pros)](http://edge.technet.com/), [Channel 10 (for enthusiasts, power users and gamers)](http://on10.net/), [Mix Online (for web developers and designers)](http://visitmix.com/) and the original site... [Channel 9 (aimed mostly at developers)](http://channel9.msdn.com/) ... and we've recently starting putting out sites on a new code base. One of the changes in that new code base was a move to an AJAX style interface for viewing lists of posts on the page. We like the way this works for paging through lists of entries, comments, etc... but we have known from the beginning that it was going to cause us some trouble in the world of search engines and other crawlers. Without JavaScript, there was very little being output onto the page, and what was there was mostly navigational chrome. Taking a look at Google's cache of TechNet Edge from a few days ago gives this:
 
 [<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="231" alt="not much to see without script" src="http://duncanmackenzie.net/images/ae9106d8-4911-46fd-a913-cedf241ad069.jpg" width="260" border="0" />](http://duncanmackenzie.net/images/d105b1c6-c386-44b0-ad06-abb5dfc2d260.jpg" rel="lightbox[504]" title="not much to see without script)

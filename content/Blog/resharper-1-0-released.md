@@ -1,3 +1,8 @@
+---
+date: 2004-07-23T23:16:00+00:00
+title: ReSharper 1.0 Released&#8230;
+type: posts
+---
 From their site...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

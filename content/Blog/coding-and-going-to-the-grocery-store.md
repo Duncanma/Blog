@@ -1,3 +1,8 @@
+---
+date: 2003-03-04T23:23:00+00:00
+title: Coding and Going to the Grocery Store
+type: posts
+---
 Greg Robinson's [comments](http://dotnetweblogs.com/grobinson/posts/3388.aspx) today were quite timely, I had been thinking much the same thing myself... Often, and I find it happens more and more these days, I will go to find something on the Internet, or buy something at the grocery store, and I end up doing everything but the task I intended to accomplish. This appears to be normal human behaviour, but it can be quite disturbing if you are short on time and have a lot of things that need to get done. As [Darren](http://dotnetweblogs.com/DNeimke) comments on Greg's post, a to-do list appears to be the only way to keep yourself focused. In coding this is extremely important, so I use bug-tracking software to track new features and bug fixes together with some priority info... otherwise I would code for a few days and never get any closer to shipping out my application.
 
 I suspect that we could all use more focus to the work part of our day, the more productive we are at work, the more we can goof-off at home! I've always wondered if there was a software solution to this problem, but I think it much more of an issue with me than with any particular means for tracking to-do's. A piece of paper would likely be enough of a "system" for tracking all of the things to do in a day, but like most developers I feel compelled to at least use a computer solution (Outlook tasks at the moment, at least they sync to my pda), although I have a strong desire to write my own. I guess that would be the ultimate procrastination, writing your own to-do list tool instead of actually working on the items on your list.

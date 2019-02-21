@@ -1,3 +1,8 @@
+---
+date: 2004-10-07T17:25:00+00:00
+title: You just have to &#8216;love&#8217; wikis&#8230;
+type: posts
+---
 (I'm kidding)
 
 Wikis seem to be nothing but free space for spammers... yes, yes... I know.. [they have good aspects](http://www.pinvoke.net), but it seems whenever I get a link to a wiki, the odds I'm going to see what I expected are very low (and the odds of seeing farm animals in disturbing poses is high).

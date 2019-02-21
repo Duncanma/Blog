@@ -1,3 +1,8 @@
+---
+date: 2004-06-30T21:21:00+00:00
+title: Operator Overloading in VB 2005
+type: posts
+---
 Matthew Gertz, Dev Lead for the VB Compiler, Editor & Debugger team has written an article on operator overloading in Visual Basic 2005...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

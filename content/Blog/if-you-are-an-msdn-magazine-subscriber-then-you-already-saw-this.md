@@ -1,3 +1,8 @@
+---
+date: 2004-09-14T16:23:00+00:00
+title: If you are an MSDN Magazine subscriber, then you already saw this&#8230;.
+type: posts
+---
 My Advanced Basics column from the October 2004 issue is now up online...
 
 > **[Building a Progress Bar that Doesn't Progress](http://msdn.microsoft.com/msdnmag/issues/04/10/AdvancedBasics/default.aspx)**

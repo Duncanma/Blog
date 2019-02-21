@@ -1,3 +1,8 @@
+---
+date: 2003-04-07T23:29:00+00:00
+title: MSDN TV now available offline!
+type: posts
+---
 * * *
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

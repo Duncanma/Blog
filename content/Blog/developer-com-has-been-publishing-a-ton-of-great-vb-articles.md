@@ -1,3 +1,8 @@
+---
+date: 2005-01-18T17:20:00+00:00
+title: Developer.com has been publishing a ton of great VB articles&#8230;
+type: posts
+---
 I've been meaning to mention this for awhile, but better late than never:
 
 > <u>[Discovering Visual Basic .NET](http://www.developer.com/net/vb/article.php/3448491)</u> By Bill Hatfield &#8211; There is no need to put off learning Visual Basic .NET any longer. With this tutorial you will be on your way!

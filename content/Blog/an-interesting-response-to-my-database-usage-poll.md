@@ -1,3 +1,8 @@
+---
+date: 2004-10-02T03:58:00+00:00
+title: An interesting response to my database usage poll&#8230;
+type: posts
+---
 [Mike Dimmick comments on SQL Server's licensing policy and compares it to Oracle... ](http://blogs.duncanmackenzie.net/duncanma/archive/2004/09/24/695.aspx#738)which puzzled me. I'm no licensing expert, but from my days in MCS I used to read up on Oracle a bit and it seemed to me that they used a similar model to ours in determining per-user licensing costs. So I looked it up.
 
 Oracle's per-user pricing is defined as per "Named User Plus"... from their own licensing material ( [http://www.oracle.com/corporate/pricing/eplext.pdf](http://www.oracle.com/corporate/pricing/eplext.pdf) );

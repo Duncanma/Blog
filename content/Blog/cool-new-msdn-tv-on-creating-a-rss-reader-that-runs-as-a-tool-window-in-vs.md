@@ -1,3 +1,8 @@
+---
+date: 2004-07-02T10:31:00+00:00
+title: Cool new MSDN TV (on creating a RSS reader that runs as a tool window in VS)
+type: posts
+---
 <span> </span>
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

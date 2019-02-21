@@ -1,3 +1,8 @@
+---
+date: 2003-03-22T11:56:00+00:00
+title: Macros in VS.NET
+type: posts
+---
 I have to admit I haven't taken advantage of enough of VS.NET's capabilities... the ability to write macros alone should have resulted in a ton of useful little routines, but I have only written a few. One of the ones I use most often converts between a list of my internal member variables in a class...
 
 <pre class="code"><font color="#000000">    <font color="#0000ff">Dim <font color="#000000">m_fred <font color="#0000ff">As String

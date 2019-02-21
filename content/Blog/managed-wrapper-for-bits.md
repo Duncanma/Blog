@@ -1,3 +1,8 @@
+---
+date: 2003-04-08T07:46:00+00:00
+title: Managed Wrapper for BITS
+type: posts
+---
 Wow, [people](http://aspnetweblog.com/posts/5055.aspx) [pick this stuff up ](http://radio.weblogs.com/0101134/2003/04/07.html#a45)quick... that was just an updated version of my [BITS](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/bits/bits/bits_start_page.asp) wrapper that I posted TODAY... Appreciate the link from [ScottW](http://aspnetweblog.com/posts/5055.aspx) and [Chris Kinsman](http://radio.weblogs.com/0101134/2003/04/07.html#a45), but I'd rather people read the associated article (at
 
 [

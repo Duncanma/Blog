@@ -1,3 +1,8 @@
+---
+date: 2004-05-17T09:53:00+00:00
+title: So many posts in so little time&#8230;
+type: posts
+---
 [Cyrus](http://blogs.msdn.com/cyrusn) (a developer with the C# IDE team) has obviously needed to blog for awhile, and when he finally did, he had a lot of material ready to go. Check out [his 28 posts from the last 2 days](http://blogs.msdn.com/cyrusn/archive/2004/05.aspx)!
 
 Here's his first post:

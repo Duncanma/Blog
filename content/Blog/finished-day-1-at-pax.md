@@ -1,3 +1,8 @@
+---
+date: 2006-08-26T08:54:00+00:00
+title: Finished Day 1 at PAX
+type: posts
+---
 So I've been wanting to go to [PAX](http://www.pennyarcadeexpo.com) since it started a couple of years ago, and every time it has come around I've been out of town... until now... and, by some interesting twist of fate, I know [have a job that actually required me to attend](http://www.on10.net/Blogs/TheShow/5132/) 🙂
 
 So [Tina](http://www.tinawood.net/), Sampy, [Adam](http://adamkinney.com) and I headed over there today, snuck in ahead of the massive line with our snazzy media badges and started filming... some highlights

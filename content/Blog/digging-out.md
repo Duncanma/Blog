@@ -1,3 +1,8 @@
+---
+date: 2003-11-04T20:20:00+00:00
+title: Digging out&#8230;
+type: posts
+---
 It seems like I just got back from the PDC... I opened my laptop for the first time today, which isn't to say I wasn't working... I have email and access to update the various sites I'm working on from other machines... but I certainly wasn't coding. Anyway, the # of unread posts in SharpReader is just ridiculous, probably going to be the incentive to clean out my subscription list...
 
 I thought I should remind folks that a variety of Visual Basic Whidbey information has been posted up at <http://msdn.microsoft.com/vbasic/whidbey> in case that URL never made it around during the madness of information overload that was the PDC.

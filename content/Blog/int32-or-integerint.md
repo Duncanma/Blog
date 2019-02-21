@@ -1,3 +1,8 @@
+---
+date: 2003-04-06T10:50:00+00:00
+title: Int32 or Integer/int?
+type: posts
+---
  [Brad Abrams posted about the use BCL types vs. language specific type names (in sample code) today](http://blogs.gotdotnet.com/BradA/permalink.aspx/a1ac850b-e21d-4d77-8b93-8832d48af1a1), which just happens to be a topic I've had to think about myself when writing sample code for my own articles, so I thought I would make a comment.
 
 I'm with [Morty](http://morty.info/blog/2003/4.aspx#section-5e6d4e4d-9531-4760-a50d-5683f3252206) on this one... I have the general rule that sample code should be written following the style and convention guidelines for the language. I'm a VB guy, so this usually takes the form of "Write VB code the VB way", but there are exceptions.... For example, I use Integer in my Visual Basic .NET code, not Int32, but I like to use Int32 in Win32 API declarations; the specific size of integer is pretty important at that point so I like to make it clear... Beyond types it gets a little murky... I always use the System.IO classes for File access; VB.NET still has the Open/Put commands but I truly believe that those "legacy" statements are not as good/clear as the new System.IO classes... whereas in the case of Int32 vs. Integer (or MsgBox vs. MessageBox.Show()) it is merely a syntax/style difference.

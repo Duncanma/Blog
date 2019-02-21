@@ -1,3 +1,8 @@
+---
+date: 2006-04-18T18:48:00+00:00
+title: 'RE: I stumped Major Nelson'
+type: posts
+---
 The source behind several of our questions for [the recent Major Nelson bit on 10](http://on10.net/theshow/2206/) is revealed, thanks Xbox Elle!
 
 > <div>

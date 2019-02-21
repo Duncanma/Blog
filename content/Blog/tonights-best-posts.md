@@ -1,3 +1,8 @@
+---
+date: 2004-02-27T10:40:00+00:00
+title: Tonight&#8217;s best posts&#8230;
+type: posts
+---
 Forgive me in advance... I'm not posting about .NET, in fact I'm not going to say much at all except to post to two great posts
 
   * [Chris Sells: Same-Sex Marriages \*Should\* Be Allowed](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1154)

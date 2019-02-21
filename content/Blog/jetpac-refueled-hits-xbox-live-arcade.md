@@ -1,3 +1,8 @@
+---
+date: 2007-03-23T18:55:00+00:00
+title: Jetpac Refueled hits Xbox Live Arcade
+type: posts
+---
 On Wednesday, a new [Xbox Live Arcade game](http://www.xbox.com/en-US/games/livearcadexbox360/default.htm) from Rare will be hitting the Marketplace... Jetpac Refueled. I have to say, from the moment we started shipping retro games onto the Xbox 360, this is what I've been waiting for.
 
 Not this game itself, I've never heard of it before to be honest ([but wikipedia delivers the goods as always](http://en.wikipedia.org/wiki/Jetpac)), but I always figured that the retro games would be re-developed to take advantage of the 360's graphics and sound... and this one has been. So, unlike Frogger, Pac Man, and Dig Dug... where I kept hoping to find a secret button to turn on the new and improved version... this one delivers.

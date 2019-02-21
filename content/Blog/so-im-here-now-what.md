@@ -1,3 +1,8 @@
+---
+date: 2003-06-01T08:57:00+00:00
+title: So I&#8217;m here, now what?
+type: posts
+---
 <font face="Verdana" color="teal">I thought I had better write my first TechEd related post, now that I've joined techedbloggers.net, and especially since I've arrived in Dallas.
 
 <font face="Verdana" color="teal">Nothing much to report except a minor complaint; the Hyatt Regency doesn't have high-speed Internet... and that is a bit of a disappointment. Yeah, yeah, I know... boo-hoo, no high-speed Internet, poor Microsoft guy.  But really... there are a ton of TechEd attendees here, it looks like we've filled up the place, so I think it would have been handy for a lot of people... although I'm mostly just concerned about me at the moment, it just sounds better if I say I'm worried about all the other attendees.

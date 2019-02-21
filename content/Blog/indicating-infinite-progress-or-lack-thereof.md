@@ -1,3 +1,8 @@
+---
+date: 2003-03-20T03:12:00+00:00
+title: Indicating Infinite Progress, or lack thereof
+type: posts
+---
 clovett
 
 [

@@ -1,3 +1,8 @@
+---
+date: 2003-10-02T07:49:00+00:00
+title: Visual Basic Resource Kit Download Available
+type: posts
+---
 We've updated the page with the download URL already (some fast work on the part of our site team there), so you might want to go back and check it out...
 
 <http://msdn.microsoft.com/vbasic/vbrkit/>

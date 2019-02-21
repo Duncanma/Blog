@@ -1,3 +1,8 @@
+---
+date: 2003-03-12T21:09:00+00:00
+title: IsNumeric, Microsoft.VisualBasic.dll, etc.
+type: posts
+---
 Sean and Scott's
 
 [

@@ -1,3 +1,8 @@
+---
+date: 2004-07-16T03:17:00+00:00
+title: Robert gives up an update on the VB.NET Power Pack
+type: posts
+---
 
 
 <p dir="ltr">

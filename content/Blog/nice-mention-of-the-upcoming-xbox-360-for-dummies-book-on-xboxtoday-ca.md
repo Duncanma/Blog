@@ -1,3 +1,8 @@
+---
+date: 2005-10-27T05:24:00+00:00
+title: Nice mention of the upcoming Xbox 360 for Dummies book on xboxtoday.ca
+type: posts
+---
 > **[Xbox 360 for Dummies](http://www.xboxtoday.ca/xbox_360_for_dummies?PHPSESSID=9f04573df4d8291ac5fa620cfb08cf1d)**
 > By Sean Lennox
 > A new book entitiled "[Xbox 360 for Dummies](http://www.amazon.com/exec/obidos/tg/detail/-/0471771805/ref=ase_duncanmackenz-20/002-2336965-9825627?v=glance&s=books)" might be exactly what some of us need

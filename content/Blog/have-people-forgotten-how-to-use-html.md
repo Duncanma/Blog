@@ -1,3 +1,8 @@
+---
+date: 2007-03-05T09:52:00+00:00
+title: Have people forgotten how to use HTML?
+type: posts
+---
 This keeps happening to me on Microsoft sites, and it really bugs me...
 
   * I go to view a product on one of our sites, [Xbox.com](http://www.xbox.com/en-US/games/viewer.aspx?productId=992&assetTypeId=1&shotId=0) and [Zune.net](http://www.zune.net/en-us/accessories/zune/mediaviewers/mv-homeavpack.htm) most recently

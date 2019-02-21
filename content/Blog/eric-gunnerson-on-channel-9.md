@@ -1,3 +1,8 @@
+---
+date: 2004-04-30T10:10:00+00:00
+title: Eric Gunnerson on Channel 9&#8230;
+type: posts
+---
 Two video interviews with [Eric Gunnerson](http://blogs.msdn.com/ericgu) appeared on [Channel 9](http://channel9.msdn.com/) today:
 
   * [What has the biggest change at Microsoft since you've been here?](http://channel9.msdn.com/ShowPost.aspx?PostID=5719#5719) 

@@ -1,3 +1,8 @@
+---
+date: 2005-02-02T17:00:00+00:00
+title: Fun quotes via GapingVoid.com
+type: posts
+---
 In the comments of [this post](http://www.gapingvoid.com/Moveable_Type/archives/001304.html);
 
 > "I bet they [Microsoft] think people's idea of fun on the weekend is sitting around at home wearing company golf shirts and making corporate presentations for their upcoming week at work." &#8212; [Brad Whittington](http://www.gapingvoid.com/MT-2.65-full-lib/mt-comments.cgi?__mode=red;id=9644)

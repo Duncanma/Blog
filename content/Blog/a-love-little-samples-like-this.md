@@ -1,3 +1,8 @@
+---
+date: 2004-06-10T10:02:00+00:00
+title: A love little samples like this&#8230;
+type: posts
+---
 From [Justin Rogers](http://weblogs.asp.net/justin_rogers)
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

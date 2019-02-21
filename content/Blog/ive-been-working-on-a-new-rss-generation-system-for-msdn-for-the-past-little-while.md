@@ -1,3 +1,8 @@
+---
+date: 2004-09-27T06:19:00+00:00
+title: I&#8217;ve been working on a new RSS generation system for MSDN for the past little while
+type: posts
+---
 ... and it is almost ready to ship....
 
 The new system will result in a few changes to [the MSDN feeds](http://msdn.microsoft.com/aboutmsdn/rss), the most notable of which is that our feeds will no longer reflect a certain time span (they currently contain all of the appropiately attributed items from the past 30 days), but will instead contain a certain # of items. They also have a bit more data in them, including the author of the article (in the dc:creator element) and a collection of category elements containing all of the attribution that we have applied to that article in our back end system.

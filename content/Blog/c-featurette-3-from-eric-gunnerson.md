@@ -1,3 +1,8 @@
+---
+date: 2004-04-14T22:05:00+00:00
+title: 'C# Featurette #3 from Eric Gunnerson'
+type: posts
+---
 Eric describes a new Whidbey feature focused on creating those &#8216;utility' classes in the style of **System.Math** or **System.Environment**:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

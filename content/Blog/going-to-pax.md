@@ -1,3 +1,8 @@
+---
+date: 2006-08-24T21:28:00+00:00
+title: Going to PAX?
+type: posts
+---
 I'll be hanging around outside a bit tonight, to check on any folks who are that excited to be there already, and I'll be around after 2pm tomorrow... a lot of Saturday... some of Sunday... in general, I'll be there 🙂
 
 (PAX is the [Penny Arcade Expo](http://www.pennyarcadeexpo.com), for the curious)

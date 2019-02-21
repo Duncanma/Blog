@@ -1,3 +1,8 @@
+---
+date: 2004-06-09T10:37:00+00:00
+title: Celebrities in the locker room&#8230; career opportunity or creepy awkwardness?
+type: posts
+---
 As other people have probably mentioned here and there, there is a very nice health club near Microsoft and a membership to that club is one of the options in our benefits plan. Therefore, it isn't all that surprising that most of the folks in the gym at any particular time are Microsoft employees. This can lead to an interesting occurance that has left me wondering (on more than one occasion), what is the &#8216;right' thing to do in this situation?
 
 Let's pretend for a moment that you are me, a mid to low level Microsoft guy who just happens to be in the locker room at the gym before work... and along comes Steve Ballmer... and you end up standing around near this guy who is your great-great-great (and so on) grand boss... and a celebrity to boot. What do you do? Personally my approach has always been (and believe it or not this is not an extremely rare occurance) that since he (whoever it is, Steve being just one example) doesn't know me, that I should treat him like any other guy at the gym that I don't know... make friendly conversation about the fact that he is standing on my towel/foot/etc or whatever else needs to be said, but in general silence shall prevail.

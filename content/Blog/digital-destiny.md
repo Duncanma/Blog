@@ -1,3 +1,8 @@
+---
+date: 2003-09-30T09:22:00+00:00
+title: Digital Destiny
+type: posts
+---
 Was it fate, or mere coincidence? Today, I checked out a little online message board where MSFT employees sell/trade various used items (computers, appliances, furniture, baby clothes... whatever) and someone was selling one of those new Samsung DVD players with DVI out... yep, [the very same one that I decided to buy, and then changed my mind](http://weblogs.asp.net/duncanma/posts/28158.aspx) after seeing the price of the DVI cables...
 
 It was around a month old and $100 off retail price... so I bought it. I'd add some appropriate emoticons here, but I'm not sure I can find one that appropriately describes the girlish giggling I'm currently producing.

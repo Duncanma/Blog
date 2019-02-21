@@ -1,3 +1,8 @@
+---
+date: 2004-02-10T21:07:00+00:00
+title: HTML Agility Pack
+type: posts
+---
 I've seen this around before, and this post was from June 2003, but it is worth mentioning again!
 
 > [<b>.NET Html Agility Pack: How to use malformed HTML just like it was well-formed XML... </b>](http://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx)

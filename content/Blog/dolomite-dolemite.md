@@ -1,3 +1,8 @@
+---
+date: 2003-11-19T02:53:00+00:00
+title: Dolomite  Dolemite
+type: posts
+---
 Earlier today I posted some background pics... including some from [www.dolomitesworld.com](www.dolomitesworld.com)... Frank Redmond (Content Strategist for .NET Framework) just bust out laughing in my office because he thought I was posting backgrounds based on one of the many wonderful Dolemite films...
 
 <img src="http://search.excaliburfilms.com/dvd/reviews/images456/ShaolinDolemite-TheMovie.jpg" border="0" />

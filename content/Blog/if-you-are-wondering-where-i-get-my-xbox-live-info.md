@@ -1,3 +1,8 @@
+---
+date: 2007-06-02T10:18:00+00:00
+title: If you are wondering where I get my Xbox Live info&#8230;
+type: posts
+---
 A few people have emailed me or posted comments wondering how I grab the Xbox Info for [the Twitter app](http://www.duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/) and for [my services](http://www.duncanmackenzie.net/blog/put-up-a-rest-api-for-xbox-gamertag-data/).
 
 It is not from scraping and it is not from any publicly available source. I joined the Xbox Community Developer Program (XCDP), which is an official program designed to support folks who are building [community sites](http://www.xboxusersgroup.com/index.php) (forums, reviews, blogs, etc...) around Xbox related topics.

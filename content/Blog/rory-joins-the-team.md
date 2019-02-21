@@ -1,3 +1,8 @@
+---
+date: 2006-10-26T17:07:00+00:00
+title: Rory joins the team&#8230;
+type: posts
+---
 If you don't already know Rory, well... keep watching [Channel 9](http://channel9.msdn.com/)... I'm sure you'll be hearing more from him through that venue soon.
 
 For now, he has joined us over in the &#8216;dev' hallway, which I'm sure he finds quite exciting... maybe not as exciting as his Microsoft provided &#8216;temp housing', but maybe it is close.

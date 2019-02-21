@@ -1,1 +1,6 @@
+---
+date: 2008-01-03T10:55:00+00:00
+title: The Viewport Meta Tag and the iPhone
+type: posts
+---
 I've been [fiddling around with mobile interfaces](http://www.duncanmackenzie.net/blog/looking-for-good-examples-of-mobile-interfaces/default.aspx) for both my personal site and for the various sites I work on (<http://on10.net>, <http://channel9.msdn.com>, amongst others) and I noticed the use of <meta name="viewport" content... /> on some other mobile sites. A quick search and I found [a great discussion of the viewport meta tag](http://furbo.org/2007/07/24/one-line-of-code/) on furbo.org ([the apple developer site provides the same info in a more reference format](http://developer.apple.com/iphone/devcenter/designingcontent.html)). Turns out this simple meta tag helps Mobile Safari determine how best to scale your site for the smaller screen of the iPhone (relative to a desktop that is). I don't have an iPhone, or an [iPod touch](http://www.amazon.com/dp/B000JO3Y1O?tag=duncanmackenz-20&camp=0&creative=0&linkCode=as1&creativeASIN=B000JO3Y1O&adid=0VY7PDQCATWF6KPFCC65&) for that matter (I gather the experience would be similar... if you don't want to get a full blown cell account I'd suggest the &#8216;touch' for testing purposes), although I found [a great testing site for the iPhone](http://iphonetester.com/) (best viewed with Safari 3.0 on your desktop).

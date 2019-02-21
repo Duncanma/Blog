@@ -1,3 +1,8 @@
+---
+date: 2004-10-07T17:35:00+00:00
+title: UI Patterns and Techniques
+type: posts
+---
 This is not about .NET. I just found a site full of information about standard patterns that are being used in user interfaces in both desktop applications and web sites, that I thought you folks might like.
 
 > _There's nothing new here.

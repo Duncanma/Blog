@@ -1,3 +1,8 @@
+---
+date: 2004-12-13T19:07:00+00:00
+title: Enter Instead of Tab
+type: posts
+---
 I received another interesting, and common, question today about using Enter instead of (or in addition to) the Tab key to move the focus between fields on a form. Well, that isn't too hard to accomplish, but it can get tricky once you consider all the different situations...
 
 First, the easy... set your Form's **KeyPreview** property to true, override **OnKeyUp** (or OnKeyDown... can't think of any real reason to use one or the other in this case), check for the Enter key, then call your Form's **ProcessTabKey** method.

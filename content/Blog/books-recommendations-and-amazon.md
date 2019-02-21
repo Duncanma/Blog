@@ -1,3 +1,8 @@
+---
+date: 2011-06-30T14:45:57+00:00
+title: Books, Recommendations, and Amazon
+type: posts
+---
 I really like to read. I read almost every night and I have since I was a little kid, so I’ve gone through a lot of books. Lately though I’ve noticed a new trend in my reading; I’m reading books that no one recommended to me. Well, no person recommended them to me, I guess it is all Amazon at this point.
 
 Normally, and this goes back to the first time I read the [Lord of the Rings](http://www.amazon.com/J.-R.-R.-Tolkien/e/B000ARC6KA/ref=sr_tc_ep?qid=1309418319), the [Belgariad](http://www.amazon.com/Belgariad-Set-Books-1-5-Enchanters/dp/0345340442/ref=sr_1_3?ie=UTF8&qid=1309418036&sr=8-3), or the **many** books of [Piers Anthony](http://www.amazon.com/Piers-Anthony/e/B000APX5IE/ref=sr_ntt_srch_lnk_1?qid=1309418275&sr=1-1), someone would mention the book to me and I’d go find it at the book store or the library and I’d be set. For years, this is exactly what would happen, going through [Frank Herbert](http://www.amazon.com/Frank-Herbert/e/B000APO5OM/ref=sr_ntt_srch_lnk_1?qid=1309418351&sr=1-1), [Anne McCaffrey](http://www.amazon.com/Anne-McCaffrey/e/B000ARA0JO/ref=sr_ntt_srch_lnk_1?qid=1309418381&sr=1-1), [Terry Goodkind](http://www.amazon.com/Terry-Goodkind/e/B000APZOQA/ref=sr_ntt_srch_lnk_1?qid=1309418423&sr=1-1), etc. but recently I found myself buying two different book series that absolutely no one had ever talked to me about before.

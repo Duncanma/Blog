@@ -1,3 +1,8 @@
+---
+date: 2004-01-20T21:48:00+00:00
+title: Short but sweet little example from today&#8217;s .NET Wire
+type: posts
+---
 I was just reading the latest [dotnetwire](http://www.dotnetwire.com/default.asp) newsletter and this article caught my eye.
 
 > [Synchronize Identity Values between Database and DataSet During Updates](http://www.dotnetwire.com/redirect.asp?newsid=5329)

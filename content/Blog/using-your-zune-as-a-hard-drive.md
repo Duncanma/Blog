@@ -1,3 +1,8 @@
+---
+date: 2006-12-11T21:22:00+00:00
+title: Using your Zune as a Hard Drive
+type: posts
+---
 If you are following Zune news, then I'm sure you've seen [this &#8216;hack' to let you see your Zune as a read-only hard drive](http://www.engadget.com/2006/11/24/zune-usb-drive-hack-splained/).
 
  <img height="165" src="http://www.duncanmackenzie.net/images/DuncansZune.png" width="240" />

@@ -1,3 +1,8 @@
+---
+date: 2003-06-29T08:24:00+00:00
+title: Everything you didn&#8217;t need to know about me&#8230;
+type: posts
+---
 Is now up on the web (I guess it was all up there before, just not in one place) as my interview with [mainfunction.com](http://students.mainfunction.com/Home/) has made it up onto their web site. I think they told me this was coming months ago, so I hope I didn't mention it to a bunch of people then, because I'm betting it was only published recently.
 
 

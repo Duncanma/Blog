@@ -1,3 +1,8 @@
+---
+date: 2004-09-02T07:46:00+00:00
+title: Deleting database tables, a great web host and a reactive software vendor&#8230;
+type: posts
+---
 In [a previous post](http://blogs.duncanmackenzie.net/duncanma/archive/2004/09/01/621.aspx), I mentioned that a flaw in the installation routines for [telligent's forum system](http://www.telligentsystems.com/Solutions/Forums) resulted in the deletion of a fairly important set of data... well, after posting that, a few things happened that impressed me...
 
   * My web host, [easerve](http://www.easerve.com/hosting/eris1109/aspnet.aspx), contacted me and let me know they had daily backups of my data available... and once I told them the date/time at which I blew away my data, they'd provide the appropriate backup file... (which they did, and I'm rocking along now with my old data back...) ... yet another great bit of customer service from easerve...

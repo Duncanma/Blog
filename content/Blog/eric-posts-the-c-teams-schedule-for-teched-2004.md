@@ -1,3 +1,8 @@
+---
+date: 2004-05-14T11:41:00+00:00
+title: Eric posts the C# Team&#8217;s schedule for TechEd 2004
+type: posts
+---
 Check out the full post for info on Eric's talk in particular...
 
 > **

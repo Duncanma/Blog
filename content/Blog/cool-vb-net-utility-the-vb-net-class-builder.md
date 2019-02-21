@@ -1,3 +1,8 @@
+---
+date: 2004-10-13T08:08:00+00:00
+title: Cool VB.NET Utility&#8230; the VB.NET Class Builder
+type: posts
+---
 _
 
 [(via the Powertoys Blog)](http://weblogs.asp.net/powertoys/archive/2004/10/12/241333.aspx)

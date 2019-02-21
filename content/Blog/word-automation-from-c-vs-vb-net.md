@@ -1,3 +1,8 @@
+---
+date: 2003-05-11T10:18:00+00:00
+title: Word Automation from C# vs. VB.NET
+type: posts
+---
 I recently received a question about doing some Word automation using .NET, and I saw an interesting little difference between the C# and VB.NET calling into the Interop Assembly for certain properties/methods...
 
 If I take VBA or VB6 code that works, and convert it to the almost identical VB.NET code ... (after adding a reference to Word in my VB.NET project);

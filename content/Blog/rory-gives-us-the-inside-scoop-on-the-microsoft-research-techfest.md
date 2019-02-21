@@ -1,3 +1,8 @@
+---
+date: 2007-03-06T22:54:00+00:00
+title: Rory gives us the inside scoop on the Microsoft Research TechFest
+type: posts
+---
 > [Microsoft Research TechFest &#8211; Intro, DynaVis, and FastDash](http://channel9.msdn.com/ShowPost.aspx?PostID=288554)
 >
 > _... In this, the first video in what will be a series covering this event, we get a nice introduction to TechFest, some info about Microsoft Research (MSR), and two projects: DynaVis and FastDash.

@@ -1,3 +1,8 @@
+---
+date: 2004-02-20T02:18:00+00:00
+title: Just playing with Generics in Visual Basic Whidbey
+type: posts
+---
 My simple class:
 
 <pre><font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Class Customer

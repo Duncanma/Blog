@@ -1,3 +1,8 @@
+---
+date: 2004-09-14T07:27:00+00:00
+title: Creating a VB.NET Windows application using the command line
+type: posts
+---
 **Juanito27** posted this question to [the VB.NET forum on GotDotNet](http://www.gotdotnet.com/Community/MessageBoard/MessageBoard.aspx?id=8) last week...
 
 > [<b>Command line compile Windows vb app</b>](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=261516&Page=1)

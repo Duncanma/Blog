@@ -1,3 +1,8 @@
+---
+date: 2003-08-13T09:34:00+00:00
+title: Updating the Updater
+type: posts
+---
 I've been using [the Application Updater Block](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnbda/html/updater.asp), as you may have gathered from some of my previous posts, and I like it a lot... but I've been wanting to add a few features to it. Well, I have it all planned out in my head, but I haven't gotten around to it, so I thought I would at least throw out my feature ideas and see what people say about them...
 
 **I would like to add:**

@@ -1,3 +1,8 @@
+---
+date: 2004-10-18T07:26:00+00:00
+title: Supporting LiveBookmarks in FireFox 1.0
+type: posts
+---
 When we originally added RSS feeds to the various developer centers on MSDN, we included a line (shown below) in the HTML of those pages that let browsers and other software know that there was a RSS feed available that was related to the content of the page.
 
 	<font face="'Courier New',Courier,monospace"><link rel="alternate" type="application/rss+xml" title="Visual Basic Developer Center" href="rss.xml" />

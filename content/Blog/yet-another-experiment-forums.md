@@ -1,3 +1,8 @@
+---
+date: 2004-09-01T16:26:00+00:00
+title: Yet another experiment&#8230;. forums&#8230;
+type: posts
+---
 I need authentication and role based security for another project that is _coming soon_, so I've put forums up at [http://www.duncanmackenzie.net/forums/](http://www.duncanmackenzie.net/forums/) ... nothing there at the moment, but feel free to visit the &#8216;discussion' forum and contribute your ideas...
 
   * What forums should I add? I was thinking one per article I write (for ongoing discussion) but what else?

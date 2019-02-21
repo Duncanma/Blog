@@ -1,3 +1,8 @@
+---
+date: 2004-04-20T07:23:00+00:00
+title: pinvoke.net &#8230;  a place to post and find all the Win32 API signatures you need &#8230;
+type: posts
+---
 [Adam Nathan](http://blogs.msdn.com/adam_nathan) has created [a home for a ton of PInvoke signatures](http://pinvoke.net/), organized by Module/DLL and pre-populated ([by the man himself](http://www.amazon.com/exec/obidos/ASIN/067232170X/)) with a ton of the most common signatures... I'll let the site describe itself with this text from the "What is this site?" page;
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

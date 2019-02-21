@@ -1,3 +1,8 @@
+---
+date: 2004-04-16T11:12:00+00:00
+title: Ok, Matt Warren is just starting to freak me out&#8230;
+type: posts
+---
 If you haven't been reading [his blog](http://weblogs.asp.net/mattwar), then just let me point out that [this post](http://weblogs.asp.net/mattwar/archive/2004/04/15/114419.aspx) is completely consistent with all of his others... I'll let you decide if this is a good or bad thing 🙂 ...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

@@ -1,3 +1,8 @@
+---
+date: 2006-11-22T19:23:00+00:00
+title: Video Marketplace Up on Xbox Live
+type: posts
+---
 
 
 <img alt="Video Marketplace on Xbox Live now up" src="http://www.on10.net/images/blogs/VideoMarketplace.jpg" align="right" />[(from Major Nelson)](http://www.majornelson.com/archive/2006/11/22/video-marketplace-now-live.aspx)

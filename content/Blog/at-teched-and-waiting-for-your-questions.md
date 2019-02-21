@@ -1,3 +1,8 @@
+---
+date: 2004-05-23T21:41:00+00:00
+title: At TechEd and waiting for your questions!
+type: posts
+---
 [
 
 <img alt="At the Hotel... Day 1 of Tech Ed" src="http://textamerica.com/user.images/52/IMG_328352/Thumb/_0523/T40405231330221.jpg" border="0" />

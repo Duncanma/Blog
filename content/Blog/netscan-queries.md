@@ -1,3 +1,8 @@
+---
+date: 2004-01-21T22:58:00+00:00
+title: Netscan Queries
+type: posts
+---
 Microsoft Research is a cool place... and if you had any doubt, you only need to look at some of their publicly exposed data, such as the [NETSCAN](http://netscan.research.microsoft.com/) system. I pulled a description of the system from their site...
 
 > _The Netscan System provides detailed reports on the activity of Usenet newsgroups, the authors who participate in them, and the conversation threads that emerge from their activity. Using the Netscan tool users can get reports about any newsgroup for any day, week, month, quarter, or year, since September 1999._

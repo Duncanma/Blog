@@ -1,3 +1,8 @@
+---
+date: 2003-06-04T21:58:00+00:00
+title: Better late than never&#8230; right?
+type: posts
+---
 <font face="Verdana" color="teal">My latest column is up on MSDN,
 
 [

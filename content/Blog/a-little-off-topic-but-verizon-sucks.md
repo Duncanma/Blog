@@ -1,3 +1,8 @@
+---
+date: 2003-07-06T03:56:00+00:00
+title: A little off-topic, but &#8230;. &#8220;Verizon Sucks&#8221;
+type: posts
+---
 I'm sure I've worked with more disorganized and unprofessional companies, although I can't think of any, but I certainly haven't continued to work with them... but I'm fairly stuck with Verizon. 
 
 I just moved into a new house, only a few minutes away from my apartment, and I called Verizon to arrange for the move of the phone and DSL (both through them). They were very nice on the phone and arranged to move both as of the 3rd of July... although they had to transfer me to a 2nd person to arrange the DSL, because it seems they are essentially two different companies. Fine, whatever, I might find that need to have 2 people talk to me silly, but it isn't a big deal. I told both people the same thing.... moving on July 3rd, need service at the new location. The phone would be up sometime in the morning and DSL would be active "on the 3rd". Peachy.

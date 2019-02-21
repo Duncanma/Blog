@@ -1,3 +1,8 @@
+---
+date: 2003-11-22T01:50:00+00:00
+title: Hands On Labs
+type: posts
+---
 Puppy Luppy just commented:
 
 > Downloaded the SQL Server/Yukon Hands On Labs...can't find anything in the c:\Labs directory...as in:

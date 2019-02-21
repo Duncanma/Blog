@@ -1,3 +1,8 @@
+---
+date: 2004-03-20T10:18:00+00:00
+title: Generic Methods&#8230;
+type: posts
+---
 Someone suggested to me that VB.NET Whidbey didn't have support for &#8216;Generic Methods', so I quickly wrote a bit of sample code to check (yes, it does support Generic Methods) and I thought I'd post that test code for your amusement.
 
 <pre><font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Class GenericMethodSample

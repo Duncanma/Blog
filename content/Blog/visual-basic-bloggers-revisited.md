@@ -1,3 +1,8 @@
+---
+date: 2003-07-15T01:34:00+00:00
+title: Visual Basic Bloggers Revisited
+type: posts
+---
 "anon" (why not leave a name, it is much more fun) posted a comment in response to [my previous entry](http://weblogs.asp.net/duncanma/posts/10050.aspx), asking why am I including Brad Abrams and Chris Brumme... as they are not VB-specific...
 
 Perhaps I need to be clearer about my intent.

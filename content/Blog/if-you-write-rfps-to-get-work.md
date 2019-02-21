@@ -1,3 +1,8 @@
+---
+date: 2004-06-12T11:21:00+00:00
+title: If you write RFPs to get work&#8230;
+type: posts
+---
 Then, first let me say you have my pity, and then let me direct you to this nice piece by my old business partner (we started our first consulting business together out of our house)...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

@@ -1,3 +1,8 @@
+---
+date: 2006-11-08T19:33:00+00:00
+title: A PS3 Poem from a Neowin commenter
+type: posts
+---
 
 
 > Just yesterday I spotted an old dusty lamp and begun to clean it.

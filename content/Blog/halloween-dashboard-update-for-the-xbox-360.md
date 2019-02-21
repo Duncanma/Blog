@@ -1,3 +1,8 @@
+---
+date: 2006-10-30T22:56:00+00:00
+title: Halloween dashboard update for the Xbox 360
+type: posts
+---
 Have you seen [this list of features](http://www.unscripted360.com/2006/10/30/xbox-360-fall-system-update/)?
 
 Absolutely crazy list... my favorites (lots of them are great, but these are ones that either I had already been wishing for or that I know will be a big deal to me):

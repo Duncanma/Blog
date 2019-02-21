@@ -1,3 +1,8 @@
+---
+date: 2004-08-13T00:28:00+00:00
+title: C# 2005 and C# Express Content Up&#8230;
+type: posts
+---
 Just up...
 
 > #### [Investigating Code Snippet Technology](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/codesnippets.asp)

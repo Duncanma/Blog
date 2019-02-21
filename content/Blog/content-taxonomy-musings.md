@@ -1,3 +1,8 @@
+---
+date: 2015-10-08T18:20:17+00:00
+title: Content Taxonomy Musings
+type: posts
+---
 My day job is running a bunch of systems as part of Microsoft’s evangelism group and the biggest of those is Channel 9 (<https://channel9.msdn.com>). Channel 9 is basically a video blogging platform. We have ‘blogs’, which contain posts, written by people. Seems simple enough, but after running for 10 years we have a bit of a problem. Too much content.
 
 For years now, the problem of ‘how should we categorize our content?’ has been floating around as a top issue, but no one ever wants to put it above any of the features they’d like added to the site. It is still an issue though, and something that is at the top of my mind nearly every day. This is not your typical technical blogger post though, where I describe a problem and our brilliant solution. This is truly just my thoughts on the topic, and hopefully it will spur some good discussion. If that discussion helps me get to a solution, that wouldn’t be so bad either!

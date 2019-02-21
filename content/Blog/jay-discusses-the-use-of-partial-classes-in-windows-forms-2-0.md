@@ -1,3 +1,8 @@
+---
+date: 2004-04-30T10:02:00+00:00
+title: Jay discusses the use of partial classes in Windows Forms 2.0
+type: posts
+---
 This new feature, which isn't limited to Windows Forms, allows a single class to extend across multiple files, isn't limited to Windows Forms but the designer-generated code is just screaming out for a solution like this.
 
 Jay writes:

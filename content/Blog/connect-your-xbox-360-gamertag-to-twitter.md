@@ -1,3 +1,8 @@
+---
+date: 2007-05-11T19:58:00+00:00
+title: Connect your Xbox 360 Gamertag to Twitter
+type: posts
+---
 **UPDATE: I've [updated this application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/) since the original version, addressing most of the &#8216;known issues' listed below**
 
 hey folks, the first version of my xbox to twitter app is done (at least done enough to share!) ...

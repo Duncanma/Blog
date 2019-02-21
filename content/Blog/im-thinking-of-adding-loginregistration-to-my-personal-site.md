@@ -1,3 +1,8 @@
+---
+date: 2004-07-27T02:54:00+00:00
+title: I&#8217;m thinking of adding login/registration to my personal site&#8230;
+type: posts
+---
 Not sure what scenarios this will be used to enable in the long run, but I might play around with some web services (with authentication) and a few &#8216;prototypes' for articles and MSDN features that I've been musing about... 
 
   * Do you run a personal site?

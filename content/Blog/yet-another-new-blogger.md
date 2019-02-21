@@ -1,3 +1,8 @@
+---
+date: 2003-03-19T11:40:00+00:00
+title: Yet Another New Blogger!
+type: posts
+---
 Wow,
 
 [

@@ -1,3 +1,8 @@
+---
+date: 2004-05-28T04:34:00+00:00
+title: Cyrus ruminates on the revelations of TechEd 2004&#8230;
+type: posts
+---
 [ <img src="http://www.duncanmackenzie.net/images/Cyrus.jpg" border="0" /> ](http://www.duncanmackenzie.net/images/Cyrus_Eric_Ken.JPG" rel="lightbox[114]" title="Cyrus ruminates on the revelations of TechEd 2004...)
 
 [Cyrus](http://blogs.msdn.com/cyrusn), recent addition to the C# bloggers list and poster of many posts, has been blogging extensively from TechEd...

@@ -1,3 +1,8 @@
+---
+date: 2004-12-13T17:29:00+00:00
+title: Lead Developer position available with MSDN
+type: posts
+---
 Just posted recently, there is a opening at MSDN for a "Software Development Engineering Lead". This is within the same group that I have just joined and it looks like a great job for the right person. Here is a brief snippet from the [full job description](http://www.microsoft.com/careers/search/details.aspx?JobID=2e310b8d-a7ca-4105-b7bd-fcaf8eee5054)....
 
 > Come leverage state-of-the-art technology! The MSDN/TechNet development team is looking for you to help us innovate in many exciting areas for our Development and IT Professional communities.

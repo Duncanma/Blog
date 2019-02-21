@@ -1,3 +1,8 @@
+---
+date: 2004-04-25T10:07:00+00:00
+title: Gregg Miskelly covers some more debugging options&#8230;
+type: posts
+---
 Gregg covers some other methods of attaching to a process for debugging...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

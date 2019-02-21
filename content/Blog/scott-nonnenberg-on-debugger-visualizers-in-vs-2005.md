@@ -1,3 +1,8 @@
+---
+date: 2004-04-18T09:33:00+00:00
+title: Scott Nonnenberg on Debugger Visualizers in VS 2005
+type: posts
+---
 With code samples and screenshots based on the recent Community drop of Whidbey (VS 2005), [Scott](http://blogs.msdn.com/scottno) explains how to create your first debugger visualizer:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

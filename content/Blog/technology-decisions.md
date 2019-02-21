@@ -1,3 +1,8 @@
+---
+date: 2005-04-18T06:34:00+00:00
+title: Technology Decisions&#8230;
+type: posts
+---
 I started writing this entry about "Giving advice on technology to friends and family...", but I realized after I had rambled on for a bit, that it was more about technology decisions... when companies force us to decide between MP3 and WMA or iTunes and WMP or even Super Audio CD and DVD-Audio or Blu-Ray DVD vs. HD-DVD... in every case, there will generally be a wrong decision that you can make. I hate that situation, it can stop me dead in my tracks from adopting a technology altogether...
 
 As is probably true for most of the people who read this blog, people often ask me for advice about

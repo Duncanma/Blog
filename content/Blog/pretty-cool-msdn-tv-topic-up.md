@@ -1,3 +1,8 @@
+---
+date: 2003-10-15T09:11:00+00:00
+title: Pretty cool MSDN TV Topic up..
+type: posts
+---
 * * *
 
 **From:** Erica Wiechers  

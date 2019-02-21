@@ -1,3 +1,8 @@
+---
+date: 2003-10-22T11:32:00+00:00
+title: XML can so easily be abused&#8230;
+type: posts
+---
 I am getting really tired of seeing web services (or RSS feeds, or .NET methods, or anything else) with large blocks of complex, structured data that is exposed as **"String".**
 
 You call the web service, you get back this big string, which you then load into an **XMLDocument** and off you go (or XPath Navigator, etc...) ... but if they had just defined the real structure in the first place, I wouldn't have to do anything... I'd have a nice "weather" structure or "employee" object inside an "employees" collection... now, I can certainly massage/convert/deserialize their XML (well, **I** know it is XML, their wsdl says "String") into a nice object collection, but why should I have to!?! They went to all of the work to produce formatted, structured XML output, why type it is as String?

@@ -1,3 +1,8 @@
+---
+date: 2004-05-20T11:40:00+00:00
+title: The mind boggles&#8230;
+type: posts
+---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
     _And it doesn't even have to be implanted into the hand &#8211; clubbers can have the chip injected into any part of their body, as long as they are able to flash it in front of the scanner._

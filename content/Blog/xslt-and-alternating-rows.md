@@ -1,3 +1,8 @@
+---
+date: 2007-08-17T18:54:00+00:00
+title: XSLT and Alternating Rows
+type: posts
+---
 Saw this today (it is over a year old though) on [Roger Hartford's blog](http://blogs.dev.bayshoresolutions.com/roger/default.aspx);
 
 > #### [XSLT alternating rows](http://blogs.dev.bayshoresolutions.com/roger/archive/2006/07/31/4008.aspx)

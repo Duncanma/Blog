@@ -1,3 +1,8 @@
+---
+date: 2005-10-28T07:35:00+00:00
+title: Some great podcasts on VB6 -&gt; .NET and more&#8230;
+type: posts
+---
 I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I spotted these [podcasts](http://www.ddj.com/podcast/dotnetcast/), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
 
 > [

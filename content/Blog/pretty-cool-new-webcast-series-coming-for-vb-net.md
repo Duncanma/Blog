@@ -1,3 +1,8 @@
+---
+date: 2004-01-16T08:44:00+00:00
+title: Pretty cool new Webcast series coming for VB.NET
+type: posts
+---
 A series of 15 webcasts & lab exercises for the VB6 programmer... (see the full list [here](http://www.lfc.edu/~hummel/webcasts.htm))
 
 **

@@ -1,3 +1,8 @@
+---
+date: 2003-05-20T20:37:00+00:00
+title: High-Powered MSFT Blog!
+type: posts
+---
 <font face="Tahoma">I thought it was shocking enough when
 
 [

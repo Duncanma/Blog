@@ -1,3 +1,8 @@
+---
+date: 2004-09-03T23:25:00+00:00
+title: Upcoming C# Chat&#8230; September 23, 2004
+type: posts
+---
 Hey folks, this chat is coming up and it would be great if you could make it... if you have a lot of opinions, good or bad, around C#... please show up and let the team know....
 
 > **[[C# Chat] What's on your mind regarding C#?](http://msdn.microsoft.com/chats/#MSDN_CSHARP_Qs_Sep23_04)**

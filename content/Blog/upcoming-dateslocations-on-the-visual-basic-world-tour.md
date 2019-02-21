@@ -1,3 +1,8 @@
+---
+date: 2004-04-13T12:19:00+00:00
+title: Upcoming Dates/Locations on the Visual Basic World Tour
+type: posts
+---
   * <font face="Verdana">Waltham 4/14 (Steven Lees and Amanda Silver)
       * <font face="Verdana">New York 4/15 (Steven Lees and Amanda Silver)
           * <font face="Verdana">Louisville 4/20 (Jay Schmelzer and Paul Vick)

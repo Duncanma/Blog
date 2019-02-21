@@ -1,3 +1,8 @@
+---
+date: 2006-10-04T21:25:00+00:00
+title: Amazon Web Services talk in Winnipeg
+type: posts
+---
 I love Winnipeg, but it doesn't normally get all that many developer focused talks... so if you live there and you are interested in .NET based web development, you should really get down to this event.
 
 > [Winnipeg .NET User Group](http://www.dotnetwired.com/)

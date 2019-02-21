@@ -1,3 +1,8 @@
+---
+date: 2004-03-09T03:52:00+00:00
+title: New MSDE Articles Available
+type: posts
+---
 Brian Randell has written 4 (really 7, but 3 of them are just the same article as both VB and C#) articles on using MSDE in your applications... (via [Kent Sharkey's blog](http://blogs.msdn.com/ksharkey));
 
 > <div class="post">

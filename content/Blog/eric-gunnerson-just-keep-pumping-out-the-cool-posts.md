@@ -1,3 +1,8 @@
+---
+date: 2004-03-17T10:53:00+00:00
+title: Eric Gunnerson just keep pumping out the cool posts&#8230;
+type: posts
+---
 If you follow [Eric's blog](http://blogs.msdn.com/ericgu) (and if you are into C#, you should) then you'll have already seen these... but if you haven't then let these three posts be just a taste of what is available [over there](http://blogs.msdn.com/ericgu);
 
 > **[Who does Microsoft talk to when they have questions?](http://blogs.msdn.com/ericgu/archive/2004/03/16/90939.aspx)**

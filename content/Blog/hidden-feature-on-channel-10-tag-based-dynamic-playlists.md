@@ -1,3 +1,8 @@
+---
+date: 2007-01-20T01:09:00+00:00
+title: Hidden Feature on Channel 10, tag based dynamic playlists
+type: posts
+---
 While working on a certificate issue for the &#8216;next' iteration of on10.net, I decided to code up a new feature that has been sitting on our feature list for quite some time. ASX files are very simple files that let you list out a series of media files and Windows Media Player will happily play them in sequence, so I wrote some code so that a URL like this:
 
 [http://www.on10.net/tags/E3/asx/](http://www.on10.net/tags/E3/asx/ "http://www.on10.net/tags/E3/asx/")

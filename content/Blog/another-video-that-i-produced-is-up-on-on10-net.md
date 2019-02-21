@@ -1,3 +1,8 @@
+---
+date: 2006-06-30T20:46:00+00:00
+title: Another video that I&#8230; &#8220;produced&#8221; &#8230; is up on on10.net
+type: posts
+---
 Sometimes I don't like being just the guy behind the scenes 🙂
 
 It isn't anyone's fault, everyone on our team is aware of the work I do, but sometimes I wish it was more visible to the public. I guess it is because I'm used to writing articles, that have my name so prominently attached, or blog posts that are so clearly mine... but when I work on videos for 10, I can be the guy who set up the interview, contacted all the right folks to make it happen and even (in this case) went over and held the camera... but yet, my name doesn't end up anywhere in the video or the post. I'm not suggesting it should have (or that anyone is choosing to omit my name), by the way, I have the ability to edit the post at anytime so if I wanted it there... I'd just put it there... but it still seems like I'm missing out on some sort of credit. It would be cool to be able to point at a page that listed all the videos that I was the driving force behind... even if I then someone else was actually onscreen ... collaborative effort and all that...

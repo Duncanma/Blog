@@ -1,3 +1,8 @@
+---
+date: 2004-04-07T20:22:00+00:00
+title: Real-Time Syntax highlighting for HTML&#8230;
+type: posts
+---
 Bah... I've been digging around the web for a couple of days now, and I'm getting frustrated, so I thought I would share my pain with you
 
 Here's the scenario (and see if you can spot my key mistake here, it will be pretty obvious to most developers who have worked with customers before);

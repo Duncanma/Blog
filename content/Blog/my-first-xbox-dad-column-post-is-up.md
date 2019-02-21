@@ -1,3 +1,8 @@
+---
+date: 2007-04-06T18:40:00+00:00
+title: My first &quot;Xbox Dad&quot; column (post?) is up&#8230;
+type: posts
+---
 _<random musing>It seems like an online article, but I wonder if it wouldn't be just easier for them to publish these articles as blog entries?</random musing>_
 
 [Brian](http://brianjo.spaces.live.com/) is finding himself pretty busy lately so I decided to try my hand at writing an Xbox Dad column, and the results are up online now...

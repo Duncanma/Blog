@@ -1,3 +1,8 @@
+---
+date: 2004-08-12T12:43:00+00:00
+title: Another article preview up&#8230; this one is a content rotator for ASP.NET
+type: posts
+---
 As I discussed in [an earlier post](http://weblogs.asp.net/duncanma/archive/2004/08/05/209654.aspx), I wanted to know if people found preview articles useful... and at least a few people said they did, so here is another one....
 
 > **[Rotating Is Fun ](http://www.duncanmackenzie.net/writing/Previews/ContentRotator/default.aspx)**

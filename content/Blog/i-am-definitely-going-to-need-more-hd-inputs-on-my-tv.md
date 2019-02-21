@@ -1,3 +1,8 @@
+---
+date: 2003-10-05T10:16:00+00:00
+title: I am definitely going to need more HD inputs on my TV
+type: posts
+---
 I have been drooling over [this](http://www.rokulabs.com/) for that last few weeks...
 
 > _**inner monologue:** it doesn't do anything that I really need, and if I ever get around to hooking my [current music system](http://www.duncanmackenzie.net/musicxp) up with something better than S-Video, I could probably replicate its functionality in a pretty short period of time...._

@@ -1,3 +1,8 @@
+---
+date: 2004-06-26T09:36:00+00:00
+title: Eric Gunnerson discusses grouping classes within an assembly&#8230;
+type: posts
+---
 As a big fan of components, my applications are often composed of many different assemblies... essentially I break out anything that seems &#8216;ready to reuse'... but perhaps I should reconsider? 
 
 > **[_Grouping classes in an assembly_](http://blogs.msdn.com/ericgu/archive/2004/06/24/164985.aspx){#_7edcfc09107_HomePageDays_DaysList__ctl1_DayItem_DayList__ctl0_TitleUrl}**

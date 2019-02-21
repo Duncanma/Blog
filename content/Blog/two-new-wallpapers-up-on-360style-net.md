@@ -1,3 +1,8 @@
+---
+date: 2006-12-01T02:18:00+00:00
+title: Two new wallpapers up on 360Style.net
+type: posts
+---
 Both are my style... but I had to go with the Star Trek Legacy one for now...
 
 > **[Halo 3 & Star Trek Legacy Wallpapers Added !](http://www.360style.net/news54.html)**

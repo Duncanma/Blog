@@ -1,1 +1,6 @@
+---
+date: 2006-03-14T17:35:00+00:00
+title: My father would be ashamed&#8230;
+type: posts
+---
 My dad has recently retired from the RCMP (Royal Canadian Mounted Police), but I'm sure his opinion of a game like Need for Speed: Most Wanted wouldn't be any better just because he isn't going to work anymore. In this game, if you haven't played it already, you are a street racer... so you race on open streets with traffic all around, buildings and other property to smash through... as opposed to a game like PGR3 where you are nice and safe closed courses with all the people safely tucked behind concrete and steel barriers. As you can imagine, the police in NFS don't like what you are doing and try to stop you... luckily they aren't very good at it. A couple of nights ago I was completing an in-game challenge where I was trying to destroy a certain amount of property, trade paint with as many different police cruisers as possible and (for bonus points) take out a few of the police cars along the way... and having a blast doing it... when I started to think about explaining this game to my 5 year old son ... it probably wouldn't fit well into his view of the world right now, with good guys and bad guys. Still, it is a huge amount of fun, so I'm going to keep playing, but just make sure to put the disc away where he can't see it when he's up 🙂

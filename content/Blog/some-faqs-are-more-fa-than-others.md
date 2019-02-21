@@ -1,3 +1,8 @@
+---
+date: 2004-05-06T19:47:00+00:00
+title: Some FAQs are more FA than others&#8230;.
+type: posts
+---
 [Joe Mayo](http://www.csharp-station.com/) posted a great &#8216;frequently asked question' along with a very clear answer, to the [C# FAQ](http://msdn.microsoft.com/vcsharp/team/faq/) recently....
 
 > [Why did I receive the error: "The type or namespace &#8216;<namespace name>' does not exist in the class or namespace &#8216;<parent namespace>' (are you missing an assembly reference?)" ](http://blogs.msdn.com/csharpfaq/archive/2004/04/29/123028.aspx)

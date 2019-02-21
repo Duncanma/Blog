@@ -1,3 +1,8 @@
+---
+date: 2003-04-08T01:10:00+00:00
+title: Full MusicXP Source Posted to GDN
+type: posts
+---
 The full source for the
 
 [

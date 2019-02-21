@@ -1,3 +1,8 @@
+---
+date: 2004-08-10T11:16:00+00:00
+title: The Updater Application Block&#8230; various additions&#8230;
+type: posts
+---
 One of the nice things about [the Updater Application Block](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5) is that it was written to be quite extensible... I saw [a post today](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=251828&Page=1#252347) where SamSantiago mentioned [he had created a custom class](http://www.softitechture.com/discussions/) to delete all those old versions on your machine whenever you do an update.... very cool, I'll be trying that out right away...
 
 Personally, I've _updated the updater_ in [a few different ways](http://weblogs.asp.net/duncanma/archive/2003/08/12/23901.aspx), but the most recent changes have been the most reusable, in my opinon;

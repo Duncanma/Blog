@@ -1,3 +1,8 @@
+---
+date: 2004-02-27T10:52:00+00:00
+title: Code Project just continues to amaze&#8230;
+type: posts
+---
 I love the recently posted ["Enhanced BrowseForFolder styled TreeView"](http://www.codeproject.com/cs/miscctrl/treeviewexplorer.asp) (a C# control by Jerry Maguire), and the list of new content from the last week is just amazing;
 
   * [A Piano Key Control in C#](http://www.codeproject.com/cs/miscctrl/LesStPianoKey.asp) &#8211; Leslie Sanford (a cool article if you are into control building)

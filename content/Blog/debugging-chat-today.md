@@ -1,3 +1,8 @@
+---
+date: 2004-02-16T13:22:00+00:00
+title: Debugging Chat Today!!!!
+type: posts
+---
 #### [Debugging Visual Basic .NET Applications](http://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)
 
 

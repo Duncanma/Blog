@@ -1,3 +1,8 @@
+---
+date: 2003-05-21T02:03:00+00:00
+title: Response to low MSDN pricing
+type: posts
+---
 <font face="Verdana,Arial,Helvetica,sans-serif" color="#008080">DonXML was [discussing the various prices he has seen on the web for MSDN subscriptions](http://dotnetweblogs.com/donxml/posts/7289.aspx), and being from [MSDN](http://msdn.microsoft.com/vbasic) I was a little curious. I asked around, and it turns out we have a canned response to this question that you might find helpful (or not).
 
 <font face="Arial,Helvetica,sans-serif" color="#000000">The sheer volume and ever changing number of offers, resellers, businesses, marketing programs and selling that takes place on the global commerce stage precludes Microsoft from being in a position to validate every MSDN subscription offer in the market. As is the basis for any general purchasing decision you may make, it is in your best interest to thoroughly investigate who you are buying anything from. Generally speaking, we have found that the following are some common sense warning signs to look out for (but by no means limited to)...

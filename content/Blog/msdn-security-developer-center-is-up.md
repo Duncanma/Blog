@@ -1,3 +1,8 @@
+---
+date: 2003-05-29T23:52:00+00:00
+title: MSDN Security Developer Center is up!
+type: posts
+---
 Yet another Developer Center has been launched, this one is all about Security and is being run by one of my colleagues; Brian Johnson... check it out at <http://msdn.microsoft.com/security>
 
 **Welcome to the Security Developer Center**

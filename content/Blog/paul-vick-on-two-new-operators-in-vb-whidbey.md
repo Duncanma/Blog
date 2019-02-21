@@ -1,3 +1,8 @@
+---
+date: 2004-03-03T02:36:00+00:00
+title: Paul Vick on two new operators in VB Whidbey
+type: posts
+---
 In [a recent post to his blog](http://www.panopticoncentral.net/PermaLink.aspx/086feb98-d3d3-4831-a1ba-e8f70c72dac1), Paul Vick discusses the new **IsNot** Operator (and the history/rational behind the **Is** operator), which allows you to write; 
 
 > <pre><font color="blue" family="Microsoft Sans Serif">If myString <font color="blue" family="Microsoft Sans Serif">IsNot <font color="blue" family="Microsoft Sans Serif">Nothing <font color="blue" family="Microsoft Sans Serif">Then</pre>

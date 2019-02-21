@@ -1,3 +1,8 @@
+---
+date: 2004-05-13T10:46:00+00:00
+title: Duncan&#8217;s VS.NET 2003 wouldn&#8217;t run&#8230; and why that is good for you :)
+type: posts
+---
 <div>
   <span>Something must have changed, but I had no idea what it was... but suddenly, existing applications (the same version of which run fine on other machines) were crashing with IO errors, specifically "System.IO.IOException: The device is not ready.".</span>
 </div>

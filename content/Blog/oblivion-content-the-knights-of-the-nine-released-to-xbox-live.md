@@ -1,3 +1,8 @@
+---
+date: 2006-11-22T09:27:00+00:00
+title: Oblivion content, the Knights of the Nine, released to Xbox Live
+type: posts
+---
 From Major Nelson:
 
 > ### [Oblivion: Knights of the Nine](http://www.majornelson.com/archive/2006/11/21/oblivion-knights-of-the-nine.aspx)

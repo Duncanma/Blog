@@ -1,3 +1,8 @@
+---
+date: 2004-06-16T00:55:00+00:00
+title: I just like to make things complicated&#8230;
+type: posts
+---
 When I started out to build a voting control, I drew up a set of requirements that led to a 5+ table system... some form of UI for creating/editing polls... plus the control itself. Then, when I had SQL running behind my web site, I wanted something up fast.... so I just grabbed a simple voting control from [www.asp.net](http://www.asp.net/) (by Rob Howard). The simplicity of this control (and its database structure) is a big plus, especially for me ... it is a great place to start to play around with ASP.NET.
 
 [<img src="http://msdn.microsoft.com/vbasic/art/blogart/VotingDatabaseBefore_sml.jpg" border="0" />](http://msdn.microsoft.com/vbasic/art/blogart/VotingDatabaseBefore.PNG" rel="lightbox[95]" title="I just like to make things complicated...)

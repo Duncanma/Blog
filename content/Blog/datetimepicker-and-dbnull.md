@@ -1,3 +1,8 @@
+---
+date: 2003-03-01T01:03:00+00:00
+title: DateTimePicker and DBNull
+type: posts
+---
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">
   <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> <font face="Trebuchet MS"> <font color="teal">You can’t bind a Windows Forms DateTimePicker to a field that might contain DBNull… so I did this;<o:p></o:p>  </span>
 

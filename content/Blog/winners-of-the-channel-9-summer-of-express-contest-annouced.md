@@ -1,3 +1,8 @@
+---
+date: 2004-10-18T19:30:00+00:00
+title: Winners of the Channel 9 &#8220;Summer of Express&#8221; contest annouced!!!
+type: posts
+---
 Check out [http://channel9.msdn.com/express/](http://channel9.msdn.com/express/) for full details, but here is a quick list of the winners:
 
   * [Visual Basic – Exercise-it](http://channel9.msdn.com/ShowPost.aspx?PostID=23050)

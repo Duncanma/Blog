@@ -1,3 +1,8 @@
+---
+date: 2004-03-13T11:13:00+00:00
+title: Team Chat on Unit Testing coming up next Thursday (3/18)
+type: posts
+---
 A few team members have blogged about this already, but here I go again...
 
 > _Unit testing is a method of testing individual software components. Each function in every class is tested to make sure it does its job correctly, with the hope that if everything works correctly by itself, higher level problems will be less common or much easier to debug. Wondering if it is right for you? Already doing it, but looking for best practices? This is your chance to chat with unit-testing experts and enthusiasts from the C# team._

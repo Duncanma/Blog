@@ -1,3 +1,8 @@
+---
+date: 2004-03-09T11:15:00+00:00
+title: C# Team Blogs as OPML
+type: posts
+---
 [Gus Perez](http://blogs.msdn.com/gusperez/) has been maintaining [an up-to-date list of C# team blogs](http://blogs.msdn.com/gusperez/archive/2004/03/07/85698.aspx), but after carefully duplicating his categorization in [SharpReader](http://www.sharpreader.net), I thought I would try putting it up as an OPML file...
 
 You can grab it from [here](http://www.duncanmackenzie.net/csharpteam.xml), and import it into your RSS Aggregator of choice... enjoy

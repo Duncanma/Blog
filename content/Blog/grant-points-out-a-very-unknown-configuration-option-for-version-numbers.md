@@ -1,3 +1,8 @@
+---
+date: 2004-04-14T22:01:00+00:00
+title: Grant points out a very unknown configuration option for version numbers&#8230;
+type: posts
+---
 In a very &#8216;Easter-Egg-ish' post, [Grant Richins](http://blogs.msdn.com/grantri) (a developer on the C# Compiler Team), explains a configuration option of &#8216;alink.dll'.
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

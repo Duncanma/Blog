@@ -1,3 +1,8 @@
+---
+date: 2003-03-07T11:06:00+00:00
+title: Another MSDN TV episode!
+type: posts
+---
 Boy these are going up fast... 
 
 <p class="MsoNormal">

@@ -1,3 +1,8 @@
+---
+date: 2003-07-14T22:18:00+00:00
+title: Visual Basic bloggers
+type: posts
+---
 As some folks may know, [I](http://msdn.microsoft.com/vbasic/letters) come up with the content for the Visual Basic developer center on MSDN (<http://msdn.microsoft.com/vbasic>) and I'm going to list some blogs on a sub-page of the site... starting with a small list, but hopefully growing it with some feedback from the community at large. I'm interested in blogs that contain useful information for Visual Basic (.NET or not) developers. I was going to start with:
 
   * [Paul Vick](http://www.panopticoncentral.net)

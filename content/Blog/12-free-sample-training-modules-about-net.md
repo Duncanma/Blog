@@ -1,3 +1,8 @@
+---
+date: 2004-02-20T21:58:00+00:00
+title: 12 free sample training modules about .NET
+type: posts
+---
 Free sample modules available from the following training courses...
 
   * [Programming with C#](http://www.microsoft.com/traincert/syllabi/2124Cfinal.asp)

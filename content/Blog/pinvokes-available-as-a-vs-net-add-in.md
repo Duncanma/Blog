@@ -1,3 +1,8 @@
+---
+date: 2004-05-07T10:10:00+00:00
+title: PInvokes available as a VS.NET Add-In&#8230;
+type: posts
+---
 Amazing stuff... Adam Nathan creates pinvoke.net, to general acclaim, and then follows only a few days later with a great VS.NET Add-In that allows you to search for, insert and even contribute PInvoke signatures to his site.
 
 > ["Introducing" PINVOKE.NET and its Visual Studio Add-In!](http://weblogs.asp.net/adam_nathan/archive/2004/05/06/127403.aspx){#viewpost.ascx_TitleUrl.broken_link}

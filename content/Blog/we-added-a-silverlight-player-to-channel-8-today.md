@@ -1,3 +1,8 @@
+---
+date: 2007-09-15T10:49:00+00:00
+title: We added a Silverlight player to Channel 8 today
+type: posts
+---
 
 
 We used a modified version of one of the templates that ships with [Expression Media Encoder](http://www.microsoft.com/expression/products/overview.aspx?key=media) as our player... and [channel 8](http://channel8.msdn.com/) has become the first of our sites (which include [Channel 9](http://channel9.msdn.com), [Channel 10](http://on10.net), [VisitMix.com](http://VisitMix.com) and more) to have a Silverlight video player on them. And, below here, you can see that player embedded into this blog post...

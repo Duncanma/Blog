@@ -1,3 +1,8 @@
+---
+date: 2004-06-01T01:56:00+00:00
+title: Paul Vick discusses the question that just won&#8217;t go away&#8230; VB or C#?
+type: posts
+---
 I get this question a lot, and I explain many of the same things that Paul goes through in this post, so I'd love it if more people would read this material:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

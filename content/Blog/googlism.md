@@ -1,7 +1,7 @@
 ---
-title: "Googlism"
+date: 2003-02-27T04:21:00+00:00
+title: Googlism
 type: posts
-date: "2003-02-27T04:21:00+00:00"
 ---
 This isn't all that new, but I hadn't [tried it on myself](http://www.googlism.com/index.htm?ism=Duncan+Mackenzie&type=1) before;
 

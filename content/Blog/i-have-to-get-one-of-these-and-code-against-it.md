@@ -1,3 +1,8 @@
+---
+date: 2003-03-19T11:58:00+00:00
+title: I have to get one of these, and code against it!
+type: posts
+---
 [
 
 Ambient Devices

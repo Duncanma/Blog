@@ -1,3 +1,8 @@
+---
+date: 2004-07-14T21:20:00+00:00
+title: Default Values, Triggers, and Code supplied values &#8230; oh my!
+type: posts
+---
 In [an earlier post](http://weblogs.asp.net/duncanma/archive/2004/07/10/179605.aspx), I mentioned that I use a trigger to update a "DateCreated" field in one of my tables... and various people commented on this... asking "why not pass in a value in your Insert?" or "why not use a default value?"
 
 Since I feel that replying to comments in the comments section is generally just a black hole, I thought I'd raise this discussion up to a proper blog entry of its own 🙂

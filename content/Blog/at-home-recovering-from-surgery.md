@@ -1,3 +1,8 @@
+---
+date: 2008-06-08T00:31:00+00:00
+title: At home, recovering from surgery
+type: posts
+---
 It has been a crazy past few months for my health, or at least the appearance of my health.
 
 For about 30-something years now, I’ve had problems with my tonsils. This has included one or more bouts per year of tonsillitis, quite a few cases of strep throat and a ton of colds that just seem to end up hitting me as sore throats and lasting way longer than it seems like they should. All standard symptoms of someone who needs their tonsils removed, which is what various doctors have been telling me and my parents for the past 30-something years 🙂

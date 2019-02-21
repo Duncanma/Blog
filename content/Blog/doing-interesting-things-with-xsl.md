@@ -1,3 +1,8 @@
+---
+date: 2005-05-06T16:12:00+00:00
+title: Doing interesting things with XSL
+type: posts
+---
 I've been messing around with using XSL to display RSS on MSDN, as a simpler alternative to a custom ASP.NET control, and while it works perfectly in the core case (display all the items in a feed in a format), there are two additional requirements that were very easy to handle in a .NET class, but trickier (for me) in XSL.
 
   * Display the top _n_ items

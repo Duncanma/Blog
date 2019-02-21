@@ -1,3 +1,8 @@
+---
+date: 2003-03-16T14:18:00+00:00
+title: HREF EXEs are cool.
+type: posts
+---
 I have been, since I started using .NET, a big supporter of the [&#8216;Smart Client' or &#8216;Rich Client' application](http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/toc.asp). I've talked about it to people, I've dug deep into the underlying technology, I've built samples... **big fan of the whole idea**
 
 

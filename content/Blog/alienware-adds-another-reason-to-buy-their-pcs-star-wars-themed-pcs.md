@@ -1,3 +1,8 @@
+---
+date: 2005-05-01T15:38:00+00:00
+title: Alienware adds another reason to buy their PCs&#8230; Star Wars themed PCs
+type: posts
+---
 If I ever get an Alienware machine, I suspect it would be [their Media Center machine](http://www.alienware.com/dhs_main.aspx?from=Duncanma:dhs_pc_banner_468x60&cs=0), but the preview images of these [new Star Wars machines](http://www.alienware.com/Starwars_Pages/teaser.aspx?from=Duncanma:gaming_pc_banner_468x60&cs=0) are quite tempting.
 
 [<img src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/dark_system.jpg" border="0" />](http://www.alienware.com/starwars_pages/awswaurora.aspx?from=Duncanma:gaming_pc_banner_468x60&cs=0)   [<img src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/light_system.jpg" border="0" />](http://www.alienware.com/starwars_pages/awswaurora.aspx?from=Duncanma:gaming_pc_banner_468x60&cs=0)

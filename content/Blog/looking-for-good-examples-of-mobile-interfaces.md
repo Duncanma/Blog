@@ -1,3 +1,8 @@
+---
+date: 2008-01-01T12:39:00+00:00
+title: Looking for good examples of Mobile Interfaces
+type: posts
+---
 I'm part of a dev team that builds blog/forum software and I've been thinking about mobile interfaces lately... so I'm trying to find a good example of site like ours that provides a good (enjoyable, useful and usable) mobile interface... one that will work across a variety of browses. It seems 37 Signals is thinking about the same thing these days and they've made a blog post looking for exactly the same thing I am, [examples of good mobile interfaces](http://www.37signals.com/svn/posts/745-link-it-up-mobile-web-app-interfaces). I'm looking for sites that are some combination of text and video blogging and are usable via a relatively modern phone. I found a lot of the comments to that post to be completely unhelpful... because they were focused on sites that are specific to the iPhone! Building an interface for the iPhone is not a bad idea, but I certainly wouldn't try to do that until after we had a good general purpose interface for a much wider variety of mobile devices. I did find a few interesting sites though, from the comments and from another site (Brian Cantoni's list of good mobile sites at [http://cantoni.mobi/](http://cantoni.mobi/ "http://cantoni.mobi/")):
 
   * [http://mobile.seriouseats.com/](http://mobile.seriouseats.com/ "http://mobile.seriouseats.com/")

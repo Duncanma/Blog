@@ -1,3 +1,8 @@
+---
+date: 2007-02-12T10:10:00+00:00
+title: Ran my first 5K race today&#8230;
+type: posts
+---
 Back in the summer I jumped back into fitness by signing up for the 20/20 program at the Pro Club. 20/20 is a serious weight loss program that involves both diet change (I'd characterize it as South Beach in style) and five workouts a week (including three with a personal trainer). Well, it has been quite successful so far, bringing my weight down from around 189 to about 160 over the past 5 months, and it has had the side affect of getting me back into running.
 
 I've been running off and on for a long time, but ever since I put on a bunch of weight, I've never really felt like I could run all that fast or for very long. (Depending on your own running experience, I still can't run very fast or for very long, but it is all relative) Now, I've been running three or four miles a day, five days a week and my pace has been steadily improving. So with that feeling of increased confidence, I signed up for a 5K race this weekend, [the Valentine's Love 'em or Leave 'em at Greenlake](http://www.promotionevents.com/events/events-07/Valentines/home.htm).

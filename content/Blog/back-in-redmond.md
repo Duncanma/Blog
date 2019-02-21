@@ -1,3 +1,8 @@
+---
+date: 2004-01-07T14:02:00+00:00
+title: Back in Redmond
+type: posts
+---
 I'm back in town, but I was a little surprised to see snow all over the place... that is what I just left in Winnipeg, MB... I thought I was heading back somewhere green 🙂 
 
 Well, it certainly is a lot warmer (just a bit below freezing tonight and up around 44F/7C tomorrow), but there was a lot of ice all over the road and my truck from the freezing rain that had been falling for the last few days. It turns out though, that my wife's Jewel CD case makes an excellent scraper... 

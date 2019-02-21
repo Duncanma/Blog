@@ -1,3 +1,8 @@
+---
+date: 2005-04-27T18:20:00+00:00
+title: Free Flat Screen arrived yesterday&#8230;
+type: posts
+---
 No picture at the moment, I was just happy to get it hooked up quickly before my son came home... it seems I can never hook up electronics correctly when he is &#8216;helping' me 🙂
 
 So, yep... one of those sites worked for me... it took a while, but my wife is very happy with the monitor. It is [a 19&#8243; LCD from Sony](http://www.amazon.com/exec/obidos/ASIN/B0000ANF0P/duncanmackenz-20?creative=327641&camp=14573&link_code=as1) (the SDM-S93 I believe) and it looks nice replacing her 15&#8243; CRT. No DVI input, which isn't a real issue for her at this point as she doesn't have DVI output, but it is worth noting.

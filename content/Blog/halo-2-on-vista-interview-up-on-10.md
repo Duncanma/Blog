@@ -1,3 +1,8 @@
+---
+date: 2007-05-09T21:48:00+00:00
+title: Halo 2 on Vista interview up on 10
+type: posts
+---
 > [Halo 2 on Vista: We've got the new maps, features and achievements](http://www.on10.net/Blogs/tina/halo-2-on-vista-weve-got-the-new-maps-features-and-achievements/)
 >
 > Posted by [Tina Wood](http://www.on10.net/people/Tina/) today at 8:40 AM

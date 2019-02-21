@@ -1,3 +1,8 @@
+---
+date: 2006-09-12T23:22:00+00:00
+title: YouTube-ish site from MSN up in beta
+type: posts
+---
 As someone who works on [a video based Microsoft site](http://on10.net), you'd think I would have already found this... but I had no idea it was out... description from the site itself:
 
 > **What it is**

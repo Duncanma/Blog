@@ -1,3 +1,8 @@
+---
+date: 2006-07-06T20:49:00+00:00
+title: Flew over to Toronto to do a Channel 9 interview with Jamie, creator of the C9 Patrol
+type: posts
+---
 [
 
 <img src="http://static.flickr.com/53/183571589_7602b9c49d_t.jpg" width="100" height="75" alt="The Activator" border="0" />

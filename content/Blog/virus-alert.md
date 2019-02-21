@@ -1,3 +1,8 @@
+---
+date: 2004-01-28T00:20:00+00:00
+title: Virus Alert
+type: posts
+---
 Ok, you are going to see this a lot today, but my posts go onto the C# and VB home pages, so here goes;
 
 [Microsoft Consumer Virus Alert](http://www.microsoft.com/security/antivirus/mydoom.asp)

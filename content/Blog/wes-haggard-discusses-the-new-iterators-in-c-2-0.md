@@ -1,3 +1,8 @@
+---
+date: 2004-08-24T09:13:00+00:00
+title: Wes Haggard discusses the new iterators in C# 2.0
+type: posts
+---
 > **
 
 > [Recusive GetFiles for DirectoryInfo via a C# Iterator](http://weblogs.asp.net/whaggard/archive/2004/08/15/214864.aspx)

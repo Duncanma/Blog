@@ -1,3 +1,8 @@
+---
+date: 2004-04-27T11:25:00+00:00
+title: Presentation from Francesco Balena on Data Structures for VB Programmers
+type: posts
+---
 <p dir="ltr">
   From Paschal's blog...
 

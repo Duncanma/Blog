@@ -1,3 +1,8 @@
+---
+date: 2003-11-15T01:19:00+00:00
+title: Upcoming Chats
+type: posts
+---
 I was just browsing the chats page at [http://msdn.microsoft.com/chats](http://msdn.microsoft.com/chats) (boy, if ever a page was in need of an RSS feed, this would be it) and I noticed some really cool upcoming chats;
 
   * Background Intelligent Transfer Service (BITS) on January 14, 2004 at 10am PST

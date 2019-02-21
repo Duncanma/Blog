@@ -1,3 +1,8 @@
+---
+date: 2003-11-04T21:20:00+00:00
+title: .NET Rocks
+type: posts
+---
 I had some drinks with Carl Franklin and Mark Dunn at the PDC and discovered that we are all audio freaks... and while our conversation was focused mostly on mixing boards and real-time noise filtering... we did talk a bit about their .NET "radio" show which is now available on MSDN!
 Here is the official blurb and link;
 

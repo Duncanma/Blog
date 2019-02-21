@@ -1,3 +1,8 @@
+---
+date: 2007-03-28T01:28:00+00:00
+title: Something I&#8217;m working on for Channel 9 and on10.net&#8230;
+type: posts
+---
 Search based RSS...
 
 [http://www.mscommunities.com/MixItUp/Search/Default.aspx?s=c9&q=TechFest](http://www.mscommunities.com/MixItUp/Search/Default.aspx?s=c9&q=TechFest "http://www.mscommunities.com/MixItUp/Search/Default.aspx?s=c9&q=TechFest")

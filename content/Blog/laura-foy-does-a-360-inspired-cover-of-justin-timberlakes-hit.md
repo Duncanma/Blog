@@ -1,3 +1,8 @@
+---
+date: 2006-12-01T09:31:00+00:00
+title: Laura Foy does a 360-inspired cover of Justin Timberlake&#8217;s hit&#8230;
+type: posts
+---
 <embed pluginspage="http://macromedia.com/go/getflashplayer" src="http://soapbox.msn.com/flash/soapbox1_1.swf" width="412" height="362" type="application/x-shockwave-flash" flashvars="c=v&v=05de630b-23cf-47c6-9d34-024988d9d27f" wmode="transparent" quality="high">
 </embed>
 

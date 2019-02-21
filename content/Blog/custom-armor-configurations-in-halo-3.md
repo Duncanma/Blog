@@ -1,3 +1,8 @@
+---
+date: 2007-10-24T21:39:00+00:00
+title: Custom Armor Configurations in Halo 3
+type: posts
+---
 In Halo 3 multi-player you can customize your SPARTAN or Elite's armor, with different variations unlocked by various achievements/activities in game (including one that can only be unlocked by being a Bungie employee). [You can find out more about the different variations here](http://halo.wikia.com/wiki/Armor_Permutations), but it turns out that [your profile on Bungie.net](http://www.bungie.net/Stats/Halo3/Default.aspx?player=Festive%20Turkey) knows what choices you've made and displays your current armor configuration on the web site.
 
 If you go to the [Halo 3 Model Generator](http://www.zaamit.com/h3-model-generator/) though, created by a community member, you can find the picture of any particular gamer you'd like (including yourself, which is how I found my picture, below) or create a custom image to plan out your own armor customizations.

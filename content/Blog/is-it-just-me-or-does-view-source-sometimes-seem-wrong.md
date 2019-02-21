@@ -1,3 +1,8 @@
+---
+date: 2004-09-07T05:32:00+00:00
+title: is it just me, or does &#8220;View Source&#8221; sometimes seem wrong?
+type: posts
+---
 I noticed the cool ads rotating on the side of the developer centers ([VB](http://msdn.microsoft.com/vbasic) and [C#](http://msdn.microsoft.com/vcsharp)) so I “Viewed Source” and grabbed the relevant HTML... voila, I'm now showing MSN Ads on my site... totally inappropriate? Perhaps, but very easy...
 
 > <pre>

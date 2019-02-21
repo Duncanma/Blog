@@ -1,3 +1,8 @@
+---
+date: 2007-01-20T01:25:00+00:00
+title: 30 more hours of Oblivion coming&#8230; wow&#8230;
+type: posts
+---
 I'm far from having used up all the gameplay in the initial release of Oblivion, and I haven't even gotten into the expansions, and now they've annouced an additional expansion with a ton more gameplay that I can jump into on the 360... amazing.
 
 > [Even More Oblivion on the Shivering Isles](http://news.digitaltrends.com/article12115.html)

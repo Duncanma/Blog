@@ -1,3 +1,8 @@
+---
+date: 2003-10-06T11:42:00+00:00
+title: Feeling the Cache Love
+type: posts
+---
 I've been working on the business and data layers for a web system and, as you might expect, I've been making quite a bit of use of ASP.NET's caching system. Now, to test the business layer, I had gone ahead and set up a non-ASP.NET caching system as well using my standard method for caching in Windows applications, a static hashtable with strongly typed string keys (works well, fairly compatible with the ASP.NET cache so it is easy to move code between the two models) but then I realized that I could just use the ASP.NET cache even when my code was being used from a Windows Forms applications (for my class libraries, where I don't know what type of interface is being used) and it works just fine. 
 
 <font face="'Courier New',Courier,monospace">Shared Function GetValueFromCache( _        ByVal key As String) As Object    Dim myContext As HttpContext    myContext = HttpContext.Current 

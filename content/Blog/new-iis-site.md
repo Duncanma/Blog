@@ -1,3 +1,8 @@
+---
+date: 2004-05-24T03:13:00+00:00
+title: New IIS site&#8230;
+type: posts
+---
 I wouldn't have known about this site, if the site's owner wasn't sitting behind me on the plane to TechEd, so I thought the rest of you might not know about it either 🙂
 
 > [TryIIS.com](http://www.TryIIS.com" title="IIS) is a new site dedicated to resources for evaluating IIS, and contains over 100 whitepapers and other materials...

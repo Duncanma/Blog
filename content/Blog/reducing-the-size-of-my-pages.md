@@ -1,3 +1,8 @@
+---
+date: 2004-09-09T07:33:00+00:00
+title: Reducing the size of my pages&#8230;.
+type: posts
+---
 I was staring at my bandwidth usage tonight and it is quite high.... and thanks to this cool SVG based stats system that easerve provides, I can drill down and figure out which pages are causing the bulk of that traffic... well, the biggest offenders for # of hits were the aggBugs that .Text includes (because my blog posts, including the aggbugs, are shown on MSDN, and therefore generate 3 aggBug requests for **every single view of the [Visual Basic](http://msdn.microsoft.com/vbasic) or [C# Developer Center](http://msdn.microsoft.com/vcsharp) pages**), but the biggest use of bandwidth was by far the mainfeed.aspx.... the main RSS feed for the site...
 
 I checked out that feed, and it included 35 items... a value that I couldn't seem to change through any of the config options... I tracked it down to a stored proc (DNW_GetRecentPosts if you are interested) that had a &#8216;Top 35' option specified... so I knocked that way down (possibly too far, we'll see) to 5... which should greatly reduce the bandwidth used by that page

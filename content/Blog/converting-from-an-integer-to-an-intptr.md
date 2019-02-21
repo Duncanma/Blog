@@ -1,3 +1,8 @@
+---
+date: 2005-03-04T06:05:00+00:00
+title: Converting from an Integer to an IntPtr
+type: posts
+---
 A friend of mine at work just asked me this VB question, and it is an interesting one to me because it isn't as simple as it seems...
 
 > How do I cast from Integer to IntPtr?

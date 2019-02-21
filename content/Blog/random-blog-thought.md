@@ -1,1 +1,6 @@
+---
+date: 2003-07-30T03:31:00+00:00
+title: Random Blog thought&#8230;
+type: posts
+---
 What would you folks think if I wrote one of my MSDN articles in a serial fashion into my blog? Basically just posted each section as I wrote it? I'm considering doing this for my next Coding 4 Fun article, but before I flood your aggregator with piles of text I thought I'd look for some feedback...

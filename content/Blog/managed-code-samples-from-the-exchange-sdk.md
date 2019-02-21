@@ -1,3 +1,8 @@
+---
+date: 2004-02-01T10:55:00+00:00
+title: Managed code samples from the Exchange SDK
+type: posts
+---
 From [KC Lemson's blog](http://blogs.msdn.com/kclemson)...
 
 > **[ASP.Net samples of WebDAV against Exchange 2003](http://blogs.msdn.com/kclemson/archive/2004/01/23/62247.aspx)**

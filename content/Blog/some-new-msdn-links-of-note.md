@@ -1,3 +1,8 @@
+---
+date: 2003-09-14T02:45:00+00:00
+title: Some new MSDN links of note
+type: posts
+---
 You probably already subscribe to the MSDN RSS feeds, so this might be a duplication but here goes;
 
 [Drag and Drop in VB.NET finally gets covered](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbtchImpDragDrop.asp)... an important topic that needed some more attention gets its own article from Steve Hoag of the VB team.

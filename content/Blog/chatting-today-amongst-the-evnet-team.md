@@ -1,3 +1,8 @@
+---
+date: 2008-08-30T07:41:00+00:00
+title: Chatting today amongst the EvNet team
+type: posts
+---
 Aug 29
 
 10:20 AM

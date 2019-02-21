@@ -1,3 +1,8 @@
+---
+date: 2003-09-18T21:18:00+00:00
+title: They had me&#8230; and then&#8230; they lost me
+type: posts
+---
 I don't know if it is just me, but there are some times when a new product comes out and they have me from the moment I see the ad; the price is right, the features are exactly what I am looking for, etc...
 
 Well, that happened this weekend... I have been pondering on getting a progressive scan DVD player for some time, and I had been stuck on a few things;

@@ -1,3 +1,8 @@
+---
+date: 2004-07-19T09:25:00+00:00
+title: Getting the right Printer Margin Bounds when working in Windows Forms&#8230;
+type: posts
+---
 a Code Project link, via [Darth Pedro's blog](http://darthpedro.blogspot.com)...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

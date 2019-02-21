@@ -1,3 +1,8 @@
+---
+date: 2003-09-14T10:11:00+00:00
+title: Ugh.. I want to code&#8230;
+type: posts
+---
 I have a bunch of writing to do, but what I really want to do is code!
 
 It turns out I have a bunch of coding to do as well... but the writing is _more overdue_ than the coding (at the moment)!

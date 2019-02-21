@@ -1,3 +1,8 @@
+---
+date: 2007-08-29T00:48:00+00:00
+title: Overlaying HTML over Silverlight
+type: posts
+---
 In the new code that we are building for Channel 9, we have a few HTML popups here and there... floating divs for user info being one example. At the same time as we've been adding that feature, we also moved from using Windows Media Player to using Silverlight as our video player.
 
 We ran into a bit of an issue though, in that our floating HTML was sitting **under** the Silverlight player, no matter what I did with the z-index of the two areas of the page.

@@ -1,3 +1,8 @@
+---
+date: 2004-02-18T13:29:00+00:00
+title: C# FTP Server sample up on GotDotNet
+type: posts
+---
 [A new sample](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=0a7606f3-f8ec-4e39-8d0e-517248b7164c) was posted recently by [Joel Pobar](http://blogs.msdn.com/joelpob) (a Program Manager in the CLR team)
 
 > [C# command line FTP server](http://blogs.msdn.com/joelpob/archive/2004/02/16/74433.aspx)

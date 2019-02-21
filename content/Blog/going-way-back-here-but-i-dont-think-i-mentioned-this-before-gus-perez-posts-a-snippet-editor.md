@@ -1,3 +1,8 @@
+---
+date: 2004-05-14T11:38:00+00:00
+title: Going way back here&#8230; but I don&#8217;t think I mentioned this before&#8230;. Gus Perez posts a Snippet Editor&#8230;
+type: posts
+---
 Snippets are a pretty cool feature of VS 2005.... aka Intellitasks to some... and Gus has created a tool to make them... (well, he did back in March.... :))
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

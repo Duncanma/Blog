@@ -1,3 +1,8 @@
+---
+date: 2004-05-15T10:23:00+00:00
+title: Improving .NET Application Performance and Scalability
+type: posts
+---
 Those wild and crazy PAG guys are at it again...
 
 <img alt="PAG" hspace="0" src="http://msdn.microsoft.com/library/en-us/dnpag/html/pponline.gif" align="baseline" border="0" />

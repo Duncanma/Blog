@@ -1,3 +1,8 @@
+---
+date: 2003-07-30T10:02:00+00:00
+title: Well, I&#8217;m not 100% sure I&#8217;ll start writing my articles into the blog&#8230; but&#8230;
+type: posts
+---
 Here is a teaser for the article I am currently working on...
 
 * * *

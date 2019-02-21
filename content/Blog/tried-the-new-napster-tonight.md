@@ -1,3 +1,8 @@
+---
+date: 2004-03-18T10:56:00+00:00
+title: Tried the &#8220;new&#8221; Napster tonight&#8230;
+type: posts
+---
 Hmm... pretty cool so far, guess I'll see when I decide to start moving music around to my MCE box, my laptop, my Rio device... etc... found the Cake song I wanted though 🙂
 
 <div class="media">

@@ -1,3 +1,8 @@
+---
+date: 2007-04-05T08:13:00+00:00
+title: Kent Sharkey&#8217;s been a busy guy
+type: posts
+---
 Kent's blog is back online and in one of his recent posts he updates us on all the projects he's been working since he left Microsoft (where we were both working at MSDN as content strategists)... tons of cool stuff, definitely worth reading through and following some links.
 
 > ##### Wednesday, April 04, 2007 [#](http://www.acmebinary.com/blog/archive/2007/04/04.aspx)

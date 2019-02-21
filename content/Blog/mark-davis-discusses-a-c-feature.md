@@ -1,3 +1,8 @@
+---
+date: 2004-06-17T07:30:00+00:00
+title: Mark Davis discusses a C# feature&#8230;.
+type: posts
+---
 and it isn't about Whidbey, oh my... 🙂
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

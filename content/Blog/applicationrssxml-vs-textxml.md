@@ -1,3 +1,8 @@
+---
+date: 2005-12-12T18:03:00+00:00
+title: application/rss+xml vs. text/xml
+type: posts
+---
 I've been working on some feed support in MSDN's new online platform (a beta of which is running [http://msdn2.microsoft.com](http://msdn2.microsoft.com)) and I had to decide what content-type to use when outputting a RSS feed. I knew this was a contentious issue in the past, but I thought it might have been resolved so I did some browsing of specs and discussions and ended up with the following links:
 
   * [A discussion on Sam Ruby's blog around content-type](http://www.intertwingly.net/blog/1766.html) (the comments are the interesting part)

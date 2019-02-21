@@ -1,3 +1,8 @@
+---
+date: 2009-02-16T16:55:02+00:00
+title: Newly updated Oxite release available
+type: posts
+---
 <img class="inlineImage" alt="bring me the lavender frog!" src="http://duncanmackenzie.net/content/icons/frog.png" />[Erik](http://erikporter.com/) pushed out [a new release to Oxite](http://www.codeplex.com/oxite/Release/ProjectReleases.aspx?ReleaseId=23315) today, the first since January 5th. This release is an important one, because it reflects a great deal of changes made in response to internal and external feedback about our initial release.
 
 From the release notes:

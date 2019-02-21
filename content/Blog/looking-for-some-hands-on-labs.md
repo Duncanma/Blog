@@ -1,3 +1,8 @@
+---
+date: 2003-11-18T00:51:00+00:00
+title: Looking for some Hands On Labs?
+type: posts
+---
 Labs, Labs, get your labs here...
 
   * [64 Bit](http://download.microsoft.com/download/c/2/8/c285c4e0-706f-41fe-8a29-48439b02e2c8/HandsOnLabs64Bit.msi)

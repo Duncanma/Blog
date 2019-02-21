@@ -1,3 +1,8 @@
+---
+date: 2005-10-23T07:19:00+00:00
+title: Added Atom support to the FlairMaker&#8230; my version at least
+type: posts
+---
 Nick, from "[The Coding Monkey](http://thecodingmonkey.blogspot.com)" mentioned that he would like to see Atom support in the [FlairMaker](http://blogs.duncanmackenzie.net/duncanma/archive/2005/10/15/3101.aspx), so ... having no real reason not to, and having an extra 15 minutes after the kids went to sleep before I started cleaning up the house, I added it...
 
 [<img src="http://eris1109.si-xios.info/FlairMaker.ashx?atom=http://thecodingmonkey.blogspot.com/atom.xml" border="0" />](http://thecodingmonkey.blogspot.com)

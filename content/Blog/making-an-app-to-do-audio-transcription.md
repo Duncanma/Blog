@@ -1,3 +1,8 @@
+---
+date: 2013-09-08T19:02:19+00:00
+title: Making an app to do audio transcription
+type: posts
+---
 Back in the day, [I used to write articles for MSDN](http://www.duncanmackenzie.net/articles/), and I started up this column called “Coding 4 Fun” ([the name lives on today along with some of the same spirit](http://channel9.msdn.com/coding4fun)). The premise was that I would write about code I wrote for my own personal use. [An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures](http://msdn.microsoft.com/en-us/magazine/cc163893.aspx). [A remote control using my Pocket PC (yep, that was a while ago).](http://msdn.microsoft.com/en-us/library/ms973247.aspx) You get the idea.
 
 That mostly all stopped when I joined the Channel 9 team. I didn’t just stop writing articles, I mostly stopped writing code for any reason other than work. Perhaps that’s a bad thing, but either way … no more writing about code for a few years.

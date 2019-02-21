@@ -1,3 +1,8 @@
+---
+date: 2004-06-06T08:46:00+00:00
+title: Greggm describes how to debug ASP.NET as a non-admin&#8230;
+type: posts
+---
 <div class="posttitle" dir="ltr">
   For most folks working with ASP.NET, this should be taken as **essential information**... Don't let the Whidbey reference in the first paragraph fool you, by the way, this post describes how to accomplish debugging as a non-admin in _Visual Studio .NET 2003_.
 </div>

@@ -1,3 +1,8 @@
+---
+date: 2004-02-21T10:34:00+00:00
+title: Broderbund Software&#8230; and C#
+type: posts
+---
 This is so cool, even if you might take it as mostly marketing (sorry in advance)...
 
 Having spent many years using a Commodore 64, and owning "Print Shop", "Loderunner"... geez, I even remember "Reader Rabbit", but I think that was for my Mom's school computers... the [Broderbund](http://www.broderbund.com/) name carries a lot of meaning to me... so when I saw their name on a recent case study for C#, it really jumped out at me...

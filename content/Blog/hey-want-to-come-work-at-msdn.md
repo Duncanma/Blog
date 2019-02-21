@@ -1,3 +1,8 @@
+---
+date: 2004-03-13T01:51:00+00:00
+title: hey&#8230; want to come work at MSDN?
+type: posts
+---
 Turns out we (MSDN) are looking for a few good testers to come and work with us in Redmond... if you are interested in a position, and the following job description (which you may have also seen on [Laura](http://blogs.msdn.com/lauraj/archive/2004/03/12/88709.aspx) or [Kent's](http://weblogs.asp.net/ksharkey/archive/2004/03/12/88788.aspx) blog...) is appealing, let us know via [this link](http://www.microsoft.com/careers/search/details.aspx?JobID=aacc453a-e5a2-48fe-b25b-d82ec1c8bd30).
 
 > _Are you ready to join an exciting team? MSDN is revolutionizing the way developers get the resources and information they need. MSDN Test is looking for an experienced SDE/T to help mentor and lead a team of testers responsible for delivering quality releases bringing MSDN forward as a .Net showcase. Key areas of responsibility will be functional, performance, and security testing, as well as a hands-on roll in ensuring the quality of our releases.

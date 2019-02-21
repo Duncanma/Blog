@@ -1,3 +1,8 @@
+---
+date: 2004-05-18T23:10:00+00:00
+title: Coming to TechEd? Play Halo for the PC? Have a fast laptop?
+type: posts
+---
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>

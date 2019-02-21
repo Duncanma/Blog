@@ -1,3 +1,8 @@
+---
+date: 2006-11-26T23:43:00+00:00
+title: Recording from my Motorola Cable Box via Firewire?
+type: posts
+---
 I had no idea this was possible, but has anyone managed to either:
 
   1. Pull video off of their Motorola HD DVR cable box onto XP/Vista?

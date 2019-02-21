@@ -1,3 +1,8 @@
+---
+date: 2003-04-07T11:09:00+00:00
+title: Certification doesn&#8217;t prove you know everything, but it certainly helps&#8230;.
+type: posts
+---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
     <font face="Verdana" color="black" size="2">_My name is Julie and I am not certified._

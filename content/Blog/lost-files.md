@@ -1,3 +1,8 @@
+---
+date: 2003-11-11T21:57:00+00:00
+title: Lost Files
+type: posts
+---
 [Julia appears to have lost something](http://weblogs.asp.net/jlerman/posts/36951.aspx)
 
 > I downloaded and installed the [VB Language Enhancements for Whidbey](http://msdn.microsoft.com/vbasic/whidbey) White Paper & code from an MSI and cannot freakin' find it anywhere! 🙂 I had to stop looking after 20 minutes. So hopefully, I'll update this post with the location after Duncan or someone can clue me in. I'm not mad. I think it's kind of funny.

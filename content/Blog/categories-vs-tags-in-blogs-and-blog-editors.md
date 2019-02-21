@@ -1,3 +1,8 @@
+---
+date: 2006-09-27T17:48:00+00:00
+title: Categories vs. Tags in Blogs and Blog Editors
+type: posts
+---
 
 
 I've been pondering categories vs. tags in blogs, in my sites (such as <http://on10.net)> we've completely done away with the concept of categories as distinct entities from tags, which works fine on the site but is causing me a bit of a headache when I look at blog editing and blog editing APIs.

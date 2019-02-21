@@ -1,3 +1,8 @@
+---
+date: 2004-12-14T16:29:00+00:00
+title: January 2005 &#8220;Advanced Basics&#8221; column up on MSDN
+type: posts
+---
 Yet another control development topic... this time I'm building a &#8216;star rating' control, similar to what you find in Windows Media Player's UI...
 
 ![](http://msdn.microsoft.com/msdnmag/issues/05/01/AdvancedBasics/fig01.gif)

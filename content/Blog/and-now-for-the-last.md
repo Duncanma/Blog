@@ -1,3 +1,8 @@
+---
+date: 2003-08-12T22:41:00+00:00
+title: And now for the last&#8230;
+type: posts
+---
 With this final bit of text, this is the whole article... before any of your comments... and before my wonderful editor (Henry Borys) has attacked it. If you were to take the content from these blog entries and diff it with the published article... you'll see the amazing impact that a good editor can have on your writing.
 
 * * *

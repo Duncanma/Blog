@@ -1,3 +1,8 @@
+---
+date: 2003-11-10T23:02:00+00:00
+title: Oh man&#8230; PAG just keeps producing those blocks!
+type: posts
+---
 **Logging Application Block
 
 **

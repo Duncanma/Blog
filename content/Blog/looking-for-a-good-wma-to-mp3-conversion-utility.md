@@ -1,3 +1,8 @@
+---
+date: 2007-04-26T19:38:00+00:00
+title: Looking for a good WMA to MP3 conversion utility
+type: posts
+---
   * for use on non-DRM'd files (one that can do both is fine... it just isn't what I'm going to use it for)
   * must transfer meta data correctly (ID3 tags)
   * batch would be great, point it at a folder structure and let it run

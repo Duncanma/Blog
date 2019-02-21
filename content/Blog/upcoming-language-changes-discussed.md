@@ -1,3 +1,8 @@
+---
+date: 2004-04-01T21:32:00+00:00
+title: Upcoming Language Changes discussed
+type: posts
+---
 Eric Gunnerson [has posted some information](http://blogs.msdn.com/ericgu/archive/2004/04/01/105644.aspx) regarding upcoming C# language changes, definitely worth a read;
 
 > [Customer Focused Design](http://blogs.msdn.com/ericgu/archive/2004/04/01/105644.aspx)

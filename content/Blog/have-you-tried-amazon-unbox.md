@@ -1,3 +1,8 @@
+---
+date: 2007-03-21T18:48:00+00:00
+title: Have you tried Amazon Unbox?
+type: posts
+---
 I was interested, and I guess I still am, but I'm not sure yet...
 
 For one, they seem to be WMV files... protected with our standard DRM, but yet they don't use Windows Media Player to play them back? I'm not sure why this is, but if they supported playback in a normal video player then I'm pretty sure these videos would work through Media Center (and therefore my Xbox 360) without any hassle. As is, I think I'd be limited to watching them on my computer screen (which holds absolutely no interest to me) or perhaps on my iRiver portable media center (which they list as compatible, but yet it doesn't support any other DRM'd video content that I know of, unlike newer PMC's like the Toshiba Gigabeat).

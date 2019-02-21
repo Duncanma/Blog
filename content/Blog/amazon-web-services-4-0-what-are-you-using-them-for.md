@@ -1,3 +1,8 @@
+---
+date: 2004-09-19T08:10:00+00:00
+title: Amazon Web Services 4.0 &#8230; what are you using them for?
+type: posts
+---
 I took Scott Watermasysk's [&#8216;book control' ](http://scottwater.com/blog/articles/BookControl.aspx)and modified it recently to display more than one book (moving it to VB.NET along the way), and I reduced the file it pulls from down to just a list of ISBN #s.... but then I wasn't able to display the title of the book as a tooltip (like the original does)... so I signed up for [Amazon's web services](http://www.amazon.com/gp/aws/landing.html/ref=gw1_mm_4/104-8667232-8399159) and added some code to pull the book's info through the web services and cache it for use in the control.
 
 Neat, yes... simple to code, even.... but totally illogical.

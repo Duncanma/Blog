@@ -1,3 +1,8 @@
+---
+date: 2004-07-19T13:18:00+00:00
+title: Stuck on a problem opening vbproj or csproj files&#8230;
+type: posts
+---
 On my home dev box I couldn't seem to open any of my projects (VB or C#), and whenever I tried I got this useful error;
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

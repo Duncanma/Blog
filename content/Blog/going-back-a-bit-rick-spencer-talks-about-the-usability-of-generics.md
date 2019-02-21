@@ -1,3 +1,8 @@
+---
+date: 2004-03-21T12:51:00+00:00
+title: Going back a bit&#8230; Rick Spencer talks about the Usability of Generics&#8230;
+type: posts
+---
 I've been thinking a bit about Generics lately, with the growing conclusion that I will mostly use the ones that ship in the 2.0 version of the .NET Framework, but wrapping my head around a few situations where I could see myself defining Generic classes of my own. With all of these Generics thoughts in my head, I went back and re-read this blog entry from 2/10/2004 by Rick Spencer, and I really found it useful.
 
 Rick is a Usability Specialist on the C# team, and he did a lot of work to understand how developers will use Generics in the next version of C# and you can read about that process in this great blog entry:

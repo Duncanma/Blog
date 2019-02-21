@@ -1,3 +1,8 @@
+---
+date: 2004-04-13T10:54:00+00:00
+title: Eric covers another new C# Whidbey (VS 2005) feature
+type: posts
+---
 Not a long post (I've included it all below), but useful nonetheless
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

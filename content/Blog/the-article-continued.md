@@ -1,3 +1,8 @@
+---
+date: 2003-07-31T10:37:00+00:00
+title: The article continued&#8230;
+type: posts
+---
 Continuing along with the rest of the article, I start to layout the basic design of what I am about to build...
 
 * * *

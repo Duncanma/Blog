@@ -1,3 +1,8 @@
+---
+date: 2003-03-14T08:43:00+00:00
+title: Why C# indeed
+type: posts
+---
 Early and Adopter seem to have just noticed my blog;
 
 <table cellpadding="1" width="100%">

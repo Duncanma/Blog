@@ -1,3 +1,8 @@
+---
+date: 2004-02-21T09:53:00+00:00
+title: Great article on the DataGrid control posted on CodeProject
+type: posts
+---
 Provides a great introduction to creating your own custom columns and column styles.... including a drop-down column style, which is a very popular custom column for most folks!!
 
 > [**DataGrid Zen Novice**](http://www.codeproject.com/cs/miscctrl/DataGridZen.asp) **by Alastair Stell**

@@ -1,3 +1,8 @@
+---
+date: 2004-01-14T23:10:00+00:00
+title: Get a Free Xbox with Every Deep Training Class
+type: posts
+---
 I just saw this in a recent MSDN flash and thought it was worth mentioning...
 
 > [Get a Free Xbox with Every Deep Training Class](http://www.deeptraining.com/xbox.aspx)

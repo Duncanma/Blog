@@ -1,3 +1,8 @@
+---
+date: 2006-10-10T18:16:00+00:00
+title: Gears of War Propaganda arrived today
+type: posts
+---
 I loved this email from Xbox Live today:
 
 > **Gears of War &#8211; Trust in the Coalition of Ordered Governments**

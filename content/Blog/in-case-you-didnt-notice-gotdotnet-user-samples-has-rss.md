@@ -1,3 +1,8 @@
+---
+date: 2003-06-25T01:42:00+00:00
+title: In case you didn&#8217;t notice&#8230; GotDotNet User Samples has RSS!!
+type: posts
+---
 Many things on GotDotNet now have RSS feeds, including User Samples!
 
 [http://www.gotdotnet.com/community/resources/rss.aspx?feed=sample

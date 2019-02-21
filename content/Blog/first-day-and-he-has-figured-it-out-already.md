@@ -1,3 +1,8 @@
+---
+date: 2003-03-25T12:22:00+00:00
+title: First day and he has figured it out already&#8230;.
+type: posts
+---
 Kent's first day with my group (to avoid confusion: "my group" means the group I belong to, I don't manage anyone...) and he has already realized the truth about us.
 
 <font face="Arial" color="teal">"Day 1 &#8211; spent most of it in the cafeteria, as it was a move day. Two meetings (much lower than my day would have been). Yes, my new team is/are lunatics 😉 (_They know that already, and yes, I know they all read this_)" &#8211; [<font face="Arial" color="teal">Kent Sharkey's Blog](http://dotnetweblogs.com/ksharkey/posts/4245.aspx)

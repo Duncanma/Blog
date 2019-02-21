@@ -1,3 +1,8 @@
+---
+date: 2006-07-17T18:06:00+00:00
+title: Hit the fountain and fair at Seattle Center this weekend with the kids
+type: posts
+---
 Good times were had by all, although mostly by my son (Connor)!
 
 [<img height="180" alt="Connor in Rocket Ride 1" src="http://static.flickr.com/77/191587364_b063ff4460_m.jpg" width="240" border="0" />](http://www.flickr.com/photos/11836230@N00/191587364/ "Photo Sharing")

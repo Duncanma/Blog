@@ -1,3 +1,8 @@
+---
+date: 2008-06-12T06:27:00+00:00
+title: The new and improved Channel 9 has shipped!
+type: posts
+---
 When I joined my current team, it was called the [Channel 9](http://channel9.msdn.com) dev team, because Channel 9 was the big site that they had built and was the center of all of their efforts. You certainly wouldn’t have known that from how we spent the last two years though 🙂
 
 We built a whole new code base for a video blog site and launched a new site ([Channel 10](http://on10.net)) on that code, bringing some of the video style of Channel 9 to a new audience. We often discussed, as we shipped out [revision after revision of the Channel 10 home page](http://flickr.com/photos/jeffsand/sets/72157605412954126/), that our next goal would be to ship out a new version of Channel 9… all moved onto that new code. Things didn’t go according to plan though, and we shipped out [VisitMix.com](http://VisitMix.com), [Channel 8](http://channel8.msdn.com/), and [TechNet Edge (for IT Pros)](http://edge.technet.com/) before we were really given more than a moment’s peace to start planning out the work to deploy Channel 9 on a new code base.

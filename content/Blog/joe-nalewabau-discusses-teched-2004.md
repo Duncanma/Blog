@@ -1,3 +1,8 @@
+---
+date: 2004-03-23T12:24:00+00:00
+title: Joe Nalewabau discusses TechEd 2004
+type: posts
+---
 Visit [his blog](http://blogs.msdn.com/joen/) and offer some feedback if you want to influence his presentation...
 
 > [TechEd 2004 (May 23-28)](http://blogs.msdn.com/joen/archive/2004/03/22/94335.aspx)

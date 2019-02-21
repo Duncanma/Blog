@@ -1,3 +1,8 @@
+---
+date: 2004-05-18T09:29:00+00:00
+title: 101 VB.NET 2003 Videos Released onto MSDN
+type: posts
+---
 Recently we launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies), releasing them only a few at a time... but now we've finished that process and all 101 of the videos are available on the site.
 
 <p class="MsoNormal" align="center">

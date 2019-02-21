@@ -1,3 +1,8 @@
+---
+date: 2004-10-14T07:55:00+00:00
+title: I&#8217;m leaving the MSDN Content Team&#8230;
+type: posts
+---
 Recently I transitioned the C# Content Strategist role over to [Frank Redmond](http://blogs.msdn.com/frankred), but that was only the first of several changes for me at MSDN. Today, [my boss made the rest of the changes public](http://weblogs.asp.net/mpowell/archive/2004/10/13/241982.aspx), so now I can talk about it 🙂
 
 I'm going to be leaving the Content Strategy team completely and joining the development group within MSDN, focusing on the tools and infrastructure that MSDN runs on, instead of the content that it publishes. This is a pretty major change for me, after 3 years on the content side of MSDN, but it seems that this is the time for change. Anyway, Matt is looking for a replacement for me, someone who can fill the shoes of a Content Strategist for Visual Basic. Check out [his blog entry](http://weblogs.asp.net/mpowell/archive/2004/10/13/241982.aspx) for a full job description and information on how to contact him if you are interested and you think that you are what he is looking for.

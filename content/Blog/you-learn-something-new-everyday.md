@@ -1,3 +1,8 @@
+---
+date: 2003-07-25T20:31:00+00:00
+title: You learn something new everyday&#8230;
+type: posts
+---
 Ok, I know that [Paul](http://www.panopticoncentral.net/) knew this, but did anyone else notice that the [VB.NET Try...Catch syntax](http://msdn.microsoft.com/library/en-us/vblr7/html/vastmTryCatchFinally.asp) includes a &#8216;when' clause?
 
 <pre class="syntax"><b>Try

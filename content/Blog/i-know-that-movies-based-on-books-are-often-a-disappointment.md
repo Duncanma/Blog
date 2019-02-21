@@ -1,3 +1,8 @@
+---
+date: 2004-04-29T18:36:00+00:00
+title: I know that movies based on books are often a disappointment&#8230;
+type: posts
+---
 In many ways, I'm ok with that; it isn't like they took away the book when they made the movie...
 
 **LOTR** is one of the few exceptions in recent times, although I also enjoyed **Timeline** (forgive me)... **Bourne Identity** might have been a good movie, I can't say because having read the book coloured my view of it too much to handle the changes... I could go on, listing off a variety of movies where I loved the book but found the movie lacking, but that isn't the point of this post.

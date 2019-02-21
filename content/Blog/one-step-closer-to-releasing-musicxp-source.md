@@ -1,3 +1,8 @@
+---
+date: 2003-03-31T13:38:00+00:00
+title: One Step Closer to Releasing MusicXP Source
+type: posts
+---
 I have a home music system, that I have dubbed
 
 [

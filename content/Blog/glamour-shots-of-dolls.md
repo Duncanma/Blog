@@ -1,3 +1,8 @@
+---
+date: 2006-08-04T01:16:00+00:00
+title: Glamour shots of dolls
+type: posts
+---
 I love this;
 
 [<img src="http://static.flickr.com/78/206034778_3c04fbb054_m.jpg" border="0" />](http://www.flickr.com/photos/underatree/206034778/)

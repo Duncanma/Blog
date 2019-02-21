@@ -1,3 +1,8 @@
+---
+date: 2003-04-06T10:57:00+00:00
+title: A little &#8216;bit&#8217; more on Int32 vs Integer
+type: posts
+---
 [Darren's](http://dotnetweblogs.com/DNeimke) comments on [my previous post:](http://dotnetweblogs.com/duncanma/Posts/4921.aspx)
 
 > I certainly don't want to get into a debate over this but, shouldn't the question be: "what is it best to use?". I'm probably biased because I never really programmed in any typed languages before .NET, but, to me at least, being as explicit as possible is always a good thing. I know that Int32 will map to System.Int32 even in version 30 of the Framework. God knows what Integer or int will map to by then.

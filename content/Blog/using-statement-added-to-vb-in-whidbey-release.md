@@ -1,3 +1,8 @@
+---
+date: 2004-06-13T04:40:00+00:00
+title: '&#8216;Using&#8217; statement added to VB in Whidbey release&#8230;'
+type: posts
+---
 Scott Watermasysk blogs about the new &#8216;Using' statement in VB.NET 2005... 
 
 > **[Using in VB.NET](http://scottwater.com/blog/archive/2004/06/08/12091.aspx)**  

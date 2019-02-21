@@ -1,3 +1,8 @@
+---
+date: 2003-09-18T09:30:00+00:00
+title: Great Quote from G. Andrew Duthie on Chris Sells Blog
+type: posts
+---
 Like Card, I earn much of my living on intellectual property, and I don't buy 90% of the arguments in favor of internet "music sharing". In my view, it's theft. If you want to do it anyway, at least be honest about it, rather than trying to tart it up as justice for the "rapacious" record companies.
 
 [Posted](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=821) by [G. Andrew Duthie](http://weblogs.asp.net/gad/) , Tuesday, September 16, 2003</ul>

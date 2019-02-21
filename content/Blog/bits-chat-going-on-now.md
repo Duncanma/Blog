@@ -1,3 +1,8 @@
+---
+date: 2004-01-14T20:49:00+00:00
+title: BITS chat going on now&#8230;.
+type: posts
+---
 [Background Intelligent Transfer Service (BITS) API](http://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)
 
 

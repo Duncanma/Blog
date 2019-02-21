@@ -1,3 +1,8 @@
+---
+date: 2004-06-09T03:11:00+00:00
+title: I added the &#8220;no vote, just show me the results&#8221; feature to that polling component&#8230;
+type: posts
+---
 It appears to work fine... assuming you haven't voted from the machine you are currently on, you should be able to see the new button (and try it out) at <http://www.duncanmackenzie.net>
 
 Currently, [Halo 2](http://www.bungie.net/games/halo2/Default.aspx) appears to be behind VS 2005... which was not what I expected 🙂

@@ -1,3 +1,8 @@
+---
+date: 2004-06-05T11:01:00+00:00
+title: Paul Vick discusses Nullable Types in the Whidbey release of Visual Basic
+type: posts
+---
 You may have been hearing a bit about nullable types in Whidbey (a feature in both VB and C#) but you should read this post by [Paul](http://www.panopticoncentral.net/) to get an explanation of what they are, how they work and why they are useful... all from a VB point of view!
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

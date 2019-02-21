@@ -1,3 +1,8 @@
+---
+date: 2007-05-14T21:36:00+00:00
+title: Great blog/site on &#8216;cool tools&#8217;
+type: posts
+---
 I found this today, and I just couldn't stop reading through it. I would normally say I'm not really into tools, but I guess I am:
 
 <a title="http://www.kk.org/cooltools/index.php" href="http://www.kk.org/cooltools/index.php">Kevin Kelly &#8212; Cool Tools</a>

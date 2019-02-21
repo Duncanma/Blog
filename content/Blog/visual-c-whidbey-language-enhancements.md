@@ -1,3 +1,8 @@
+---
+date: 2003-11-28T03:17:00+00:00
+title: 'Visual C# &#8220;Whidbey&#8221;: Language Enhancements'
+type: posts
+---
 If you think we are talking about Whidbey too much... don't read this post 🙂
 
 The powerpoints and demos are both online for Anders Hejlsberg's talk on the changes to C# for the Whidbey release:

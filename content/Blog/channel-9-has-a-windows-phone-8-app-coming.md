@@ -1,3 +1,8 @@
+---
+date: 2013-08-07T06:22:38+00:00
+title: Channel 9 has a Windows Phone 8 app coming&hellip;
+type: posts
+---
 And it is available in beta now, please check it out and let me know what you think.
 
  
