@@ -2,6 +2,7 @@
 date: 2015-10-08T18:20:17+00:00
 title: Content Taxonomy Musings
 type: posts
+tags: ["Channel9","CMS","Blogging","Writing"]
 ---
 My day job is running a bunch of systems as part of Microsoft’s evangelism group and the biggest of those is Channel 9 (<https://channel9.msdn.com>). Channel 9 is basically a video blogging platform. We have ‘blogs’, which contain posts, written by people. Seems simple enough, but after running for 10 years we have a bit of a problem. Too much content.
 
@@ -15,7 +16,7 @@ Our current categorization system is based on three main attributes that are add
   * They have one or more contributors (the people who made the video, posted the video or appeared in the video… the fact that it could be any of these is a problem for another post)
   * They have zero or more tags
 
-While we could dig into the other two attributes, the key organizing factor in our system is really these tags. Tags are applied by the content creator, and are visible as a means of navigation for the users. Since there is no fixed set, no structure, and no enforced requirements in our tagging, I would classify our tagging system as a [folksonomy](https://en.wikipedia.org/wiki/Folksonomy) (more specifically a narrow one, if you want to get into specifics). Essentially, every content creator is responsible for deciding what the right set of tags are for a piece of content. This gives great freedom, but produces terrible inconsistency.
+While we could dig into the other two attributes, the key organizing factor in our system is really these tags. Tags are applied by the content creator, and are visible as a means of navigation for the users. Since there is no fixed set, no structure, and no enforced requirements in our tagging, I would classify our tagging system as a [folksonomy](https://en.wikipedia.org/wiki/Folksonomy) (more specifically a narrow one, if you want to be accurate). Essentially, every content creator is responsible for deciding what the right set of tags are for a piece of content. This gives great freedom, but produces terrible inconsistency.
 
 At the moment this post was written, we have:
 
@@ -59,7 +60,7 @@ _Honestly, I feel this is like trying to decide on the best way to catalog your 
 
 The idea of grouping tags into buckets like Product wasn’t a bad one, and I think it would help, but what if we also added the concept of parent-child relationships to our tags? What if Azure Media Indexer was a child of Azure Media Services, which was a child of Azure?
 
-[<img class="aligncenter size-full wp-image-1470" src="http://www.duncanmackenzie.net/wp-content/uploads/2015/10/TagHiearchy.png" alt="3 level hiearchy of tags, Azure to Azure Media Services to Azure Media Indexer" width="500" height="502" srcset="http://www.duncanmackenzie.net/wp-content/uploads/2015/10/TagHiearchy.png 500w, http://www.duncanmackenzie.net/wp-content/uploads/2015/10/TagHiearchy-150x150.png 150w, http://www.duncanmackenzie.net/wp-content/uploads/2015/10/TagHiearchy-300x300.png 300w" sizes="(max-width: 500px) 85vw, 500px" />](http://www.duncanmackenzie.net/wp-content/uploads/2015/10/TagHiearchy.png" rel="lightbox[1468]" title="3 level hiearchy of tags, Azure to Azure Media Services to Azure Media Indexer)
+![Simple tag hierarchy](/images/TagHiearchy.png)
 
 Perhaps, if we had this relationship, we could use this knowledge to make the tagging job easier. Post is tagged only with Azure Media Indexer? We infer the rest of the tags all the way up the hierarchy. This has benefits when finding content; when you view ‘all posts tagged Azure’, we could return posts that are tagged with Azure Media Indexer too. The other benefit is for the content contributor; they could just tag with the very specific tag and wouldn’t have to remember to add all the others. That has merit, but it wouldn’t have stopped someone from tagging a post with just Azure like they did with the Azure Friday video given as an earlier example.
 

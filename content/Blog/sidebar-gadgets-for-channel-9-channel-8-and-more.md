@@ -2,13 +2,19 @@
 date: 2008-04-05T05:32:00+00:00
 title: Sidebar Gadgets for Channel 9, Channel 8 and more
 type: posts
+tags:
+ - Channel 9
+ - Microsoft
 ---
 We recently had Donovan West ([LiveGadgets.net](http://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop.
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="147" alt="The Gadget in its open state" src="http://duncanmackenzie.net/images/9cfa4634-abe8-466b-8564-036df610d1d3.png" width="320" border="0" />](http://duncanmackenzie.net/images/a40241c2-1d0c-4f58-97bc-215eb3c7ffc4.png" rel="lightbox[492]" title="The Gadget in its open state)
-
-
+![The Gadget in its open state](/images/Channel9_SidebarGadgetBig.png)
 
 You can check out the gadgets (for [Channel 9](http://channel9.msdn.com), [Mix](http://visitmix.com/), [C8](http://channel8.msdn.com/), [Edge](http://edge.technet.com/), and [on10.net](http://on10.net/)) by clicking on the appropriate image below:
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="130" alt="Channel 9 Gadget" src="http://duncanmackenzie.net/images/03c39cce-e2dd-45e5-a86b-0d4c5433da3b.png" width="130" border="0" />](http://gallery.live.com/liveItemDetail.aspx?li=669beb7e-532a-47d9-ac88-230490edb5d1) [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="130" alt="Channel 10 Gadget for on10.net" src="http://duncanmackenzie.net/images/15e9764a-f5a8-4226-8889-d0d5d3e418fd.png" width="130" border="0" />](http://gallery.live.com/liveItemDetail.aspx?li=6ed75c56-86a0-4479-bb97-99aba94e8a33) [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="134" alt="TechNet Edge Gadget" src="http://duncanmackenzie.net/images/ac1799a8-7aad-4c4b-bfe1-519553b44148.png" width="130" border="0" />](http://gallery.live.com/liveItemDetail.aspx?li=77310b65-9f97-4311-8fae-ffa3d7d8f90f) [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="130" alt="Mix Online (visitmix.com) gadget" src="http://duncanmackenzie.net/images/930fceec-a563-441a-a605-51c74a850f7a.png" width="130" border="0" />](http://gallery.live.com/LiveItemDetail.aspx?li=6f64b0d5-84eb-4575-b885-3652bdfc31d5) [<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="136" alt="Channel 8 (channel8.msdn.com) gadget" src="http://duncanmackenzie.net/images/c396e0d8-3d28-422c-9b8f-10f997fd9f8f.png" width="130" border="0" />](http://gallery.live.com/liveItemDetail.aspx?li=ae5fede5-e5ed-49af-85a5-d357580c1e2b)
+{{% note %}}
+These images used to be links to the sidebar gadget, **but** sidebar gadgets have been retired completely as a technology in Windows, so I have removed the links
+{{% /note %}}
+
+![Channel 9 Gadget](/images/Channel9_SidebarGadget.png) ![Channel 10 Gadget](/images/Channel10_SidebarGadget.png) ![Edge Gadget](/images/Edge_SidebarGadget.png) ![Channel 8 Gadget](/images/Channel8_SidebarGadget.png)
+![Mix Gadget](/images/Mix_SidebarGadget.png)

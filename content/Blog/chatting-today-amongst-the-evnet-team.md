@@ -2,6 +2,9 @@
 date: 2008-08-30T07:41:00+00:00
 title: Chatting today amongst the EvNet team
 type: posts
+tags:
+ - Channel 9
+ - Microsoft
 ---
 Aug 29
 
@@ -21,11 +24,11 @@ Aug 29
 
 Duncan M.
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="205" alt="sourcecodeFF" src="http://duncanmackenzie.net/images/ChattingtodayamongsttheEvNetteam_DBBD/sourcecodeFF_thumb.png" width="260" border="0" />](http://duncanmackenzie.net/images/ChattingtodayamongsttheEvNetteam_DBBD/sourcecodeFF.png" rel="lightbox" title="sourcecodeFF)
+![Screenshot of development in progress](/images/chatting_1.png)
 
 Duncan M.
 
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="183" alt="sourcecodeIE" src="http://duncanmackenzie.net/images/ChattingtodayamongsttheEvNetteam_DBBD/sourcecodeIE_thumb.png" width="260" border="0" />](http://duncanmackenzie.net/images/ChattingtodayamongsttheEvNetteam_DBBD/sourcecodeIE.png" rel="lightbox" title="sourcecodeIE)
+![second screenshot of development in progress](/images/chatting_2.png)
 
 Duncan M.
 

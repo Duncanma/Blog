@@ -2,6 +2,9 @@
 date: 2011-06-30T14:45:57+00:00
 title: Books, Recommendations, and Amazon
 type: posts
+tags:
+ - Books
+ - Reading
 ---
 I really like to read. I read almost every night and I have since I was a little kid, so I’ve gone through a lot of books. Lately though I’ve noticed a new trend in my reading; I’m reading books that no one recommended to me. Well, no person recommended them to me, I guess it is all Amazon at this point.
 

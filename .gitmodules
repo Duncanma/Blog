@@ -1,9 +1,3 @@
-[submodule "themes/hyde-hyde"]
-	path = themes/hyde-hyde
-	url = git@github.com:htr3n/hyde-hyde.git
-[submodule "themes/tale"]
-	path = themes/tale
-	url = https://github.com/EmielH/tale-hugo.git
-[submodule "themes/capsule"]
-	path = themes/capsule
-	url = https://github.com/sudorook/capsule
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
