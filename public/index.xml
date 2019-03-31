@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 08 Oct 2015 18:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 19:47:17 +0000</lastBuildDate>
     
 	<atom:link href="https://duncanmackenzieblog.azureedge.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://duncanmackenzieblog.azureedge.net/about/</link>
+      <pubDate>Sun, 31 Mar 2019 19:47:17 +0000</pubDate>
+      
+      <guid>https://duncanmackenzieblog.azureedge.net/about/</guid>
+      <description>I&amp;rsquo;m a Developer Lead for the Docs.Microsoft.com team, previously I was the Dev Lead for Channel 9 and before that I worked on MSDN as a developer, content strategist and author.
+I&amp;rsquo;ve written a whole bunch of articles and books on programming topics, and a few more focused around gaming. For a time I was the VB guy on MSDN, starting out as a sample writer and article author as part of the MSDN content team, then running the VB and C# developer centers for a time, before finally moving onto the MSDN dev team.</description>
+    </item>
     
     <item>
       <title>Content Taxonomy Musings</title>
@@ -102,30 +112,6 @@ Normally, and this goes back to the first time I read the Lord of the Rings, the
 From the release notes:
  We made many improvements, some based on community feedback, and added new features in this release:
  New Model, Services and Repositories Dependency Injection (Routes, Controllers, Services, Repositories, etc) ActionFilter Registry Better test coverage New validation class added Improved background services architecture Projects cleaned up and consolidated Views cleaned up No more *.</description>
-    </item>
-    
-    <item>
-      <title>Chatting today amongst the EvNet team</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/chatting-today-amongst-the-evnet-team/</link>
-      <pubDate>Sat, 30 Aug 2008 07:41:00 +0000</pubDate>
-      
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/chatting-today-amongst-the-evnet-team/</guid>
-      <description>Aug 29
-10:20 AM
-Duncan M.
-source code formatting checked in
-Duncan M.
-http://localhost/posts/Sampy/PAX-Day-3-In-&amp;hellip;
-Aug 29
-10:25 AM
-Duncan M.
-Duncan M.
-Duncan M.
-I started out with overflow-x:auto &amp;hellip; which would add a scroll bar (at least in FF3), but then I went with white-space:pre-wrap; &amp;hellip; but IE doesn&amp;rsquo;t like that 🙂
-Aug 29
-10:55 AM
-Duncan M.
-Nathan, can you send me the link to those pre-wrap alternates?</description>
     </item>
     
   </channel>
