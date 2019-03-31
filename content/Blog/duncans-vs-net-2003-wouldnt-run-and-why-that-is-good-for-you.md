@@ -1,6 +1,6 @@
 ---
 date: 2004-05-13T10:46:00+00:00
-title: Duncan&#8217;s VS.NET 2003 wouldn&#8217;t run&#8230; and why that is good for you :)
+title: Duncan's VS.NET 2003 wouldn't run... and why that is good for you :)
 type: posts
 ---
 <div>
@@ -12,7 +12,7 @@ type: posts
 </div>
 
 <div>
-  <span>At the same time, I could no longer open VB projects in VS.NET, or create new VB or C# project ("path not found" for the C# projects, "Project &#8216;project name' could not be opened because the Microsoft Visual Basic .NET compiler could not be created. Please re-install Visual Studio." for my existing VB projects)</span>
+  <span>At the same time, I could no longer open VB projects in VS.NET, or create new VB or C# project ("path not found" for the C# projects, "Project 'project name' could not be opened because the Microsoft Visual Basic .NET compiler could not be created. Please re-install Visual Studio." for my existing VB projects)</span>
 </div>
 
 <div>
@@ -28,7 +28,7 @@ type: posts
 </div>
 
 <div>
-  <span>I didn't try reinstalling **because I really wanted to know what was actually going wrong &#8216;behind-the-scences'**, and here is where you benefit... I found out what was causing it, so if it happens to you, you'll know too 🙂</span>
+  <span>I didn't try reinstalling **because I really wanted to know what was actually going wrong 'behind-the-scences'**, and here is where you benefit... I found out what was causing it, so if it happens to you, you'll know too 🙂</span>
 </div>
 
 <div>

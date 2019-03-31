@@ -1,6 +1,6 @@
 ---
 date: 2003-04-24T22:36:00+00:00
-title: Some &#8220;slightly less than documented&#8221; APIs
+title: Some "slightly less than documented" APIs
 type: posts
 ---
 I wrote an article back in August 2002 on some of the API calls that were documented as part of the Microsoft settlement agreement... but in the end, I never published it... so here it is for your viewing pleasure;

@@ -1,6 +1,6 @@
 ---
 date: 2003-03-28T21:24:00+00:00
-title: First hint of what I&#8217;ve been working on for the last few months&#8230;
+title: First hint of what I've been working on for the last few months...
 type: posts
 ---
 We've posted a little "first look" at the new Developer Centers at

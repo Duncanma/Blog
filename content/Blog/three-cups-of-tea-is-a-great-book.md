@@ -1,6 +1,6 @@
 ---
 date: 2008-06-13T06:40:00+00:00
-title: Three Cups of Tea is a great book&#8230;
+title: Three Cups of Tea is a great book...
 type: posts
 tags:
  - Reading

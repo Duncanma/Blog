@@ -7,7 +7,7 @@ type: posts
 
 > Server Intellect is proud to announce hosting support for ASP.NET 2.0 Beta 2!
 >
-> **Free &#8216;Starter Tier' account for all Server Intellect Clients!**
+> **Free 'Starter Tier' account for all Server Intellect Clients!**
 >
 > The first version of ASP.NET offered several important advantages over previous Web development models. ASP.NET 2.0 improves upon that foundation by adding support for several new and exciting features in the areas of developer productivity, administration and management, extensibility, and performance.
 >

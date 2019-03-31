@@ -1,11 +1,11 @@
 ---
 date: 2004-06-18T08:06:00+00:00
-title: Andy Pennell and Scott Nonnenberg are looking for your opinion&#8230;
+title: Andy Pennell and Scott Nonnenberg are looking for your opinion...
 type: posts
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <b> <a id="viewpost.ascx_TitleUrl" href="http://blogs.msdn.com/andypennell/archive/2004/06/17/158597.aspx">Debugger Window Menu Items: Where should they be?</a> </b> The VS debugger since 7.0 has put most debugger windows on the Debug menu, under the Windows sub-menu. I say &#8216;most' because the Output window lives on the View menu, under Other Windows sub-menu.
+    <b> <a id="viewpost.ascx_TitleUrl" href="http://blogs.msdn.com/andypennell/archive/2004/06/17/158597.aspx">Debugger Window Menu Items: Where should they be?</a> </b> The VS debugger since 7.0 has put most debugger windows on the Debug menu, under the Windows sub-menu. I say 'most' because the Output window lives on the View menu, under Other Windows sub-menu.
 
 
 

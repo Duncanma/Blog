@@ -1,6 +1,6 @@
 ---
 date: 2006-02-05T21:25:00+00:00
-title: I now have a &#8216;blog&#8217; on Amazon&#8230;
+title: I now have a 'blog' on Amazon...
 type: posts
 ---
 Well, I have dated entries... with comment support... umm, I guess it is a blog.

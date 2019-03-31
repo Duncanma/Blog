@@ -1,6 +1,6 @@
 ---
 date: 2004-12-05T19:14:00+00:00
-title: I just can&#8217;t get enough Penny Arcade&#8230;
+title: I just can't get enough Penny Arcade...
 type: posts
 ---
 He was talking about the generic bad guys in the new Prince of Persia game, but this line crosses into Halo, and it is so true...

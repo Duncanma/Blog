@@ -1,6 +1,6 @@
 ---
 date: 2005-08-17T16:06:00+00:00
-title: Some things shouldn&#8217;t be an impulse buy
+title: Some things shouldn't be an impulse buy
 type: posts
 ---
 As my lack of posts might suggest, I'm completely under water these days at work, but I did find time to take a week long vacation back to Winnipeg, Manitoba. While I was there I snapped this shot of a sign that I've been amused by for a few years now... (click the picture to see the full size version)

@@ -1,6 +1,6 @@
 ---
 date: 2003-02-28T03:17:00+00:00
-title: New Coding4Fun column is up&#8230;
+title: New Coding4Fun column is up...
 type: posts
 ---
 ### <a name="code4fun02282003"> </a>

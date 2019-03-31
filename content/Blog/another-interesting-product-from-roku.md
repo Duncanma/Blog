@@ -8,5 +8,5 @@ I was pretty impressed with the [first Roku offering](http://www.rokulabs.com/pr
 Disclaimer: I haven't actually _seen_ either of these products, just the specs on the site, but the feature set and design are interesting.
 
 <div class="media">
-  [Listening to: Love To Love You Baby &#8211; [No Doubt](http://www.windowsmedia.com/mg/search.asp?srch=No+Doubt) &#8211; Zoolander Soundtrack (04:23)]
+  [Listening to: Love To Love You Baby – [No Doubt](http://www.windowsmedia.com/mg/search.asp?srch=No+Doubt) – Zoolander Soundtrack (04:23)]
 </div>

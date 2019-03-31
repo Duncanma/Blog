@@ -8,5 +8,5 @@ I was telling the folks at work about this one yesterday, my wife and I had been
 <embed pluginspage="http://macromedia.com/go/getflashplayer" src="http://images.soapbox.msn.com/flash/soapbox1_1.swf" width="412" height="362" type="application/x-shockwave-flash" flashvars="c=v&v=72191701-28c4-4bec-8dc2-8164ec5cda67" wmode="transparent" quality="high">
 </embed>
 
-  
-<a title="Windows Vista &quot;Wow&quot; ad" href="http://soapbox.msn.com/video.aspx?vid=72191701-28c4-4bec-8dc2-8164ec5cda67" target="_new">Video: Windows Vista "Wow" ad</a>
+
+<a title="Windows Vista "Wow" ad" href="http://soapbox.msn.com/video.aspx?vid=72191701-28c4-4bec-8dc2-8164ec5cda67" target="_new">Video: Windows Vista "Wow" ad</a>

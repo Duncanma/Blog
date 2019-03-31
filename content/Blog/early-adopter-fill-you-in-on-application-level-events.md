@@ -1,6 +1,6 @@
 ---
 date: 2004-06-05T10:47:00+00:00
-title: Early &#038; Adopter fill you in on &#8220;Application Level Events&#8221;
+title: Early &#038; Adopter fill you in on "Application Level Events"
 type: posts
 ---
 The [3 Leaf](http://www.3leaf.com/) guys, (well probably just one of them... but who knows which one), talk about ["Application Level Events" in Whidbey](http://ea.3leaf.com/2004/06/application_lev.html)

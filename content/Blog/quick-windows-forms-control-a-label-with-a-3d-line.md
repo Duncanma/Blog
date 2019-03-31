@@ -1,13 +1,13 @@
 ---
 date: 2005-04-14T16:00:00+00:00
-title: Quick Windows Forms Control&#8230; a Label with a 3D Line&#8230;
+title: Quick Windows Forms Control... a Label with a 3D Line...
 type: posts
 ---
 I was mocking up a UI yesterday, and I wanted to produce an interface that looked like Front Page's "New from Template" dialog...
 
 <img title="Front Page Template Dialog" src="http://www.duncanmackenzie.net/images/FrontPageTemplates.png" border="0" />
 
-But I couldn't easily replicate those little dividers (for Options, Description, Preview), so I created a "DividerLabel" with about 10 minutes of VB.NET code (2003)... 
+But I couldn't easily replicate those little dividers (for Options, Description, Preview), so I created a "DividerLabel" with about 10 minutes of VB.NET code (2003)...
 
 <img title="Divider Label Sample" src="http://www.duncanmackenzie.net/images/DividerLabelSample.png" border="0" />
 

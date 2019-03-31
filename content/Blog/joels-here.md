@@ -1,6 +1,6 @@
 ---
 date: 2003-03-18T12:24:00+00:00
-title: Joel&#8217;s here!
+title: Joel's here!
 type: posts
 ---
 [

@@ -1,6 +1,6 @@
 ---
 date: 2006-01-09T20:58:00+00:00
-title: Phil Ringnalda questions the value of letting Google and MSN index his pages&#8230;
+title: Phil Ringnalda questions the value of letting Google and MSN index his pages...
 type: posts
 ---
 I love this... and the funny thing was, I had just finished searching MSN for "Phil Ringnalda" (because I had forgotten his URL, well actually because I kept spelling his name wrong when I typed it as a URL) without much success.

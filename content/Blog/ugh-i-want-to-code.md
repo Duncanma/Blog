@@ -1,6 +1,6 @@
 ---
 date: 2003-09-14T10:11:00+00:00
-title: Ugh.. I want to code&#8230;
+title: Ugh.. I want to code...
 type: posts
 ---
 I have a bunch of writing to do, but what I really want to do is code!

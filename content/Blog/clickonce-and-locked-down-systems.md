@@ -1,6 +1,6 @@
 ---
 date: 2003-11-11T11:13:00+00:00
-title: ClickOnce and &#8220;locked down&#8221; systems
+title: ClickOnce and "locked down" systems
 type: posts
 ---
 Ron Krauter posted this comment to [one of my earlier posts](http://weblogs.asp.net/duncanma/posts/34182.aspx);
@@ -13,8 +13,8 @@ Ron Krauter posted this comment to [one of my earlier posts](http://weblogs.asp.
 
 Well, Ron... and anyone else who is wondering about the exact same thing; I have some good news for you. Locked down desktops are one of the key scenarios that ClickOnce is designed to deal with. ClickOnce applications are installed and run on a per-user basis, allowing them to be launched/deployed without administrative level privileges.
 
-So no more running to each machine to do a &#8216;RUNAS' administrative install.
+So no more running to each machine to do a 'RUNAS' administrative install.
 
-It is worth pointing out though, that installing the framework is an &#8216;impactful' install, using a standard .msi, so getting the framework out ahead of your ClickOnce applications will likely require higher privileges.
+It is worth pointing out though, that installing the framework is an 'impactful' install, using a standard .msi, so getting the framework out ahead of your ClickOnce applications will likely require higher privileges.
 
 _looking for more info on ClickOnce? check out [the first chapter of my book up on MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp)_

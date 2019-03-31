@@ -1,6 +1,6 @@
 ---
 date: 2005-05-28T06:21:00+00:00
-title: my first fitness &#8216;Boot Camp&#8217; ends, and another begins&#8230;
+title: my first fitness 'Boot Camp' ends, and another begins...
 type: posts
 ---
 Back at the start of April, I signed up for a group fitness class at the pro club, the "Boot Camp" ... a twice-weekly (for two months) running-focused outdoor workout that was supposedly modeled after real military training. Well, it wasn't anything like what I remembered from going through basic training with the Canadian Military, but I don't think anyone in the class would have actually wanted that. Paying to have people yell at you is something that only a small group of people enjoy.

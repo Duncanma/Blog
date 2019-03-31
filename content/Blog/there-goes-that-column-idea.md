@@ -2,6 +2,9 @@
 date: 2003-02-26T11:13:00+00:00
 title: There goes that column idea...
 type: posts
+tags:
+ - Writing
+ - Web Development
 ---
 Doesn't anyone use static web pages anymore? I was playing around with some code, just doing a quick prototype of an app for my [Coding4Fun](http://msdn.microsoft.com/columns/codefun.asp) column and (inspired by the cool and useful [PAINT](http://www.neilogic.com/paint.htm) tool) I decided to create an app that would check for changes to a website and give you a little quick-launch menu of updated sites on your system tray (who couldn't use one more icon there?). I thought it would be cool to show how to use the HTTP [If-Modified-Since](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.25) request header combined with the Last-Modified response header to show how quick and easy it is to check for new content using the System.Net classes. Well, the code works fine, it is the web that is broken 😉
 

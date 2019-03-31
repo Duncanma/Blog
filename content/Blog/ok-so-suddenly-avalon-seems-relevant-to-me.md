@@ -1,6 +1,6 @@
 ---
 date: 2004-08-28T00:07:00+00:00
-title: Ok&#8230; so suddenly Avalon seems relevant to me :)
+title: Ok... so suddenly Avalon seems relevant to me :)
 type: posts
 ---
 With [the recent annoucements](http://www.microsoft.com/presspass/press/2004/Aug04/08-27Target2006PR.asp), I get to check something off of my personal wishlist.... Avalon (and some connected systems thing... "purple" I think it's called...) will be available on WinXP!!

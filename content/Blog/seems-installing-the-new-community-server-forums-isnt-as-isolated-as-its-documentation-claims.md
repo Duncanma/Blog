@@ -1,6 +1,6 @@
 ---
 date: 2004-09-01T10:25:00+00:00
-title: 'Seems installing the new Community Server :: Forums isn&#8217;t as &#8216;isolated&#8217; as its documentation claims&#8230;'
+title: Seems installing the new Community Server Forums isn't as 'isolated' as its documentation claims...
 type: posts
 ---
 Ok, so any action you take against your database is your own responsibility... so this is my fault, but I'm still _miffed_.

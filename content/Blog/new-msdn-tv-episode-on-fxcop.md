@@ -1,6 +1,6 @@
 ---
 date: 2003-12-06T02:43:00+00:00
-title: New MSDN TV &#8216;episode&#8217; on FxCop
+title: New MSDN TV 'episode' on FxCop
 type: posts
 ---
 I'm a big [FxCop](http://www.gotdotnet.com/team/fxcop/) fan, so I'm pretty happy to see this episode....

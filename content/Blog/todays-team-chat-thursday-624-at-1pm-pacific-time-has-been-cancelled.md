@@ -1,6 +1,6 @@
 ---
 date: 2004-06-20T09:42:00+00:00
-title: Today&#8217;s Team Chat (Thursday 6/24 at 1pm Pacific Time) has been cancelled
+title: Today's Team Chat (Thursday 6/24 at 1pm Pacific Time) has been cancelled
 type: posts
 ---
 <p dir="ltr">
@@ -18,7 +18,7 @@ type: posts
 
   <div class="postcontent">
 
-      [_Eric Gunnerson_](http://blogs.msdn.com/ericgu)_ will be at the chat to answer questions about his and Anders' talks, _[_DEV320_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/Dev320.ppt)_ and _[_DEV321_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV321.ppt)_. _[_Joe Nalewabau_](http://blogs.msdn.com/joen)_ will be there for his session, _[_DEV322_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV322.ppt)_. I'll be there for the two sessions I co-presented, _[_DEV354_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV354.ppt)_ and _[_DEV450_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV450.ppt)_. A few other C# team _[_members_](http://blogs.msdn.com/cyrusn)_ who went to TechEd and manned the cabanas, booths and such will be there as well. Make sure to check out the powerpoints before showing up &#8211; they're required reading. :0)_
+      [_Eric Gunnerson_](http://blogs.msdn.com/ericgu)_ will be at the chat to answer questions about his and Anders' talks, _[_DEV320_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/Dev320.ppt)_ and _[_DEV321_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV321.ppt)_. _[_Joe Nalewabau_](http://blogs.msdn.com/joen)_ will be there for his session, _[_DEV322_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV322.ppt)_. I'll be there for the two sessions I co-presented, _[_DEV354_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV354.ppt)_ and _[_DEV450_](http://download.microsoft.com/download/e/2/1/e216b4ce-1417-41af-863d-ec15f2d31b59/DEV450.ppt)_. A few other C# team _[_members_](http://blogs.msdn.com/cyrusn)_ who went to TechEd and manned the cabanas, booths and such will be there as well. Make sure to check out the powerpoints before showing up – they're required reading. :0)_
 
 
 

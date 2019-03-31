@@ -1,6 +1,6 @@
 ---
 date: 2004-02-04T10:19:00+00:00
-title: David Hill explains and discusses &#8220;Smart Clients&#8221;
+title: David Hill explains and discusses "Smart Clients"
 type: posts
 ---
 > **What is a Smart Client anyway?**

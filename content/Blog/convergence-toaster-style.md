@@ -1,6 +1,6 @@
 ---
 date: 2005-12-27T09:47:00+00:00
-title: Convergence&#8230; Toaster Style
+title: Convergence... Toaster Style
 type: posts
 ---
 I have nothing really to say about this, except that I'm impressed...

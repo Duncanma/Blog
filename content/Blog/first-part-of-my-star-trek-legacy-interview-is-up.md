@@ -1,6 +1,6 @@
 ---
 date: 2006-11-17T11:01:00+00:00
-title: First part of my Star Trek Legacy interview is up&#8230;
+title: First part of my Star Trek Legacy interview is up...
 type: posts
 ---
 I flew to Boston a couple of weeks ago and interviewed some folks at Mad Doc Software, and the first part of that interview is now up on 10.

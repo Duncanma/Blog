@@ -1,6 +1,6 @@
 ---
 date: 2007-12-14T11:55:00+00:00
-title: Futurama the movie&#8230;
+title: Futurama the movie...
 type: posts
 ---
 Just added this to my queue at Blockbuster:

@@ -1,6 +1,6 @@
 ---
 date: 2003-04-06T10:57:00+00:00
-title: A little &#8216;bit&#8217; more on Int32 vs Integer
+title: A little 'bit' more on Int32 vs Integer
 type: posts
 ---
 [Darren's](http://dotnetweblogs.com/DNeimke) comments on [my previous post:](http://dotnetweblogs.com/duncanma/Posts/4921.aspx)

@@ -7,7 +7,7 @@ As [Chris](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1531) alread
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <a id="_ctl0__ctl3_HomePageDays_DaysList__ctl1_DayItem_DayList__ctl1_TitleUrl" href="http://kindel.com/blogs/charlie/posts/455.aspx">Storage at Home &#8211; How to store that precious data &#8211; Part 1</a>
+    <a id="_ctl0__ctl3_HomePageDays_DaysList__ctl1_DayItem_DayList__ctl1_TitleUrl" href="http://kindel.com/blogs/charlie/posts/455.aspx">Storage at Home – How to store that precious data – Part 1</a>
 
 </blockquote>
 

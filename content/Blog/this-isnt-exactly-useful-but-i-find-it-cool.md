@@ -1,6 +1,6 @@
 ---
 date: 2003-03-27T12:35:00+00:00
-title: This isn&#8217;t exactly useful, but I find it cool
+title: This isn't exactly useful, but I find it cool
 type: posts
 ---
 I've been working on code to pull the currently playing item out of Windows Media Player and in my quest I ran into

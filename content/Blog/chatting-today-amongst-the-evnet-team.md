@@ -112,7 +112,7 @@ is = are
 
 Duncan M.
 
-the ideal type of intergration I could picture with something like polldaddy.com would be to associate a discussion with it somehow (like making it an entry) so that we could show the poll on the home page (sidebar?) and then have a &#8216;click to discuss' option
+the ideal type of intergration I could picture with something like polldaddy.com would be to associate a discussion with it somehow (like making it an entry) so that we could show the poll on the home page (sidebar?) and then have a 'click to discuss' option
 
 Duncan M.
 

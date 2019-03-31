@@ -1,6 +1,6 @@
 ---
 date: 2003-04-02T02:29:00+00:00
-title: It is a gradual process&#8230;
+title: It is a gradual process...
 type: posts
 ---
 As per

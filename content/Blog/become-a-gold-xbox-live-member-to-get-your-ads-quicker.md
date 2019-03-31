@@ -2,6 +2,8 @@
 date: 2006-10-30T19:22:00+00:00
 title: Become a Gold Xbox Live member to get your ads quicker
 type: posts
+tags:
+ - Xbox
 ---
 Interesting news, [content that is only for Xbox Live Gold members](http://www.majornelson.com/archive/2006/10/25/Trailer-Gears-of-War-Ad.aspx)... which even [Tycho](http://www.penny-arcade.com/) thinks is understandable, but I agree with [his comments about what kind of content is being restricted](http://www.penny-arcade.com/2006/10/25).
 
@@ -23,4 +25,4 @@ Don't we put up trailers to help us sell the game? In which case, wouldn't we wa
   * _I'm an Xbox Live Gold subscriber, but the idea that you have to be a Gold member to get content early does not sit well me me. I love Xbox 360 and Marketplace, but it's stupid decisions like this which will make me rethink supporting it this console._
   * _It's $4 a month for XBL gold eh? Someone show me where I can buy ONE month of gold for $4. Idiots. Also, "there isn't enough separation" between gold and silver? How about the fact that silver users can't PLAY GAMES ONLINE? Isn't that the ostensible purpose of XBL anyway? I say all of this as a gold subscriber._
 
-The comments actually started out rather balanced, but head more to the &#8216;Silver accounts can play Gears too' side as you scroll down... I can only assume that is because the most interested followers of Major Nelson's posts are mostly Gold subscribers (which makes sense).
+The comments actually started out rather balanced, but head more to the 'Silver accounts can play Gears too' side as you scroll down... I can only assume that is because the most interested followers of Major Nelson's posts are mostly Gold subscribers (which makes sense).

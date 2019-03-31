@@ -1,6 +1,6 @@
 ---
 date: 2006-08-04T17:17:00+00:00
-title: Feeling like it is time to get rid of the flab&#8230;
+title: Feeling like it is time to get rid of the flab...
 type: posts
 ---
 Last year I managed to go from 205-ish down to around 175 … just by following the South Beach Diet and working out more consistently (shooting for 5 days a week, generally hit 4 at least)… but then I switched jobs to work on a new project (<http://on10.net>, a site that has featured Chris a few times) and totally fell off the wagon. Now I’m 187 (for months I’ve been putting 180 into the treadmill, but I actually weighed myself Monday night) and I’m really depressed about it. I’m actually thinking it is responsible for a general down-turn in my whole mood, about just about everything, so I think I need to do something about it.

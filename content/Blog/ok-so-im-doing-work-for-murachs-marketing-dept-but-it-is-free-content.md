@@ -1,6 +1,6 @@
 ---
 date: 2005-10-20T18:03:00+00:00
-title: Ok, so I&#8217;m doing work for Murach&#8217;s marketing dept&#8230; but it is free content!
+title: Ok, so I'm doing work for Murach's marketing dept... but it is free content!
 type: posts
 ---
 Free chapter on master pages from new ASP.NET 2.0 upgrade guide

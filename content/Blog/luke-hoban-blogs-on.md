@@ -1,6 +1,6 @@
 ---
 date: 2004-07-01T08:51:00+00:00
-title: Luke Hoban blogs on&#8230;
+title: Luke Hoban blogs on...
 type: posts
 ---
 Luke, a PM on the C# IDE team has started a blog... should be a good source of info, especially around the new Express Edition.

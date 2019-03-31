@@ -1,6 +1,6 @@
 ---
 date: 2004-03-11T20:16:00+00:00
-title: The eagerly awaited Part 5 of Scott Mitchell&#8217;s Data Structure series is now live
+title: The eagerly awaited Part 5 of Scott Mitchell's Data Structure series is now live
 type: posts
 ---
 Check it out [here](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide5.asp)

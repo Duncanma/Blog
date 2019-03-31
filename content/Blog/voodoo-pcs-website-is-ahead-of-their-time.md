@@ -1,6 +1,6 @@
 ---
 date: 2006-03-01T18:08:00+00:00
-title: Voodoo PC&#8217;s website is ahead of their time&#8230;
+title: Voodoo PC's website is ahead of their time...
 type: posts
 ---
 Hitting this page ([http://www.voodoopc.com/showroom.aspx?productID=1076](http://www.voodoopc.com/showroom.aspx?productID=1076)) with IE7 produces several javascript alerts letting me know that I'm running an "Old Browser". Now, I'm assuming that this is a bug in their version detection code, but even so... is that what they show to someone running Netscape 4 or IE 5... "Old Browser" ? Odd....

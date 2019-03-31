@@ -1,6 +1,6 @@
 ---
 date: 2003-07-21T09:52:00+00:00
-title: Another Updater Application Block Post&#8230; moving from one server location to another
+title: Another Updater Application Block Post... moving from one server location to another
 type: posts
 ---
 The app I am currently working on, and the one that I just recently moved from being an href-exe to being an application that updates itself via the [PAG Updater Application Block](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/updater.asp), has always been located on my own Windows XP machine, that is to say... that is the web server where the .exe and other assemblies reside. Well, that causes me all sorts of problems, because it effectively makes my desktop machine into a production box, and one that many people depend upon... restarting is not a possibility, and I even try to minimize the load on the box as it will tend to wreak havoc on some of my users if I fire up 2 copies of VS.NET and Office 2003...

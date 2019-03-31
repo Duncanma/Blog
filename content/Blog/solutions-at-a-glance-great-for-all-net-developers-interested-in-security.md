@@ -1,6 +1,6 @@
 ---
 date: 2004-07-27T02:22:00+00:00
-title: Solutions at a Glance&#8230; great for all .NET developers interested in security&#8230;
+title: Solutions at a Glance... great for all .NET developers interested in security...
 type: posts
 ---
 I was just talking with J.D. Meier ([from PAG](http://www.microsoft.com/practices)) about [the Improving Application Security](http://msdn.microsoft.com/library/en-us/dnnetsec/html/ThreatCounter.asp) book and he pointed out a great page to me... the "[Solutions At A Glance](http://msdn.microsoft.com/library/en-us/dnnetsec/html/THCMGlance.asp)" list... this page lists a ton of very frequently asked questions around .NET security and provides links deep into all that great PAG security info.

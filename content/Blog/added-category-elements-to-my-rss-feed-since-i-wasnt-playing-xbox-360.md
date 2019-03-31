@@ -1,9 +1,14 @@
 ---
 date: 2005-11-26T11:03:00+00:00
-title: Added category elements to my RSS feed, since I wasn&#8217;t playing Xbox 360
+title: Added category elements to my RSS feed, since I wasn't playing Xbox 360
 type: posts
+tags:
+ - Blogging
+ - Web Development
+ - RSS
+ - CMS
 ---
-About a year or so back I added <category> elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn't until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn't have categories specified in them at all. Not in [the main feed](http://blogs.duncanmackenzie.net/MainFeed.aspx) or in the [per-blog feeds](http://blogs.duncanmackenzie.net/duncanma/rss.aspx)...
+About a year or so back I added `<category>` elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn't until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn't have categories specified in them at all. Not in [the main feed](http://blogs.duncanmackenzie.net/MainFeed.aspx) or in the [per-blog feeds](http://blogs.duncanmackenzie.net/duncanma/rss.aspx)...
 
 This seemed really odd to me, since much of the UI of the .Text posting page, editing page, and even the blog skins themselves is dedicated to the listing and selecting of categories. Obviously, categories are seen as important information about blog entries, so why not include them in the RSS feeds? Oh well, there is little point in wondering about these sorts of things, not when you have the source, so I added category elements to my main and individual feeds. I haven't added them to the per-category feeds yet, or to the ATOM feeds, but I'll get to those in the near future.
 

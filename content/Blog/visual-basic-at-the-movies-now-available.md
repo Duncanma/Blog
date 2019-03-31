@@ -1,6 +1,6 @@
 ---
 date: 2004-04-28T21:50:00+00:00
-title: Visual Basic At The Movies now available&#8230;
+title: Visual Basic At The Movies now available...
 type: posts
 ---
 We just launched [a series of videos about VB.NET onto the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/atthemovies), check them out!

@@ -1,6 +1,6 @@
 ---
 date: 2007-03-22T09:26:00+00:00
-title: More on that 3-Day script I wrote&#8230;
+title: More on that 3-Day script I wrote...
 type: posts
 ---
 Darn script removing code on AOL! One woman, Nicolle, has [a blog with AOL](http://journals.aol.com/knowwriter/AmazingAdventures), but it won't let her add script to any part of the UI... or even into a post.

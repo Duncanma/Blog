@@ -1,6 +1,6 @@
 ---
 date: 2004-09-30T07:37:00+00:00
-title: Fable is addicting&#8230;
+title: Fable is addicting...
 type: posts
 ---
 Yesterday I started up my first [Fable](http://www.xbox.com/fable) game, 3 hours of my life lost already. Lots of fun though.

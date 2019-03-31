@@ -1,6 +1,6 @@
 ---
 date: 2004-03-16T11:04:00+00:00
-title: I&#8217;ve never used it to its full potential&#8230; and I still wouldn&#8217;t do without it&#8230;
+title: I've never used it to its full potential... and I still wouldn't do without it...
 type: posts
 ---
 [CodeSmith 2.5](http://www.ericjsmith.net/codesmith/) is available, and although I've mentioned it in a few articles on MSDN already, I have to tell you again... I use this utility all the time.

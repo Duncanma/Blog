@@ -3,7 +3,7 @@ date: 2007-06-14T17:32:00+00:00
 title: Keeping in Touch, a new Xbox Dad article is live
 type: posts
 ---
-It has been &#8216;marketized' a bit from how I originally wrote it (with the addition of a product name right into the title for one), but a &#8216;father's day' article from me is up on Xbox.com
+It has been 'marketized' a bit from how I originally wrote it (with the addition of a product name right into the title for one), but a 'father's day' article from me is up on Xbox.com
 
 > ###
 >

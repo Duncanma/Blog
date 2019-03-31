@@ -1,6 +1,6 @@
 ---
 date: 2004-07-22T09:27:00+00:00
-title: Thanks Bill&#8230; Vaughn that is, not that other guy&#8230;
+title: Thanks Bill... Vaughn that is, not that other guy...
 type: posts
 ---
 I noticed yesterday that my poll wasn't showing the question on the top of the list of choices, or the list of results. Viewing the source made it pretty obvious the <asp:label> was rendering, but that it was empty. Checking my code everything seemed fine, but when I retrieved the poll details through a Stored Proc I was using an Output param for the question text and it was always blank. Well, I knew there was an entire article on MSDN on this exact topic... and a quick search on “Vaughn” on MSDN took me right to the article I knew would show me exactly what I needed to do.

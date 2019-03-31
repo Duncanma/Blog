@@ -1,6 +1,6 @@
 ---
 date: 2004-07-15T23:22:00+00:00
-title: Cool Quote from the &#8220;My&#8221; chat going on right now&#8230;
+title: Cool Quote from the "My" chat going on right now...
 type: posts
 ---
 <dir>

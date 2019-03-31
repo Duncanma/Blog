@@ -1,6 +1,6 @@
 ---
 date: 2004-06-03T12:17:00+00:00
-title: Paul is looking for a list of the &#8216;best&#8217; VB Bloggers&#8230;
+title: Paul is looking for a list of the 'best' VB Bloggers...
 type: posts
 ---
 > **[Who are the best VB bloggers?](http://www.panopticoncentral.net/archive/2004/06/01/1123.aspx){#viewpost.ascx_TitleUrl}

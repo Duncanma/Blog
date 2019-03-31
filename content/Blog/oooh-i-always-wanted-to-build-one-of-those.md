@@ -1,6 +1,6 @@
 ---
 date: 2004-02-13T21:24:00+00:00
-title: Oooh, I always wanted to build one of those&#8230;
+title: Oooh, I always wanted to build one of those...
 type: posts
 ---
 Actually, I've always wanted to mimic something simpler, just the error message and a more button to see the stack trace... but this component would be wonderful during a beta release, or as something that can be toggled on by the troubleshooting developer...

@@ -1,6 +1,6 @@
 ---
 date: 2004-07-14T00:56:00+00:00
-title: '&#8220;Express Paint&#8221; article up&#8230;'
+title: '"Express Paint" article up...'
 type: posts
 ---
 This article, by **John Kennedy**, discusses the creation of an image editing application completely built with C# Express Edition.

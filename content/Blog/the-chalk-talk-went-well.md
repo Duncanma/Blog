@@ -1,6 +1,6 @@
 ---
 date: 2004-05-28T03:49:00+00:00
-title: The &#8216;Chalk Talk&#8217; went well&#8230;.
+title: The 'Chalk Talk' went well....
 type: posts
 ---
 [ <img src="http://www.duncanmackenzie.net/images/anderschalktalk_thumb.jpg" border="0" /> ](http://www.duncanmackenzie.net/images/anderschalktalk.jpg" rel="lightbox[115]" title="The 'Chalk Talk' went well....)

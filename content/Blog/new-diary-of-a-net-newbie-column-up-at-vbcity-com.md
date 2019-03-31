@@ -1,9 +1,9 @@
 ---
 date: 2004-05-07T21:18:00+00:00
-title: New &#8216;Diary of a .NET Newbie&#8217; column up at vbCity.com
+title: New 'Diary of a .NET Newbie' column up at vbCity.com
 type: posts
 ---
-Part of vbCity's newsletter, the &#8216;diary' column always has some great content focused on how-to information for people who are ramping up on VB.NET... the latest post talks about the concept of an Owned Form, and it is pretty useful stuff...
+Part of vbCity's newsletter, the 'diary' column always has some great content focused on how-to information for people who are ramping up on VB.NET... the latest post talks about the concept of an Owned Form, and it is pretty useful stuff...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

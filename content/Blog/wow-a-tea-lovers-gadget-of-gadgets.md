@@ -1,6 +1,6 @@
 ---
 date: 2005-12-06T08:44:00+00:00
-title: Wow, a Tea Lover&#8217;s Gadget of Gadgets&#8230;
+title: Wow, a Tea Lover's Gadget of Gadgets...
 type: posts
 ---
 [triniTEA](http://www.adagio.com/teaware/triniTEA.html)

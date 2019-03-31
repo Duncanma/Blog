@@ -1,6 +1,6 @@
 ---
 date: 2006-07-10T04:17:00+00:00
-title: I&#8217;ve finally found a good way to rip DVDs to WMVs for Portable Media Center&#8230; thanks to Jake Ludington&#8230;
+title: I've finally found a good way to rip DVDs to WMVs for Portable Media Center... thanks to Jake Ludington...
 type: posts
 ---
 As a few folks already know, [I like portable media devices](http://on10.net/Blogs/TheShow/1246/)... and I have a couple myself (I had the Samsung, it got smashed... now I have a iRiver PMC and a Creative Labs PMC.. if you are interested in getting one for free... [check this out](http://www.pvps4free.com/default.aspx?r=160508))... and I use them on trips with the kids. My normal usage is to just pull TV onto them from Windows XP Media Center Edition, but the kids often want to watch one of their DVDs... so I decided to rip all of our family-friendly DVDs to WMVs. Well... that has never really worked for me. I bought (crazy, eh?) a program called DVD to PocketPC... I tried another one called DVD2WMV... I tried a bunch of ways to rip the DVD content out and then do my own encoding using TMPEGENC and other tools. Nothing ever worked consistently, and with several hours required to rip each movie (even when the process failed), I was wasting so much time that I nearly gave up.

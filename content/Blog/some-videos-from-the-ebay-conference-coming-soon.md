@@ -1,6 +1,6 @@
 ---
 date: 2006-06-29T17:53:00+00:00
-title: Some videos from the eBay conference coming soon&#8230;
+title: Some videos from the eBay conference coming soon...
 type: posts
 ---
 I was down in Las Vegas a couple of weeks ago, and I had a chance to film a bunch of cool eBay based applications... videos should end up online soon. Some for Channel 9, some for 10 ... it all depends on the topic.

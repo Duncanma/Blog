@@ -10,5 +10,5 @@ If you were a big fan of programmable calculators in University (or highschool, 
 There is a shareware version available for download or you can register to get additional features...
 
 <div class="media">
-  [Listening to: One Week &#8211; [Barenaked Ladies](http://www.windowsmedia.com/mg/search.asp?srch=Barenaked+Ladies) &#8211; Disc One: All Their Greatest Hits (1991-2001) (02:49)]
+  [Listening to: One Week – [Barenaked Ladies](http://www.windowsmedia.com/mg/search.asp?srch=Barenaked+Ladies) – Disc One: All Their Greatest Hits (1991-2001) (02:49)]
 </div>

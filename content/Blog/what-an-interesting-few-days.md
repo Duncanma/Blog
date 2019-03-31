@@ -1,6 +1,6 @@
 ---
 date: 2005-09-12T07:32:00+00:00
-title: What an interesting few days&#8230;
+title: What an interesting few days...
 type: posts
 ---
 My latest little “life adventure” got started on Wednesday last week… [Brian](http://www.bufferoverrun.net) and I had just grabbed coffees and I was back at my desk working through my list of bugs when I started to get a wicked ache in my gut. It was bad enough that I was having trouble concentrating so I headed home early and ended up there by four in the afternoon. Well, I felt pretty silly about it, having to come home early with a “tummy-ache”, but it just kept getting worse and I had to ask my family to make-do without me for a few hours while I tried to take it easy until this pain went away. Everyone was very understanding and I tried to take a nap or do just about anything to make myself feel better, including taking some Rolaids, drinking water, eating bland foods and even tried to force myself to throw up… but nothing was working and the pain was just bad enough that I couldn’t seem to sit still or lie down. The pain was bothering me but I was pretty convinced it was indigestion or some other temporary issue, so for the most part I was just annoyed that it was affecting me so much.

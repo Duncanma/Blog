@@ -1,4 +1,4 @@
-baseURL = "https://duncanmackenzieblog.z5.web.core.windows.net/"
+baseURL = "https://duncanmackenzieblog.azureedge.net/"
 languageCode = "en-us"
 title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
@@ -22,7 +22,7 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpored = false
-canonifyURLs = true
+canonifyURLs = false
 
 enableRobotsTXT = true
 enableGitInfo   = false
@@ -40,7 +40,7 @@ disableHugoGeneratorInject = false
   name = "Duncan Mackenzie"
 
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false
 
 [taxonomies]
   tag      = "tags"

@@ -11,5 +11,5 @@ Over in the Office side of the world, a set of 6 labs have been released, focuse
 > The training labs in this section step you through the process of creating and working with Microsoft&reg; Office Word 2003 and Microsoft Office Excel 2003 solutions using Microsoft Visual Studio&reg; Tools for the Microsoft Office System. Visual Basic&reg; .NET code is used in all labs except Lab 6, which contains Visual C#&reg; code.
 
 <div class="media">
-  [Listening to: On the Verge &#8211; [The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) &#8211; Road Apples (03:54)]
+  [Listening to: On the Verge – [The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) – Road Apples (03:54)]
 </div>

@@ -1,6 +1,6 @@
 ---
 date: 2004-05-25T22:04:00+00:00
-title: Paul Vick is in the house&#8230;.
+title: Paul Vick is in the house....
 type: posts
 ---
 [Paul Vick](http://www.panopticoncentral.net/), language guy for Visual Basic and unofficial spokesman for Krispy Kreme (look at the picture to understand that comment), arrived yesterday at TechEd.... Look for him around the Developer Division Cabanas (5 and 6), the Visual Studio 2005 booth and at the "Meet the VB Team" session (Thursday 3:15-4:30).

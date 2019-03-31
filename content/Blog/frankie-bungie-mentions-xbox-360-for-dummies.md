@@ -1,6 +1,6 @@
 ---
 date: 2006-02-25T19:57:00+00:00
-title: Frankie @ Bungie mentions XBox 360 for dummies&#8230;
+title: Frankie @ Bungie mentions XBox 360 for dummies...
 type: posts
 ---
 He also talks about using a picture, (off of your computer, a CD, a digital camera, or even a USB drive) as a custom background... a very cool feature.

@@ -1,6 +1,6 @@
 ---
 date: 2005-04-15T15:33:00+00:00
-title: Follow up on that label/line control&#8230;
+title: Follow up on that label/line control...
 type: posts
 ---
 It seems a few people had questions about [the control I posted previously](http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx), so here are answers to two of the questions that people might be running into:

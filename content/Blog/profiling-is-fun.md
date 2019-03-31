@@ -1,6 +1,6 @@
 ---
 date: 2004-05-08T10:50:00+00:00
-title: Profiling is fun&#8230;
+title: Profiling is fun...
 type: posts
 ---
 Back in highschool, I cut lawns for a lot of people.... so many that it was really a summer job and kept me quite busy, and then in University I took a job laying sod for a landscape company.... kinda went from the amateur level to the professional there. Both jobs were hot, dirty and left me ready for nothing but sleep at the end of a day... but I've often remarked to my wife that sometimes I long for that type of job. When you arrived at a site or a yard, it was in a bad state... it was an untidy lawn or perhaps a bare field of dirt... and at the end of the work it looked better. Not just a little bit better, but "very noticable by anyone walking by" better. I often work weeks on projects that don't produce that clear of a result... it may be better in some way, but passers-by would be hard pressed to say how... or it might not be visibly better at all, it is just cleaner under the surface or slightly more efficient....

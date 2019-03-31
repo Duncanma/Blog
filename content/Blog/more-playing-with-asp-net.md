@@ -43,5 +43,5 @@ _Ouch... I guess I was porting/modifying that code way too quickly... goofed up 
 
 <pre>Also, in the html of the aOkPanel11, which can appear for the .NET Framework 1.1 or greater... I changed the text to reflect this possibility and added&lt;%Response.Write(Request.Browser.ClrVersion)%&gt;</pre>
 
-_hopefully, this &#8216;release' works better than the last one 🙂_
+_hopefully, this 'release' works better than the last one 🙂_
 

@@ -1,7 +1,9 @@
 ---
 date: 2006-06-21T15:52:00+00:00
-title: BioWare is putting on a big giveaway/contest&#8230;
+title: BioWare is putting on a big giveaway/contest...
 type: posts
+tags:
+ - Xbox
 ---
 I'm certain I can't enter, being a MSFT employee and all, but you can!
 

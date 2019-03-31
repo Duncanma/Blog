@@ -1,6 +1,6 @@
 ---
 date: 2004-10-13T08:08:00+00:00
-title: Cool VB.NET Utility&#8230; the VB.NET Class Builder
+title: Cool VB.NET Utility... the VB.NET Class Builder
 type: posts
 ---
 _

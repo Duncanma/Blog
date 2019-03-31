@@ -1,6 +1,6 @@
 ---
 date: 2003-09-11T08:45:00+00:00
-title: Hmm&#8230; maybe Chris Sells has a point, no more interviews at Microsoft
+title: Hmm... maybe Chris Sells has a point, no more interviews at Microsoft
 type: posts
 ---
 I took [the test](http://www.humanmetrics.com/cgi-win/JTypes2.asp) Chris has been [talking about](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=796), ended up as an ENTJ as well... I didn't read the descriptions before or after... but I think I get the general idea.

@@ -1,6 +1,6 @@
 ---
 date: 2004-12-09T18:05:00+00:00
-title: Follow up to &#8216;drawing rotated text&#8217;
+title: Follow up to 'drawing rotated text'
 type: posts
 ---
 The same programmer who ask for [an example of rotated text](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx) is back with another interesting request; how to partially fill a circle from the bottom up...

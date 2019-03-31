@@ -7,7 +7,7 @@ type: posts
 
 I've been pondering categories vs. tags in blogs, in my sites (such as <http://on10.net)> we've completely done away with the concept of categories as distinct entities from tags, which works fine on the site but is causing me a bit of a headache when I look at blog editing and blog editing APIs.
 
-I've enabled the [metaweblogapi](http://www.xmlrpc.com/metaWeblogApi) on my sites so that standard blog editing tools like performancing, windows live writer, etc... can be used by our staff to post entries, and I've used the &#8216;categories' area of that API to represent tags.
+I've enabled the [metaweblogapi](http://www.xmlrpc.com/metaWeblogApi) on my sites so that standard blog editing tools like performancing, windows live writer, etc... can be used by our staff to post entries, and I've used the 'categories' area of that API to represent tags.
 
 This has caused me two issues:
 

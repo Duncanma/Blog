@@ -1,6 +1,6 @@
 ---
 date: 2004-04-29T18:36:00+00:00
-title: I know that movies based on books are often a disappointment&#8230;
+title: I know that movies based on books are often a disappointment...
 type: posts
 ---
 In many ways, I'm ok with that; it isn't like they took away the book when they made the movie...

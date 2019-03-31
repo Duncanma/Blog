@@ -1,6 +1,6 @@
 ---
 date: 2004-02-08T08:56:00+00:00
-title: Allegiance Code now available&#8230;.
+title: Allegiance Code now available....
 type: posts
 ---
 I loved Allegiance, it was beautiful, fun and incorporated a lot of neat multiplayer concepts that I enjoyed (like being able to have one player in a gun turret on your destroyer and another acting as the pilot).... but it withered away for some reason... I was never sure why, and a lot of its fans seemed to share my confusion.... Ah well, in the end Microsoft Research (yep, the game came from Microsoft Research, how cool is that?) have decided to release the source code so that it may live on even though they are no longer working on it.

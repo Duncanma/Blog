@@ -7,13 +7,13 @@ A series of 15 webcasts & lab exercises for the VB6 programmer... (see the full 
 
 **
 
-[MSDN Webcast: Program Execution in the 21st Century &#8211; Level 200](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032243061&Culture=en-US)
+[MSDN Webcast: Program Execution in the 21st Century – Level 200](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032243061&Culture=en-US)
 
 **
 
 
 
-_2/3/2004 1:00 PM &#8211; 2/3/2004 2:30 PM Live Meeting Webcast
+_2/3/2004 1:00 PM – 2/3/2004 2:30 PM Live Meeting Webcast
 _
 
 

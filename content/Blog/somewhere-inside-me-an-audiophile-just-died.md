@@ -1,9 +1,9 @@
 ---
 date: 2004-04-20T09:54:00+00:00
-title: Somewhere inside me&#8230; an audiophile just died.
+title: Somewhere inside me... an audiophile just died.
 type: posts
 ---
-I am a closet audiophile, with all the usual history.... did the &#8216;music man' thing for plays, moved up to music guy for bar bands, blah, blah, blah... spent way too much time worried about the alignment of my high-end tape deck, etc... but at some point my obsession with all things audio related slipped down in my priority list. I'm not sure exactly when, but at that point I stopped being willing to spend money on improving the quality of sound in my house, car or work. I still care about sound quality, and I think I'm still a pretty good judge of sonic fidelity, but I stopped being willing to pay money to achieve the best results.
+I am a closet audiophile, with all the usual history.... did the 'music man' thing for plays, moved up to music guy for bar bands, blah, blah, blah... spent way too much time worried about the alignment of my high-end tape deck, etc... but at some point my obsession with all things audio related slipped down in my priority list. I'm not sure exactly when, but at that point I stopped being willing to spend money on improving the quality of sound in my house, car or work. I still care about sound quality, and I think I'm still a pretty good judge of sonic fidelity, but I stopped being willing to pay money to achieve the best results.
 
 Never has this been <span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">clearer </span>to me than this weekend. I have hit the bottom in an ever decreasing level of concern about music quality; I bought a FM transmitter to hook into my WMA portable so that I can listen to it in the car. In case this doesn't make you cringe, let me walk you through the various crimes I have committed, one step at a time.
 

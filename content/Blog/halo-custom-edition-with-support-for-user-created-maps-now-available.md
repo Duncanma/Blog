@@ -1,6 +1,6 @@
 ---
 date: 2004-05-07T10:49:00+00:00
-title: Halo Custom Edition, with support for user-created maps&#8230; now available&#8230;
+title: Halo Custom Edition, with support for user-created maps... now available...
 type: posts
 ---
 I heard this was coming in a few weeks, but it is [here now](http://gbxforums.gearboxsoftware.com//showflat.php?Cat=&Board=Halo&Number=181661&page=0&view=collapsed&sb=5&o=&fpart=1)....
@@ -9,5 +9,5 @@ This is a free download, but note that you have to have your original CD-Key for
 
 
 
-[Update: Note sure about that &#8216;doesn't ship with maps' comment I made... I read that in an article on the web, but the maps appeared to be there when I played... perhaps the new maps added in Halo PC are missing... but I can't be sure]
+[Update: Note sure about that 'doesn't ship with maps' comment I made... I read that in an article on the web, but the maps appeared to be there when I played... perhaps the new maps added in Halo PC are missing... but I can't be sure]
 

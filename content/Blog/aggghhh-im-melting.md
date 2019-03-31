@@ -1,6 +1,6 @@
 ---
 date: 2005-02-25T17:13:00+00:00
-title: aggghhh&#8230; I&#8217;m melting&#8230;
+title: aggghhh... I'm melting...
 type: posts
 ---
 _or am I being scribbled?_

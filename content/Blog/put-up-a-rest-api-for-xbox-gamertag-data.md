@@ -9,7 +9,7 @@ type: posts
 
 
 
-I know that some people prefer a more RESTful API though, so I also have another &#8216;page' that you can call with a straight GET request and just pass the gamertag in as a query string parameter:
+I know that some people prefer a more RESTful API though, so I also have another 'page' that you can call with a straight GET request and just pass the gamertag in as a query string parameter:
 
 <http://duncanmackenzie.net/services/GetXboxInfo.aspx?GamerTag=Festive+Turkey>
 

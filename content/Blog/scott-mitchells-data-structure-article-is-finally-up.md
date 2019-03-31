@@ -1,6 +1,6 @@
 ---
 date: 2003-11-18T23:43:00+00:00
-title: Scott Mitchell&#8217;s Data Structure Article is finally up&#8230;
+title: Scott Mitchell's Data Structure Article is finally up...
 type: posts
 ---
 Ages ago, [Scott Mitchell](http://scottonwriting.net/sowblog/) wrote the 1st of 6 articles on Data Structures in C#... and now it is finally up (through no fault of Scott's)

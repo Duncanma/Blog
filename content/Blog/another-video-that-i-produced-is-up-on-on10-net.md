@@ -1,7 +1,10 @@
 ---
 date: 2006-06-30T20:46:00+00:00
-title: Another video that I&#8230; &#8220;produced&#8221; &#8230; is up on on10.net
+title: Another video that I... "produced" ... is up on on10.net
 type: posts
+tags:
+ - Xbox
+ - on10
 ---
 Sometimes I don't like being just the guy behind the scenes 🙂
 

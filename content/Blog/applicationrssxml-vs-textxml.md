@@ -8,7 +8,7 @@ I've been working on some feed support in MSDN's new online platform (a beta of 
   * [A discussion on Sam Ruby's blog around content-type](http://www.intertwingly.net/blog/1766.html) (the comments are the interesting part)
   * [This post by Dave Winer](http://blogs.law.harvard.edu/crimson1/2004/05/06#a1519)
 
-I'm sure I could find more, but it appears this was never really resolved... using application/xml seems the most &#8216;proper', but the concern is that some browsers don't know how to handle it ... so the other choice is text/xml (specifically text/xml; charset=utf-8 or else the charset will default to US-ASCII). Hmm... which to choose? Even our own sites have multiple implementations:
+I'm sure I could find more, but it appears this was never really resolved... using application/xml seems the most 'proper', but the concern is that some browsers don't know how to handle it ... so the other choice is text/xml (specifically text/xml; charset=utf-8 or else the charset will default to US-ASCII). Hmm... which to choose? Even our own sites have multiple implementations:
 
   * The [main MSDN feed](http://msdn.microsoft.com/rss.xml) is application/xml
   * while the [MSDN Magazine's](http://msdn.microsoft.com/msdnmag/rss/rss.aspx?Sub=Service Station) (which is dynamically generated using ASP.NET) is output as text/xml; charset=utf-8

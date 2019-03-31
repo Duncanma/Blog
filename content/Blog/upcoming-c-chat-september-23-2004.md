@@ -1,6 +1,6 @@
 ---
 date: 2004-09-03T23:25:00+00:00
-title: Upcoming C# Chat&#8230; September 23, 2004
+title: Upcoming C# Chat... September 23, 2004
 type: posts
 ---
 Hey folks, this chat is coming up and it would be great if you could make it... if you have a lot of opinions, good or bad, around C#... please show up and let the team know....
@@ -13,5 +13,5 @@ and, if you have opinions, but can't make the chat... or choose not to... why do
 Thanks in advance for your replies!!
 
 <div class="media">
-  [Listening to: The Scientist &#8211; [Coldplay](http://www.windowsmedia.com/mg/search.asp?srch=Coldplay) &#8211; Big Shiny Tunes 8 (05:10)]
+  [Listening to: The Scientist – [Coldplay](http://www.windowsmedia.com/mg/search.asp?srch=Coldplay) – Big Shiny Tunes 8 (05:10)]
 </div>

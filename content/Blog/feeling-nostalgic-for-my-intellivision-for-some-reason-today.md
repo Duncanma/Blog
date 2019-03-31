@@ -1,6 +1,6 @@
 ---
 date: 2007-04-02T09:12:00+00:00
-title: Feeling nostalgic for my Intellivision for some reason today&#8230;
+title: Feeling nostalgic for my Intellivision for some reason today...
 type: posts
 ---
 I think it was playing Chargeball in [Meet the Robinsons](http://www.xbox.com/en-US/games/m/meettherobinsons/default.htm), but for whatever reason I started thinking about this

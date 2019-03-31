@@ -3,7 +3,7 @@ date: 2004-04-21T10:31:00+00:00
 title: Matt Warren discusses ObjectSpaces and ORM in general
 type: posts
 ---
-Check out this post from [&#8216;The Wayward WebLog'](http://blogs.msdn.com/mattwar/)... it is a good discussion starter for anyone who wants to chat about ORM (object-relational mapping) ...
+Check out this post from ['The Wayward WebLog'](http://blogs.msdn.com/mattwar/)... it is a good discussion starter for anyone who wants to chat about ORM (object-relational mapping) ...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

@@ -1,6 +1,6 @@
 ---
 date: 2006-02-18T17:41:00+00:00
-title: Ok, I think I can stop book-spotting&#8230;
+title: Ok, I think I can stop book-spotting...
 type: posts
 ---
 It may not be everywhere, especially outside of the US, but it seems to be on its way....

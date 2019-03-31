@@ -1,6 +1,6 @@
 ---
 date: 2003-11-17T10:57:00+00:00
-title: Reading An Image from the web&#8230;
+title: Reading An Image from the web...
 type: posts
 ---
 Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357) so I thought I would answer it here;

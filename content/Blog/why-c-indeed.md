@@ -23,7 +23,7 @@ Early and Adopter seem to have just noticed my blog;
 
 
 
-        <font face="Arial">[<a style="COLOR: black; TEXT-DECORATION: none" href="http://radio.weblogs.com/0117167/">**<font face="Arial">Sean &#8216;Early' Campbell & Scott &#8216;Adopter' Swigart's Radio Weblog**</a><font face="Arial">]
+        <font face="Arial">[<a style="COLOR: black; TEXT-DECORATION: none" href="http://radio.weblogs.com/0117167/">**<font face="Arial">Sean 'Early' Campbell & Scott 'Adopter' Swigart's Radio Weblog**</a><font face="Arial">]
 
     </td>
   </tr>

@@ -1,6 +1,6 @@
 ---
 date: 2004-02-21T10:34:00+00:00
-title: Broderbund Software&#8230; and C#
+title: Broderbund Software... and C#
 type: posts
 ---
 This is so cool, even if you might take it as mostly marketing (sorry in advance)...

@@ -1,6 +1,6 @@
 ---
 date: 2006-04-23T03:49:00+00:00
-title: Considering Team System? Check out the Team System Customization Toolkit&#8230;
+title: Considering Team System? Check out the Team System Customization Toolkit...
 type: posts
 ---
 Customizing VSTS to work exactly how you or your company needs it to isn't an easy job, but this toolkit should make it easier!

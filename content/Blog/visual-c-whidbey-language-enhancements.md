@@ -1,6 +1,6 @@
 ---
 date: 2003-11-28T03:17:00+00:00
-title: 'Visual C# &#8220;Whidbey&#8221;: Language Enhancements'
+title: 'Visual C# "Whidbey": Language Enhancements'
 type: posts
 ---
 If you think we are talking about Whidbey too much... don't read this post 🙂

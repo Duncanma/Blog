@@ -48,7 +48,7 @@ The second problem is not too difficult to handle, you can modify your code to c
 
 </pre>
 
-Oh, and there was another part to the original question... what if I want to respond to the Enter key to do some processing on the value that was just entered. Well, for that result either with or without the &#8216;enter instead of tab' code, you would just choose to handle the **KeyDown** event for the control in question.
+Oh, and there was another part to the original question... what if I want to respond to the Enter key to do some processing on the value that was just entered. Well, for that result either with or without the 'enter instead of tab' code, you would just choose to handle the **KeyDown** event for the control in question.
 
 <pre><font color="Blue" family="Microsoft Sans Serif">Private <font color="Blue" family="Microsoft Sans Serif">Sub TextBox2_KeyDown(<font color="Blue" family="Microsoft Sans Serif">ByVal sender <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Object, _
             <font color="Blue" family="Microsoft Sans Serif">ByVal e <font color="Blue" family="Microsoft Sans Serif">As System.Windows.Forms.KeyEventArgs) _
@@ -59,6 +59,6 @@ Oh, and there was another part to the original question... what if I want to res
     <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Sub
 </pre>
 
-Of course, after your code &#8216;does something', the focus will also move to the next control... both sets of code, the Form's **OnKeyUp** routine and the control's **KeyDown** event handler, execute when the user hits Enter on this particular control.
+Of course, after your code 'does something', the focus will also move to the next control... both sets of code, the Form's **OnKeyUp** routine and the control's **KeyDown** event handler, execute when the user hits Enter on this particular control.
 
-I've gotten flack in the past for articles that discuss [&#8216;simple' topics](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun07012004.asp), but I hope this is useful to some of the folks that find it 🙂
+I've gotten flack in the past for articles that discuss ['simple' topics](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun07012004.asp), but I hope this is useful to some of the folks that find it 🙂

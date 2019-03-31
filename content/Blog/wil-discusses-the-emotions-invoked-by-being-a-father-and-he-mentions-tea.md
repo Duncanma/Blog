@@ -10,5 +10,5 @@ type: posts
 
 
 <div class="media">
-  <font face="Verdana" color="teal">[Listening to: The Highwayman &#8211; [<font face="Verdana">Loreena McKennitt](http://www.windowsmedia.com/mg/search.asp?srch=Loreena+McKennitt)<font face="Verdana" color="teal"> &#8211; Book of Secrets (10:21)]
+  <font face="Verdana" color="teal">[Listening to: The Highwayman – [<font face="Verdana">Loreena McKennitt](http://www.windowsmedia.com/mg/search.asp?srch=Loreena+McKennitt)<font face="Verdana" color="teal"> – Book of Secrets (10:21)]
 </div>

@@ -1,6 +1,6 @@
 ---
 date: 2006-08-03T17:31:00+00:00
-title: A site about taking photos of kids&#8230;
+title: A site about taking photos of kids...
 type: posts
 ---
 But with a really cool name: <http://shootingthekids.dpblogs.com>

@@ -1,6 +1,6 @@
 ---
 date: 2004-10-13T08:12:00+00:00
-title: Justin Rogers with another great blog post series&#8230;
+title: Justin Rogers with another great blog post series...
 type: posts
 ---
 Justin worked (and still works?) on the Terrarium system and uses that experience as an example as he discusses various gaming topics in his blog... including yesterday's post on creating random world content.

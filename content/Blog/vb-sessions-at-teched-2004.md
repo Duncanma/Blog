@@ -1,6 +1,6 @@
 ---
 date: 2004-05-08T09:10:00+00:00
-title: VB sessions at TechEd 2004&#8230;
+title: VB sessions at TechEd 2004...
 type: posts
 ---
 [Paul Vick](http://www.panopticoncentral.net/) (Technical Lead on the VB team and author of [this book](http://www.amazon.com/exec/obidos/ASIN/0321169514/duncanmackenz-20)) provides a list of key VB sessions scheduled for the upcoming TechEd conference... and his schedule for the week.

@@ -1,7 +1,10 @@
 ---
 date: 2004-09-07T08:23:00+00:00
-title: 14 part &#8220;Soup-to-Nuts&#8221; webcasts on Windows Forms&#8230;
+title: 14 part "Soup-to-Nuts" webcasts on Windows Forms...
 type: posts
+tags:
+ - Development
+ - .NET
 ---
 I can't find any other landing page for this, so check out [the blog entry from Georgeo Pulikkathara](http://weblogs.asp.net/msdnwebcasts/archive/2004/09/07/226144.aspx) for all the details...
 

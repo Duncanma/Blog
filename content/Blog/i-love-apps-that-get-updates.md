@@ -10,5 +10,5 @@ Anyway, if anyone is ever looking for me in Halo, I play on the Bungie servers (
 Maybe I'll see you there!
 
 <div class="media">
-  [Listening to: Fly Away &#8211; [Lenny Kravitz](http://www.windowsmedia.com/mg/search.asp?srch=Lenny+Kravitz) &#8211; Big Shiny Tunes, Vol. 3 (03:42)]
+  [Listening to: Fly Away – [Lenny Kravitz](http://www.windowsmedia.com/mg/search.asp?srch=Lenny+Kravitz) – Big Shiny Tunes, Vol. 3 (03:42)]
 </div>

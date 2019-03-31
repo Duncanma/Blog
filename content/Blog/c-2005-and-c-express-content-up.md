@@ -1,6 +1,6 @@
 ---
 date: 2004-08-13T00:28:00+00:00
-title: C# 2005 and C# Express Content Up&#8230;
+title: C# 2005 and C# Express Content Up...
 type: posts
 ---
 Just up...

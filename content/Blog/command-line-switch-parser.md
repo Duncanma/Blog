@@ -11,7 +11,7 @@ From the readme;
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <font face="Courier New">[Command Line Argument Parser](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=62a0f27e-274e-4228-ba7f-bc0118ecc41e)&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
+    <font face="Courier New">[Command Line Argument Parser](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=62a0f27e-274e-4228-ba7f-bc0118ecc41e)–––––––––-
 
 
 
@@ -31,7 +31,7 @@ From the readme;
 
 
 
-    <font face="Courier New">&#8211; string&#8211; int&#8211; uint&#8211; bool&#8211; enum&#8211; array of the above type
+    <font face="Courier New">– string– int– uint– bool– enum– array of the above type
 
 </blockquote>
 

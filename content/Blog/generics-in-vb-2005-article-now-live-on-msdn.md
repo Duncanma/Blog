@@ -1,6 +1,6 @@
 ---
 date: 2004-07-08T07:40:00+00:00
-title: Generics in VB 2005 Article now live on MSDN&#8230;
+title: Generics in VB 2005 Article now live on MSDN...
 type: posts
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

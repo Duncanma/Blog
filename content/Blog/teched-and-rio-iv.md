@@ -1,6 +1,6 @@
 ---
 date: 2004-05-20T12:06:00+00:00
-title: TechEd and Rio&#8230; IV?
+title: TechEd and Rio... IV?
 type: posts
 ---
 <div class="postText">

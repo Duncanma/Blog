@@ -1,6 +1,6 @@
 ---
 date: 2004-11-08T08:42:00+00:00
-title: Frustrated with my own incompetence&#8230;
+title: Frustrated with my own incompetence...
 type: posts
 ---
 I've been rebuilding my site to use master pages (which is done and works great!) and along the way I decide to get rid of the tables used to create my top and side menu areas, moving instead to a CSS model...

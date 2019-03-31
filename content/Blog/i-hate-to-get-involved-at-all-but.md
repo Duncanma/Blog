@@ -1,6 +1,6 @@
 ---
 date: 2003-04-01T22:28:00+00:00
-title: I hate to get involved at all, but&#8230;
+title: I hate to get involved at all, but...
 type: posts
 ---
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">

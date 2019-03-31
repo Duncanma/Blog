@@ -1,6 +1,6 @@
 ---
 date: 2004-09-07T02:04:00+00:00
-title: Interesting quote from a GotDotNet discussion on .NET Shareware&#8230;
+title: Interesting quote from a GotDotNet discussion on .NET Shareware...
 type: posts
 ---
 Anytime people talk about developing shareware with .NET, the discussion centers around the download/install of the Framework, because that is the issue that seems like the biggest hurdle to non-corporate developers... I could go on and on about the various methods of getting the Framework installed in 1.1 and in 2.0, but I like what Nick posted to the forum;
@@ -16,5 +16,5 @@ Check out the full discussion [by clicking here](http://www.gotdotnet.com/Commun
 
 
 <div class="media">
-  [Listening to: Fallen &#8211; [Sarah McLachlan](http://www.windowsmedia.com/mg/search.asp?srch=Sarah+McLachlan) &#8211; Afterglow (03:47)]
+  [Listening to: Fallen – [Sarah McLachlan](http://www.windowsmedia.com/mg/search.asp?srch=Sarah+McLachlan) – Afterglow (03:47)]
 </div>

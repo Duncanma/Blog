@@ -11,7 +11,7 @@ With code samples and screenshots based on the recent Community drop of Whidbey 
 
 
 
-    _... Visualizers allow for advanced, customized viewing of data while debugging. Today's data windows have their limitations; text-only, hierarchical, spatially constrained &#8211; not the best for viewing an image, for example. Visualizers allow you to create completely custom views using WinForms to best show the data within any managed object. Yes, unfortunately this feature will only available for the managed world. ..._
+    _... Visualizers allow for advanced, customized viewing of data while debugging. Today's data windows have their limitations; text-only, hierarchical, spatially constrained – not the best for viewing an image, for example. Visualizers allow you to create completely custom views using WinForms to best show the data within any managed object. Yes, unfortunately this feature will only available for the managed world. ..._
 
 </blockquote>
 

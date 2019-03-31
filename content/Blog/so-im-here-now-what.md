@@ -1,6 +1,6 @@
 ---
 date: 2003-06-01T08:57:00+00:00
-title: So I&#8217;m here, now what?
+title: So I'm here, now what?
 type: posts
 ---
 <font face="Verdana" color="teal">I thought I had better write my first TechEd related post, now that I've joined techedbloggers.net, and especially since I've arrived in Dallas.

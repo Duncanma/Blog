@@ -1,6 +1,6 @@
 ---
 date: 2004-07-20T23:30:00+00:00
-title: Books, Books, Books&#8230;
+title: Books, Books, Books...
 type: posts
 ---
 I've been thinking about books and the MSDN developer centers for some time... I've been wondering what we should do in terms of highlighting books on the MSDN site.

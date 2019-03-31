@@ -1,6 +1,6 @@
 ---
 date: 2004-10-07T17:25:00+00:00
-title: You just have to &#8216;love&#8217; wikis&#8230;
+title: You just have to 'love' wikis...
 type: posts
 ---
 (I'm kidding)

@@ -1,6 +1,6 @@
 ---
 date: 2004-08-30T20:52:00+00:00
-title: Ok&#8230; this is very cool, hosting your own instance of VS&#8217;s code editor?
+title: Ok... this is very cool, hosting your own instance of VS's code editor?
 type: posts
 ---
 Dr. Ex(tensibility) posted this recently;

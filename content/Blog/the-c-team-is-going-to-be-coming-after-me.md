@@ -1,13 +1,13 @@
 ---
 date: 2004-01-28T20:30:00+00:00
-title: The C# team is going to be coming after me&#8230;
+title: The C# team is going to be coming after me...
 type: posts
 ---
 Every week, [Eric Gunnerson](http://blogs.msdn.com/ericgu), [Dan Fernandez](http://blogs.msdn.com/danielfe/) and I get together to work on [the C# developer center](http://msdn.microsoft.com/vcsharp) and other C#-ish topics... and last week we divided up some tasks amongst the three of us. Well, we are meeting again today and I don't have those tasks done... so I'm starting to watch my back.
 
 <img src="http://msdn.microsoft.com/vcsharp/art/csharp_team.gif" border="0" />
 
-I'm expecting Andy (above) to show up in my office at any moment with the C# &#8216;club of motivation', but perhaps I can save myself before he arrives... with your help.
+I'm expecting Andy (above) to show up in my office at any moment with the C# 'club of motivation', but perhaps I can save myself before he arrives... with your help.
 
 My task was to come up with a good set of questions that we could ask all of our MVPs as part of a "meet the MVPs" section of the developer center. Here's some of the questions I have so far;
 

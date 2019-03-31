@@ -1,6 +1,6 @@
 ---
 date: 2004-05-08T08:54:00+00:00
-title: Grant discusses Iterators&#8230;
+title: Grant discusses Iterators...
 type: posts
 ---
 I've often had email exchanges and thought about posting them as blog entries... and now I've seen someone do it... and I have to say that it is a little hard to read (for the email part, start at the bottom and read up... which is normal for email, but not intuitive in a blog posting)... That difficulty is worth going through though because if you read the entire post you'll find out lots of useful info... 🙂

@@ -1,6 +1,6 @@
 ---
 date: 2004-07-21T21:43:00+00:00
-title: Don&#8217;t ask me why, but I&#8217;ve become the official forum for Spiderman 2
+title: Don't ask me why, but I've become the official forum for Spiderman 2
 type: posts
 ---
 I blame google.

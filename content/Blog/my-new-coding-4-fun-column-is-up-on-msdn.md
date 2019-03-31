@@ -1,6 +1,6 @@
 ---
 date: 2004-07-01T01:16:00+00:00
-title: My new Coding 4 Fun Column is up on MSDN&#8230;
+title: My new Coding 4 Fun Column is up on MSDN...
 type: posts
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

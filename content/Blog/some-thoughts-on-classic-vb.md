@@ -1,9 +1,9 @@
 ---
 date: 2005-03-10T19:29:00+00:00
-title: Some thoughts on &#8220;Classic VB&#8221;
+title: Some thoughts on "Classic VB"
 type: posts
 ---
-This topic has been in the &#8216;news' lately (well, at least in the blogs) and I've been considering replying.... but it turns out I don't have to, [because Dave Totzke has done it for me](http://geekswithblogs.net/dtotzke/archive/2005/03/10/25916.aspx). I don't really agree with his comment that we've kept C++ alive because Office is written in it... it is actually because the managed world doesn't replace the need to write native code against the underlying hardware and OS. We need to have at least one avenue for folks to write the high-performance graphic software, device drivers, network packet filters, etc.... so we need unmanaged C++ to stay. There isn't a similar need for new development on VB6.
+This topic has been in the 'news' lately (well, at least in the blogs) and I've been considering replying.... but it turns out I don't have to, [because Dave Totzke has done it for me](http://geekswithblogs.net/dtotzke/archive/2005/03/10/25916.aspx). I don't really agree with his comment that we've kept C++ alive because Office is written in it... it is actually because the managed world doesn't replace the need to write native code against the underlying hardware and OS. We need to have at least one avenue for folks to write the high-performance graphic software, device drivers, network packet filters, etc.... so we need unmanaged C++ to stay. There isn't a similar need for new development on VB6.
 
 Yes, it is hard to upgrade complex code bases, but when you install VB.NET it doesn't uninstall your copy of VB6. It is possible to maintain an existing code base while you write new code in .NET and then interop as necessary between the two worlds. Within MSDN, we have Access applications that pop-up Windows Forms when you click certain buttons... we have VB6-based add-ins for Outlook and Word that are simple wrappers around .NET code and some that are a mix of VB6 code and VB.NET code...
 

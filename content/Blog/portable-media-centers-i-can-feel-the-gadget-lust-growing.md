@@ -1,6 +1,6 @@
 ---
 date: 2005-04-18T18:35:00+00:00
-title: Portable Media Centers&#8230; I can feel the gadget lust growing&#8230;
+title: Portable Media Centers... I can feel the gadget lust growing...
 type: posts
 ---
 Everytime [Brian](http://blogs.msdn.com/brianjo) tells me something that involves his [portable media center](http://www.microsoft.com/windowsmobile/portablemediacenter/default.mspx), I think about getting one. He has [the Samsung model](http://www.amazon.com/exec/obidos/ASIN/B000294HDU/duncanmackenz-20?creative=327641&#038;camp=14573&#038;link_code=as1), which I really like the look/feel of and it seems to work well (although the length of transcoding is a reoccuring complaint), but my only real plan for getting one was to sign up with [pvps4free.com](http://www.pvps4free.com/default.aspx?r=160508) (only 3 away from completion!), which has [the Creative portable media center](http://www.amazon.com/exec/obidos/ASIN/B0002J6GLG/duncanmackenz-20?creative=327641&#038;camp=14573&#038;link_code=as1), but not the Samsung one.

@@ -1,6 +1,6 @@
 ---
 date: 2004-06-17T08:43:00+00:00
-title: Ended the &#8220;Most anticipated release&#8221; poll&#8230;
+title: Ended the "Most anticipated release" poll...
 type: posts
 ---
 And (hopefully the formatting will work out ok in the blog) here are the results 🙂

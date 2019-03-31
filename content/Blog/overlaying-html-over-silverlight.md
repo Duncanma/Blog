@@ -11,7 +11,7 @@ We ran into a bit of an issue though, in that our floating HTML was sitting **un
 
 
 
-That just wouldn't do, so I asked [Adam Kinney](www.adamkinney.com) (Silverlight Evangelist and former dev on the C9/C10 team) what to do. He pointed me to the &#8216;isWindowless' property of the Silverlight object and that info, combined with [this KB article about Windowless controls](http://support.microsoft.com/kb/177378), was enough for me to figure out what to do.
+That just wouldn't do, so I asked [Adam Kinney](www.adamkinney.com) (Silverlight Evangelist and former dev on the C9/C10 team) what to do. He pointed me to the 'isWindowless' property of the Silverlight object and that info, combined with [this KB article about Windowless controls](http://support.microsoft.com/kb/177378), was enough for me to figure out what to do.
 
 
 

@@ -1,6 +1,6 @@
 ---
 date: 2005-03-22T08:26:00+00:00
-title: Pulling from MSDN&#8230; the code&#8230;
+title: Pulling from MSDN... the code...
 type: posts
 ---
 (see [this post](http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/19/1243.aspx) for an introduction to this topic...)

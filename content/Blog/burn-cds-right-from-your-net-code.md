@@ -1,6 +1,6 @@
 ---
 date: 2003-11-18T01:57:00+00:00
-title: Burn CDs right from your .NET code&#8230;
+title: Burn CDs right from your .NET code...
 type: posts
 ---
 Anson Horton gave me this cool .NET component and source code last night so I've uploaded it to microsoft.com for your burning fun

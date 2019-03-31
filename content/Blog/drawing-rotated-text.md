@@ -1,6 +1,6 @@
 ---
 date: 2004-12-02T22:06:00+00:00
-title: Drawing rotated text&#8230;
+title: Drawing rotated text...
 type: posts
 ---
 A customer emailed me today (via the VB FAQ blog) with a question; "how can I output text at different angles, to write the cardinal points around a compass for example..." so I decided to fire up a quick sample

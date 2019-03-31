@@ -39,7 +39,7 @@ Brian Randell has written 4 (really 7, but 3 of them are just the same article a
 >
 >
 >
->     TTFN &#8211; Kent
+>     TTFN – Kent
 >
 >
 >   <p class="postfoot">

@@ -1,6 +1,6 @@
 ---
 date: 2003-10-15T09:07:00+00:00
-title: New Dancers&#8230; but still no &#8216;Master Chief&#8217;?
+title: New Dancers... but still no 'Master Chief'?
 type: posts
 ---
 Ok, maybe a night of Halo with my coworkers has skewed my perspective on this topic, but come on... wouldn't that just be the coolest... maybe the little alien guys, the chief, Cortona (not sure on the spelling for that one)...

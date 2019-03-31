@@ -1,6 +1,6 @@
 ---
 date: 2005-04-07T15:34:00+00:00
-title: VB6 Resource Center is up&#8230;
+title: VB6 Resource Center is up...
 type: posts
 ---
 <http://msdn.microsoft.com/vbrun>

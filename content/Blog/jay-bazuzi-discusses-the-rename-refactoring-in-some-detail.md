@@ -1,6 +1,6 @@
 ---
 date: 2004-04-09T10:52:00+00:00
-title: Jay Bazuzi discusses the &#8216;Rename&#8217; Refactoring in some detail&#8230;
+title: Jay Bazuzi discusses the 'Rename' Refactoring in some detail...
 type: posts
 ---
 If you haven't read much about Refactoring before, I'd suggest you check out [Jay's earlier post on the subject](http://blogs.msdn.com/jaybaz_ms/archive/2003/12/04/41350.aspx), but he is now going into quite a bit more detail.

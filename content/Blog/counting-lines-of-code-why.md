@@ -1,6 +1,6 @@
 ---
 date: 2003-03-12T09:04:00+00:00
-title: Counting lines of code&#8230;. why?
+title: Counting lines of code.... why?
 type: posts
 ---
  From time to time, when I've shown someone a system I built, I've been asked "How many lines of code is that?"... and my answer has always been the same... "I have no idea".

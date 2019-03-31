@@ -1,7 +1,10 @@
 ---
 date: 2006-07-26T09:30:00+00:00
-title: Assassin&#8217;s Creed for Xbox 360 gets previewed &#8211; Joystiq
+title: Assassin's Creed for Xbox 360 gets previewed – Joystiq
 type: posts
+tags:
+ - Xbox
+ - on10
 ---
 Ok, so I have to admit something... when I saw Assassin's Creed in the various [E3 videos](http://www.on10.net/Blogs/TheShow/3052/), I was sad. The game looked amazing, but I'm not going to buy a PS3 ... you can see my dilemma.
 

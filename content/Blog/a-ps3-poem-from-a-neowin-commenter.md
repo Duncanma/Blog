@@ -15,4 +15,4 @@ type: posts
 >
 > So I thought for a while and asked "I want a ps3 in europe this xmas" and then the geni[e] asked "Single or double track bridge sir ?"
 
-From comments on **[Neowin Exclusive &#8211; Playstation 3 Shipment Reduction True?](http://www.neowin.net/index.php?act=view&id=36041)**
+From comments on **[Neowin Exclusive – Playstation 3 Shipment Reduction True?](http://www.neowin.net/index.php?act=view&id=36041)**

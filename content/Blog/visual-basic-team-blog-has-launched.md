@@ -1,6 +1,6 @@
 ---
 date: 2004-05-18T02:54:00+00:00
-title: Visual Basic Team Blog has launched&#8230;
+title: Visual Basic Team Blog has launched...
 type: posts
 ---
 Look for lots of posts from the upcoming TechEd conference as well as material around all things VB...

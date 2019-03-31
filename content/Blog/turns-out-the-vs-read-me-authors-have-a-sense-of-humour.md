@@ -1,6 +1,6 @@
 ---
 date: 2006-01-08T07:17:00+00:00
-title: Turns out the VS &#8216;read me&#8217; authors have a sense of humour&#8230;
+title: Turns out the VS 'read me' authors have a sense of humour...
 type: posts
 ---
 [ReadMe Item of the Day](http://thecodingmonkey.blogspot.com/2006/01/readme-item-of-day.html" title="ReadMe Item of the Day) (from The Coding Monkey)

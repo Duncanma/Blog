@@ -1,6 +1,6 @@
 ---
 date: 2004-07-10T10:03:00+00:00
-title: Andrew Troelsen&#8217;s Refactoring Article is up&#8230;
+title: Andrew Troelsen's Refactoring Article is up...
 type: posts
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

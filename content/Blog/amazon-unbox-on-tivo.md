@@ -1,6 +1,6 @@
 ---
 date: 2007-03-12T22:40:00+00:00
-title: Amazon Unbox on Tivo&#8230;
+title: Amazon Unbox on Tivo...
 type: posts
 ---
 I like [this idea](http://www.tivo.com/4.9.24.asp)... I'd like it more on a Media Center box, but I still like the idea

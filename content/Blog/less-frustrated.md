@@ -1,6 +1,6 @@
 ---
 date: 2004-11-10T07:43:00+00:00
-title: Less frustrated&#8230;
+title: Less frustrated...
 type: posts
 ---
 I love the internet for one main reason.... [porn](http://www.suicidegirls.com/). Or is the fact that everyone is willing to help you when you have a problem?

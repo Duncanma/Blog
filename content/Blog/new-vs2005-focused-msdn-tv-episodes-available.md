@@ -1,6 +1,6 @@
 ---
 date: 2004-05-04T11:36:00+00:00
-title: New VS2005 focused MSDN TV episodes available&#8230;
+title: New VS2005 focused MSDN TV episodes available...
 type: posts
 ---
 From [Dan's blog](http://blogs.msdn.com/danielfe/archive/2004/05/03/125078.aspx):

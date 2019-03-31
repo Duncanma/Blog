@@ -1,6 +1,6 @@
 ---
 date: 2004-09-16T03:36:00+00:00
-title: My experience with GameFly&#8230;
+title: My experience with GameFly...
 type: posts
 ---
 I've recently signed up for NetFlix, but earlier I had tried out <a title="GameFly.com" href="http://www.anrdoezrs.net/click-1559417-10195038">GameFly</a>, a service I like to think of as "NetFlix for Games"... and I remembered that I had planned to describe my experience on my blog at **some** point, but I had never gotten around to it!

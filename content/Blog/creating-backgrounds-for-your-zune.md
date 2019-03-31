@@ -3,7 +3,7 @@ date: 2006-11-20T11:36:00+00:00
 title: Creating backgrounds for your Zune
 type: posts
 ---
-On the Zune, any picture on the device can be set as the background for all of the menus, providing a great way to customize the look of your Zune. The screen on your Zune is 240 pixels wide and 320 pixels high (holding it in &#8216;portrait mode', with the navigation pad at the bottom), so that is the proportions you want to shoot for as a background, but if you are making your own background images, then there are few things you should be aware of.
+On the Zune, any picture on the device can be set as the background for all of the menus, providing a great way to customize the look of your Zune. The screen on your Zune is 240 pixels wide and 320 pixels high (holding it in 'portrait mode', with the navigation pad at the bottom), so that is the proportions you want to shoot for as a background, but if you are making your own background images, then there are few things you should be aware of.
 
   * First, the image you choose will be cropped and displayed differently when your Zune is hooked up to output to a TV than it does when you are using the Zune normally.
   * Second, whenever you leave the main page the image is zoomed in a bit on all four sides.

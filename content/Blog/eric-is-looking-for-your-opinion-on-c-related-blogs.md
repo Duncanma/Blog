@@ -1,6 +1,6 @@
 ---
 date: 2004-04-25T12:06:00+00:00
-title: Eric is looking for your opinion on C# related blogs&#8230;
+title: Eric is looking for your opinion on C# related blogs...
 type: posts
 ---
 If you have any opinions on this topic, make sure you click on the link below and comment through Eric's blog...

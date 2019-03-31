@@ -1,6 +1,6 @@
 ---
 date: 2005-04-12T16:14:00+00:00
-title: Windows Media Player and Visual Studio .NET&#8230;. anyone else notice any interaction?
+title: Windows Media Player and Visual Studio .NET.... anyone else notice any interaction?
 type: posts
 ---
 Ok, this may seem really odd, but I swear it happened to me... 🙂

@@ -1,6 +1,6 @@
 ---
 date: 2005-01-31T19:33:00+00:00
-title: Outlook Web Access team looking for developers&#8230;
+title: Outlook Web Access team looking for developers...
 type: posts
 ---
 > [The Outlook Web Access team is looking for web developers](http://weblogs.asp.net/ksharkey/archive/2005/01/31/363962.aspx)

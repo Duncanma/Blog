@@ -1,6 +1,6 @@
 ---
 date: 2004-06-06T08:46:00+00:00
-title: Greggm describes how to debug ASP.NET as a non-admin&#8230;
+title: Greggm describes how to debug ASP.NET as a non-admin...
 type: posts
 ---
 <div class="posttitle" dir="ltr">

@@ -1,6 +1,6 @@
 ---
 date: 2003-10-16T01:37:00+00:00
-title: New VB article up from a fellow &#8216;weblogs&#8217; author&#8230;
+title: New VB article up from a fellow 'weblogs' author...
 type: posts
 ---
 [Darren Neimke](http://weblogs.asp.net/DNeimke), Mr. RegEx himself, has written a cool article that shows you how to create a fairly generic markup system to turn text into marked up HTML based on keyword information stored in XML... cool stuff;

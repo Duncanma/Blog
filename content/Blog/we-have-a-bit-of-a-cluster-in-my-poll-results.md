@@ -1,6 +1,6 @@
 ---
 date: 2004-07-20T19:38:00+00:00
-title: We have a bit of a cluster in my poll results&#8230;
+title: We have a bit of a cluster in my poll results...
 type: posts
 ---
 I'm running a poll on <http://www.duncanmackenzie.net> to see what topics I should write about next in [my Coding 4 Fun column](http://msdn.microsoft.com/vbasic/using/columns/code4fun)... There are 7 choices in total, but 3 are getting the lion's share of the votes...
@@ -8,7 +8,7 @@ I'm running a poll on <http://www.duncanmackenzie.net> to see what topics I shou
 <table style="WIDTH: 1%" cellspacing="2" border="0">
   <tr>
     <td style="FONT-SIZE: 0.7em; FONT-FAMILY: Verdana,Arial" nowrap="">
-      Game Dev (a &#8216;battleship' networked game, etc..)
+      Game Dev (a 'battleship' networked game, etc..)
     </td>
 
     <td>

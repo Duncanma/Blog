@@ -3,7 +3,7 @@ date: 2004-04-20T10:03:00+00:00
 title: Robert Green Talks About Communities for Visual Basic .NET
 type: posts
 ---
-I had read this in the &#8216;offline' version of MSDN magazine (you know, that one that uses paper and is hard to copy and paste from?), but I hadn't noticed it was available online until now:
+I had read this in the 'offline' version of MSDN magazine (you know, that one that uses paper and is hard to copy and paste from?), but I hadn't noticed it was available online until now:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

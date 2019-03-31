@@ -1,6 +1,6 @@
 ---
 date: 2005-09-15T20:06:00+00:00
-title: A public site for collecting your exception info&#8230; like Dr. Watson via SOAP&#8230;
+title: A public site for collecting your exception info... like Dr. Watson via SOAP...
 type: posts
 ---
 This is an interesting idea ... [http://www.exceptioncollection.com/](http://www.exceptioncollection.com/), something that I've [pondered before.](http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/08/1212.aspx)..

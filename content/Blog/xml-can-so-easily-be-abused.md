@@ -1,6 +1,6 @@
 ---
 date: 2003-10-22T11:32:00+00:00
-title: XML can so easily be abused&#8230;
+title: XML can so easily be abused...
 type: posts
 ---
 I am getting really tired of seeing web services (or RSS feeds, or .NET methods, or anything else) with large blocks of complex, structured data that is exposed as **"String".**
@@ -22,5 +22,5 @@ Tonight I started thinking of adding weather information to my music system (hey
 _Note that some web services should be string in, string out... like this cool looking [RTF To HTML service](http://www.infoaccelerator.net/rtf2html/) I saw on xmethods..._
 
 <div class="media">
-  [Listening to: Clint Eastwood &#8211; [Gorillaz](http://www.windowsmedia.com/mg/search.asp?srch=Gorillaz) &#8211; Big Shiny Tunes 6 (03:45)]
+  [Listening to: Clint Eastwood – [Gorillaz](http://www.windowsmedia.com/mg/search.asp?srch=Gorillaz) – Big Shiny Tunes 6 (03:45)]
 </div>

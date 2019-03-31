@@ -1,6 +1,6 @@
 ---
 date: 2004-06-29T10:38:00+00:00
-title: Visual Studio 2005 Beta 1 and the Express Edition Betas have launched&#8230;
+title: Visual Studio 2005 Beta 1 and the Express Edition Betas have launched...
 type: posts
 ---
 Ah, launch day... what else would have most of my colleagues sitting in their offices at 12:30 am in the morning on a Monday... and there isn't a single Halo game running!!
@@ -14,7 +14,7 @@ Links of the moment:
   * [C# Express](http://lab.msdn.microsoft.com/express/vcsharp)
   * [VB Express](http://lab.msdn.microsoft.com/express/vbasic)
   * [The New VS 2005 Developer Center](http://lab.msdn.microsoft.com/vs2005)
-  * [The Channel 9 "Summer of Express" contest](http://channel9.msdn.com/express) (for all you &#8216;enthusiasts' out there)
+  * [The Channel 9 "Summer of Express" contest](http://channel9.msdn.com/express) (for all you 'enthusiasts' out there)
     [<img height="31" src="http://msdn.microsoft.com/events/graphics/channel9/contesticon.gif" width="90" border="0" />](http://channel9.msdn.com/express)</li> </ul>
 
-    Oh, and one other thing... some folks have complained in the past that MSDN is providing too much coverage of &#8216;future' topics like Whidbey and Longhorn, and we certainly understand that concern... personally I've been watching the content on my two sites (/vbasic and /vcsharp) and we've been floating around 90% shipping products, 10% future... which is where I'd like to keep it... but this launch will throw all of MSDN ratios out of whack for a bit as we headline the ton of content that has been written targeting the Beta 1 bits and is all being released at the same time.... my apologies in advance if you are sick of hearing about Whidbey, but rest assured that at least VB and C# will be returning to a more reasonable balance of material in the near future.
+    Oh, and one other thing... some folks have complained in the past that MSDN is providing too much coverage of 'future' topics like Whidbey and Longhorn, and we certainly understand that concern... personally I've been watching the content on my two sites (/vbasic and /vcsharp) and we've been floating around 90% shipping products, 10% future... which is where I'd like to keep it... but this launch will throw all of MSDN ratios out of whack for a bit as we headline the ton of content that has been written targeting the Beta 1 bits and is all being released at the same time.... my apologies in advance if you are sick of hearing about Whidbey, but rest assured that at least VB and C# will be returning to a more reasonable balance of material in the near future.

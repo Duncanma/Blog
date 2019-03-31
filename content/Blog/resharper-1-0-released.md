@@ -1,6 +1,6 @@
 ---
 date: 2004-07-23T23:16:00+00:00
-title: ReSharper 1.0 Released&#8230;
+title: ReSharper 1.0 Released...
 type: posts
 ---
 From their site...

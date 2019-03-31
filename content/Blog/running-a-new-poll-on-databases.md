@@ -1,6 +1,6 @@
 ---
 date: 2004-09-24T15:37:00+00:00
-title: Running a new poll on databases&#8230;
+title: Running a new poll on databases...
 type: posts
 ---
 I've put up a new poll on my site:

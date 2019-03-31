@@ -7,7 +7,7 @@ I have been drooling over [this](http://www.rokulabs.com/) for that last few wee
 
 > _**inner monologue:** it doesn't do anything that I really need, and if I ever get around to hooking my [current music system](http://www.duncanmackenzie.net/musicxp) up with something better than S-Video, I could probably replicate its functionality in a pretty short period of time...._
 
-but, it sure looks cool, and that has added it to an overly long list of &#8216;things I would buy if I had the $$ to order them and the time to use them'.
+but, it sure looks cool, and that has added it to an overly long list of 'things I would buy if I had the $$ to order them and the time to use them'.
 
 It seems like a slightly more efficient idea to pay the $120 for [a VGA-Component adapter](http://www.smarthome.com/77706.html) for my music system (so that it displays at 720 progressive, instead of 480 interlaced) and then build photo-viewing/slideshow support into it, but gadget-love isn't about efficiency.
 

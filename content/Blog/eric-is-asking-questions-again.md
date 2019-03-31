@@ -1,6 +1,6 @@
 ---
 date: 2004-05-04T11:43:00+00:00
-title: Eric is asking questions again&#8230;
+title: Eric is asking questions again...
 type: posts
 ---
 This time, he wants to know what you think about C#'s community:

@@ -1,6 +1,6 @@
 ---
 date: 2005-04-18T06:34:00+00:00
-title: Technology Decisions&#8230;
+title: Technology Decisions...
 type: posts
 ---
 I started writing this entry about "Giving advice on technology to friends and family...", but I realized after I had rambled on for a bit, that it was more about technology decisions... when companies force us to decide between MP3 and WMA or iTunes and WMP or even Super Audio CD and DVD-Audio or Blu-Ray DVD vs. HD-DVD... in every case, there will generally be a wrong decision that you can make. I hate that situation, it can stop me dead in my tracks from adopting a technology altogether...
@@ -17,7 +17,7 @@ being a computer-related gadget, I'm automatically assumed to know what I'm talk
 
 certainly have my opinions, and I know a fair bit about how it all works, but I have to be honest and tell
 
-you that I haven't really spent much time looking at the &#8216;other' side of the world in terms of music
+you that I haven't really spent much time looking at the 'other' side of the world in terms of music
 
 players. When someone first asked me what player they should buy, I decided that I needed to look into
 
@@ -83,11 +83,11 @@ My brother asked me a few years ago if a Sony "network walkman" would be a good 
 
 Sony... it would probably be great. Horrible mistake. The software that came with it forced you to
 
-&#8216;check-out' music to put it onto the player... then you had to check it back in (removing it off the player) if
+'check-out' music to put it onto the player... then you had to check it back in (removing it off the player) if
 
 you wanted to use it on your computer. Windows Media Player could work with the player in certain
 
-circumstances involving weird driver and device configuration, and then you could sync files like &#8216;normal',
+circumstances involving weird driver and device configuration, and then you could sync files like 'normal',
 
 but my brother never managed to get anything other than the Sony software working. He has a Rio now,
 
