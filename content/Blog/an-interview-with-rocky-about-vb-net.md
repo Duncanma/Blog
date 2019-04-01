@@ -2,6 +2,7 @@
 date: 2004-11-10T08:24:00+00:00
 title: An interview with Rocky about VB.NET
 type: posts
+draft: true
 ---
 [
 

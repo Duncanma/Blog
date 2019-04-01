@@ -2,6 +2,7 @@
 date: 2004-07-30T01:11:00+00:00
 title: Anders on MSDNTV
 type: posts
+draft: true
 ---
 <img src="http://msdn.microsoft.com/msdntv/episodes/en/20040624csharpah/AndersHejlsberg.jpg" border="0" />
 
