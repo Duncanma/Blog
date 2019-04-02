@@ -1,4 +1,4 @@
-baseURL = "https://duncanmackenzieblog.azureedge.net/"
+baseURL = "https://newblog.duncanmackenzie.net/"
 languageCode = "en-us"
 title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+# googleAnalytics = "UA-23971530-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -25,16 +25,13 @@ buildExpored = false
 canonifyURLs = false
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
 
 [author]
   name = "Duncan Mackenzie"
@@ -60,7 +57,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = ""
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  gitUrl = "https://github.com/DuncanmaMSFT/Blog/commit/"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
