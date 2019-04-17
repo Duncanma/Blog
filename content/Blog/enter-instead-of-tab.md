@@ -7,17 +7,17 @@ I received another interesting, and common, question today about using Enter ins
 
 First, the easy... set your Form's **KeyPreview** property to true, override **OnKeyUp** (or OnKeyDown... can't think of any real reason to use one or the other in this case), check for the Enter key, then call your Form's **ProcessTabKey** method.
 
-<pre><font color="Blue" family="Microsoft Sans Serif">Protected <font color="Blue" family="Microsoft Sans Serif">Overrides <font color="Blue" family="Microsoft Sans Serif">Sub OnKeyUp(<font color="Blue" family="Microsoft Sans Serif">ByVal e <font color="Blue" family="Microsoft Sans Serif">As System.Windows.Forms.KeyEventArgs)
-        <font color="Blue" family="Microsoft Sans Serif">If e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then
-            e.Handled = <font color="Blue" family="Microsoft Sans Serif">True
-            <font color="Blue" family="Microsoft Sans Serif">Me.ProcessTabKey(<font color="Blue" family="Microsoft Sans Serif">Not e.Shift)
-        <font color="Blue" family="Microsoft Sans Serif">Else
-            e.Handled = <font color="Blue" family="Microsoft Sans Serif">False
-            <font color="Blue" family="Microsoft Sans Serif">MyBase.OnKeyUp(e)
-        <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">If
-    <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Sub
-
-</pre>
+```vb
+    Protected Overrides Sub OnKeyUp(ByVal e As System.Windows.Forms.KeyEventArgs)
+        If e.KeyCode = Keys.Enter Then
+            e.Handled = True
+            Me.ProcessTabKey(Not e.Shift)
+        Else
+            e.Handled = False
+            MyBase.OnKeyUp(e)
+        End If
+    End Sub
+```
 
 Now... what is wrong with that code?
 
@@ -30,34 +30,35 @@ The first issue is easiest to solve if you just decide not to have a default but
 
 The second problem is not too difficult to handle, you can modify your code to check for certain properties of the TextBox control, but this may not work for other controls that also wish to accept the Enter key as input.
 
-<pre><font color="Blue" family="Microsoft Sans Serif">If e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then
-            <font color="Blue" family="Microsoft Sans Serif">If <font color="Blue" family="Microsoft Sans Serif">TypeOf <font color="Blue" family="Microsoft Sans Serif">Me.ActiveControl <font color="Blue" family="Microsoft Sans Serif">Is TextBox <font color="Blue" family="Microsoft Sans Serif">Then
-                <font color="Blue" family="Microsoft Sans Serif">Dim tb <font color="Blue" family="Microsoft Sans Serif">As TextBox = <font color="Blue" family="Microsoft Sans Serif">DirectCast(<font color="Blue" family="Microsoft Sans Serif">Me.ActiveControl, TextBox)
-                <font color="Blue" family="Microsoft Sans Serif">If tb.Multiline <font color="Blue" family="Microsoft Sans Serif">AndAlso tb.AcceptsReturn <font color="Blue" family="Microsoft Sans Serif">Then
-                    e.Handled = <font color="Blue" family="Microsoft Sans Serif">False
-                    <font color="Blue" family="Microsoft Sans Serif">MyBase.OnKeyUp(e)
-                    <font color="Blue" family="Microsoft Sans Serif">Exit <font color="Blue" family="Microsoft Sans Serif">Sub
-                <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">If
-            <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">If
-            e.Handled = <font color="Blue" family="Microsoft Sans Serif">True
-            <font color="Blue" family="Microsoft Sans Serif">Me.ProcessTabKey(<font color="Blue" family="Microsoft Sans Serif">Not e.Shift)
-        <font color="Blue" family="Microsoft Sans Serif">Else
-            e.Handled = <font color="Blue" family="Microsoft Sans Serif">False
-            <font color="Blue" family="Microsoft Sans Serif">MyBase.OnKeyUp(e)
-        <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">If
-
-</pre>
+```vb
+        If e.KeyCode = Keys.Enter Then
+            If TypeOf Me.ActiveControl Is TextBox Then
+                Dim tb As TextBox = DirectCast(Me.ActiveControl, TextBox)
+                If tb.Multiline AndAlso tb.AcceptsReturn Then
+                    e.Handled = False
+                    MyBase.OnKeyUp(e)
+                    Exit Sub
+                End If
+            End If
+            e.Handled = True
+            Me.ProcessTabKey(Not e.Shift)
+        Else
+            e.Handled = False
+            MyBase.OnKeyUp(e)
+        End If
+```
 
 Oh, and there was another part to the original question... what if I want to respond to the Enter key to do some processing on the value that was just entered. Well, for that result either with or without the 'enter instead of tab' code, you would just choose to handle the **KeyDown** event for the control in question.
 
-<pre><font color="Blue" family="Microsoft Sans Serif">Private <font color="Blue" family="Microsoft Sans Serif">Sub TextBox2_KeyDown(<font color="Blue" family="Microsoft Sans Serif">ByVal sender <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Object, _
-            <font color="Blue" family="Microsoft Sans Serif">ByVal e <font color="Blue" family="Microsoft Sans Serif">As System.Windows.Forms.KeyEventArgs) _
-            <font color="Blue" family="Microsoft Sans Serif">Handles TextBox2.KeyDown
-        <font color="Blue" family="Microsoft Sans Serif">If e.KeyCode = Keys.Enter <font color="Blue" family="Microsoft Sans Serif">Then
-            <font color="Blue" family="Microsoft Sans Serif">MsgBox(<font color="Red" family="Microsoft Sans Serif">"do something!")
-        <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">If
-    <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Sub
-</pre>
+```vb
+    Private Sub TextBox2_KeyDown(ByVal sender As Object, _
+            ByVal e As System.Windows.Forms.KeyEventArgs) _
+            Handles TextBox2.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            MsgBox("do something!")
+        End If
+    End Sub
+```
 
 Of course, after your code 'does something', the focus will also move to the next control... both sets of code, the Form's **OnKeyUp** routine and the control's **KeyDown** event handler, execute when the user hits Enter on this particular control.
 

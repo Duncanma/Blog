@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Duncan Mackenzie</title>
-    <link>https://duncanmackenzieblog.azureedge.net/</link>
+    <link>https://newblog.duncanmackenzie.net/</link>
     <description>Recent content on Duncan Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 31 Mar 2019 19:47:17 +0000</lastBuildDate>
     
-	<atom:link href="https://duncanmackenzieblog.azureedge.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://newblog.duncanmackenzie.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://duncanmackenzieblog.azureedge.net/about/</link>
+      <link>https://newblog.duncanmackenzie.net/about/</link>
       <pubDate>Sun, 31 Mar 2019 19:47:17 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/about/</guid>
+      <guid>https://newblog.duncanmackenzie.net/about/</guid>
       <description>I&amp;rsquo;m a Developer Lead for the Docs.Microsoft.com team, previously I was the Dev Lead for Channel 9 and before that I worked on MSDN as a developer, content strategist and author.
 I&amp;rsquo;ve written a whole bunch of articles and books on programming topics, and a few more focused around gaming. For a time I was the VB guy on MSDN, starting out as a sample writer and article author as part of the MSDN content team, then running the VB and C# developer centers for a time, before finally moving onto the MSDN dev team.</description>
     </item>
     
     <item>
       <title>Content Taxonomy Musings</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/content-taxonomy-musings/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/content-taxonomy-musings/</link>
       <pubDate>Thu, 08 Oct 2015 18:20:17 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/content-taxonomy-musings/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/content-taxonomy-musings/</guid>
       <description>My day job is running a bunch of systems as part of Microsoft’s developer relations (DevRel) group and the biggest of those is Channel 9 (https://channel9.msdn.com). Channel 9 is basically a video blogging platform. We have ‘blogs’, which contain posts, written by people. Seems simple enough, but after running for 10 years we have a bit of a problem. Too much content.
 For years now, the problem of ‘how should we categorize our content?</description>
     </item>
     
     <item>
       <title>Writing Titles for Channel 9 posts</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/writing-titles-for-channel-9-posts/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/writing-titles-for-channel-9-posts/</link>
       <pubDate>Mon, 06 Apr 2015 16:13:43 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/writing-titles-for-channel-9-posts/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/writing-titles-for-channel-9-posts/</guid>
       <description>Throughout the rest of the site, on twitter and through Google/Bing … the title of your post is the first and most important description of your content that people will see. With that in mind, here are a few tips to make the most of that space.
 Length You should include enough in your title that it is a clear description of your content, but length is a factor. When we are indexed on Google, the full text is pulled from the title element of the page, but only the first x characters are visible in search results.</description>
     </item>
     
     <item>
       <title>We live in a zoo</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/we-live-in-a-zoo/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/we-live-in-a-zoo/</link>
       <pubDate>Mon, 09 Sep 2013 16:39:56 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/we-live-in-a-zoo/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/we-live-in-a-zoo/</guid>
       <description>Music is &amp;ldquo;Hammock Fight&amp;rdquo; from http://incompetech.com/music/royalty-free/index.html?collection=031 (© 2007 Kevin MacLeod).</description>
     </item>
     
     <item>
       <title>Making an app to do audio transcription</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/making-an-app-to-do-audio-transcription/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/making-an-app-to-do-audio-transcription/</link>
       <pubDate>Sun, 08 Sep 2013 19:02:19 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/making-an-app-to-do-audio-transcription/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/making-an-app-to-do-audio-transcription/</guid>
       <description>Back in the day, I used to write articles for MSDN, and I started up this column called “Coding 4 Fun” (the name lives on today along with some of the same spirit). The premise was that I would write about code I wrote for my own personal use. An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures. A remote control using my Pocket PC (yep, that was a while ago).</description>
     </item>
     
     <item>
       <title>Channel 9 has a Windows Phone 8 app coming...</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/channel-9-has-a-windows-phone-8-app-coming/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/channel-9-has-a-windows-phone-8-app-coming/</link>
       <pubDate>Wed, 07 Aug 2013 06:22:38 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/channel-9-has-a-windows-phone-8-app-coming/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/channel-9-has-a-windows-phone-8-app-coming/</guid>
       <description>Since I wrote this post, the Channel 9 apps across UWP, XBox, iOS and Android have all been retired
  And it is available in beta now, please check it out and let me know what you think.
 So, here you go, if you have a Windows Phone 8 and have any interest in Channel 9 type content:
@@ -75,39 +75,39 @@ Just using the app generates telemetry that is useful, but please reply with any
     
     <item>
       <title>Word 2000 VBA (Wrox) Source Code</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/word-2000-vba-wrox-source-code/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/word-2000-vba-wrox-source-code/</link>
       <pubDate>Mon, 18 Jul 2011 14:03:30 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/word-2000-vba-wrox-source-code/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/word-2000-vba-wrox-source-code/</guid>
       <description>Ok, so now this link is also broken. I&amp;rsquo;m trying to track down the original source but it is getting pretty out of date. I&amp;rsquo;m interested in revisiting this project at some point, rebuilding the book using current tech, but it is difficult to say when that could ever happen. If you are still looking for this code, you can reach out to me (duncanma@microsoft.com), and hopefully I&amp;rsquo;ll be able to point you to a better/newer resource for your question.</description>
     </item>
     
     <item>
       <title>Books, Recommendations, and Amazon</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/books-recommendations-and-amazon/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/books-recommendations-and-amazon/</link>
       <pubDate>Thu, 30 Jun 2011 14:45:57 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/books-recommendations-and-amazon/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/books-recommendations-and-amazon/</guid>
       <description>I really like to read. I read almost every night and I have since I was a little kid, so I’ve gone through a lot of books. Lately though I’ve noticed a new trend in my reading; I’m reading books that no one recommended to me. Well, no person recommended them to me, I guess it is all Amazon at this point.
 Normally, and this goes back to the first time I read the Lord of the Rings, the Belgariad, or the many books of Piers Anthony, someone would mention the book to me and I’d go find it at the book store or the library and I’d be set.</description>
     </item>
     
     <item>
       <title>Responding to feedback on Oxite</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/responding-to-feedback-on-oxite/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/responding-to-feedback-on-oxite/</link>
       <pubDate>Thu, 19 Feb 2009 09:40:52 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/responding-to-feedback-on-oxite/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/responding-to-feedback-on-oxite/</guid>
       <description>In the years since this was posted, many of the links are broken, and in the intervening time &amp;lsquo;Oxite&amp;rsquo; as a project (basically the need for a simple CMS/blogging engine turned into a new thing from the ASP.NET team called Orchard. No shared code, but still a successor in spirit.
  Hey folks, many of you are familiar with the commotion that occurred around Oxite’s initial release. For various reasons, Oxite received a lot of attention from developers, bloggers and press… mostly because it is by Microsoft and it contained a lot of buzz-words that people care about (the two biggest being Open Source and CMS… and of course, the aforementioned ‘Microsoft’).</description>
     </item>
     
     <item>
       <title>Newly updated Oxite release available</title>
-      <link>https://duncanmackenzieblog.azureedge.net/blog/newly-updated-oxite-release-available/</link>
+      <link>https://newblog.duncanmackenzie.net/blog/newly-updated-oxite-release-available/</link>
       <pubDate>Mon, 16 Feb 2009 16:55:02 +0000</pubDate>
       
-      <guid>https://duncanmackenzieblog.azureedge.net/blog/newly-updated-oxite-release-available/</guid>
+      <guid>https://newblog.duncanmackenzie.net/blog/newly-updated-oxite-release-available/</guid>
       <description>Erik pushed out a new release to Oxite today, the first since January 5th. This release is an important one, because it reflects a great deal of changes made in response to internal and external feedback about our initial release.
 From the release notes:
  We made many improvements, some based on community feedback, and added new features in this release:

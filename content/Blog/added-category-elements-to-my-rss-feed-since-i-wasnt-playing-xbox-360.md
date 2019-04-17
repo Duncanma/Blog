@@ -14,7 +14,24 @@ This seemed really odd to me, since much of the UI of the .Text posting page, ed
 
 If you haven't looked at the .Text source yourself, you might be wondering why adding these elements to one feed wouldn't have added them to all of the feeds, because all RSS feeds are probably running through the same code path. While this is mostly true, they are running through the same ASP.NET handler and through the same feed generation code, the category-based feeds use a different stored procedure to retrieve their entries than the feeds that I have updated, and I had to make a change to the database query to return the list of categories along with each item. What I ended up doing, (and I'm not sure about the performance of this code but it is so highly cached that I'm not particularly worried about it for this use), was using a Function to retrieve the list of categories as a semi-colon deliminated string given a PostID (note that if you host multiple blogs on your .Text instance that this function should take both a BlogID **and** a PostID... I'll have to update this for the multi-blog case).
 
-<pre> <span class="TSql_ReservedKeyword">CREATE</span> <span class="TSql_ReservedKeyword">FUNCTION</span> blog_GetCategoryTitles (@PostID <span class="TSql_DataType">int</span>) RETURNS <span class="TSql_DataType">nvarchar</span>(4000) <span class="TSql_ReservedKeyword">BEGIN</span> <span class="TSql_ReservedKeyword">DECLARE</span> @CategoryList <span class="TSql_DataType">nvarchar</span>(4000) <span class="TSql_ReservedKeyword">SELECT</span> @CategoryList = <span class="TSql_Function">COALESCE</span>(@CategoryList + <span class="TSql_String">';'</span>, <span class="TSql_String">''</span>) + blog_LinkCategories.Title <span class="TSql_ReservedKeyword">FROM</span> blog_Content <span class="TSql_Function">LEFT</span> <span class="TSql_Operator">OUTER</span> <span class="TSql_Operator">JOIN</span> blog_Links  <span class="TSql_ReservedKeyword">on</span> blog_Links.PostID = blog_Content.ID <span class="TSql_Function">LEFT</span> <span class="TSql_Operator">OUTER</span> <span class="TSql_Operator">JOIN</span> blog_LinkCategories <span class="TSql_ReservedKeyword">on</span> blog_Links.CategoryID = blog_LinkCategories.CategoryID <span class="TSql_ReservedKeyword">WHERE</span> blog_Content.ID=@PostID <span class="TSql_Operator">AND</span> blog_Content.BlogID = blog_Links.BlogID <span class="TSql_Operator">AND</span> blog_LinkCategories.Title != <span class="TSql_String">''</span> <span class="TSql_ReservedKeyword">RETURN</span> @CategoryList <span class="TSql_ReservedKeyword">END</span> </pre>
+```sql
+ CREATE FUNCTION blog_GetCategoryTitles (@PostID int) RETURNS nvarchar(4000)
+ BEGIN
+ DECLARE @CategoryList nvarchar(4000)
+ SELECT @CategoryList = COALESCE
+(@CategoryList + ';', '') +
+ blog_LinkCategories.Title
+ FROM blog_Content
+ LEFT OUTER JOIN blog_Links
+ on blog_Links.PostID = blog_Content.ID
+ LEFT OUTER JOIN blog_LinkCategories
+ on blog_Links.CategoryID = blog_LinkCategories.CategoryID
+ WHERE blog_Content.ID=@PostID AND
+ blog_Content.BlogID = blog_Links.BlogID AND
+ blog_LinkCategories.Title != ''
+ RETURN @CategoryList
+ END
+```
 
 _thanks to [Garth's 2001 article from SQLTeam.com for showing me COALESCE being used for this purpose...](http://www.sqlteam.com/item.asp?ItemID=2368)_
 
