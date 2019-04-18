@@ -4,7 +4,7 @@ title: Anders on MSDNTV
 type: posts
 draft: true
 ---
-<img src="http://msdn.microsoft.com/msdntv/episodes/en/20040624csharpah/AndersHejlsberg.jpg" border="0" />
+< src="http://msdn.microsoft.com/msdntv/episodes/en/20040624csharpah/AndersHejlsberg.jpg" border="0" />
 
 
 

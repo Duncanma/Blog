@@ -7,53 +7,53 @@ Nothing amazingly difficult about this task, but it was [an interesting GotDotNe
 
 Glenn Holden asks how to turn this file based function into one for images stored at http addresses...
 
-> <font color="Blue" family="Microsoft Sans Serif">Protected <font color="Blue" family="Microsoft Sans Serif">Shared <font color="Blue" family="Microsoft Sans Serif">Function GetImageFromFile(<font color="Blue" family="Microsoft Sans Serif">ByVal FileName <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">String) <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Byte()
+> Protected Shared Function GetImageFromFile(ByVal FileName As String) As Byte()
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim myFile <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">String = FileName
+>     Dim myFile As String = FileName
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim fs <font color="Blue" family="Microsoft Sans Serif">As FileStream = <font color="Blue" family="Microsoft Sans Serif">New FileStream(myFile, FileMode.Open, FileAccess.Read)
+>     Dim fs As FileStream = New FileStream(myFile, FileMode.Open, FileAccess.Read)
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim br <font color="Blue" family="Microsoft Sans Serif">As BinaryReader = <font color="Blue" family="Microsoft Sans Serif">New BinaryReader(fs)
+>     Dim br As BinaryReader = New BinaryReader(fs)
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim bytesize <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Long = fs.Length
+>     Dim bytesize As Long = fs.Length
 
->     <font color="Blue" family="Microsoft Sans Serif">ReDim GetImageFromFile(bytesize)
+>     ReDim GetImageFromFile(bytesize)
 
 >     GetImageFromFile = br.ReadBytes(bytesize)
 
-> <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Function
+> End Function
 
 So, I produced this;
 
-> <font color="Blue" family="Microsoft Sans Serif">Function GetImageFromURL(<font color="Blue" family="Microsoft Sans Serif">ByVal url <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">String) <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Byte()
+> Function GetImageFromURL(ByVal url As String) As Byte()
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim wr <font color="Blue" family="Microsoft Sans Serif">As HttpWebRequest = _
+>     Dim wr As HttpWebRequest = _
 
->        <font color="Blue" family="Microsoft Sans Serif">DirectCast(WebRequest.Create(url), HttpWebRequest)
+>        DirectCast(WebRequest.Create(url), HttpWebRequest)
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim wresponse <font color="Blue" family="Microsoft Sans Serif">As HttpWebResponse = _
+>     Dim wresponse As HttpWebResponse = _
 
->        <font color="Blue" family="Microsoft Sans Serif">DirectCast(wr.GetResponse, HttpWebResponse)
+>        DirectCast(wr.GetResponse, HttpWebResponse)
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim responseStream <font color="Blue" family="Microsoft Sans Serif">As Stream = wresponse.GetResponseStream
+>     Dim responseStream As Stream = wresponse.GetResponseStream
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim br <font color="Blue" family="Microsoft Sans Serif">As BinaryReader = <font color="Blue" family="Microsoft Sans Serif">New BinaryReader(responseStream)
+>     Dim br As BinaryReader = New BinaryReader(responseStream)
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim bytesize <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">Long = wresponse.ContentLength
+>     Dim bytesize As Long = wresponse.ContentLength
 
->     <font color="Blue" family="Microsoft Sans Serif">Return br.ReadBytes(bytesize)
+>     Return br.ReadBytes(bytesize)
 
-> <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Function
+> End Function
 
 with a bit of test code thrown into a button.....
 
-> <font color="Blue" family="Microsoft Sans Serif">Private <font color="Blue" family="Microsoft Sans Serif">Sub Button1_Click(<font color="Blue" family="Microsoft Sans Serif">ByVal sender <font color="Blue" family="Microsoft Sans Serif">As System.<font color="Blue" family="Microsoft Sans Serif">Object, _
+> Private Sub Button1_Click(ByVal sender As System.Object, _
 
->     <font color="Blue" family="Microsoft Sans Serif">ByVal e <font color="Blue" family="Microsoft Sans Serif">As System.EventArgs) <font color="Blue" family="Microsoft Sans Serif">Handles Button1.Click
+>     ByVal e As System.EventArgs) Handles Button1.Click
 
->     <font color="Blue" family="Microsoft Sans Serif">Dim img <font color="Blue" family="Microsoft Sans Serif">As <font color="Blue" family="Microsoft Sans Serif">New Bitmap( _
+>     Dim img As New Bitmap( _
 
->        <font color="Blue" family="Microsoft Sans Serif">New IO.MemoryStream( _
+>        New IO.MemoryStream( _
 
 >         GetImageFromURL( _
 
@@ -61,9 +61,9 @@ with a bit of test code thrown into a button.....
 
 >         ))
 
->     <font color="Blue" family="Microsoft Sans Serif">Me.BackgroundImage = img
+>     Me.BackgroundImage = img
 
-> <font color="Blue" family="Microsoft Sans Serif">End <font color="Blue" family="Microsoft Sans Serif">Sub
+> End Sub
 
 A generalized solution that will accept file paths or URIs and automatically determine how to retrieve the stream would likely be useful, but I think this will do for Glenn...
 

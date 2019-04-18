@@ -6,7 +6,7 @@ draft: true
 ---
 [
 
-<img src="http://www.theserverside.net/talks/videos/RockyLhotka/LhotkaFeatured.jpg" border="0" />
+< src="http://www.theserverside.net/talks/videos/RockyLhotka/LhotkaFeatured.jpg" border="0" />
 
 
 

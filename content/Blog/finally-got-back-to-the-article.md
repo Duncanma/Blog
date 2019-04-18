@@ -21,8 +21,9 @@ I wrote all of the code you've seen so far, and tested the various bits of XSL c
 
 The first problem I ran into was that some feeds were not displaying in descending date order (most recent item first), which was fairly confusing. It turns out that, while most RSS feeds are already sorted in descending order by date, the MSDN feeds are a notable exception. For consistency I decided to add sorting code to the XSL through the xsl:sort element. My failure to get sorting to work directly against the pubDate value resulted in one of the more interesting aspects of that transform, as I needed to include a user-defined function (written using Visual Basic .NET), to convert the string-based date value into a new format that can be sorted.
 
-<pre class="code"><font color="#000000"><font color="#0000FF">&lt;<font color="#800000">msxsl:script <font color="#FF0000">language<font color="#0000FF">="vb" <font color="#FF0000">implements-prefix<font color="#0000FF">="utility"&gt;
-<font color="#000000">function GetDate(pubDate As String)
+```xsl
+<msxsl:script language="vb" implements-prefix="utility">
+function GetDate(pubDate As String)
   Try
       Dim myDate as Date = CDate(pubDate)
       Return myDate.ToString("yyyyMMddHHmmss")
@@ -30,21 +31,20 @@ The first problem I ran into was that some feeds were not displaying in descendi
 
   End Try
 end function
-<font color="#0000FF">&lt;/<font color="#800000">msxsl:script<font color="#0000FF">&gt;
-
-</pre>
+</msxsl:script>
+```
 
 The function itself is pretty straightforward, I just try to convert from string to date and then I output back to a string in a format that will allow for easy sorting. Using the xsl:sort function, I use the results of that function to perform the actual sort.
 
-<pre class="code"><font color="#000000"><font color="#0000FF">&lt;<font color="#800000">xsl:template <font color="#FF0000">match<font color="#0000FF">="/rss/channel"&gt;
-    &lt;<font color="#800000">xsl:for-each <font color="#FF0000">select<font color="#0000FF">="./item"&gt;
-        &lt;<font color="#800000">xsl:sort <font color="#FF0000">order<font color="#0000FF">="descending"
-         <font color="#FF0000">select<font color="#0000FF">="utility:GetDate(./pubDate)" /&gt;
-        &lt;<font color="#800000">xsl:apply-templates <font color="#FF0000">select<font color="#0000FF">="." /&gt;
-    &lt;/<font color="#800000">xsl:for-each<font color="#0000FF">&gt;
-&lt;/<font color="#800000">xsl:template<font color="#0000FF">&gt;
-
-</pre>
+```xsl
+<xsl:template match="/rss/channel">
+    <xsl:for-each select="./item">
+        <xsl:sort order="descending"
+         select="utility:GetDate(./pubDate)" />
+        <xsl:apply-templates select="." />
+    </xsl:for-each>
+</xsl:template>
+```
 
 The Try…Catch block around the GetDate function doesn't handle the error, but it allows the XSL to still function, even if the code is unable to parse the date string.
 
@@ -52,47 +52,47 @@ The Try…Catch block around the GetDate function doesn't handle the error, but 
 
 The specification for RSS is flexible in many ways, including the proper handling of HTML content and how dates should be specified, which is to say that it allows for multiple methods. This flexibility is great when you are writing a system to output RSS, but it makes life a little difficult when you are trying to read it in. This flexibility caused me a problem with the date first, most feeds I was testing were using a "pubDate" element, but a few were using a "dc:date" element instead. I dealt with the issue by adding an xsl:choose function to use and display whichever date attribute was available.
 
-<pre class="code"><font color="#000000"><font color="#0000FF">&lt;<font color="#800000">xsl:choose<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='pubDate'&gt;
-        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on:
-            <font color="#0000FF">&lt;<font color="#800000">xsl:value-of <font color="#FF0000">select<font color="#0000FF">="pubDate" /&gt;&lt;/<font color="#800000">p<font color="#0000FF">&gt;
-    &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='dc:date'&gt;
-        &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Posted on:
-            <font color="#0000FF">&lt;<font color="#800000">xsl:value-of <font color="#FF0000">select<font color="#0000FF">="dc:date" /&gt;&lt;/<font color="#800000">p<font color="#0000FF">&gt;
-    &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:otherwise<font color="#0000FF">&gt;
-    &lt;<font color="#800000">p<font color="#0000FF">&gt;<font color="#000000">Couldn't Retrieve Date<font color="#0000FF">&lt;/<font color="#800000">p<font color="#0000FF">&gt;
-    &lt;/<font color="#800000">xsl:otherwise<font color="#0000FF">&gt;
-&lt;/<font color="#800000">xsl:choose<font color="#0000FF">&gt;
-
-</pre>
+```xsl
+<xsl:choose>
+    <xsl:when test='pubDate'>
+        <p>Posted on:
+            <xsl:value-of select="pubDate" /></p>
+    </xsl:when>
+    <xsl:when test='dc:date'>
+        <p>Posted on:
+            <xsl:value-of select="dc:date" /></p>
+    </xsl:when>
+    <xsl:otherwise>
+    <p>Couldn't Retrieve Date</p>
+    </xsl:otherwise>
+</xsl:choose>
+```
 
 I had to use a similar method for handling any HTML content inside of the downloaded RSS feed, using an xsl:choose to determine between the three main methods of handling HTML content inside an RSS feed. The three more common methods are:
 
-  * Flag the HTML block with a content:encoding tag and HTML encode all of the tags,
-  * Place the HTML into an xhtml:body element, and leave the HTML tags intact, or
-  * Just leave it unmarked and inline just like plain text.
+* Flag the HTML block with a content:encoding tag and HTML encode all of the tags,
+* Place the HTML into an xhtml:body element, and leave the HTML tags intact, or
+* Just leave it unmarked and inline just like plain text.
 
 To make sure I could handle each of these three cases, I used another xsl:choose function (in the XSLT) to pick the right implementation for each specific format, and to just assume un-encoded content if I cannot determine the exact method being employed.
 
-<pre class="code"><font color="#000000"><font color="#0000FF">&lt;<font color="#800000">xsl:choose<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='xhtml:body'&gt;
-        &lt;<font color="#800000">xsl:copy-of <font color="#FF0000">select<font color="#0000FF">='xhtml:body'/&gt;
-    &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:when <font color="#FF0000">test<font color="#0000FF">='content:encoded'&gt;
-        &lt;<font color="#800000">xsl:value-of <font color="#FF00FF">
-            <font color="#FF0000">disable-output-escaping<font color="#0000FF">='yes'
-            <font color="#FF0000">select<font color="#0000FF">='content:encoded'/&gt;
-    &lt;/<font color="#800000">xsl:when<font color="#0000FF">&gt;
-    &lt;<font color="#800000">xsl:otherwise<font color="#0000FF">&gt;
-        &lt;<font color="#800000">xsl:value-of
-            <font color="#FF0000">disable-output-escaping<font color="#0000FF">='yes'
-            <font color="#FF0000">select<font color="#0000FF">='description'/&gt;
-    &lt;/<font color="#800000">xsl:otherwise<font color="#0000FF">&gt;
-&lt;/<font color="#800000">xsl:choose<font color="#0000FF">&gt;
-
-</pre>
+```xsl
+<xsl:choose>
+    <xsl:when test='xhtml:body'>
+        <xsl:copy-of select='xhtml:body'/>
+    </xsl:when>
+    <xsl:when test='content:encoded'>
+        <xsl:value-of
+            disable-output-escaping='yes'
+            select='content:encoded'/>
+    </xsl:when>
+    <xsl:otherwise>
+        <xsl:value-of
+            disable-output-escaping='yes'
+            select='description'/>
+    </xsl:otherwise>
+</xsl:choose>
+```
 
 The end result should work for any feed that is using one of these three methods for exposing their content as a RSS feed (xhtml:body, description, or content:encoding), producing a final display similar to what is shown in Figure 3.
 
@@ -102,6 +102,6 @@ The end result should work for any feed that is using one of these three methods
 
 Now, it is very important to note that whenever you are going to display HTML content that someone else has provided (such as the content inside of an RSS feed), you need to be aware of the possible risks, especially when you are using my method of replacing the contents of the "about:blank" page. When HTML is displayed in the embedded browser, it is running within the local zone, which will likely have much lower security restrictions than the Internet zone. Although there are ways in which you can clean up HTML before displaying it, it takes quite a bit of work to guarantee that it is completely safe. Check out [this useful blog post](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely) that describes some of the issues caused by HTML in RSS, and gives some suggestions on avoiding them.
 
-* * *More to come soon... I've updated the XSLT at
+More to come soon... I've updated the XSLT at
 
 <http://www.duncanmackenzie.net/rss2html2.zip> for your viewing pleasure...

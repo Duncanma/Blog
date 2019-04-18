@@ -2,19 +2,77 @@
 date: 2005-04-14T16:00:00+00:00
 title: Quick Windows Forms Control... a Label with a 3D Line...
 type: posts
+tags:
+ - Coding
 ---
 I was mocking up a UI yesterday, and I wanted to produce an interface that looked like Front Page's "New from Template" dialog...
 
-<img title="Front Page Template Dialog" src="http://www.duncanmackenzie.net/images/FrontPageTemplates.png" border="0" />
+![Front Page Template Dialog](/images/FrontPageTemplates.png)
 
 But I couldn't easily replicate those little dividers (for Options, Description, Preview), so I created a "DividerLabel" with about 10 minutes of VB.NET code (2003)...
 
-<img title="Divider Label Sample" src="http://www.duncanmackenzie.net/images/DividerLabelSample.png" border="0" />
+![Divider Label Sample](/images/DividerLabelSample.png)
 
 And, if you are so inclined, you can set the text to nothing and you have a line!
 
-<img title="Hey Look, a Line!" src="http://www.duncanmackenzie.net/images/HeyLookYouCanMakeALine.png" border="0" />
+![Hey Look, a Line!](/images/HeyLookYouCanMakeALine.png)
 
-**The Code**
+## The Code
 
-<pre><font color="blue" family="Microsoft Sans Serif">Imports System.Drawing <font color="blue" family="Microsoft Sans Serif">Imports System.Windows.Forms <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Class DividerLabel <font color="blue" family="Microsoft Sans Serif">Inherits System.Windows.Forms.Label <font color="blue" family="Microsoft Sans Serif">Dim m_spacing <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">Integer <font color="blue" family="Microsoft Sans Serif">Dim m_borderStyle <font color="blue" family="Microsoft Sans Serif">As Border3DStyle = Border3DStyle.Etched &lt;System.ComponentModel.Category(<font color="red" family="Microsoft Sans Serif">"Appearance")&gt; _ <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Property LineStyle() <font color="blue" family="Microsoft Sans Serif">As Border3DStyle <font color="blue" family="Microsoft Sans Serif">Get <font color="blue" family="Microsoft Sans Serif">Return m_borderStyle <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Get <font color="blue" family="Microsoft Sans Serif">Set(<font color="blue" family="Microsoft Sans Serif">ByVal Value <font color="blue" family="Microsoft Sans Serif">As Border3DStyle) <font color="blue" family="Microsoft Sans Serif">If Value &lt;&gt; m_borderStyle <font color="blue" family="Microsoft Sans Serif">Then m_borderStyle = Value <font color="blue" family="Microsoft Sans Serif">Me.Invalidate() <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">If <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Set <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Property &lt;System.ComponentModel.Category(<font color="red" family="Microsoft Sans Serif">"Appearance")&gt; _ <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Property Spacing() <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">Integer <font color="blue" family="Microsoft Sans Serif">Get <font color="blue" family="Microsoft Sans Serif">Return m_spacing <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Get <font color="blue" family="Microsoft Sans Serif">Set(<font color="blue" family="Microsoft Sans Serif">ByVal Value <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">Integer) <font color="blue" family="Microsoft Sans Serif">If Value &lt;&gt; m_spacing <font color="blue" family="Microsoft Sans Serif">Then m_spacing = Value <font color="blue" family="Microsoft Sans Serif">Me.Invalidate() <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">If <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Set <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Property <font color="blue" family="Microsoft Sans Serif">Protected <font color="blue" family="Microsoft Sans Serif">Overrides <font color="blue" family="Microsoft Sans Serif">Sub OnPaint(<font color="blue" family="Microsoft Sans Serif">ByVal e <font color="blue" family="Microsoft Sans Serif">As PaintEventArgs) <font color="blue" family="Microsoft Sans Serif">Dim g <font color="blue" family="Microsoft Sans Serif">As Graphics = e.Graphics <font color="blue" family="Microsoft Sans Serif">Dim f <font color="blue" family="Microsoft Sans Serif">As Font = <font color="blue" family="Microsoft Sans Serif">Me.Font <font color="blue" family="Microsoft Sans Serif">Dim b <font color="blue" family="Microsoft Sans Serif">As Brush = <font color="blue" family="Microsoft Sans Serif">New SolidBrush(<font color="blue" family="Microsoft Sans Serif">Me.ForeColor) <font color="blue" family="Microsoft Sans Serif">Dim sf <font color="blue" family="Microsoft Sans Serif">As StringFormat = StringFormat.GenericTypographic <font color="blue" family="Microsoft Sans Serif">Dim labelBounds <font color="blue" family="Microsoft Sans Serif">As <font color="blue" family="Microsoft Sans Serif">New RectangleF(0, 0, <font color="blue" family="Microsoft Sans Serif">Me.Width, <font color="blue" family="Microsoft Sans Serif">Me.Height) <font color="blue" family="Microsoft Sans Serif">Dim textSize <font color="blue" family="Microsoft Sans Serif">As SizeF = g.MeasureString(<font color="blue" family="Microsoft Sans Serif">Me.Text, f, <font color="blue" family="Microsoft Sans Serif">Me.Width) g.DrawString(<font color="blue" family="Microsoft Sans Serif">Me.Text, f, b, 0, 0, sf) <font color="blue" family="Microsoft Sans Serif">If textSize.Width + Spacing &lt; <font color="blue" family="Microsoft Sans Serif">Me.Width <font color="blue" family="Microsoft Sans Serif">Then <font color="blue" family="Microsoft Sans Serif">Dim startingPoint <font color="blue" family="Microsoft Sans Serif">As Point startingPoint.X = textSize.Width + Spacing startingPoint.Y = textSize.Height \ 2 ControlPaint.DrawBorder3D(g, startingPoint.X, _ startingPoint.Y, _ <font color="blue" family="Microsoft Sans Serif">Me.Width - startingPoint.X, _ 5, m_borderStyle, Border3DSide.Top) <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">If <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Sub <font color="blue" family="Microsoft Sans Serif">Public <font color="blue" family="Microsoft Sans Serif">Sub <font color="blue" family="Microsoft Sans Serif">New() <font color="blue" family="Microsoft Sans Serif">Me.SetStyle(ControlStyles.DoubleBuffer, <font color="blue" family="Microsoft Sans Serif">True) <font color="blue" family="Microsoft Sans Serif">Me.SetStyle(ControlStyles.AllPaintingInWmPaint, <font color="blue" family="Microsoft Sans Serif">True) <font color="blue" family="Microsoft Sans Serif">Me.SetStyle(ControlStyles.ResizeRedraw, <font color="blue" family="Microsoft Sans Serif">True) <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Sub <font color="blue" family="Microsoft Sans Serif">End <font color="blue" family="Microsoft Sans Serif">Class </pre>
+```vb
+Imports System.Drawing
+Imports System.Windows.Forms
+
+Public Class DividerLabel Inherits System.Windows.Forms.Label
+    Dim m_spacing As Integer
+    Dim m_borderStyle As Border3DStyle = Border3DStyle.Etched
+
+    <System.ComponentModel.Category("Appearance")>
+    Public Property LineStyle() As Border3DStyle
+        Get
+            Return m_borderStyle
+        End Get
+
+        Set(ByVal Value As Border3DStyle)
+            If Value <> m_borderStyle Then
+                m_borderStyle = Value Me.Invalidate()
+            End If
+        End Set
+    End Property
+
+    <System.ComponentModel.Category("Appearance")>
+    Public Property Spacing() As Integer
+        Get
+            Return m_spacing
+        End Get
+        Set(ByVal Value As Integer)
+            If Value <> m_spacing Then
+                m_spacing = Value
+                Me.Invalidate()
+            End If
+        End Set
+    End Property
+
+    Protected Overrides Sub OnPaint(ByVal e As PaintEventArgs)
+        Dim g As Graphics = e.Graphics
+        Dim f As Font = Me.Font
+        Dim b As Brush = New SolidBrush(Me.ForeColor)
+        Dim sf As StringFormat = StringFormat.GenericTypographic
+        Dim labelBounds As New RectangleF(0, 0, Me.Width, Me.Height)
+        Dim textSize As SizeF = g.MeasureString(Me.Text, f, Me.Width)
+        g.DrawString(Me.Text, f, b, 0, 0, sf)
+        If textSize.Width + Spacing < Me.Width Then
+            Dim startingPoint As Point
+            startingPoint.X = textSize.Width + Spacing
+            startingPoint.Y = textSize.Height \ 2
+            ControlPaint.DrawBorder3D(g, startingPoint.X, _ startingPoint.Y, _ Me.Width - startingPoint.X, _ 5, m_borderStyle, Border3DSide.Top)
+        End If
+    End Sub
+
+    Public Sub New()
+        Me.SetStyle(ControlStyles.DoubleBuffer, True)
+        Me.SetStyle(ControlStyles.AllPaintingInWmPaint, True)
+        Me.SetStyle(ControlStyles.ResizeRedraw, True)
+    End Sub
+End Class
+```

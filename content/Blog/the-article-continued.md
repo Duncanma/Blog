@@ -2,6 +2,9 @@
 date: 2003-07-31T10:37:00+00:00
 title: The article continued...
 type: posts
+tags:
+ - RSS
+ - Coding
 ---
 Continuing along with the rest of the article, I start to layout the basic design of what I am about to build...
 
@@ -35,19 +38,21 @@ Of course, storing and updating feed lists is truly secondary to the purpose of 
 
 To load the feed itself, I use the Load method of an XMLDocument. I then load up the XSL from another URL (or file location) into an XSLTransform instance. Finally, I use the Transform method of the XSLTransform class to take the XMLDocument and transform it using the XSL. The output from the transform is written into a stream, so I created a String based stream (an instance of IO.StringWriter) to accept the results.
 
-<pre>Dim myDoc As New XmlDocument
-            myDoc.Load(rssURL.Text)
+```vb
+Dim myDoc As New XmlDocument
+myDoc.Load(rssURL.Text)
 
-            Dim result As New System.Text.StringBuilder
-            Dim resultStream = New IO.StringWriter(result)
+Dim result As New System.Text.StringBuilder
+Dim resultStream = New IO.StringWriter(result)
 
-            Dim xslt As New XslTransform
-            xslt.Load(xsltURL.Text)
-            xslt.Transform(myDoc, New Xsl.XsltArgumentList, resultStream)
-</pre>
+Dim xslt As New XslTransform
+xslt.Load(xsltURL.Text)
+xslt.Transform(myDoc, New Xsl.XsltArgumentList, resultStream)
+```
 
-So far, this is really straightforward code, as the real work is being done in the XSL file itself. This XSL isn't capable of handling any RSS feed, as consistency isn't one of the strong-points of RSS implementations, but it has worked on the feeds from weblogs.asp.net, MSDN and GotDotNet so it should be sufficient for now. </ul>
+So far, this is really straightforward code, as the real work is being done in the XSL file itself. This XSL isn't capable of handling any RSS feed, as consistency isn't one of the strong-points of RSS implementations, but it has worked on the feeds from weblogs.asp.net, MSDN and GotDotNet so it should be sufficient for now.
 
+```xsl
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' xmlns:content='http://purl.org/rss/1.0/modules/content/'
  xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:utility="urn:myScripts" xmlns:xhtml='http://www.w3.org/1999/xhtml'
@@ -89,13 +94,12 @@ end function
   </div>
  </xsl:template>
 </xsl:stylesheet>
+```
 
-* * *Before I can continue with the article I really need to finish up the code, which I haven't had quite enough time for yet... so far I ended up creating a little 'test' application (see the pic below) that will eventually be scrapped in favour of the real system, and the same goes for that code I've pasted in above... but it is a start. The XSLT will likely be improved a bit more as well, it can't handle
+Before I can continue with the article I really need to finish up the code, which I haven't had quite enough time for yet... so far I ended up creating a little 'test' application (see the pic below) that will eventually be scrapped in favour of the real system, and the same goes for that code I've pasted in above... but it is a start. The XSLT will likely be improved a bit more as well, it can't handle
 
-[<font color="#0000ff">Chris Sells's feed](http://www.sellsbrothers.com/news/rss.aspx) at at the moment among others (due to [the wonders of RSS](http://weblogs.asp.net/ksharkey/posts/21875.aspx) and my own lack of knowledge about all of the different possible elements).
+[Chris Sells's feed](http://www.sellsbrothers.com/news/rss.aspx) at the moment among others (due to [the wonders of RSS](http://weblogs.asp.net/ksharkey/posts/21875.aspx) and my own lack of knowledge about all of the different possible elements).
 
-<img src="http://www.duncanmackenzie.net/rssviewer.jpg" border="0" />
+![RSS Viewer Screenshot](/images/rssviewer.jpg)
 
 The current version of the XSL file is sitting at <http://www.duncanmackenzie.net/rss2html2.zip> if you are interested....
-
-###

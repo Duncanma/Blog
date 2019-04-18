@@ -4,4 +4,4 @@ title: C9 Guy Is Letting Loose
 type: posts
 ---
 
-		<img src="http://channel9.msdn.com/photos/C9GuyInVegas.jpg" border="0" />
+![Channel 9 on a slot machine in Vegas](/images/C9GuyInVegas.jpg)
