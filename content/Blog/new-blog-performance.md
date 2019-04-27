@@ -5,25 +5,28 @@ tags:
  - Blogging
  - Coding
  - Performance
-draft: true
 ---
-Moving over to a new blog engine is not a simple task. I had to extract out my approximately 1000 blog posts from WordPress as Markdown, fix up all their metadata, and then start fixing all of the HTML that was mangled into a weird mix of markdown and HTML. The overall goal seemed worth all of this work:
+Moving over to a new blog engine ([Hugo](https://gohugo.io/)) is not a simple task. I had to extract out my approximately 1000 blog posts from WordPress as Markdown, fix up all their metadata, and then start fixing all of the HTML that was mangled into a weird mix of markdown and HTML. The overall goal seemed worth all of this work:
 
 * Clean HTML
 * High performance
 * Low cost site
 
+>The process of moving my content, getting hosted in a new place, configuring the CDN, and setting up a process to automatically publish whenever I updated the source all took a fair bit of time, but I'm not going to dig into those details in this post.
+
+Once I had it up and running, I decided to evaluate the performance compared to the old site and then spend some time trying to make it as fast as I could.
+
+## My performance testing process
+
 Whenever I'm looking at performance tuning, I follow a fairly simple pattern. I measure to figure out what's slow and then I try to make that specific thing faster and/or try to do it less. Repeat as necessary.
 
-## What am I testing?
+As a starting point, I decided to get rid of a bunch of unnecessary things by going with a static site. That means, in a standard "user goes to page" scenario, no server code runs and no database needs to be accessed. That alone should make a huge difference in both the actual time that it takes for a single page to be generated, returned to the browser and rendered and also in the overall amount of work happening on our server.
 
-As a starting point, I decided to get rid of a bunch of unnecessary things by going with a static site. That means, in a standard "user goes to page" scenario, no WordPress php code runs and no database needs to be accessed. That alone should make a huge difference in both the actual time that it takes for a single page to be generated, returned to the browser and rendered and also in the overall amount of work happening on our server.
+Reducing the page load time is good for the user, reducing the amount of work done on the server is good for **our** budget and scalability.
 
-Reducing the page load time is good for the user, reducing the amount of work done is good for **our** budget and scalability.
+My goal was to try to make this new version as fast as possible, while working in a very methodical way. I want to know that I'm making things better, so I start by comparing the existing site (WordPress) to my newly published static site (generated HTML, hosted in an [Azure Static website](https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website), behind [the Azure CDN](https://docs.microsoft.com/azure/cdn/)) **before I make any changes**.
 
-My goal was to try to make this new version as fast as possible, while working in a very methodical way. I want to know that I'm makings better, so I start by comparing the existing site (WordPress) to my newly published static site (generated HTML, hosted in an [Azure Static website](https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website), behind [the Azure CDN](https://docs.microsoft.com/azure/cdn/)).
-
-For all of my tests, I'm using [this single blog post](/blog/content-taxonomy-musings/), and the same settings in [WebPageTest](https://webpagetest.org). Pick the location and connection speed that works for you, but make sure you are doing the same settings for every test. I always do 'First View and Repeat View' so that I can see what a 'cold' request looks like vs. one with some items in the cache.
+For all of my tests, I'm using [this single blog post](/blog/content-taxonomy-musings/), and the same settings in [WebPageTest](https://webpagetest.org). Pick the location and connection speed that works for you, but make sure you are using the same settings for every test. I always do 'First View and Repeat View' so that I can see what a 'cold' request looks like vs. one with some items in the cache.
 
 ## First test (baseline vs. WordPress)
 
@@ -51,7 +54,7 @@ At this point, I'm actually a bit disappointed though. Yes it is way faster, but
 
 Looking at the waterfall view from WebPageTest is a good start.
 
-![Waterfall view of connection times and content loads from the new blog](../../static/images/performance/Baseline_New_Waterfall.png)
+![Waterfall view of connection times and content loads from the new blog](/images/performance/Baseline_New_Waterfall.png)
 
 Ignore all the red lines at the bottom, I hadn't created a favicon or web manifest at this point, but the theme still had links to all of those in the metadata. The real part that jumped out to me was the loading of a set of custom font files (lines 8, 9 and 10). Not only are they large, but being fonts that the page needs, they have a real impact on the time until the page can be rendered for the user. Given that they are part of my site, instead of a Google font for example, they also won't be in anyone's cache, so this impact will be present even in real-world usage.
 
@@ -60,7 +63,8 @@ Ignore all the red lines at the bottom, I hadn't created a favicon or web manife
 I [considered dropping all of the web fonts](https://responsivedesign.is/articles/should-i-use-system-fonts-or-web-fonts/#going-back-to-basics), but I decided to just switch to a Google font, since I was already loading one for source code listings.
 
 ```html
-<link href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro"
+ rel="stylesheet">
 ```
 
 At the same time, I had noticed that the CSS returned by the googleapis.com call in turn referenced fonts.gstatic.com to load the actual font file. This resulted in a small performance hit as it had to do the DNS lookup, connection and TLS/SSL negotiation later on after it had processed the css. I added a `preconnect` link tag to allow that to happen a bit earlier in the timeline, as you can see on line 8 of the new waterfall.
@@ -69,9 +73,9 @@ At the same time, I had noticed that the CSS returned by the googleapis.com call
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 ```
 
-![Waterfall view after removing the local web fonts and adding preconnect](../../static/images/performance/AfterRemovingFonts_Waterfall.png)
+![Waterfall view after removing the local web fonts and adding preconnect](/images/performance/AfterRemovingFonts_Waterfall.png)
 
->[Preconnect is just one of the resource hints you can use, for more info check out this great overview of how they work and ideas on when to use them.](https://www.keycdn.com/blog/resource-hints)
+>Preconnect is just one of the browser hints you can use, for more info check out [this great overview of how Resource Hints work and ideas on when to use them](https://www.keycdn.com/blog/resource-hints).
 
 It made for a good improvement, knocking the median first view load time to 1.466s (from 1.862s) and the bytes sent down to 446 KB (from 704 KB).
 
@@ -86,13 +90,13 @@ It made for a good improvement, knocking the median first view load time to 1.46
 
 Performance optimization is a process of continually finding the next problem to address, and in my case (going back to the handy waterfall diagram from above) the JavaScript (line 5) is the issue.
 
-![JavaScript loading is listed as nearly 1s in this diagram](../../static/images/performance/JavaScript_Waterfall.png)
+![JavaScript loading is listed as nearly 1s in this diagram](/images/performance/JavaScript_Waterfall.png)
 
-My first thought was that this made no sense. As far as I could tell, looking at my site with it's nice simple theme, JavaScript was only needed for the little hamburger menu and the dark/light theme switcher. I'm no JavaScript expert, but that should not be adding 300 KB of JavaScript to my page. Those 300 KB are more negatively impactful than a similar sized image as well, as JavaScript needs to be parsed and executed. If you're curious, [Addy Osmani has a great article on the impact of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4). Digging into the theme, I realized the script also included [Prism.js](https://prismjs.com/), to syntax highlight any code listings on the page. Not every one of my pages has source code, so I started thinking of having two JS bundles, and only bringing Prism in when needed, but I discovered that Hugo is capable of doing syntax highlighting as part of the page generation process. Switching to that, I was able to drop Prism out of the JavaScript bundle (some css changes were needed as well to bring in Hugo's Chroma styles and remove the Prism ones), reducing it down to 0.5 KB.
+My first thought was that this made no sense. As far as I could tell, looking at my site with [it's nice simple theme](https://themes.gohugo.io/hugo-theme-hello-friend-ng/), JavaScript was only needed for the little hamburger menu and the dark/light theme switcher. I'm no JavaScript expert, but that should not be adding 300 KB of JavaScript to my page. Those 300 KB are more negatively impactful than a similar sized image as well, as JavaScript needs to be parsed and executed. If you're curious, [Addy Osmani has a great article on the impact of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4). Digging into the theme, I realized the script also included [Prism.js](https://prismjs.com/), to syntax highlight any code listings on the page. Not every one of my pages has source code, so I started thinking of having two JS bundles, and only bringing Prism in when needed, but I discovered that [Hugo is capable of doing syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/) as part of the page generation process. Switching to that, I was able to drop Prism out of the JavaScript bundle (some css changes were needed as well to bring in Hugo's Chroma styles and remove the Prism ones), reducing it down to 0.5 KB.
 
 Ideally I'd have made only one change at a time, but I also fixed up the missing favicon/webmanifest items, because those red lines were bugging me. You can see the new JavaScript load at line 5.
 
-![Waterfall view of page load, after reducing JavaScript](../../static/images/performance/SmallJavaScript_Waterfall.png)
+![Waterfall view of page load, after reducing JavaScript](/images/performance/SmallJavaScript_Waterfall.png)
 
 At this point, I'm starting to feel pretty good about the performance numbers, as we're below 1s on page load. This is from the default location of Dulles, VA over a high-speed connection, but these improvements will help slower devices and slower connections as well.
 
@@ -105,13 +109,31 @@ At this point, I'm starting to feel pretty good about the performance numbers, a
 
 ## Adding analytics
 
-My goal is for my site to do the least amount of work, load the smallest # of resources, and run the smallest amount of JavaScript, but I can't get rid of everything. Once I had the site performance up to what seems acceptable, I realized I would need to add something to the site to be able to get basic analytics. In my day job, this is what I would consider a 'business goal', and new ones often come up that could lead to adding something to your site. It's unavoidable, but that doesn't mean you should forget about all your hard work around performance. I decided that Google Analytics would be the ideal way to add stats tracking, as it is very feature rich and I wouldn't need to build any of my own reports.
+My goal is for my site to do the least amount of work, load the smallest # of resources, and run the smallest amount of JavaScript, but I can't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics. In my day job, this is what I would consider a 'business goal', and new ones often come up that could lead to adding something to your site. It's unavoidable, but that doesn't mean you should forget about all your hard work around performance. I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
 
-Starting with the async enabled version of the tracking script, I tried adding it to my site in three different ways:
+Starting with [the async enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
 
 * first I put it into the footer of the site,
 * then I tried adding a preconnect link for the domain it calls `www.google-analytics.com`, and
 * finally I tried having it in the `<HEAD>`, keeping the preconnect as well
 
-The difference between these three was very small (different amounts on different runs, which isn't unusual), but I really didn't want to undo all my earlier perf work just to get some basic analytics. In the end, the default experience, along with the `<preconnect>` seemed to produce the best result.
+The difference between these three was very small (different amounts on different runs, which isn't unusual), but a few minutes of performance testing isn't that hard and I really didn't want to undo all my earlier perf work. In the end, the first attempt (async script in the footer) seemed to produce the best result.
 
+**After adding Google Analytics** ([Source on WebPageTest.org](http://webpagetest.org/result/190427_MA_f1e3de6d27d104d1774b28ef619a9052/))
+
+|Run | Load Time | First Byte | Start Render | Requests | Bytes In|
+|----|-----------|------------|--------------|----------|---------|
+|First View | 0.992s | 0.210s | 0.800s | 9 | 136 KB |
+|Repeat View | 0.694s | 0.691s | 0.400s | 1 | 0 KB|
+
+**It's slower than without analytics**, especially on the repeat view (because the analytics code creates traffic on every view), but for now I'm going to accept this.
+
+## Conclusion
+
+Web performance is always about trade-offs. If speed was the only concern for my site, I would drop the analytics and switch to system fonts only. Still, even with the appearance I want, and the 'business' driven goal of stats, I'm still running a site that is roughly 4 times faster than it was before I started. If you are just starting to think about your own site(s) or planning a new one, I would follow this pattern:
+
+* Generate everything you can in advance, so that you are only doing that work when the content changes,
+* Host it statically, so the server is doing the minimum,
+* Add only essential JavaScript,
+* Put it behind a CDN, with as long cache times as possible, and
+* Add any user-specific content through client-side script, so that you can cache the rest of your page
