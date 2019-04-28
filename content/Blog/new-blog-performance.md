@@ -45,7 +45,7 @@ First comparison matched up with expectations. The static version of a given blo
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
 |First View | 1.862s | 0.306s | 0.900s | 10 | 704 KB
-|Repeat View | 0.515s | - | 0.400s | 0.409s | 0 | 0 KB
+|Repeat View | 0.515s | N/A | 0.400s | 0.409s | 0 | 0 KB
 
 Better in every respect, as it should be. It is doing way less on the back end and the front-end.
 
@@ -85,7 +85,7 @@ It made for a good improvement, knocking the median first view load time to 1.46
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
 |First View | 1.466s | 0.330s | 1.000s | 8 | 446 KB |
-|Repeat View | 0.333s | - | 0.300s | 0.332s | 0 | 0 KB |
+|Repeat View | 0.333s | N/A | 0.300s | 0.332s | 0 | 0 KB |
 
 ## The next 'problem', JavaScript
 
@@ -108,7 +108,7 @@ At this point, I was starting to feel pretty good about the performance numbers,
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
 |First View | 0.900s | 0.213s | 0.800s | 0.849s | 8 | 119 KB |
-|Repeat View | 0.334s | - | 0.400s | 0.410s | 0 | 0 KB |
+|Repeat View | 0.334s | N/A | 0.400s | 0.410s | 0 | 0 KB |
 
 ## Adding analytics
 
