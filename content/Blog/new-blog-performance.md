@@ -101,7 +101,7 @@ Ideally I'd have made only one change at a time, but I also fixed up the missing
 
 ![Waterfall view of page load, after reducing JavaScript](/images/performance/SmallJavaScript_Waterfall.png)
 
-At this point, I'm starting to feel pretty good about the performance numbers, as we're below 1s on page load. This is from the default location of Dulles, VA over a high-speed connection, but these improvements will help slower devices and slower connections as well.
+At this point, I was starting to feel pretty good about the performance numbers, which were below 1s on page load. This was from the default location of Dulles, VA over a high-speed connection, but these improvements would help slower devices and slower connections as well.
 
 **After reducing the JavaScript** ([Source on WebPageTest.org](http://webpagetest.org/result/190417_FS_617e5fb90a4c42c36f48c3e5fe0980f4/))
 
@@ -112,7 +112,7 @@ At this point, I'm starting to feel pretty good about the performance numbers, a
 
 ## Adding analytics
 
-My goal is for my site to do the least amount of work, load the smallest # of resources, and run the smallest amount of JavaScript, but I can't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics. In my day job, this is what I would consider a 'business goal', and new ones often come up that could lead to adding something to your site. It's unavoidable, but that doesn't mean you should forget about all your hard work around performance. I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
+My goal was for my site to do the least amount of work, load the smallest # of resources, and run the smallest amount of JavaScript, but I couldn't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics. In my day job, this is what I would consider a 'business goal', and new ones often come up that could lead to adding something to your site. It's unavoidable, but that doesn't mean you should forget about all your hard work around performance. I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
 
 Starting with [the async enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
 
