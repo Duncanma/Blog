@@ -118,13 +118,13 @@ My goal was for my site to do the least amount of work, load the lowest number o
 
 I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
 
-Starting with [the async enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
+Starting with [the async-enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
 
-* first I put it into the footer of the site,
-* then I tried adding a preconnect link for the domain it calls `www.google-analytics.com`, and
-* finally I tried having it in the `<HEAD>`, keeping the preconnect as well
+* putting it into the footer of the site,
+* adding a preconnect link for the domain it calls, and
+* moving it to the `<HEAD>`
 
-The difference between these three was very small (different amounts on different runs, which isn't unusual), but a few minutes of performance testing isn't that hard and I really didn't want to undo all my earlier perf work. In the end, the first attempt (async script in the footer) seemed to produce the best result.
+The difference between these three was very small (different amounts on different runs, which isn't unusual), but a few minutes of testing wasn't that hard and I really didn't want to undo all my earlier performance work. In the end, the first attempt (async script in the footer) seemed to produce the best result.
 
 **After adding Google Analytics** ([Source on WebPageTest.org](http://webpagetest.org/result/190427_MA_f1e3de6d27d104d1774b28ef619a9052/))
 
