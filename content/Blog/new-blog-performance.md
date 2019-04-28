@@ -112,7 +112,11 @@ At this point, I was starting to feel pretty good about the performance numbers,
 
 ## Adding analytics
 
-My goal was for my site to do the least amount of work, load the smallest # of resources, and run the smallest amount of JavaScript, but I couldn't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics. In my day job, this is what I would consider a 'business goal', and new ones often come up that could lead to adding something to your site. It's unavoidable, but that doesn't mean you should forget about all your hard work around performance. I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
+My goal was for my site to do the least amount of work, load the lowest number of resources, and run the smallest amount of JavaScript, but I couldn't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics.
+
+> In my day job, this is what I would consider a 'business goal', and it is often in conflict with my minimalist attitude. It's unavoidable, but that doesn't mean forgetting about all the hard work around performance.
+
+I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
 
 Starting with [the async enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
 
