@@ -114,15 +114,13 @@ At this point, I was starting to feel pretty good about the performance numbers,
 
 My goal was for my site to do the least amount of work, load the lowest number of resources, and run the smallest amount of JavaScript, but I couldn't get rid of everything. Once I had the site performance up to what seemed acceptable, I realized I would need to add something to the site to be able to get basic analytics.
 
-> In my day job, this is what I would consider a 'business goal', and it is often in conflict with my minimalist attitude. It's unavoidable, but that doesn't mean forgetting about all the hard work around performance.
-
 I decided that Google Analytics would be the ideal way to add stats tracking, as it is feature rich and I wouldn't need to build any of my own reports.
 
 Starting with [the async-enabled version of the tracking script](https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet), I tried adding it to my site in three different ways:
 
-* putting it into the footer of the site,
-* adding a preconnect link for the domain it calls, and
-* moving it to the `<HEAD>`
+* Putting it into the footer of the site
+* Adding a preconnect link for the domain it calls
+* Moving it to the `<HEAD>`
 
 The difference between these three was very small (different amounts on different runs, which isn't unusual), but a few minutes of testing wasn't that hard and I really didn't want to undo all my earlier performance work. In the end, the first attempt (async script in the footer) seemed to produce the best result.
 
@@ -141,8 +139,7 @@ Web performance is always about trade-offs. If speed was the only concern for my
 
 If you are just starting to think about your own site(s) or planning a new one, I would follow this pattern:
 
-* Generate everything you can in advance,
-* Host it statically,
-* Add only essential JavaScript, and
+* Generate everything you can in advance
+* Host it statically
+* Add only essential JavaScript
 * Put it behind a CDN
-
