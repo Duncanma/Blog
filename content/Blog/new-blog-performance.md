@@ -13,8 +13,6 @@ Moving over to a new blog engine ([Hugo](https://gohugo.io/)) is not a simple ta
 * High performance
 * Low cost site
 
->The process of moving my content, getting hosted in a new place, configuring the CDN, and setting up a process to automatically publish whenever I updated the source all took a fair bit of time, but I'm not going to dig into those details in this post.
-
 Once I had it up and running, I decided to evaluate the performance compared to the old site and then spend some time trying to make it as fast as I could.
 
 ## My performance testing process
