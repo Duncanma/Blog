@@ -137,10 +137,12 @@ The difference between these three was very small (different amounts on differen
 
 ## Conclusion
 
-Web performance is always about trade-offs. If speed was the only concern for my site, I would drop the analytics and switch to system fonts only. Still, even with the appearance I want, and the 'business' driven goal of stats, I'm still running a site that is roughly 4 times faster than it was before I started. If you are just starting to think about your own site(s) or planning a new one, I would follow this pattern:
+Web performance is always about trade-offs. If speed was the only concern for my site, I would drop the analytics and switch to system fonts only. Still, even with the appearance I want, and the business-driven goal of stats, I'm still running a site that is roughly 4 times faster than it was before I started.
 
-* Generate everything you can in advance, so that you are only doing that work when the content changes,
-* Host it statically, so the server is doing the minimum,
-* Add only essential JavaScript,
-* Put it behind a CDN, with as long cache times as possible, and
-* Add any user-specific content through client-side script, so that you can cache the rest of your page
+If you are just starting to think about your own site(s) or planning a new one, I would follow this pattern:
+
+* Generate everything you can in advance,
+* Host it statically,
+* Add only essential JavaScript, and
+* Put it behind a CDN
+
