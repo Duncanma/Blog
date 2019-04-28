@@ -66,6 +66,7 @@ disableHugoGeneratorInject = false
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
 
+  toc = true
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "Blog"
   # Default theme "light" or "dark"
