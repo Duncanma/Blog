@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = ""
+  homeSubtitle = "Personal site, various development focused ramblings by a Microsoft developer"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/DuncanmaMSFT/Blog/commit/"
