@@ -6,6 +6,8 @@ tags:
  - Blogging
  - Coding
  - Performance
+featured: true
+summary: Once I had it up and running, I decided to evaluate the performance compared to the old site and then spend some time trying to make it as fast as I could.
 ---
 Moving over to a new blog engine ([Hugo](https://gohugo.io/)) is not a simple task. I had to extract out my approximately 1000 blog posts from WordPress as Markdown, fix up all their metadata, and then start fixing all of the HTML that was mangled into a weird mix of markdown and HTML. The overall goal seemed worth all of this work:
 

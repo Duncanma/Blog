@@ -4,7 +4,7 @@ title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
 
 theme = "hello-friend-ng"
-
+summaryLength = 10
 pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit  = 10  # Maximum number of items in the RSS feed.
