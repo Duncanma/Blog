@@ -60,7 +60,7 @@ _Honestly, I feel this is like trying to decide on the best way to catalog your 
 
 The idea of grouping tags into buckets like Product wasn’t a bad one, and I think it would help, but what if we also added the concept of parent-child relationships to our tags? What if Azure Media Indexer was a child of Azure Media Services, which was a child of Azure?
 
-![Simple tag hierarchy](/images/TagHiearchy.png)
+![Simple tag hierarchy](/images/TagHiearchy.jpg)
 
 Perhaps, if we had this relationship, we could use this knowledge to make the tagging job easier. Post is tagged only with Azure Media Indexer? We infer the rest of the tags all the way up the hierarchy. This has benefits when finding content; when you view ‘all posts tagged Azure’, we could return posts that are tagged with Azure Media Indexer too. The other benefit is for the content contributor; they could just tag with the very specific tag and wouldn’t have to remember to add all the others. That has merit, but it wouldn’t have stopped someone from tagging a post with just Azure like they did with the Azure Friday video given as an earlier example.
 
