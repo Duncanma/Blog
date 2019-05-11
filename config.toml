@@ -50,8 +50,6 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   description = "Personal site, various development focused ramblings by a Microsoft developer"
-  keywords = ""
-  images = [""]
 
   homeSubtitle = "Personal site, various development focused ramblings by a Microsoft developer"
 
