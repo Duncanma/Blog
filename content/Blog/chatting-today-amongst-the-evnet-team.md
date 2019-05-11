@@ -3,7 +3,7 @@ date: 2008-08-30T07:41:00+00:00
 title: Chatting today amongst the EvNet team
 type: posts
 tags:
- - Channel 9
+ - Channel9
  - Microsoft
 ---
 Aug 29

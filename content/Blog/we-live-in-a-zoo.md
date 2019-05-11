@@ -3,8 +3,8 @@ date: 2013-09-09T16:39:56+00:00
 title: We live in a zoo
 type: posts
 tags:
- - pets
- - personal
+ - Pets
+ - Personal
 ---
 {{< vimeo 74090378 >}}
 

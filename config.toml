@@ -20,7 +20,7 @@ layoutDir    = "layouts"
 publishDir   = "public"
 
 buildDrafts  = false
-buildFuture  = false
+buildFuture  = true
 buildExpored = false
 canonifyURLs = false
 
@@ -67,6 +67,7 @@ disableHugoGeneratorInject = false
   justifyContent = false  # Set "text-align: justify" to .content.
 
   toc = true
+  showRelated = true
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "Blog"
   # Default theme "light" or "dark"
@@ -109,3 +110,18 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
+
+
+[related]
+
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
