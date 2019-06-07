@@ -66,6 +66,7 @@ disableHugoGeneratorInject = false
 
   toc = true
   showRelated = true
+  hasTranslations = false
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "Blog"
   # Default theme "light" or "dark"
