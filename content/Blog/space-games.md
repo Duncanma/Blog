@@ -6,7 +6,7 @@ tags:
 - Gaming
 - Elite Dangerous
 images:
-- /images/path.jpg
+- /images/spacegames/MySetup_sml.jpg
 description: The first time I really became obsessed with a video game was in my first year of college, playing an online game called 'Fed' ...
 featured: true
 ---
