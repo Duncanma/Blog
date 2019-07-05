@@ -8,7 +8,6 @@ tags:
 images:
 - /images/beer_tourism.jpg
 description: Finding interesting beer while traveling
-featured: true
 ---
 I like travelling and I like beer.
 

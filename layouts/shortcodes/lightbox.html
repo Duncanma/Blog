@@ -1,0 +1,22 @@
+<!-- thumbnail image wrapped in a link -->
+{{$sml := ""}}
+{{$big := ""}}
+{{$id := ""}}
+{{$alt := ""}}
+
+{{ if .IsNamedParams }}
+{{	$sml = .Get "sml"}}
+{{	$big = .Get "big"}}
+{{	$id = .Get "id"}}
+{{	$alt = .Get "alt"}}
+{{else}}
+{{	$sml = .Get 0}}
+{{	$big = .Get 1}}
+{{	$id = .Get 2}}
+{{	$alt = .Get 3}}
+{{end}}
+<div class="lightbox">
+	<a href="{{$big}}" data-caption="{{$alt}}">
+		<img src="{{$sml}}" alt="{{$alt}}">
+	</a>
+</div>

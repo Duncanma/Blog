@@ -1,5 +1,5 @@
 ---
-title: "Moving my google fonts local"
+title: "Moving my Google fonts local"
 date: 2019-06-07T08:43:14-07:00
 updated: 2019-06-14T17:03:00-07:00
 type: posts
@@ -10,11 +10,14 @@ tags:
 featured: true
 images:
 - /images/performance/Baseline_New_Waterfall.png
-summary: Moving my google fonts local seemed to be one of the remaining
+summary: Moving my Google fonts local seemed to be one of the remaining
 ---
 
 As you may have read, [I've been trying to improve the performance of my site]({{< relref "new-blog-performance.md" >}}) and I have gotten it to a pretty low set of #s, but one possible area for improvement has always been in my use of external fonts.
+
+```html
 <link href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro&display=swap" rel="stylesheet">
+```
 
 It seemed that moving these fonts (Source Code Pro and Roboto) local would improve the performance of my site. Benefits would include the removal of the additional external CSS file and the delay it adds before the browser knows about my external font information, and it would also remove the need to go fetch that font from yet another domain. The negative though, is that the user may have had the Google font(s) cached on their machine already from another site, and if I host it locally then they'll end up downloading it again. Running pure synthetic testing, like WebPageTest, won't be able to help you understand which of these two are better for your situation, because it is always running from a clean browser instance that definitely will **not** have any existing fonts downloaded. The extra load on my server and my CDN is another downside, but I'm more concerned with the negative impact of loading some large font files into the GitHub repo for my theme.
 
