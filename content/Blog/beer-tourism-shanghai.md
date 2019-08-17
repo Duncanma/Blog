@@ -1,5 +1,5 @@
 ---
-date: 2019-05-08T10:35:00-07:00
+date: 2019-08-17T16:11:00+08:00
 title: Craft Beer in Shanghai
 type: posts
 tags:
