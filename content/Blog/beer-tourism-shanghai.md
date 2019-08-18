@@ -7,8 +7,9 @@ tags:
 - Beer
 - China
 images:
-- /images/beer_tourism.jpg
+- /images/beer/shanghai/HitachinoNest_TwoGlasses_sml.jpg
 description: Craft beer is really spreading in Shanghai, China
+featured: true
 ---
 I'm a lucky guy, because I **like** to travel, and my job requires at least a bit of it from me every year. I don't travel a lot, at least compared to people who visit customers or give talks for a living, but nearly everything that we make for docs.microsoft.com is built with the help of a group of folks in Shanghai, so I try to travel to visit them in China at least every couple of months. Over a few years, that has added up to 12 or so trips so far. And it is very cool, lots of fun, great food, lots of sightseeing and time spent with an amazing team. For me, it also means another country to try to find some craft beer.
 
@@ -19,7 +20,7 @@ To start with, back in 2016, I was happy to find a single place called 'Shanghai
 
 Since I've been here so many times, I have found way too many places to cover in one post, so in the interest of short attention spans, and better page titles for other beer seekers traveling to Shanghai, I'm going to post these as a set of separate posts. I'll update the links below as I get the various posts written.
 
-* Boxing Cat
+* [Boxing Cat]({{< relref "beer-tourism-shanghai-boxingcat.md" >}})
 * Liquid Laundry
 * Daga Brewpub
 * Stone Brewery in Shanghai
