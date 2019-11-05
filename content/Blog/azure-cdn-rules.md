@@ -71,10 +71,10 @@ The solution to this is to use **versioned file names**, names that change every
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 ```
 
-produces file names like `main.min.a19a71056bf8546aebb7c6110e6454cf60bab1b957da1efc270850ce905335f2.css` and then references them in the markup.
+produces file names like `main.min.a19a ... 270850ce905335f2.css` and then references them in the markup.
 
 ```html
-<link rel="stylesheet" href="/scss/main.min.a19a71056bf8546aebb7c6110e6454cf60bab1b957da1efc270850ce905335f2.css">
+<link rel="stylesheet" href="/scss/main.min.a19a ... 270850ce905335f2.css">
 ```
 
 Now I can happily cache the content of these files for as long as I want. When I update them, the URL will change, and the CDN will cache the new content and everything will be great. I can't do the same for my images or my HTML though, as both of those are using nice normal URLs like `/blog/<post name>/` and I need them to update relatively quickly. To get the right result, I'm creating two different rules, and setting 10 minutes as the cache expiry for my versioned content and 2 weeks as the expiry for everything else.
