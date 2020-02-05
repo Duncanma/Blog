@@ -49,7 +49,7 @@ First comparison matched up with expectations. The static version of a given blo
 |First View | 1.862s | 0.306s | 0.900s | 10 | 704 KB
 |Repeat View | 0.515s | N/A | 0.400s | 0.409s | 0 | 0 KB
 
-Better in every respect, as it should be. It is doing way less on the back end and the front-end.
+Better in every respect, as it should be. It is doing way less on the back end and the front end.
 
 > Quick disclaimer: I'm quite happy to lose some functionality in return for the simplicity and performance improvements, but that may not work for you. Biggest loss, in terms of features, would be the lack of a commenting option. Adding that to my static site is definitely possible, likely using a 3rd party service, but for now I'm going to skip it.
 
