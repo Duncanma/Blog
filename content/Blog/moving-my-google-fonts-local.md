@@ -10,6 +10,7 @@ tags:
 images:
 - /images/performance/Baseline_New_Waterfall.png
 summary: Moving my Google fonts local seemed to be one of the remaining
+techfeatured: true
 ---
 
 As you may have read, [I've been trying to improve the performance of my site]({{< relref "new-blog-performance.md" >}}) and I have gotten it to a pretty low set of #s, but one possible area for improvement has always been in my use of external fonts.

@@ -6,7 +6,7 @@ tags:
  - Blogging
  - Coding
  - Performance
-featured: true
+techfeatured: true
 images:
 - /images/performance/Baseline_New_Waterfall.png
 summary: Once I had it up and running, I decided to evaluate the performance compared to the old site and then spend some time trying to make it as fast as I could.
