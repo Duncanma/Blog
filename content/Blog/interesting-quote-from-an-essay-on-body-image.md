@@ -9,6 +9,4 @@ I was searching the web for details on how best to take all the various body mea
 
 I get to play with action figures more than I used to, having a 4-year old son, and my wife and I are often amused at the contrasting body shapes of the male and female power rangers (the guys have ab muscles that seem to actually stick out through their uniforms, while the women don't appear to have any muscle on them at all...). Of course, now that I have a daughter I suspect I'll find the whole body image issue to be less amusing and more worrisome, [I'm sure the Barbies will arrive at some point](http://www.babyblues.com/Testing/index.php?formname=getstrip&GoToDay=09/20/98) 🙂
 
-
-
 Oh, and since people who find this post might be looking for the same thing I started out looking for, I found some directions on where/how to measure yourself [here](http://www.insitefitness.com.au/lessons/fitness%20testing/Anthropometry/Girth%20Measurements.html).
