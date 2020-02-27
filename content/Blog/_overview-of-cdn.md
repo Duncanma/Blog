@@ -29,7 +29,7 @@ Looking at my site for an example, there is a server in the Azure region ‘West
 
 It isn't completely linear, the response time in Seattle is actually lower than the response time from Dallas, but if you look at locations in Europe, they are all much slower than locations in North America. Visitors from some parts of the world are going to get a slower response to my website compared to one located in their own country. This might not matter that much if I was a small-town newspaper (although the world is more and more global; what if that newspaper has a story that goes viral?), but if my goal is to serve a global audience, then this is a bad experience.
 
-Making your page smaller, making fewer requests, and making your server faster can all help to improve this experience, but after doing all of that, you will still be limited by transmission speed. **The only way to speed things up would be to move your server closer to the user.** 
+Making your page smaller, making fewer requests, and making your server faster can all help to improve this experience, but after doing all of that, you will still be limited by transmission speed. **The only way to speed things up would be to move your server closer to the user**.
 
 If you have users all around the world though, picking a single location is a challenge. Given enough money, and a good cloud provider, you could deploy your site to servers in many different countries and that would definitely help, but now you have new problems. How to deploy to n different locations? How much will it cost to run your site in all these places (possibly including a database or other type of resource would also need to be deployed to all of these regions as well)?
 
@@ -39,7 +39,7 @@ Which brings us to CDNs.
 
 A CDN is just another form of cache, a way to hang onto data in a convenient place to avoid a more expensive action. In this case, the expensive action is going back to your server (potentially running code, hitting a database, or maybe just reading from disk), and the convenient place is lots of places that are much closer to the user.
 
-A CDN is a system of machines setup to respond to requests for a given piece of content and these machines are placed all around the world. This way they are relatively close to whatever user who is making the request. 
+A CDN is a system of machines setup to respond to requests for a given piece of content. These machines are placed all around the world to ensure they always have one relatively close to the user making the request.
 
 You configure an account with the CDN provider (the company who owns all those machines around the world, like Akamai, Verizon, CloudFlare or others) and setup a mapping so that they know where to get your content when people ask for it. That source is called the ‘origin’ and all of those CDN servers are called the ‘edge’. Going through this for my site, for example, I create an endpoint with the Azure CDN called ‘duncanmackenzieblog’ and tell it that my origin is ‘duncanmackenzieblog.z5.web.core.windows.net’. I then map the custom domain 'duncanmackenzie.net' to this CDN profile, and now any request for my site is going *through* the CDN. The CDN provider setups up their domains so when a user tries to connect to duncanmackenzie.net, they’ll be given the IP address of the closest CDN server.
 
