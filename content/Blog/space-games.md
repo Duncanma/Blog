@@ -28,4 +28,4 @@ Imagine Fed, but with high-resolution graphics and even the option to use a VR h
 
 {{< lightbox id="setup" big="/images/spacegames/MySetup.jpg" sml="/images/spacegames/MySetup_sml.jpg" alt="Shot of my desk, with a large monitor and a joystick/throttle setup" >}}
 
-I don't really have any deep purpose in this game, which is probably for the best, given that it is supposed to be for fun :). I'm happily crusing around gathering up credits, buying nice ships, and generally enjoying myself.
+I don't really have any deep purpose in this game, which is probably for the best, given that it is supposed to be for fun :). I'm happily cruising around gathering up credits, buying nice ships, and generally enjoying myself.
