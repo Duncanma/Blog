@@ -35,7 +35,7 @@ If you have users all around the world though, picking a single location is a ch
 
 Which brings us to CDNs.
 
-## What is a Content Delivery Network (CDN) and what does it do?
+## What is a Content Delivery Network (CDN)? 
 
 A CDN is just another form of cache, a way to hang onto data in a convenient place to avoid a more expensive action. In this case, the expensive action is going back to your server (potentially running code, hitting a database, or maybe just reading from disk), and the convenient place is lots of places that are much closer to the user.
 
@@ -47,7 +47,15 @@ You configure an account with the CDN provider (the company who owns all those m
 As before, ‘closest’ is often determined by ‘quickest to communicate with’ for that user, not physical location, but the two are related.
 {{% /note %}}
 
-Now, if the user requests ‘duncanmackenzie.net/index.html’, they’ll be connected to that close CDN edge server (quick connection time, because it's close), which will in turn fetch ‘/index.html’ from the origin and return it back. If we stopped right there, we might see some benefits, because the user is connecting to and communicating with a closer server instead of going all the way back to the origin server in Washington state, but the edge is still making that request, so that long distance call is still happening. The CDN is smart though, and it can hang onto the response from our origin and serve it as a response to future requests. This removes the need to go back to the origin for that content after the first request, which is quicker, but **also** takes that load off our origin server. So, two benefits rolled together, the user is connecting to a server closer to them, and that server may have the content cached and be able to return it without even hitting our origin server.
+## What does it do?
+
+Now, if the user requests ‘duncanmackenzie.net/index.html’, they’ll be connected to that close CDN edge server (quick connection time, because it's close), which will in turn fetch ‘/index.html’ from the origin and return it back. If we stopped right there, we might see **some** benefits, because the user is connecting to and communicating with a closer server instead of going all the way back to the origin server, but the edge is still making that request, so that long distance call is still happening. The CDN is smart though, and it can hang onto the response from our origin and serve it as a response to future requests. This removes the need to go back to the origin for that content after the first request, but **also** takes that load off our origin server. 
+
+So, three benefits rolled together:
+
+* the user is connecting to a server closer to them,
+* that server may have the content cached and can return it immediately, and
+* in that case, it doesn't even hit our origin server (less load, less cost)
 
 With all of that setup, I can run the same test as earlier, requesting a resource from 5 cities around the world. This time we hit the CDN mapped domain (duncanmackenzie.net) and got these results:
 
