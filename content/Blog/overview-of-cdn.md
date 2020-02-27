@@ -69,13 +69,13 @@ With all of that setup, I can run the same test as earlier, requesting a resourc
 
 Seattle and Dallas don't show a huge difference (Seattle's even a little slower, but some variation is normal and if I ran this test 10 or 100x it would average out), but look at the European locations. More than a half second difference (and this is per request so the latency will have a 2-3x impact on your overall page timings). Even for the closer locations, the CDN is offloading the request from our origin server, reducing our server load and cost. With caching setup, now the user may be able to request a page from your site and **all** the traffic will happen between them and the (close) edge server provided by the CDN.
 
-## Cache Hits and Misses
+### Cache Hits and Misses
 
-Sometimes, when the user requests a given resource (a page, an image, a CSS file, etc), the CDN will check it’s local cache and realize that it doesn’t have a copy of that resource, or that the copy it has is too old (based on the cache settings, described below). 
+Sometimes, when the user requests a given resource (a page, an image, a CSS file, etc), the CDN will check it’s local cache and realize that it doesn’t have a copy of that resource, or that the copy it has is too old (based on the cache settings, described below).
 
 > CDNs can be configured to cache content either using rules in their configuration (keep copies of all content for up to 24 hours), or by being configured to just respect whatever cache header comes back from the origin server (keep copies of the content for as long as the origin said was ok).
 
-At this point, the CDN will fetch a new copy of the resource from your origin, send it back to the user and update its local cache. When this happens, referred to as a ‘cache miss’ (and when the content *is* found in the edge cache, that’s a ‘cache hit’), that one request might take a bit longer than normal. At no point does the user ever connect directly to your origin, the CDN servers handle those requests when needed, the user only deals with the CDN. The goal when using a CDN is to try to end up with a higher # of hits than misses, so that the CDN is doing most of the work instead of your server. The amount of your traffic served by the CDN is the ‘offload %’, and a number above 90% is excellent.
+At this point, the CDN will fetch a new copy of the resource from your origin, send it back to the user and update its local cache. This is called a 'cache miss', and when it happens, that one request might take a bit longer than normal. Any request where the CDN **does** have a copy and can return it directly is called a 'cache hit'. At no point does the user ever connect directly to your origin, the CDN servers handle those requests when needed, the user only deals with the CDN. The goal when using a CDN is to try to end up with a higher # of hits than misses, so that the CDN is doing most of the work instead of your server. The amount of your traffic served by the CDN is the ‘offload %’, and a number above 90% is generally considered excellent.
 
 ## When should you use a CDN?
 
