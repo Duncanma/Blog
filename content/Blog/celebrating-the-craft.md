@@ -8,7 +8,7 @@ tags:
  - Performance
  - Team
 images:
-- /images/performance/Baseline_New_Waterfall.png
+- /images/craft/speedcurve_before_after.png
 summary: Iterating towards quality is the real difference in a great engineering team
 techfeatured: true
 ---
