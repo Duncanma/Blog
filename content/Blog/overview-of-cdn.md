@@ -9,7 +9,7 @@ tags:
 images:
 - /images/cdn/without-cdn.png
 description: In my day job, working on websites, the topics of CDNs often comes up. It seems like a few folks might find a general overview of CDNs useful, so here goes...
-techfeatured: false
+techfeatured: true
 ---
 I've been working on websites at my day job and on my own for many years now, and in that time I have ended up explaining CDNs (Content Delivery Networks) to a lot of people. I think most people have some idea of what they are (and many probably know them really well), but for anyone who doesn't, or who might want a tiny refresher, I thought I would go through what they are, how they work and how to decide if they would work for your situation.
 
