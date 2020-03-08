@@ -15,4 +15,6 @@ Dim y As Integer = -1
 x = New IntPtr(y)
 ```
 
-I never asked why there was a need to cast from Integer to IntPtr, but I'm assuming it is for some scenario where a handle/pointer is normally supplied or returned but -1 is used to indicate a special case...
+I never asked why there was a need to cast from Integer to IntPtr, but I'm assuming it is for some scenario where a handle/pointer is normally supplied or returned but -1 is used to indicate a special case.
+
+FYI, you can see [the official documentation for this specific constructor here on docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/api/system.intptr.-ctor).
