@@ -14,7 +14,7 @@ There are many common questions that come up [when talking about CDNs]({{< relre
 * [Should you have a separate domain for CDN served content?]({{< relref "cdn-separate-domain.md" >}})
 * [How does Purging content work with a CDN?]({{< relref "cdn-purge-and-invalidate.md" >}})
 
-## Coming Soon
+**Coming Soon**
 
 * Are CDNs only for caching and distributing content? <!-- cdn-advanced-functionality.md -->
 * Pushing content to the CDN? <!-- cdn-push-vs-pull.md -->
