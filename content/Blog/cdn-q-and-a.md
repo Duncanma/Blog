@@ -16,8 +16,5 @@ There are many common questions that come up [when talking about CDNs]({{< relre
 
 ## Coming Soon
 
-* Are CDNs only for caching and distributing content?
-* Pushing content to the CDN?
-
-<!--  * [Are CDNs only for caching and distributing content?]({{< relref "cdn-advanced-functionality.md" >}})
-* [Pushing content to the CDN?]({{< relref "cdn-push-vs-pull.md" >}}) -->
+* Are CDNs only for caching and distributing content? <!-- cdn-advanced-functionality.md -->
+* Pushing content to the CDN? <!-- cdn-push-vs-pull.md -->
