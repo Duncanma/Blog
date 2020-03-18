@@ -43,3 +43,17 @@ Related to this, are you sure the main page can't be cached **at all**? Unless y
 {{% note %}}
 10 second cache, why not just **6** requests per minute then? Before you question my math, the reality is that each different edge node has it's own cache (there are middle tier caches by region, but this can vary between CDN providers), so you will get requests **every 10 seconds from every edge that is receiving traffic**. Your exact results will vary based on how your traffic is distributed.
 {{% /note %}}
+
+## Special note, why doesn't Docs do what I recommend?
+
+If you go and check out [Docs](https://docs.microsoft.com), you may notice that it uses a 'static.docs.com' domain for some static resources. This is not inline with the guidance I'm giving above.
+
+{{% note %}}
+My dad used to always say "Do what I say, not what I do", in response to pointing out his smoking habit or other similar things, but that definitely reduces your credibility when providing guidance.
+{{% /note %}}
+
+This setup may not be ideal. We do have **all** of Docs running behind the CDN, so we get those benefits, but we have this second domain and the additional performance costs that entails. In reality, we haven't tried removing it and testing to see the benefit, but I can imagine that in pages like [the Azure docs landing page](https://docs.microsoft.com/azure/), with 100s of requests to images hosted on static.docs.com, this could be better than putting it all on a single domain, but that on the majority of pages it is a net negative. At some point, the Docs team will likely get around to testing this and changing it if needed, but it hasn't made it's way to the top of the stack yet. If I was to really assess Docs, I would honestly be more concerned about the overall # of domains we are using.
+
+![List of domains accessed in a Docs page request](/images/cdn/docs-domains.png)
+
+Most of those requests are deferred in some way, but [moving our fonts local]({{< relref "moving-my-google-fonts-local.md" >}}) could be a good optimization. Sure would be nice if some of our 3rd party providers consolidated their domains though; is it really necessary for clicktale to use 3 different host names?
