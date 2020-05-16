@@ -1,46 +1,31 @@
 ---
-date: 2020-03-08T11:02:00+08:00
-title: Should you have a separate domain for content served through the CDN?
+date: 2020-05-16T15:22:00+08:00
+title: Pushing to the CDN
 type: posts
 tags:
 - Web Development
 - CDN
-- Performance
-description: A common pattern on sites is to use a separate static or cdn domain, but is this a good idea?
-techfeatured: true
-draft: true
+description: Many folks I work with have made comments about pushing content to a CDN, which isn't really how it works...
+techfeatured: false
 ---
 > This post is one of a series about CDNs, starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
 
-Short answer is "No, you shouldn't". You will see this quite often on sites, where the site itself is served at www.mydomain.com, and then static resources (CSS, JS, images, etc.) are served from a secondary domain like cdn.mydomain.com or something similar. The second domain is routed through a CDN, the main domain is not.
+Throughout my many years in the web business, a lot of folks have made comments about "pushing content to a CDN" or "uploading an image to the CDN", which isn't really how it works. I generally understand the intent of their comment, so I don't correct them, but I hear it so often that I just had to write about it.
 
-The argument for doing this generally follows one or both of these reasons:
+CDNs are set up to intercept a given set of URLs (often an entire domain) and then they turn around and request the appropriate content from another location. The source of content is known as the 'origin' and while it is often some form of web-exposed storage (AWS S3, Azure Blob Storage) it can really be any other web server. A WordPress site for example, could be the origin server behind a CDN profile.
 
-1. cookies set on the main domain have to be sent along with every request for that domain, [that extra data is wasteful](https://blog.leaseweb.com/2014/06/05/need-cookie-less-domain/) and has a negative impact on performance
-2. we only want to serve files that are going to be cached, or cached for a long time, through the CDN and this is the best way to do that
+If you want a new file to be available via a CDN URL, you push it up to the origin. When someone requests the appropriate URL, the CDN will go fetch it from the origin and return it to the user. You didn't push the file to the CDN, you pushed it to the origin, and the CDN is setup to get content from there.
 
-Neither of these points are completely invalid, but I'll tackle them one at a time below.
+As always, there can be some confusing situations that make this less clear. Some CDN providers will **also** provide a service to be your origin server ([BunnyCDN has this offering for example](https://bunnycdn.com/solutions/cdn-cloud-storage)) so it sort of seems like you are uploading your file to the CDN. It's still two separate things though, just provided by the same company and integrated together.
 
-## Cookieless domains
+Another way in which this can be confusing, is sometimes people believe that when the content changes, we push the new version out to all the CDN nodes. That wouldn't be a crazy idea, and there are sometimes tools/features of CDNs that will pre-fetch a set of content to produce this effect, but it is not generally how it works. The content is updated on the origin server, but when it ends up cached by the CDN depends on:
 
-Cookies are sent as headers in every request to a domain, so they take up space and increase the time it takes to make that request. Assuming cookies are being set on www.mydomain.com, they will not be sent on requests to cdn.mydomain.com **but** the savings from this has to be weighed against the cost of having another domain on the page. A second, different domain means:
+- when it is requested by a user,
+- how old the copy cached by the CDN is, and
+- what cache expiry has been configured as part of setting up your CDN
 
-* an additional DNS lookup,
-* an additional SSL connection/negotiation, and
-* you prevent the cool new HTTP/2 protocol from being able to [reuse the single connection to download everything](https://developers.google.com/web/fundamentals/performance/http2/#one_connection_per_origin)
+I'll continue to say nothing when I hear someone say they are uploading their content to the CDN, because it's generally not helpful and it derails the conversation.
 
-You can read about [a specific developer's experience with this issue](https://blog.theodo.com/2019/09/cookieless-domain-http2-world/), or you can dig into [many examples of 'things we used to do to make pages faster that don't apply in a HTTP/2 world'](https://http2-explained.haxx.se/en/part3). Of course, this assumes you are serving your site up via HTTP/2, but you definitely should be and [you can check if you are using HTTP/2 through this utility](https://tools.keycdn.com/http2-test).
+![Well actually cat looking smug](/images/well-actually-trollcat.jpg)
 
-Also, the impact of cookie size, or any header, is reduced with HTTP/2 as another benefit of that protocol is that [headers are compressed](https://developers.google.com/web/fundamentals/performance/http2/#header_compression).
-
-In the end though, you'd have to compare the cost of that second domain to how much you are saving with the reduced data due to cookies. If you have 1000s of images and a domain with a huge payload of cookies, then it *could* be worth it.
-
-## Only content that can be cached should go through the CDN
-
-This second rational for using a second domain also makes some sense. If our main site isn't cached at all, why make the user go through two hops to get to the page itself? Well, there are two reasons why it _still_ makes sense. First, consider the whole discussion above about a second domain name, even if it isn't cached, having your main site content come through the same domain as your images and other resources avoids a second DNS lookup, SSL negotiation and allows HTTP/2 to happily share a single connection for all those downloads. Yay! Second, one of the benefits of a CDN is to reduce latency, the time it takes for the user's request to get to your server. If you are getting all of your requests through the CDN, then that initial request **and the SSL negotiation** will all happen with a very close server. This will speed up the user's initial connection time, which is great _since they only have to connect to that one domain_.
-
-Related to this, are you sure the main page can't be cached **at all**? Unless you are dealing with user-specific content, even rapidly changing output could potentially be cached for a few seconds or minutes. Imagine if you are currently receiving 100 requests per second (rps) on your homepage, this puts a load of 60000 requests per minute on your origin server. Add a 10 second cache on that page, and you will only get a few hundred hits per minute. That's a huge difference on your server load, and could save you a lot of money.
-
-{{% note %}}
-10 second cache, why not just **6** requests per minute then? Before you question my math, the reality is that each different edge node has it's own cache (there are middle tier caches by region, but this can vary between CDN providers), so you will get requests **every 10 seconds from every edge that is receiving traffic**. Your exact results will vary based on how your traffic is distributed.
-{{% /note %}}
+When you are architecting and building systems, these details are important though, so hopefully everyone involved knows how it **actually** works.
