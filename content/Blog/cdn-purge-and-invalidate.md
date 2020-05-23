@@ -7,7 +7,7 @@ tags:
 - CDN
 - Performance
 description: Long cache times are great, but sometimes you need to update content before that time is up, which is where purging and invalidating comes in.
-techfeatured: false
+techfeatured: true
 ---
 
 ## First, a little background

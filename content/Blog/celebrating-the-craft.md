@@ -10,7 +10,7 @@ tags:
 images:
 - /images/craft/speedcurve_before_after.png
 summary: Iterating towards quality is the real difference in a great engineering team
-techfeatured: true
+docsfeatured: true
 ---
 Recently I watched the team go through a launch, and then do some quick investigation and iteration. This exercise really brought to mind [Jeff’s](https://twitter.com/jeffsand) comments at an internal team event that we are all _masters of our craft_. I liked the sound of that phrase, and I see it in a lot of what we do… including this one example.
 

@@ -11,7 +11,7 @@ tags:
 images:
 - /images/azurecdn/custom-rule-list.png
 description: As part of running my new Azure based static website, I used custom Azure CDN rules to redirect http to https, add a HSTS header and many other tweaks.
-techfeatured: false
+techfeatured: true
 ---
 As I've already written about, I recently [moved my site from WordPress to being statically generated]({{< relref "new-blog-performance.md" >}}) using [Hugo](https://gohugo.io). As part of that change, I also moved off of my current hosting provider and starting running my site directly from Microsoft Azure. All of the content for the site (HTML, CSS, JavaScript and images) is generated and then pushed into Azure blob storage to be used as part of an [Azure static website](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website). When you setup a static website, you get a URL that you can use to directly hit your content, but to provide better performance (especially across many locations) I decided to put a CDN in front of the direct website URL.
 

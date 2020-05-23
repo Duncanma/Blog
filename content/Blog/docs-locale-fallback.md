@@ -7,7 +7,7 @@ tags:
 - Microsoft
 - Localization
 description: Docs.microsoft.com can have content in many different languages, requests without a locale in the path go through a discovery process to end up at the right page for the user
-techfeatured: true
+docsfeatured: true
 ---
 A few explanations first:
 
