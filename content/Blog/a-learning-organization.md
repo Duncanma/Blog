@@ -5,6 +5,7 @@ type: posts
 tags:
 - Team
 description: Learning from our mistakes is what makes a team into a 'learning organization' 
+featured: true
 ---
 A while ago, someone commented to me that their group was a 'learning organization' and that was why they encouraged ongoing training, arranged bootcamps, lunch and learn's etc. I had a moment of cognitive dissonance, because while I am supportive of encouraging ongoing formal and informal training, that was completely not what I have always meant when I described our team as a learning organization. 
 
