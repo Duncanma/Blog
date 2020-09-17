@@ -9,7 +9,7 @@ tags:
 images:
 - /images/docs/overview.png
 description: Content on Docs goes through a build process, and is then served from our rendering layer. At both stages, templates are used to control the output.
-docsfeatured: false
+docsfeatured: true
 ---
 
 Content on Docs goes through a build process, and is then served from our rendering layer. At both stages, templates are used to control the output.
@@ -24,7 +24,7 @@ During the build stage, we create the 'content' area of the image below (shown i
 
 To create that content area, we take the source document (markdown in many cases, but it could also be YML for more structured data like our API reference) and run it through a template process at build time. This is done with a mix of JavaScript to manipulate the incoming data model, and 'nustache' style templates. For example, to create [this page in our sample browser](https://docs.microsoft.com/en-us/samples/azure-samples/netappfiles-python-smb-sdk-sample/azure-netappfiles-smb-sdk-sample-for-python/), we have this template
 
-```
+```html
 <div class="modular-content-container">
 	<div class="section is-small is-uniform">
 		<h1>{{title}}</h1>
@@ -62,7 +62,7 @@ This template is only for the content though and does nothing to wrap the page i
 
 This is still not **user specific**, it is **URL specific**, so that we can cache the output of the server for anyone who might request that URL. The Liquid templates are quite large and complex, handling all the details related to the current context of the request. What locale is requested, what locale the content is in, what site this request is for (we use these templates for more than just docs.microsoft.com), and more. Given their size, I'm only including a small snippet below.
 
-```
+```html
 <body lang="{{ userLocale }}" dir="{{ userDir }}">
 <div class="header-holder has-default-focus">
 	<a href="#main" class="skip-to-main-link has-outline-color-text visually-hidden-until-focused is-fixed has-inner-focus focus-visible has-top-zero has-left-zero has-right-zero has-padding-medium has-text-centered has-body-background-medium" tabindex="1">{%- loc skipToMainContent -%}</a>
@@ -82,3 +82,5 @@ This is still not **user specific**, it is **URL specific**, so that we can cach
 			</nav>
 		{%- endif -%}
 ```
+
+All of the above describes templates in Docs as they exist now, but I do expect that we'll change them in the future. The core concept that the site returns the same HTML for a given URL should stay true for the vast majority of our pages though, as that is key to how we work with a CDN to enable scaling the site worldwide. In fact, how we work with our CDN is a topic I hope to cover in the next article in the Docs series!
