@@ -7,7 +7,7 @@ tags:
 - Microsoft
 - Web Development
 images:
-- /images/docs/overview.png
+- /images/docs/templates_chrome.png
 description: Content on Docs goes through a build process, and is then served from our rendering layer. At both stages, templates are used to control the output.
 docsfeatured: true
 ---
