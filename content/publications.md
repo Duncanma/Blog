@@ -70,8 +70,6 @@ Turns out [we have an author page for writers on the magazine](https://docs.micr
 
 Sadly, **all** of these have been removed from the Xbox site… I might try to track down my originals, so just leaving the list here for reference!
 
-![Xbox Dad Banner](/images/XboxDad.jpg)
-
 - Xbox Dad Goes Adventuring -- Time to go on an adventure with Indiana Jones.
 - Xbox Dad Checks Out Chessmaster LIVE -- World class chess comes to Xbox LIVE with this new title.
 - Xbox Dad Discovers The Last Airbender -- He joins Aang on his journey through the Earth Kingdom.
