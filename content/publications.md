@@ -68,7 +68,7 @@ Turns out [we have an author page for writers on the magazine](https://docs.micr
 
 ### Gaming (Xbox 360)
 
-Sadly, **all** of these have been removed from the Xbox site… I might try to track down my originals, so just leaving the list here for reference! I did manage to track down [some 'internet archive' versions](https://web.archive.org/web/20090603151959/http://www.xbox.com/en-US/community/voices/xboxdad/2007/0405-meettherobinsons.htm) which lead me to discovering that I had a custom banner on the site at some point.
+Sadly, **all** of these have been removed from the Xbox site… I might try to track down my originals, so just leaving the list here for reference!
 
 ![Xbox Dad Banner](/images/XboxDad.jpg)
 
