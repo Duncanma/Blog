@@ -53,6 +53,8 @@ disableHugoGeneratorInject = false
 
   homeSubtitle = "Personal site, various development focused ramblings by a Microsoft developer"
 
+  clarity = "440rce59ji"
+
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/DuncanmaMSFT/Blog/commit/"
 
@@ -72,6 +74,7 @@ disableHugoGeneratorInject = false
   # Default theme "light" or "dark"
   defaultTheme = "dark"
   themeColor = "#252627"
+
 
   [params.logo]
     logoText     = "$ cd /home/"
