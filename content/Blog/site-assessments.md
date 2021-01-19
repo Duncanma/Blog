@@ -24,6 +24,6 @@ For each topic, the structure will follow a similar structure, attempting to ans
 2. Why is my site slow?
 3. How can I make it faster?
 
-Every site is different in terms of their target audience and their own goals for each of these areas, but a baseline level of performance and accessibility, an awareness of SEO, etc. will help every site's experience.
+Every site is different in terms of their target audience and their own goals for each of these areas, but a baseline level of performance and accessibility, an awareness of SEO, etc. will help every site's experience. This content could be useful to site owners with a wide variety of technical experience, but I'm going to assume you are starting from scratch. I'll also be demonstrating and linking to free tools and resources only.
 
 I am interested in doing this myself for a few sites in addition to helping people do it themselves. If you are a non-profit organization, I can offer this service for free. I can't help everyone, but if you [submit your organization and site details into this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAEaZ0w4w3VURUdGQVg3Mk5COUFMSDhZNUZEM0xBSFNKQi4u), then I will let you know if am able to do an assessment of your site.
