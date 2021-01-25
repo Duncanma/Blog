@@ -4,6 +4,7 @@ title: A Learning Organization
 type: posts
 tags:
 - Team
+- Software Management
 description: Learning from our mistakes is what makes a team into a 'learning organization'
 featured: true
 ---

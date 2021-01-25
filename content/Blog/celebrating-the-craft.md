@@ -7,6 +7,7 @@ tags:
  - Microsoft
  - Performance
  - Team
+- Software Management
 images:
 - /images/craft/speedcurve_before_after.png
 summary: Iterating towards quality is the real difference in a great engineering team

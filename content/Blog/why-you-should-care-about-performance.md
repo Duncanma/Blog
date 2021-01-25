@@ -6,6 +6,7 @@ tags:
  - Web Development
  - Coding
  - Performance
+ - Software Management
 techfeatured: true
 images:
 - /images/performance/search-console-web-vitals.png
