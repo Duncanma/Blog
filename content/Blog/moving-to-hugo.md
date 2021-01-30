@@ -1,5 +1,5 @@
 ---
-date: 2019-04-26T07:34:00+08:00
+date: 2019-04-26T07:34:00-08:00
 title: Moving this site to Hugo
 type: posts
 tags:

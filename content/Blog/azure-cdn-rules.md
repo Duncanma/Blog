@@ -1,5 +1,5 @@
 ---
-date: 2019-05-14T09:58:00+08:00
+date: 2019-05-14T09:58:00-08:00
 title: Custom Rules in the Azure Premium Verizon CDN
 type: posts
 tags:

@@ -1,5 +1,5 @@
 ---
-date: 2019-05-12T17:58:00+08:00
+date: 2019-05-12T17:58:00-08:00
 title: Setting up Hugo on Azure
 type: posts
 tags:

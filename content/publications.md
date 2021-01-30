@@ -1,5 +1,5 @@
 ---
-date: 2020-09-19T16:37:17+08:00
+date: 2020-09-19T16:37:17-08:00
 title: Books, Articles and other Publications
 description: Definitely an incomplete list of everything I've written
 ---

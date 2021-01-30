@@ -1,5 +1,5 @@
 ---
-date: 2020-05-23T10:52:00+08:00
+date: 2020-05-23T10:52:00-08:00
 title: The basic flow of Docs.Microsoft.com
 type: posts
 tags:

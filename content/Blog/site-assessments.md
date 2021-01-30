@@ -1,5 +1,5 @@
 ---
-date: 2021-01-18T15:30:00+08:00
+date: 2021-01-18T15:30:00-08:00
 title: Assessing a website for performance, accessibility and more
 type: posts
 tags:
@@ -7,6 +7,7 @@ tags:
  - Web Development
  - Coding
  - Performance
+ - Self-Assessment
 techfeatured: true
 images:
 - /images/performance/Baseline_New_Waterfall.png

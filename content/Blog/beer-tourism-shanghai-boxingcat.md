@@ -1,5 +1,5 @@
 ---
-date: 2019-08-17T17:00:00+08:00
+date: 2019-08-17T17:00:00-08:00
 title: Boxing Cat Craft Beer Brewery in Shanghai China
 type: posts
 tags:

@@ -1,5 +1,5 @@
 ---
-date: 2019-11-05T17:58:00+08:00
+date: 2019-11-05T17:58:00-08:00
 title: Barcelona Beer Tourism
 type: posts
 tags:

@@ -1,5 +1,5 @@
 ---
-date: 2020-09-16T14:00:00+08:00
+date: 2020-09-16T14:00:00-08:00
 title: Templates used when building and rendering docs.microsoft.com
 type: posts
 tags:

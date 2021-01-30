@@ -8,6 +8,7 @@ tags:
  - Channel9
  - Blogging
  - Writing
+ - SEO
 ---
 Throughout the rest of the site, on twitter and through Google/Bing … the title of your post is the first and most important description of your content that people will see. With that in mind, here are a few tips to make the most of that space.
 

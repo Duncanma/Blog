@@ -1,12 +1,14 @@
 ---
-date: 2021-01-24T17:15:00-08:00
-title: A Defensive Approach to Engineering Quality
+date: 2021-01-29T14:30:13-08:00
+title: Assessing your own site for Search Engine Optimization (SEO)
 type: posts
 tags:
  - Web Development
  - Coding
- - Software Management
+ - Self-Assessment
+ - SEO
 techfeatured: true
+draft: true
 description: One of the most important ways I can contribute to the quality of our sites is by saying no.
 ---
 As an engineering manager, I have a certain amount of control over what

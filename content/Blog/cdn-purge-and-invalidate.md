@@ -1,5 +1,5 @@
 ---
-date: 2020-03-08T19:00:00+08:00
+date: 2020-03-08T19:00:00-08:00
 title: What does it mean to purge content from a CDN?
 type: posts
 tags:

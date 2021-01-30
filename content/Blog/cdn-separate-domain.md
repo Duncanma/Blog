@@ -1,5 +1,5 @@
 ---
-date: 2020-03-08T11:01:00+08:00
+date: 2020-03-08T11:01:00-08:00
 title: Should you have a separate domain for content served through the CDN?
 type: posts
 tags:

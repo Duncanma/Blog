@@ -1,5 +1,5 @@
 ---
-date: 2020-05-16T15:22:00+08:00
+date: 2020-05-16T15:22:00-08:00
 title: Pushing to the CDN
 type: posts
 tags:

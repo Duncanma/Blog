@@ -1,5 +1,5 @@
 ---
-date: 2020-09-13T17:28:00+08:00
+date: 2020-09-13T17:28:00-08:00
 title: A Learning Organization
 type: posts
 tags:

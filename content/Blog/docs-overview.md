@@ -1,5 +1,5 @@
 ---
-date: 2020-05-19T09:25:00+08:00
+date: 2020-05-19T09:25:00-08:00
 title: An overview of Docs.microsoft.com
 type: posts
 tags:

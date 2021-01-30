@@ -1,5 +1,5 @@
 ---
-date: 2020-05-17T16:22:00+08:00
+date: 2020-05-17T16:22:00-08:00
 title: How locale detection and fallback works on Docs
 type: posts
 tags:

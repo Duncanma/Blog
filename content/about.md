@@ -1,5 +1,5 @@
 ---
-date: 2020-09-21T10:37:17+08:00
+date: 2020-09-21T10:37:17-08:00
 title: About Me
 description: Quick biographical info on Duncan Mackenzie
 ---

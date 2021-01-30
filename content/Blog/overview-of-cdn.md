@@ -1,5 +1,5 @@
 ---
-date: 2020-02-26T22:25:00+08:00
+date: 2020-02-26T22:25:00-08:00
 title: What is a CDN, how does it work, and should you use one?
 type: posts
 tags:

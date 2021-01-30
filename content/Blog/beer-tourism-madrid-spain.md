@@ -1,5 +1,5 @@
 ---
-date: 2019-05-11T17:58:00+08:00
+date: 2019-05-11T17:58:00-08:00
 title: Drinking Craft Beer at the Brew Wild Pizza Bar in Madrid
 type: posts
 tags:

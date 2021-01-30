@@ -1,5 +1,5 @@
 ---
-date: 2020-03-17T17:00:00+08:00
+date: 2020-03-17T17:00:00-08:00
 title: Beyond content caching and distribution, what else can a CDN do?
 type: posts
 tags:
