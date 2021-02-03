@@ -38,17 +38,19 @@ this is a "user-hostile" action.
 
 Why would a user care? Well, moving to a new tab breaks one of the
 fundamental forms of navigation in a browser, the back button. As I
-moved through a series of links on the web, I've been trained to
+move through a series of links on the web, I've been trained to
 understand that I can click on the back button whenever I want to go
 back to the previous page I was looking at. Breaking this behavior is
 confusing for the user, and the work (cognitive and physical) to go back
-to the previous page has increased. **This is especially true on a
-mobile device that has a back button always present in the same
+to the previous page has increased.
+
+**This is especially true on a mobile device that has a back button always present in the same
 location, making it much easier to use than to go up to the little tab
 icon and try to find the content you were on before.** In my case, that
 icon is a smiley face, which is what Chrome on Android shows when you
-have more than 99 tabs open. In addition to being more effort to go
-back, it is more importantly inconsistent. I didn't ask to leave the
+have more than 99 tabs open. 
+
+In addition to being more effort to go back, it is more importantly inconsistent. I didn't ask to leave the
 context I was in, and now I must realize that for this specific link the
 rules have changed, and I can't use the back button like I could for the
 last *n* links I clicked on.
