@@ -13,8 +13,7 @@ This seems to come up every few days, so I thought I would put yet
 another post out into the world to try and point out everything that is
 wrong with this practice. This has been well documented and studied, so
 if you'd rather read something with more data and examples, I definitely
-encourage you to read [Opening Links in New Browser Windows and Tabs
-(nngroup.com)](https://www.nngroup.com/articles/new-browser-windows-and-tabs/).
+encourage you to read [Opening Links in New Browser Windows and Tabs](https://www.nngroup.com/articles/new-browser-windows-and-tabs/).
 
 ## First, what are we talking about?
 
@@ -28,7 +27,7 @@ new tab. If you code the link to open in a new tab though, the user does
 not have any choice about what happens, the link will open outside of
 their current context.
 
-## Why is this bad? 
+## Why is this bad?
 
 The main objection to coding your links like this is that it is taking
 control away from the user. In the default case, they can choose to open
@@ -58,7 +57,9 @@ last *n* links I clicked on.
 
 The argument is generally that we don't want the person to leave the
 site and by leaving the original page open, we are making it easier for
-them to come back. As I discussed above, we haven't made it easier at
+them to come back.
+
+As I discussed above, we haven't made it easier at
 all. We have our original page still open but getting back to it has
 become a bit more difficult. If the user **wanted** to keep it open,
 because they were opening a set of resource links to read later, then
@@ -72,7 +73,7 @@ There are times when a user would appreciate having something open in a
 new window, which is why the browser allows them to do that for any
 link. The key is to determine if the positives outweigh the negatives in
 your particular use case. If you have a link with some helpful
-information on how to fill out the 20^th^ form field in a loan
+information on how to fill out the 20th form field in a loan
 application, it makes sense to open in a new window (or perhaps in a
 sidebar/popup in the same window) so as to not lose any of their work.
 If the user is going through a multiple step tutorial, that might be a
@@ -87,13 +88,8 @@ work.
 
 ## References
 
-In addition to the two posts I already mentioned ([The Top 10 Web Design
-Mistakes of 1999
-(nngroup.com)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
-and [Opening Links in New Browser Windows and Tabs
-(nngroup.com)](https://www.nngroup.com/articles/new-browser-windows-and-tabs/)),
+In addition to the two posts I already mentioned ([The Top 10 Web Design Mistakes of 1999](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
+and [Opening Links in New Browser Windows and Tabs](https://www.nngroup.com/articles/new-browser-windows-and-tabs/)),
 this page from Washington University in St. Louis has a good explanation
 of the accessibility side to this discussion **and** a set of even more
-reference material: [Links Opening in New Tabs - Diversity & Inclusion
-(wustl.edu)](https://diversity.wustl.edu/framework/advisory-best-practice-groups/website-accessibility/links-opening-new-tabs/)
-
+reference material: [Links Opening in New Tabs - Diversity & Inclusion](https://diversity.wustl.edu/framework/advisory-best-practice-groups/website-accessibility/links-opening-new-tabs/)
