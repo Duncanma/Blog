@@ -1,6 +1,6 @@
 ---
 date: 2021-02-02T16:30:06-08:00
-title: Don't open links in a new tab or window.
+title: Don't code links to open in a new tab or window.
 type: posts
 tags:
  - Web Development
