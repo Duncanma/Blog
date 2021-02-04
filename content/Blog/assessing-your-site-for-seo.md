@@ -684,13 +684,13 @@ my case, I'm happy to have my 'tag' pages crawled (like this one for
 posts about CDNs), it helps Google find all my posts, but I don't want
 those kinds of pages to appear as a search result.
 
-{% note %}
+{{% note %}}
 Note: Deciding what pages to exclude from search is a mix of personal
 preference and observations from my work on sites like Channel 9. On
 that site, we have tons of what I call 'list pages' (such as the list
 of all content) vs 'content pages' (a single video), and I found that
 they would compete with the real content in results.
-{% /note %}
+{{% /note %}}
 
 By adding a 'robots' meta tag you can tell the search engine crawler
 (the robot in this case) how you'd like it to treat that specific page.
