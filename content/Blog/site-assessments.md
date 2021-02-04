@@ -17,7 +17,7 @@ As a web developer who has taken on many different sites over the years, one of 
 
 Websites are something that nearly all businesses and organizations end up having or needing, and for the majority of those site owners web development is not their specific focus. For those people, I'd like to help you understand the current state of your site, what elements are the underlying cause of any issues, and what you could do to improve. While I'd like to start offering this as a service to folks, I'll never be able to work with more than a small number of the millions of sites that exist. With that in mind, I'm going to start by creating some content for site owners to *self-assess* and then offer some tips on how to go about making their sites better.
 
-My particular focus is around web performance, but a quality site experience involves a great deal more than that, so I'll be creating content around accessibility, SEO, stability, and maintainability as well.
+My particular focus is around web performance, but a quality site experience involves a great deal more than that, so I'll be creating content around accessibility, [SEO]({{< relref "assessing-your-site-for-seo.md" >}}), stability, and maintainability as well.
 
 For each topic, the structure will follow a similar structure, attempting to answer three questions. Using performance as an example, these would be:
 
