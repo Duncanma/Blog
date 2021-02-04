@@ -750,11 +750,13 @@ search or map view. Try out more specific search terms as well, if
 Seattle Bakery has you ten spots down, see where you show up for Seattle
 French Bakery, or Croissants near me!
 
-Note: If you've read [the section above on structured data](#location), here's an
+{{% note %}}
+If you've read [the section above on structured data](#location), here's an
 opportunity to provide the location information as data on the page.
 Search Engines are good at inferring this type of info though, so having
 the business address listed on the page should work without anything
 fancier.
+{{% /note %}}
 
 ## Some last thoughts
 
