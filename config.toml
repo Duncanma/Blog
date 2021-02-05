@@ -49,9 +49,9 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Personal site, various development focused ramblings by a Microsoft developer"
+  description = "Articles about web development, engineering leadership, and some random personal ramblings"
 
-  homeSubtitle = "Personal site, various development focused ramblings by a Microsoft developer"
+  homeSubtitle = "Articles about web development, engineering leadership, and some random personal ramblings"
 
   clarity = "440rce59ji"
 

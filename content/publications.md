@@ -1,10 +1,12 @@
 ---
 date: 2020-09-19T16:37:17-08:00
 title: Books, Articles and other Publications
-description: Definitely an incomplete list of everything I've written
+description: A list of writing on technical and gaming topics. Definitely incomplete, and some links are broken, but I tried to add as much as I could track down
 ---
 
 Back when I was living in Canada, before I started working at Microsoft, I discovered that I really enjoyed writing. I was doing a lot of developer training, travelling around the US and Canada teaching week long courses covering Access, Visual Basic, Architecture, SQL, and more. I started to reach out to some publishers, pitching some technical book ideas and getting a few chapter and book assignments sent back to me from various places. I ended up writing a few books, but I eventually moved teams at Microsoft and took a job as a full-time writer. I would write small articles, explaining a concept, going through the code, and hopefully inspiring some folks to try it out for themselves. I don't know how many articles I've written, but I do know that I used to try to write 1-2 a week. At the same time, I was actively blogging (first on a site called blogs.msdn.com, but eventually moving to my own domain), with a similar focus on coding concepts, sample code and a ton of link sharing. Other than internal documents, this blog is my only real writing these days. I come up with book ideas from time to time, and I have many article ideas, but the combination of writing on my own property and not having to commit to something as large as a book means that a blog post every month or so is just about right.
+
+My most recent print publication was a single 'article' in the book "[97 Things Every Cloud Engineer Should Know](https://www.oreilly.com/library/view/97-things-every/9781492076728/)", a quick intro to the idea of scalability.
 
 ## Books
 
