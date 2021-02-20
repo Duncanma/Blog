@@ -8,7 +8,7 @@ tags:
  - Self-Assessment
  - SEO
 techfeatured: true
-description: One of the most important ways I can contribute to the quality of our sites is by saying no.
+description: A beginner's guide to seo going through a step by step tutorial to assess your own site
 ---
 
 I mentioned in another post that I'm open to doing site assessments for
@@ -62,7 +62,7 @@ easier or harder for it to understand our pages.
 
 You can't call Google up and ask them if your site is written correctly,
 but you can do the next best thing through a few special types of
-searches and the Google Search Console.
+searches and the Google Search Console. 
 
 ### What's showing up in Google?
 
