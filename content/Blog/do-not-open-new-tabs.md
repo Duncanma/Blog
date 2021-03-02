@@ -33,7 +33,7 @@ The main objection to coding your links like this is that it is taking
 control away from the user. In the default case, they can choose to open
 in the same tab or a new one, but in this case that choice is removed.
 To [quote Jakob
-Neilsen](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/),
+Nielsen](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/),
 this is a "user-hostile" action.
 
 Why would a user care? Well, moving to a new tab breaks one of the
