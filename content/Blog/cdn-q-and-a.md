@@ -7,7 +7,6 @@ tags:
 - CDN
 - Performance
 description: Various questions on CDNs and my attempts to answer them
-techfeatured: true
 ---
 There are many common questions that come up [when talking about CDNs]({{< relref "overview-of-cdn.md" >}}), and I thought I would address them here on the site one at a time. Happy to add more if I haven't addressed something you think needs to be added (just [@ me on twitter](https://twitter.com/duncanma)).
 
