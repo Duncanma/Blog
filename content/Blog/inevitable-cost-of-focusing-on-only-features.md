@@ -9,6 +9,7 @@ tags:
 description: If we confuse shipping features for building a product, we will eventually see all forward progress cease.
 images:
 - /images/inevitable/construction.jpg
+techfeatured: true
 ---
 Throughout my time leading engineers at Microsoft, there would often be
 discussions about the relative 'velocity' of our team over time. As our projects
