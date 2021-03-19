@@ -1,4 +1,4 @@
-baseURL = "https://www.duncanmackenzie.net/"
+baseURL = "https://stage.duncanmackenzie.net/"
 languageCode = "en-us"
 title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
@@ -43,7 +43,7 @@ disableHugoGeneratorInject = false
   tag      = "tags"
 
 [params]
-  index = true
+  index = false
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"

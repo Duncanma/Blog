@@ -1,0 +1,6 @@
+User-agent: *
+{{ if .Site.Params.index}}
+sitemap: {{ "sitemap.xml" | absURL }}
+{{ else }}
+Disallow: /
+{{ end }}
