@@ -43,7 +43,6 @@ disableHugoGeneratorInject = false
   tag      = "tags"
 
 [params]
-  index = true
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
