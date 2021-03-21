@@ -1,5 +1,5 @@
 ---
-date: 2021-03-21T12:44:00-07:00
+date: 2021-03-21T1:44:00-07:00
 title: You need a test environment
 type: posts
 tags:
@@ -24,7 +24,11 @@ often used for testing new code before it is even ready to be staged).
 We don't have a live production environment that matches production
 closely enough to be used for performance testing though, behind the
 same CDN, running on the same hardware and without any authentication to
-corrupt the test results. There are multiple reasons to run more than
+corrupt the test results.
+
+## Using a secondary environment for performance testing
+
+There are multiple reasons to run more than
 one environment including functional testing and safe rollout, but to do
 performance testing requires a much closer match to production than what
 I often see.
@@ -139,6 +143,12 @@ hours. I was able to try:
 - then finally rewriting my template to get rid of the need for
   JavaScript altogether (a 25% improvement in time to Visually
   Complete).
+
+## A different approach using CloudFlare Workers
+
+Matt Hobbs wrote up [this great guide to an alternate way to do some quick performance testing on your site](https://nooshu.github.io/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing/), **without** creating a secondary environment, and I love it. For my blog, a secondary environment was quick and easy to setup, but doing the same for [Microsoft Docs](https://docs.microsoft.com) (or for a site you don't own) would be much harder. Following this path, you use [workers](https://workers.cloudflare.com/) to manipulate the responses coming from the live production site. You write scripts to apply your changes, and then test the result.
+
+You should definitely check it out, and I may end up using it for Docs, but it is worth noting that the final result is not a **true copy** of your environment. In my case, I'm using the Azure CDN for example, but this setup would be going through Cloudflare. As a way to test a variety of changes without a lot of infrastructure though, this is a great option.
 
 ## Do you **really** need a test environment?
 
