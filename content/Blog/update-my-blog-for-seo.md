@@ -8,7 +8,6 @@ tags:
  - Coding
  - Hugo
 description: A few small fixes to my blog template to clean up how Google and other crawlers see my content.
-techfeatured: true
 ---
 In [my recent article on assessing your site for SEO (Search Engine
 Optimization)](/blog/assessing-your-site-for-seo/), I mentioned a few
