@@ -35,6 +35,6 @@ If you haven't looked at the .Text source yourself, you might be wondering why a
 
 _thanks to [Garth's 2001 article from SQLTeam.com for showing me COALESCE being used for this purpose...](http://www.sqlteam.com/item.asp?ItemID=2368)_
 
-and then modifying the queries that retrieved entries to also return blog_GetCategoryTitles(<PostID>), and then modify the RSS writer to output the categories if any were returned.
+and then modifying the queries that retrieved entries to also return `blog_GetCategoryTitles(<PostID>)`, and then modify the RSS writer to output the categories if any were returned.
 
 Interesting note, I figured the omission of category data from the feeds in .Text was a simple error and that it would have been added along the way to Community Server, but I noticed that the feeds on [blogs.msdn.com](http://blogs.msdn.com/alexbarn/rss.aspx) don't appear to have category data either... is category information not considered useful in feeds?

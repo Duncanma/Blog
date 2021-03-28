@@ -1,6 +1,10 @@
 ---
 date: 2005-09-27T06:36:00+00:00
 title: A bug in my RSS generator, but is it really invalid?
+tags:
+ - RSS
+ - Coding
+ - Microsoft
 type: posts
 ---
 The RSS generator for MSDN, creator of [this feed](http://msdn.microsoft.com/rss.xml), and many more ... has a small problem. Way upstream, when various people inside the company enter information about an upcoming headline, they have the ability to specify a URL to a download. The intent was for this to be a URL to an actual downloadable file, so when I generate an RSS item from that headline entry, I take that URL and turn it into an enclosure entry in the RSS file.

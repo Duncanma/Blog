@@ -32,8 +32,7 @@ their current context.
 The main objection to coding your links like this is that it is taking
 control away from the user. In the default case, they can choose to open
 in the same tab or a new one, but in this case that choice is removed.
-To [quote Jakob
-Nielsen](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/),
+To [quote Jakob Nielsen](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/),
 this is a "user-hostile" action.
 
 Why would a user care? Well, moving to a new tab breaks one of the
@@ -48,7 +47,7 @@ to the previous page has increased.
 location, making it much easier to use than to go up to the little tab
 icon and try to find the content you were on before.** In my case, that
 icon is a smiley face, which is what Chrome on Android shows when you
-have more than 99 tabs open. 
+have more than 99 tabs open.
 
 In addition to being more effort to go back, it is more importantly inconsistent. I didn't ask to leave the
 context I was in, and now I must realize that for this specific link the

@@ -2,6 +2,10 @@
 date: 2004-09-27T06:19:00+00:00
 title: I've been working on a new RSS generation system for MSDN for the past little while
 type: posts
+tags:
+ - RSS
+ - Coding
+ - Microsoft
 ---
 ... and it is almost ready to ship....
 
