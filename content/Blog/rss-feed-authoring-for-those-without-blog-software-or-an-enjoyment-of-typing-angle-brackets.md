@@ -11,7 +11,7 @@ Blogs and blogging software seem to be everywhere these days, and RSS has been a
 
 This problem happened to line up with a sample I had been thinking of though, so I wrote a quick app using VC# Express 2005 to try and help out; a Feed Writer that allows you to create new RSS 2.0 feeds, edit existing ones, and even import entries from one feed to another. I stuck to a tried and true UI structure, tree along the left side then entry fields on the right:
 
-![Screenshot of the FeedWriter app using a tree view and form controls](/images/FeedWriter.png)
+![Screenshot of the FeedWriter app using a tree view and form controls](/images/rssapp.png)
 
 This app has been developed **without** the general user in mind, MSDN/TechNet were the targets and because of that there are some fields in this UI that are only relevant to the needs of those groups. For example, the list of attributes you can see on the lower-right is specific to the needs of MSDN and TechNet, who need to markup the feed entries with the appropriate choices. The "Type" and "HeadlineImage" fields are also specific to MSDN feeds, I'm planning to adapt it to work with 'standard' RSS 2.0 items and the category element to make it more general purpose, but for now I thought I'd show you the version I already have running.
 
