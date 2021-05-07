@@ -6,6 +6,7 @@ tags:
  - Web Development
  - Coding
  - Performance
+ - Scalability
 ---
 One of the keys to scalability in software systems is to reduce the
 amount of work you do per action. In a website, think of this as the
