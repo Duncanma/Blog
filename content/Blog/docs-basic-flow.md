@@ -22,7 +22,7 @@ Ok, maybe not that simplified.
 
 Starting with a little diagram, lets go through the different parts of the basic Docs system.
 
-<img src="/images/docs/overview.png" alt="Docs authors work in Git repositories, which are built into content by a Build step, pushed to storage and then served up by the site" loading="lazy" height="500" width="900">
+![Docs authors work in Git repositories, which are built into content by a Build step, pushed to storage and then served up by the site](/images/docs/overview.png)
 
 ### Repositories
 
@@ -55,7 +55,7 @@ One of the things we have to configure when we onboard a content repository is w
 
 Once the content is retrieved, it is wrapped in the site chrome (so nicely [illustrated by this completely correct tweet by James Pain](https://twitter.com/jpainio/status/1263159199476920321?s=20)) and the whole result is sent back to the browser.
 
-<img src="/images/docs/chrome.jpg" alt="James Pain&amp;rsquo;s illustration of the chrome around a Docs page" loading="lazy" width="1920" height="1001">
+![James Pain's illustration of the chrome around a Docs page](/images/docs/chrome.jpg)
 
 This lookup, retrieval and 'chrome wrapping' step doesn't happen that often, as the final output is cached by our CDN.
 

@@ -1,0 +1,70 @@
+{{ if hasPrefix .Destination "http"  -}}
+<img
+    src="{{ .Destination | safeURL }}"
+    alt="{{ .Text }}"
+    loading="lazy"
+    decoding="async" />
+{{ else -}}
+{{ $img := imageConfig (add "/static" (.Destination | safeURL)) }}
+{{ if gt $img.Width 760 }}
+<div class="lightbox">
+    <a href="{{ .Destination | safeURL }}" data-caption="{{ .Text }}">{{ end }}
+<picture>
+    {{ $isJPG := eq (path.Ext .Destination) ".jpg" }}
+    {{ $isPNG := eq (path.Ext .Destination) ".png" }}
+
+    {{ if ($isJPG) -}}
+      {{ $jxlPath:= replace .Destination ".jpg" ".jxl" }}
+      {{ $jxlPathStatic:= printf "static/%s" $jxlPath }}
+
+      {{ if (fileExists $jxlPathStatic) -}}
+        <source srcset="{{ $jxlPath | safeURL }}" type="image/jxl" >
+      {{- end }}
+      {{ $avifPath:= replace .Destination ".jpg" ".avif" }}
+      {{ $avifPathStatic:= printf "static/%s" $avifPath }}
+
+      {{ if (fileExists $avifPathStatic) -}}
+        <source srcset="{{ $avifPath | safeURL }}" type="image/avif" >
+      {{- end }}
+
+      {{ $webpPath:= replace .Destination ".jpg" ".webp" }}
+      {{ $webpPathStatic:= printf "static/%s" $webpPath }}
+
+      {{ if (fileExists $webpPathStatic) -}}
+        <source srcset="{{ $webpPath | safeURL }}" type="image/webp" >
+      {{- end }}
+    {{- end }}
+
+    {{ if ($isPNG) -}}
+      {{ $jxlPath:= replace .Destination ".png" ".jxl" }}
+      {{ $jxlPathStatic:= printf "static/%s" $jxlPath }}
+
+      {{ if (fileExists $jxlPathStatic) -}}
+        <source srcset="{{ $jxlPath | safeURL }}" type="image/jxl" >
+      {{- end }}
+      {{ $avifPath:= replace .Destination ".png" ".avif" }}
+      {{ $avifPathStatic:= printf "static/%s" $avifPath }}
+
+      {{ if (fileExists $avifPathStatic) -}}
+        <source srcset="{{ $avifPath | safeURL }}" type="image/avif" >
+      {{- end }}
+
+      {{ $webpPath:= replace .Destination ".png" ".webp" }}
+      {{ $webpPathStatic:= printf "static/%s" $webpPath }}
+
+      {{ if (fileExists $webpPathStatic) -}}
+        <source srcset="{{ $webpPath | safeURL }}" type="image/webp" >
+      {{- end }}
+    {{- end }}
+
+    <img
+      src="{{ .Destination | safeURL }}"
+      alt="{{ .Text }}"
+      loading="lazy"
+      decoding="async"
+      width="{{ $img.Width }}"
+      height="{{ $img.Height }}"
+    />
+  </picture>
+  {{ if gt $img.Width 760 }}</a></div>{{ end }}
+{{end -}}
