@@ -15,7 +15,7 @@ featured: true
 
 Shortly after my first visit, I was searching around online to see if there were any craft beer places in Shanghai other than the Shanghai Brewery that I had already found. I found a few articles about new beer places, and they all made comments about 'now there is more than just the old favorite, Boxing Cat' and I knew I had to find this Boxing Cat place. Just the name alone had me interested. On my next trip, I was able to find them in an area called Sinan Mansions.
 
-{{< lightbox id="boxingcatlogo" big="/images/beer/shanghai/BoxingCat_Outside_Logo.jpg" sml="/images/beer/shanghai/BoxingCat_Outside_Logo_sml.jpg" alt="Boxing Cat logo showing their mascot who looks like a skinny Thai boxer" >}}
+![Boxing Cat logo showing their mascot who looks like a skinny Thai boxer](/images/beer/shanghai/BoxingCat_Outside_Logo.jpg)
 
 I went right in and had one of the many bit of cultural confusion that you may run into while traveling. I was handed a paper list of what was available on tap at the moment, just a photocopied list.
 
@@ -25,9 +25,9 @@ Anyway, I was reading the list, enjoying the details provided (descriptions of t
 
 On future visits, I found another location on the same road, but in a different part of town, and just recently they opened a completely new place called 'First Round'.
 
-{{< lightbox id="firstroundoutside" big="/images/beer/shanghai/firstround_outside.jpg" sml="/images/beer/shanghai/firstround_outside_sml.jpg" alt="Street view of the First Round location of Boxing Cat, showing their sign and logo" >}}
+![Street view of the First Round location of Boxing Cat, showing their sign and logo](/images/beer/shanghai/firstround_outside.jpg)
 
-{{< lightbox id="firstroundinside" big="/images/beer/shanghai/firstround_inside.jpg" sml="/images/beer/shanghai/firstround_inside_sml.jpg" alt="Wall behind the taps at the First Round location of Boxing Cat, showing their beer names" >}}
+![Wall behind the taps at the First Round location of Boxing Cat, showing their beer names](/images/beer/shanghai/firstround_inside.jpg)
 
 First Round is worth checking out, and it has all the same beers as the others, so if you can only pick one, that's the location I'd suggest you visit.  This location is designed to be all 'self-serve', and I had no idea what that meant, so I had to ask. Turns out you can order food using your WeChat account and a menu of QR codes, and you can get beer from a self-serve station all without any help. Or at least you can if you can pay using WeChat. I was limited to credit card or cash, so I couldn't officially use the self-serve beer station, but I really wanted to see it in action, so I asked if the bartender could use the machine **for me** and let me film it!
 
@@ -51,4 +51,3 @@ As of when I wrote this, there were three Boxing Cat locations in Shanghai:
 * [First Round (in Hong Qiao),739 Dingxi Lu, by Yan'an Xi Lu](https://www.thatsmags.com/shanghai/directory/1796042/first-round)
 * [Sinan Mansions Location, Unit 26A 519 Fu Xing Road Central](https://www.thatsmags.com/shanghai/directory/1391/boxing-cat-brewery-sinan-mansions)
 * [Yong Fu Location, 82 Fu Xing Road West](https://www.thatsmags.com/shanghai/directory/1392/boxing-cat-brewery-fuxing-lu)
-
