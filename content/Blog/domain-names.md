@@ -19,11 +19,11 @@ I saw the positive and negative impact of proper domain choice recently, when re
 
 The first link is to travel.hawaii.gov, an official site run by the Hawaii state government, and the best place to go… but the second link seems useful too and is located at safetravelshawaii.com. This isn’t a scam site as far as I can tell, but it isn’t the official government program, and exists to promote a specific company’s products and services. So far so good, the proper domain name was used for the official site and made me feel safe using the information on those pages, but if I look a bit further down in the search results… 
 
-![Search result showing a site called hawaiicovid19 that seems to be from the Hawaii government, maybe?](/images/SearchResult.png)
+![Search result showing a site called hawaiicovid19 that seems to be from the Hawaii government, maybe?](/images/domains/SearchResult.png)
 
 This **is** an official Hawaii government site and is where my airline sent me originally … but the domain name doesn’t leverage Hawaii.gov at all and could have been set up by anyone. I could easily register a domain name that sounds just as authentic and put whatever type of misinformation I wanted there.
 
-![Domain available notice from a site like GoDaddy, showing me about to buy HawaiiCovid.com](/images/HawaiiCovid.png)
+![Domain available notice from a site like GoDaddy, showing me about to buy HawaiiCovid.com](/images/domains/HawaiiCovid.png)
 
 So, don’t do that. Always leverage your existing domain name and perhaps over time we can train users to use the host as an essential bit of information when determining if they should trust a site. Short links, such as bit.ly, can make it hard to even check where you are about to go, but once you end up on a site, check the domain name!
 
