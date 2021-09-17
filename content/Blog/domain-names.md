@@ -5,7 +5,7 @@ type: posts
 tags:
  - Web Development
  - Security
-techfeatured: false
+techfeatured: true
 description: If your company has a core domain, leverage it for all your sites, instead of making new ones.
 ---
 
