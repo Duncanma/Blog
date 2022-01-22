@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
 
-theme = "hello-friend-ng"
+theme = "microsoft"
 summaryLength = 10
 pygmentsCodefences = true
 pygmentsUseClasses = true
