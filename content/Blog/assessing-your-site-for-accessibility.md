@@ -7,7 +7,7 @@ tags:
  - Coding
  - Accessibility
  - Self-Assessment
-techfeatured: true
+techfeatured: false
 description: A guide to the minimum areas you should look to ensure your site is usable by everyone.
 ---
 
