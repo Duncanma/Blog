@@ -7,6 +7,7 @@ tags:
  - Blogging
  - Coding
  - Performance
+ - Hugo
 images:
 - /images/performance/Baseline_New_Waterfall.png
 summary: Moving my Google fonts local seemed to be one of the remaining

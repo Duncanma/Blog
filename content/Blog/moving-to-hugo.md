@@ -5,6 +5,7 @@ type: posts
 tags:
  - Blogging
  - Coding
+ - Hugo
 ---
 This blog has been around a while, started back in 2003 on a Microsoft blogging site for employees, and over the years I've moved it around a lot in terms of hosting and platforms. It started out on a blog platform from Telligent, then when it moved to my own server it was on a variety of open-source engines (.Text was the one I remember), a blog engine Adam Kinney and I wrote for our blogs, and a project built by my team at Microsoft called Oxite.
 
