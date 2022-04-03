@@ -33,6 +33,9 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [author]
   name = "Duncan Mackenzie"
 
