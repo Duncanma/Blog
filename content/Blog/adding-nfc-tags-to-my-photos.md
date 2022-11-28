@@ -29,7 +29,7 @@ I did [the bare minimum amount of research](https://www.rfidfuture.com/differenc
 
 I had planned on going with some sort of data file that generated pages, but I ended up just creating a new post type "photos", and adding the fields I wanted in the frontmatter of a markdown file.
 
-```md
+```markdown
 ---
 date: 2013-04-19T12:38:00+00:00
 title: Flagstone
@@ -50,7 +50,7 @@ With those fields added, I could create a new layout for the photo post type, by
 </p>
 ```
 
-I picked a few of the photos from around the house, [/photos/](created pages for them), put NFC stickers onto the inner side of the frame's filler board, and encoded the URLs onto the tags.
+I picked a few of the photos from around the house, [created pages for them](/photos/), put NFC stickers onto the inner side of the frame's filler board, and encoded the URLs onto the tags.
 
 ![NFC taped to the frame back](/images/nfc/tag_on_back.jpg)
 
