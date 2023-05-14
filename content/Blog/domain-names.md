@@ -5,6 +5,7 @@ type: posts
 tags:
  - Web Development
  - Security
+ - Information Architecture
 techfeatured: true
 description: If your company has a core domain, leverage it for all your sites, instead of making new ones.
 ---
@@ -17,7 +18,7 @@ I saw the positive and negative impact of proper domain choice recently, when re
 
 ![Search results showing many results around Hawaii and COVID-19](/images/domains/FullSearchResults.png)
 
-The first link is to travel.hawaii.gov, an official site run by the Hawaii state government, and the best place to go… but the second link seems useful too and is located at safetravelshawaii.com. This isn’t a scam site as far as I can tell, but it isn’t the official government program, and exists to promote a specific company’s products and services. So far so good, the proper domain name was used for the official site and made me feel safe using the information on those pages, but if I look a bit further down in the search results… 
+The first link is to travel.hawaii.gov, an official site run by the Hawaii state government, and the best place to go… but the second link seems useful too and is located at safetravelshawaii.com. This isn’t a scam site as far as I can tell, but it isn’t the official government program, and exists to promote a specific company’s products and services. So far so good, the proper domain name was used for the official site and made me feel safe using the information on those pages, but if I look a bit further down in the search results…
 
 ![Search result showing a site called hawaiicovid19 that seems to be from the Hawaii government, maybe?](/images/domains/SearchResult.png)
 
@@ -32,4 +33,3 @@ Now that I’ve been thinking about this, I am seeing similar issues everywhere,
 {{% note %}}
 FYI, John Oliver had [a great segment about the Equifax security breach](https://www.youtube.com/watch?v=mPjgRKW_Jmk) that pointed out this exact issue. Equifax (that has a nice authoritative domain of Equifax.com) setup a new site at www.equifaxsecurity2017.com to deal with this specific event, and the HBO host showed that anyone can create a site that sounds legit by spinning up www.equifaxfraudprevention.com.
 {{% /note %}}
-

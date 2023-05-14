@@ -4,8 +4,7 @@ title: Don't depend on Referrer info
 type: posts
 tags:
 - Web Development
-description: Determining the source of traffic to your pages is often done via the referral information passed in the request, but this information is often unavailable or inaccurate. 
-techfeatured: true
+description: Determining the source of traffic to your pages is often done via the referral information passed in the request, but this information is often unavailable or inaccurate.
 ---
 
 Over the years, many people have asked me to give them data on, or act
@@ -148,14 +147,13 @@ that **you** can still use this data to understand user journeys on
 As a web developer though, what the main takeaway from all of this is
 that **in most cases you cannot determine the page a user is coming from when they visit your site**. You can, in some cases, determine the
 origin (so you can tell this is traffic from Google, Bing, Twitter, etc.), but not in every
-case depending on the way the source site is configured. 
+case depending on the way the source site is configured.
 
 If you are building a feature that requires you know the source of some incoming
 traffic, then **you should change the incoming URL**. Adding a query
 param of `?traffic_source=<foo.com>` would work or you can use campaign
 IDs (details depend on your analytics, but you'll have seen examples like WT.mc_id in URLs all over the web) that have the advantage of already being supported by many types of
-analytics software. 
+analytics software.
 
 If you have no control over the source page/link, then honestly, you are out of luck. You might pick up some referrer
 information, from older browsers, but you **cannot depend on this** to work in most cases.
-

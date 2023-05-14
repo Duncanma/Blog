@@ -7,7 +7,6 @@ tags:
  - Coding
  - Self-Assessment
  - SEO
-techfeatured: true
 description: A beginner's guide to seo going through a step by step tutorial to assess your own site
 ---
 
@@ -62,7 +61,7 @@ easier or harder for it to understand our pages.
 
 You can't call Google up and ask them if your site is written correctly,
 but you can do the next best thing through a few special types of
-searches and the Google Search Console. 
+searches and the Google Search Console.
 
 ### What's showing up in Google?
 
@@ -459,7 +458,7 @@ What you want to check here, as a site owner, is:
 - Do I have a robots.txt file? (just add /robots.txt to your domain in
   a browser and see)
 - Does it contain a link to a sitemap?
-- Does that sitemap (just paste that link into the browser) exist, and 
+- Does that sitemap (just paste that link into the browser) exist, and
   does it seem to contain all my URLs? (if you have 1000s of URLs, I
   don't expect you to do an exhaustive audit, but read through and see
   if it seems to include everything, or search for pages you are
