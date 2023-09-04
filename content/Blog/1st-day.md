@@ -3,8 +3,7 @@ date: 2003-06-01T23:57:00+00:00
 title: 1st Day
 type: posts
 ---
-Woo Hoo, I got a bag when I registered! Lately, I haven't been getting them, something about the "staff" on my registration at all of these things... so my laptop bag closet was getting a little empty. I give these great bags away to my friends and family, there are just too many for one person, which is why you might see my mother roaming around with a TechEd bag, or see my wife at the park with my son and a nice VSLive "tote"!**Foo** **foo@** **foo@ffo**
-
+Woo Hoo, I got a bag when I registered! Lately, I haven't been getting them, something about the "staff" on my registration at all of these things... so my laptop bag closet was getting a little empty. I give these great bags away to my friends and family, there are just too many for one person, which is why you might see my mother roaming around with a TechEd bag, or see my wife at the park with my son and a nice VSLive "tote"!
 
 Lots of stuff in the bag, I didn't even notice a front pocket full of CDs until later, and I think there are even a few betas and eval copies of software in there. Lots of people at the convention center already, mostly for registration and some pre-conference sessions I suppose... the main sessions don't start until tomorrow.
 
