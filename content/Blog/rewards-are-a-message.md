@@ -13,7 +13,7 @@ I was a manager at Microsoft for about 18 years and for quite a bit of it I was 
 
 The TL;DR; of all of those discussions could be distilled down into "Rewards are a way to send a message to your team, what message do you want to send?".
 
-> Small side note... At Microsoft folks often refer to managers as either M1, M2, or M3. I heard these terms for years without having any idea what they meant, until I became a M2 and it made sense. M1 is a manager with ICs (Individual Contributors or non-managers) under them, M2 is a manager of managers, and a M3 is a manager of managers. This can continue up I assume, but M3 is where I was for the past few years, although I am now a M2. This could be a common term at other companies, but for me it was a mystery for a bit. 
+> Small side note... At Microsoft folks often refer to managers as either M1, M2, or M3. I heard these terms for years without having any idea what they meant, until I became a M2 and it made sense. M1 is a manager with ICs (Individual Contributors or non-managers) under them, M2 is a manager of managers, and a M3 is a manager of managers of managers. This can continue up I assume, but M3 is where I was for the past few years, although I am now a M2. This could be a common term at other companies, but for me it was a mystery for a bit. 
 
 ## What are rewards?
 
