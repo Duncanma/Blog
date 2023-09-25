@@ -12,22 +12,22 @@ techfeatured: true
 I'm often asked if I have any advice for other software engineers, and
 the absolute number one piece of guidance I give is "make sure your work
 is visible". Is it the most important thing? No, the most important
-things are doing a good job and being a positive part of your team, but
+things are doing an excellent job and being a positive part of your team, but
 **right after** those I would say is "making sure people are aware of
-the work you are doing". I get a lot of push back on this idea, with
+the work you are doing". I get quite a bit of push back on this idea, with
 comments such as:
 
 - I prefer to fly under the radar.
 - I don't want to brag.
 - I've already done the work, why do I also have to tell people about it?
 
-I think a lot of people who push back on increasing visibility of their
+I think many people who resist trying to increase the visibility of their
 work misunderstand the reasons why we are doing this, and why it is
 important.
 
 Does it help you as an individual? Sure! If your manager and
 your company understand all the work you are doing, it could positively
-impact your career. That is **one** of the benefits of making your work
+affect your career. That is **one** of the benefits of making your work
 visible, but if that isn't appealing to you or if self-promotion feels
 wrong, then let's start with the other reasons.
 
@@ -36,7 +36,7 @@ wrong, then let's start with the other reasons.
 I know that for salaried employees the link between their time and money
 is a bit vague, but it is definitely true that your company has paid you
 a sum of money for your work. Shouldn't they understand what they
-purchased for that money? Even if this was Star Trek and you weren't
+received for that money? Even if this was Star Trek and you weren't
 being paid, there are a certain number of people who only have so much
 time in their day, so that finite resource is being 'spent' on your
 work. You aren't bragging, you are increasing awareness of the work that
@@ -48,7 +48,7 @@ visible, and another team that has 50% of their work visible, it will
 seem like that second team is delivering a lot more value. Decisions
 will be made based on that information.
 
-In some cases, the result of making everything visible, is to discover
+In some cases, the result of making everything visible is to discover
 that specific work is **not** useful. This is a good result too,
 although it may not feel like it when it is your project being
 discussed, because then you and the rest of the team end up focused on
@@ -61,18 +61,18 @@ the idea of promoting their work, that the company focuses on the wrong
 things, that flashy features often get more attention than critical
 infrastructure work, or that "they only see a small bit of the work I
 do". All of this is often true, but what are you doing to fix it? If you
-want time to be allocated to focusing on performance work or
+want time to be dedicated to focusing on performance work or
 infrastructure, or whatever you think is important, then make sure
 people know the impact of previous work in those areas. Without
 visibility into the work being done, it may seem like everything is just
-doing fine with no work required. Future plans will continue to ignore
+doing fine with no work needed. Future plans will continue to ignore
 these areas, assuming they take no effort and no attention.
 
 ## It encourages others to focus on impactful work
 
-Some work, like a new UX feature, are 'self-documenting' as everyone can
+Some work, like a new UX feature, is 'self-documenting' as everyone can
 see the results, but even then, it is important to explain the impact of
-the work. If you want the company (or team) to focus on the most right
+the work. If you want the company (or team) to focus on the right
 things, then make sure they are aware of what that is. By building a
 habit and a culture around the impact of work, we can avoid a situation
 where critical work is avoided because it is less visible and less
@@ -97,21 +97,21 @@ specific to your company, but you should craft a story that includes:
 - The problem you were trying to solve.
 - What you did.
 - The impact produced.
-- What's next.
+- What's next?
 
-You should explain all of this for a broad audience, and make the
+You should explain all of this for a broad audience and make the
 overall message into a nice self-contained package.
 
 Years ago, my boss at the time Jeff Sandquist, responded to an email of
 mine with some great advice. I had sent him a quick note, on top of a
-long thread where the dev team was discussing some performance
+long thread where the dev team was discussing a set of performance
 improvements. My message was essentially "we did some good stuff". He
 asked me to send him a **'forwardable email'**, which I didn't
 understand at all.
 
 After a discussion, it all clicked for me. He wanted a message that
 explained the work in a way that he could send to other people in the
-company and they would understand the value of what we had done. This is
+company, and they would understand the value of what we had done. This is
 harder than what I was used to doing, but way more useful. By wrapping
 our work in the context necessary to understand it, including \#s (and
 maybe even visuals like screenshots or graphs), it could reach a much
