@@ -8,7 +8,6 @@ tags:
  - Performance
  - Software Management
  - Engineering Management
-techfeatured: true
 images:
 - /images/performance/search-console-web-vitals.png
 description: We often talk about assessing and improving the performance of a web page or a site, but why does this matter to you as a site owner?

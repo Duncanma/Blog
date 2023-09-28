@@ -8,7 +8,6 @@ tags:
  - Coding
  - Performance
  - Self-Assessment
-techfeatured: true
 images:
 - /images/performance/Baseline_New_Waterfall.png
 description: As a web developer who has taken on many different sites over the years, one of the valuable skills I've developed is how to go through and access the site for a set of different elements of quality.
