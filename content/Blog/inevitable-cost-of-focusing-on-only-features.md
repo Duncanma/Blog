@@ -6,6 +6,7 @@ tags:
  - Web Development
  - Coding
  - Software Management
+ - Engineering Management
 description: If we confuse shipping features for building a product, we will eventually see all forward progress cease.
 images:
 - /images/inevitable/construction.jpg

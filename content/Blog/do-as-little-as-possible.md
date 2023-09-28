@@ -7,6 +7,7 @@ tags:
  - Coding
  - Performance
  - Scalability
+ - Engineering Management
 techfeatured: true
 ---
 One of the keys to scalability in software systems is to reduce the
