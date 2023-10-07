@@ -1,0 +1,21 @@
+.heading-anchor {
+	font-size: 1em;
+	transition: opacity .1s linear;
+	vertical-align: middle;
+	//margin-#{$content-left}: 10px;
+
+	&:hover {
+		text-decoration: none;
+	}
+
+	:not(:hover) &:not(.focus-visible) {
+		display: none;
+		opacity: 0;
+	}
+
+	h2 & {
+		// h2 icon looks very large compared to h3-h6.
+		font-size: .8em;
+		margin-bottom: 4px;
+	}
+}

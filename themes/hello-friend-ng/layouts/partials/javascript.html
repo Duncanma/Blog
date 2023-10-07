@@ -1,0 +1,36 @@
+{{ $baguette := resources.Get "js/baguetteBox.js"}}
+{{ $secureBaguette := $baguette | resources.Fingerprint "sha512"}}
+{{ if in .Content "lightbox" }}
+<script type="text/javascript" src="{{ $secureBaguette.RelPermalink }}" integrity="{{ $secureBaguette.Data.Integrity }}" defer></script>
+{{ end }}
+{{ range $val := $.Site.Params.customJS }}
+	{{ if gt (len $val) 0 }}
+		<script src="{{ $val }}"></script>
+	{{ end }}
+{{ end }}
+{{- if .Site.GoogleAnalytics }}
+<!-- Google Analytics -->
+<script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('set', 'anonymizeIp', true);
+	ga('create', '{{.Site.GoogleAnalytics}}', 'auto');
+	var saveData = "unknown";
+	if (navigator.connection != undefined && navigator.connection.saveData != undefined) {
+		if (navigator.connection.saveData) {
+			saveData = "on";
+		}
+		else {
+			saveData = "off";
+		}
+	}
+	var userAgent = "unknown";
+	if (navigator.userAgent != undefined) {
+		userAgent = navigator.userAgent;
+	}
+	ga('set', 'dimension1', saveData);
+	ga('set', 'dimension2', userAgent);
+	ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+{{- end}}

@@ -1,0 +1,52 @@
+div.content {
+	margin-top: 0;
+}
+
+ol.recent
+{
+	margin-left: 0px;
+    list-style: none;
+}
+
+ol.recent li {
+    padding-bottom: 1vh;
+}
+
+p.toc-heading {
+	font-weight: bold;
+    font-size: larger;
+}
+
+td, th {
+	padding:10px;
+}
+
+.note, .warning {
+	border-left-width: 4px;
+	border-left-style: solid;
+	position: relative;
+	border-color: #0594cb;
+	display: block;
+}
+
+.admonition-content {
+	display: block;
+	margin: 0;
+	padding: .125em 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	overflow-x: auto;
+	background-color: rgba(0,0,0,.05);
+}
+
+.post-content img {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.post-content video {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}

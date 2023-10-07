@@ -1,0 +1,66 @@
+{{ define "main" }}
+    <main class="photo">
+        <article>
+            <h1><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+            <div class="description">
+                {{ .Content }}
+            </div>
+            <p class="location">
+                <a href="https://www.google.com/maps/search/?api=1&query={{ .Params.locationLat }},{{ .Params.locationLong }}">{{ .Params.locationName }}</a>
+            </p>
+            {{ if isset .Params "date" }}<p class="date">{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}</p>{{ end }}
+            {{ $destination := .Params.source }}
+            <div class="outer">
+                {{ $img := imageConfig (add "/static" ( $destination | safeURL)) }}
+                {{ if gt $img.Width 760 }}
+                <div class="lightbox">
+                    <a href="{{ $destination | safeURL }}" data-caption="{{ .Title }}">{{ end }}
+                <picture>
+                    {{- $isJPG := eq (path.Ext $destination) ".jpg" }}
+                    {{- $isPNG := eq (path.Ext $destination) ".png" }}
+                    {{- if ($isJPG) -}}
+                      {{- $jxlPath:= replace $destination ".jpg" ".jxl" }}
+                      {{- $jxlPathStatic:= printf "static/%s" $jxlPath }}
+                      {{ if (fileExists $jxlPathStatic) -}}
+                    <source srcset="{{ $jxlPath | safeURL }}" type="image/jxl" >
+                      {{- end }}
+                      {{- $avifPath:= replace $destination ".jpg" ".avif" }}
+                      {{- $avifPathStatic:= printf "static/%s" $avifPath }}
+                      {{ if (fileExists $avifPathStatic) -}}
+                    <source srcset="{{ $avifPath | safeURL }}" type="image/avif" >
+                      {{- end }}
+                      {{- $webpPath:= replace $destination ".jpg" ".webp" }}
+                      {{- $webpPathStatic:= printf "static/%s" $webpPath }}
+                      {{ if (fileExists $webpPathStatic) -}}
+                    <source srcset="{{ $webpPath | safeURL }}" type="image/webp" >
+                      {{- end }}
+                    {{- end }}
+                    {{- if ($isPNG) -}}
+                      {{- $jxlPath:= replace $destination ".png" ".jxl" }}
+                      {{- $jxlPathStatic:= printf "static/%s" $jxlPath }}
+                      {{- if (fileExists $jxlPathStatic) -}}
+                        <source srcset="{{ $jxlPath | safeURL }}" type="image/jxl" >
+                      {{ end }}
+                      {{- $avifPath:= replace $destination ".png" ".avif" }}
+                      {{- $avifPathStatic:= printf "static/%s" $avifPath }}
+                      {{- if (fileExists $avifPathStatic) -}}
+                        <source srcset="{{ $avifPath | safeURL }}" type="image/avif" >
+                      {{ end }}
+                      {{- $webpPath:= replace $destination ".png" ".webp" }}
+                      {{- $webpPathStatic:= printf "static/%s" $webpPath }}
+                      {{- if (fileExists $webpPathStatic) -}}
+                        <source srcset="{{ $webpPath | safeURL }}" type="image/webp" >
+                      {{ end }}
+                    {{- end }}               
+                    <img
+                      src="{{ $destination | safeURL }}"
+                      alt="{{ .Title }}"
+                      width="{{ $img.Width }}"
+                      height="{{ $img.Height }}"
+                    />
+                  </picture>
+                {{ if gt $img.Width 760 }}</a></div>{{ end }}
+            </div>
+        </article>
+    </main>
+{{ end }}

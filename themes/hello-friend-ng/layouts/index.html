@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main>
+    <div>
+        <h1>{{ .Site.Title }}</h1>
+
+        {{- with .Site.Params.social }}
+        <div>
+            {{ partial "social-icons.html" . }}
+        </div>
+        {{- end }}
+    </div>
+    <h2>General Tech Posts</h2>
+    <ol class="recent">
+        {{- range where .Site.RegularPages "Params.techfeatured" true -}}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <!-- <div class="summary">{{.Summary}}</div> -->
+        </li>
+        {{- end -}}
+    </ol>
+    <h2>Posts about <a href="https://docs.microsoft.com/">Docs</a></h2>
+    <ol class="recent">
+        {{- range where .Site.RegularPages "Params.docsfeatured" true -}}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <!-- <div class="summary">{{.Summary}}</div> -->
+        </li>
+        {{- end -}}
+    </ol>
+    <h2>Other Recent Posts</h2>
+    <ol class="recent">
+        {{- range where .Site.RegularPages "Params.featured" true -}}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <!-- <div class="summary">{{.Summary}}</div> -->
+        </li>
+        {{- end -}}
+    </ol>
+
+    <h2>Even More Posts!</h2>
+    <p><a href="/blog/">See all my past blog posts</a></p>
+
+</main>
+{{ end }}

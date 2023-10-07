@@ -1,0 +1,30 @@
+{{ define "main" }}
+    <main class="posts">
+        <h1>{{ .Title }}</h1>
+
+        {{- if .Content }}
+            <div class="content">{{ .Content }}</div>
+        {{- end }}
+        <ul class="posts-list">
+            {{ if eq .Kind "taxonomyTerm" }}
+                {{- range $.Site.Taxonomies.tags.ByCount }}
+                <li class="post-item">
+                    <a href="{{ .Page.RelPermalink }}">
+                        <span class="post-title">{{.Page.Title}}</span>
+                        <span class="post-count">{{.Count }}</span>
+                    </a>
+                </li>
+                {{- end }}
+            {{else}}
+            {{- range .Pages }}
+            <li class="post-item">
+                <a href="{{.RelPermalink}}">
+                    <span class="post-title">{{.Title}}</span>
+                    <span class="post-day">{{ if .Site.Params.dateformShort }}{{ .Date.Format .Site.Params.dateformShort }}{{ else }}{{ .Date.Format "Jan 2"}}{{ end }}</span>
+                </a>
+            </li>
+            {{- end }}
+        {{end}}
+        </ul>
+    </main>
+{{ end }}
