@@ -45,11 +45,13 @@
 {{ end }}
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 
-{{if .IsHome }}
+<!--{{if .IsHome }}
     {{ with resources.Get "css/min.css" | resources.Minify }} <style>{{ .Content | safeCSS }}</style> {{ end }}
 {{ else }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 {{ end }}
+-->
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 {{ range $val := $.Site.Params.customCSS }}
 {{ if gt (len $val) 0 }}

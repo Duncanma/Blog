@@ -1,6 +1,6 @@
 {{ define "main" }}
-<main>
-    <div>
+<main class="homepage">
+    <div class="intro">
         <h1>{{ .Site.Title }}</h1>
 
         {{- with .Site.Params.social }}
@@ -14,7 +14,7 @@
         {{- range where .Site.RegularPages "Params.techfeatured" true -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <!-- <div class="summary">{{.Summary}}</div> -->
+            <div class="summary">{{.Summary}}</div>
         </li>
         {{- end -}}
     </ol>

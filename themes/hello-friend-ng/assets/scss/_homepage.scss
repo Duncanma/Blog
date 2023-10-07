@@ -1,0 +1,33 @@
+main.homepage {
+    max-width: 500px;
+    text-align: left;
+
+    .summary {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        font-size: small;
+        line-height: 1.5em;
+    }
+
+    li a, p a {
+        text-decoration: underline dotted 5%;
+        font-weight: bold;
+        text-underline-offset: 7%;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    h2 {
+        text-align: left;
+        padding-top: 30px;
+    }
+
+    div.intro {
+        text-align: center;
+    }
+
+    a svg:hover {
+        stroke: #fe5186;
+    }
+}
