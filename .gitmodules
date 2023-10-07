@@ -1,3 +1,6 @@
 [submodule "baguetteBox.js"]
 	path = themes/hello-friend-ng/baguetteBox.js
 	url = https://github.com/feimosi/baguetteBox.js
+[submodule "themes/hello-friend-ng/baguetteBox.js"]
+	path = themes/hello-friend-ng/baguetteBox.js
+	url = https://github.com/feimosi/baguetteBox.js.git
