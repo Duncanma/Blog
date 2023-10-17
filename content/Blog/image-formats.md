@@ -9,6 +9,7 @@ tags:
  - Images
  - Hugo
 description: JPEGs and PNGs are so last decade, I decided to update my site to provide more options to my visitors by adding AVIFs and WEBP files.
+featured: true
 ---
 The existence of new image formats that offer better quality at smaller file sizes is not a new occurrence. [WebP](https://developers.google.com/speed/webp/) has been around for around a decade, [AVIFs](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF)) are becoming more widely supported, and now [JPEG XL](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs) is here; continuing to only offer JPEG and PNG images is missing out on some serious file size savings.
 

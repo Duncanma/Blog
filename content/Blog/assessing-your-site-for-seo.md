@@ -7,8 +7,8 @@ tags:
  - Coding
  - Self-Assessment
  - SEO
- - Engineering Management
 description: A beginner's guide to seo going through a step by step tutorial to assess your own site
+featured: true
 ---
 
 I mentioned in another post that I'm open to doing site assessments for

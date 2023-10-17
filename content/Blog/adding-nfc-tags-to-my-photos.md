@@ -7,7 +7,7 @@ tags:
 - Hugo
 - NFC
 - Home Automation
-techfeatured: false
+featured: true
 description: A not super useful experiment to add NFC tags to the various photos around home.
 ---
 
@@ -58,11 +58,11 @@ I attached the tags using scotch tape, even though they are stickers, because I 
 
 ![Encoding the tag using NFC Tools](/images/nfc/encoding_the_tag.png)
 
-The end result has been great, once again with Android devices, you move your phone towards the middle of the picture and a page opens in your default browser. 
+The end result has been great, once again with Android devices, you move your phone towards the middle of the picture and a page opens in your default browser.
 
 ![shot of an android phone held near the picture frame, photo info page visible on the device](/images/nfc/tag_in_use_android.jpg)
 
-It *does* work on iPhones as well, but in my experience it was very unreliable, required multiple attempts to move the device near the tag, etc. 
+It *does* work on iPhones as well, but in my experience it was very unreliable, required multiple attempts to move the device near the tag, etc.
 
 ![shot of an iOS phone held near the picture frame, photo info page visible on the device](/images/nfc/tag_in_use_iphone.jpg)
 

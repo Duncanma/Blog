@@ -8,8 +8,9 @@ tags:
 images:
 - /images/beer_tourism.jpg
 description: Finding interesting beer while traveling
+featured: true
 ---
-I like travelling and I like beer.
+I like traveling and I like beer.
 
 When I travel, I often like to combine these two interests by trying to find some local brewery or a local craft-beer focused pub. So far I have had the pleasure to try out local beers in a bunch of places in the US, Spain, Amsterdam, the UK, and over the past few years in China.
 

@@ -5,8 +5,8 @@ type: posts
 tags:
 - Team
 - Software Management
+- Engineering Management
 description: Learning from our mistakes is what makes a team into a 'learning organization'
-featured: true
 ---
 A while ago, someone commented to me that their group was a 'learning organization' and that was why they encouraged ongoing training, arranged bootcamps, lunch and learns etc. I am very supportive of ongoing formal and informal training, but I realized that this was completely not what I have had in mind when I described **our team** as a learning organization.
 

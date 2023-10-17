@@ -7,12 +7,12 @@ tags:
  - Coding
  - Performance
  - Software Management
- - Engineering Management
 images:
 - /images/performance/search-console-web-vitals.png
 description: We often talk about assessing and improving the performance of a web page or a site, but why does this matter to you as a site owner?
+featured: true
 ---
-We often talk about assessing and improving the performance (speed) of a web page or a site, but why does this matter to you as the site owner? Developers run their sites 
+We often talk about assessing and improving the performance (speed) of a web page or a site, but why does this matter to you as the site owner? Developers run their sites
 through pagespeed tests and talk about lighthouse scores, but does the load time (and other metrics) of your site actually impact your business?
 
 ## Visitor Experience and its impact on revenue, conversion, or satisfaction

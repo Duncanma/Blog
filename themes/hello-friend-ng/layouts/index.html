@@ -11,23 +11,14 @@
     </div>
     <h2>General Tech Posts</h2>
     <ol class="recent">
-        {{- range where .Site.RegularPages "Params.techfeatured" true -}}
+        {{- range where .Site.RegularPages ".Params.tags" "intersect" (slice "Engineering Management") -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             <div class="summary">{{.Summary}}</div>
         </li>
         {{- end -}}
     </ol>
-    <h2>Posts about <a href="https://docs.microsoft.com/">Docs</a></h2>
-    <ol class="recent">
-        {{- range where .Site.RegularPages "Params.docsfeatured" true -}}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <!-- <div class="summary">{{.Summary}}</div> -->
-        </li>
-        {{- end -}}
-    </ol>
-    <h2>Other Recent Posts</h2>
+    <h2>Other Featured Posts</h2>
     <ol class="recent">
         {{- range where .Site.RegularPages "Params.featured" true -}}
         <li>

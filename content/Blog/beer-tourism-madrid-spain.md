@@ -10,6 +10,7 @@ tags:
 images:
 - /images/beer/imperial_stout_sml.jpg
 description: On a recent trip to Spain, I was lucky to find a local craft brewpub
+featured: true
 ---
 My most recent bit of [beer tourism]({{< relref "beer-tourism.md" >}}) happened on a wonderful trip to Spain. While traveling to European countries, I often end up drinking lagers. This is not my regular choice at home, but my travel beer choice system is based on an overall desire to drink a local beer if available and the fact that I **really** prefer beer on tap (or _cerveza de barril_ in spanish).
 
@@ -31,4 +32,4 @@ The pizza place is either run by the same people as La Quince, or they have a ve
 
 I'm sure there are many other craft beer spots in Madrid, but finding them wasn't the main purpose of my family vacation. We were very happy to find a spot with so many great craft beers right where we were staying.
 
-Oh, and the pizza was great too! :)
+Oh, and the pizza was great too!
