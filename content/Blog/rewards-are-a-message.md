@@ -6,7 +6,6 @@ tags:
 - Management
 - Engineering Management
 description: One of the hardest jobs of a manager is to determine the rewards for your team. As you consider each person's impact and how to distribute rewards, it is helpful to think about the message you are trying to send with these decisions.
-techfeatured: true
 ---
 
 I was a manager at Microsoft for about 18 years and for quite a bit of it I was a 'manager of managers', which means I often spent time working with my team on how to properly handle annual rewards. I'm no longer at Microsoft, but I drafted this up back in 2021, so I thought I would try to finish it and get it live.
