@@ -1,3 +1,8 @@
+{{ $relative := resources.Get "js/bundle.js"}}
+{{ $secureRelative := $relative | resources.Fingerprint "sha512"}}
+
+<script type="module" src="{{ $secureRelative.RelPermalink }}" integrity="{{ $secureRelative.Data.Integrity }}" defer></script>
+
 {{ $baguette := resources.Get "js/baguetteBox.js"}}
 {{ $secureBaguette := $baguette | resources.Fingerprint "sha512"}}
 {{ if in .Content "lightbox" }}

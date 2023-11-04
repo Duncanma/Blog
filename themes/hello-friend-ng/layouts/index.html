@@ -15,7 +15,12 @@
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             <div class="summary">{{.Summary}}</div>
-        </li>
+            <div class="meta">
+                <relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="relative" prefix="">
+                    {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}
+                </relative-time>
+            </div>
+    </li>
         {{- end -}}
     </ol>
     <h2>Other Featured Posts</h2>
