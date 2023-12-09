@@ -5,7 +5,7 @@ type: posts
 tags:
 - SEO
 - Web Development
-description: Web pages often add noindex,nofollow when they just meant noindex.
+description: Web pages often add noindex,nofollow when they just meant noindex. Using nofollow incorrectly could prevent proper discovery of your pages by crawlers.
 ---
 
 The quick summary of this guidance is, don’t use `noindex,nofollow` when you just mean `noindex`.
