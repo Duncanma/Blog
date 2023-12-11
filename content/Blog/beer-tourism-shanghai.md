@@ -9,7 +9,6 @@ tags:
 images:
 - /images/beer/shanghai/HitachinoNest_TwoGlasses_sml.jpg
 description: Craft beer is really spreading in Shanghai, China
-featured: true
 ---
 I'm a lucky guy, because I **like** to travel, and my job requires at least a bit of it from me every year. I don't travel a lot, at least compared to people who visit customers or give talks for a living, but nearly everything that we make for docs.microsoft.com is built with the help of a group of folks in Shanghai, so I try to travel to visit them in China at least every couple of months. Over a few years, that has added up to 12 or so trips so far. And it is very cool, lots of fun, great food, lots of sightseeing and time spent with an amazing team. For me, it also means another country to try to find some craft beer.
 

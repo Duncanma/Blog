@@ -7,7 +7,6 @@ tags:
 - Hugo
 - NFC
 - Home Automation
-featured: true
 description: A not super useful experiment to add NFC tags to the various photos around home.
 ---
 

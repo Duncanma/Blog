@@ -9,7 +9,6 @@ tags:
 images:
 - /images/beer/shanghai/BoxingCat_Outside_Logo.jpg
 description: Not the first brewery I found in Shanghai, but the one I keep going back to
-featured: true
 ---
 ## Overview
 
