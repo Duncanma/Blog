@@ -89,6 +89,10 @@ disableHugoGeneratorInject = false
     url  = "https://www.instagram.com/duncanmackredmond/"
 
   [[params.social]]
+    name = "bluesky"
+    url  = "https://bsky.app/profile/duncanmackenzie.net"
+
+  [[params.social]]
     name = "email"
     url  = "mailto:duncanma@duncanmackenzie.net"
 
