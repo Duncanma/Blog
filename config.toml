@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   clarity = "440rce59ji"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  gitUrl = "https://github.com/DuncanmaMSFT/Blog/commit/"
+  gitUrl = "https://github.com/Duncanma/Blog/commit/"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -113,6 +113,10 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
+  [[menu.main]]
+    identifier = "albums"
+    name       = "Albums"
+    url        = "albums/"
 
 
 [related]

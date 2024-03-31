@@ -3,6 +3,9 @@
 
 <script type="module" src="{{ $secureRelative.RelPermalink }}" integrity="{{ $secureRelative.Data.Integrity }}" defer></script>
 
+{{ $js := resources.Get "js/main.js" | js.Build (dict "minify" true) }}
+<script src="{{ $js.RelPermalink }}" defer></script>
+
 {{ $baguette := resources.Get "js/baguetteBox.js"}}
 {{ $secureBaguette := $baguette | resources.Fingerprint "sha512"}}
 {{ if in .Content "lightbox" }}

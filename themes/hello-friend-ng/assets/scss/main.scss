@@ -1,7 +1,8 @@
 @import "normalize";
-//@import "prism";
+@import "galleries/_styles";
+@import "galleries/photoswipe/photoswipe";
+@import "galleries/photoswipe/photoswipe-dynamic-caption-plugin";
 @import "chroma";
-
 @import "variables";
 @import "mixins";
 @import "fonts";

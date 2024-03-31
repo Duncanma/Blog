@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section id="gallery" >
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+  <div class="photo-list" >
+    {{ $colLength := len .Params.Pictures }}
+    {{- range .Params.Pictures }}
+      {{ $image := . }}
+      {{ $full := index ($image.Links) 0 }}
+      {{ $alt := $image.Caption }}
+      {{ if not $alt}}
+        {{ $alt = $image.Title }}
+      {{ end }}
+      {{ $srcset := "" }}
+      {{ range $image.Links }}
+        {{ $srcset = printf "%s %s %vw," $srcset .Url .Width }}
+      {{ end }}
+
+      {{ $srcset = trim $srcset ","}}
+      <a class="gallery-item" href="{{ $full.Url }}" data-pswp-src="{{ $full.Url }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $full.Width }} / {{ $full.Height }}" {{ printf "data-pswp-srcset=%q" $srcset | safeHTMLAttr }}>
+        <img loading="lazy" width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}" srcset="{{ $srcset }}"/>
+        {{ with .Title }}
+        <p class="pswp-caption-content">{{ . }}</p>
+        {{ end }}
+        <meta itemprop="contentUrl" content="{{ $full.Url }}" />
+      </a>
+    {{- end }}
+      <div class="spacer"></div>
+  </div>
+</section>
+{{ end }}
