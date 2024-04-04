@@ -14,7 +14,7 @@ section.galleries a.card {
 }
 
 .gallery-item {
-  height: 40vh;
+  max-height: 40vh;
   flex-grow: 1;
   padding: 20px;
 }
