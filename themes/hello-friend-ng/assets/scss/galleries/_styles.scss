@@ -18,6 +18,11 @@ section.galleries a.card {
 div.spacer {
   // There's no science in using "10" here. In all my testing, this delivered the best results.
   flex-grow: 10;
+
+  @media (max-width: 700px) {
+    display: none;
+  }
+
 }
 
 .gallery-item img {
