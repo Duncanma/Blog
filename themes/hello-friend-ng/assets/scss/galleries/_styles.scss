@@ -6,7 +6,11 @@ section.galleries a.card {
   display:flex;
   flex-wrap: wrap;
   margin:auto;
-  width:80%;
+  width:auto;
+
+  @media (min-width: 700px) {
+    width:80%;
+  }
 }
 
 .gallery-item {
