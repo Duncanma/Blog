@@ -3,7 +3,7 @@
   "Title": "Brooklyn Bridge",
   "Description": "A set of shots taken starting in the early morning from the bridge.",
   "BaseURL": "https://photos.duncanmackenzie.net/images/nyc",
-  "Featured": 2,
+  "Featured": 12,
   "Pictures": [
     {
       "Title": "Sunrise view of the Manhattan Bridge from the Brooklyn Bridge",
