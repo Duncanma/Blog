@@ -6,7 +6,7 @@
   "Featured": 6,
   "Pictures": [
     {
-      "Title": "Slightly long exposure, 3/5 second, showing moving people blurre",
+      "Title": "Slightly long exposure, 3/5 second, showing moving people blurred as they cross the street",
       "Caption": "Shot of the public market sign in Seattle, with blurred people as they cross the street",
       "Latitude": "",
       "Longitude": "",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "Title": "Another Lensbaby 22mm shot, feels darker even though it was take",
+      "Title": "Another Lensbaby 22mm shot, feels darker even though it was taken at nearly the same time as the others with the same settings.",
       "Caption": "Shot of the public market sign, lights, buildings and cars around it are all blurry",
       "Latitude": "",
       "Longitude": "",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "Title": "Close shot of the sign, slightly slow shutter to get more of a g",
+      "Title": "Close shot of the sign, slightly slow shutter to get more of a glow.",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "Title": "Another shot, working on getting some motion blur of the passing",
+      "Title": "Another shot, working on getting some motion blur of the passing cars",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "Title": "Messing around with \u0027intentional camera movement\u0027, in this case ",
+      "Title": "Messing around with 'intentional camera movement', in this case moving the camera to the right just at the end of the exposure.",
       "Caption": "Public market sign, sharp but with a blurred version stretching out to the left of the image",
       "Latitude": "",
       "Longitude": "",
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "Title": "Back to the Lensbaby Sweet 22mm for a longer exposure shot insid",
+      "Title": "Back to the Lensbaby Sweet 22mm for a longer exposure shot inside the nearly empty market.",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "Title": "1/2 second exposure of the wheel showing some color in it\u0027s ligh",
+      "Title": "1/2 second exposure of the wheel showing some color in it's light sequence.",
       "Caption": "Shot of the wheel, red and yellow light banding around the middle, water reflection and a ferry visible on the water behind it.",
       "Latitude": "",
       "Longitude": "",
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "Title": "1/3 second shutter speed, showing red animation along the outsid",
+      "Title": "1/3 second shutter speed, showing red animation along the outside",
       "Caption": "View of the wheel, outer ring in red, darker than other shots, some reflection on the water",
       "Latitude": "",
       "Longitude": "",
