@@ -6,10 +6,14 @@
   "Featured": 6,
   "Pictures": [
     {
-      "Title": "Slightly long exposure, 3/5 second, showing moving people blurred as they cross the street",
+      "Title": "Slightly long exposure, 3/5 second, showing moving people blurred as they cross the street.",
       "Caption": "Shot of the public market sign in Seattle, with blurred people as they cross the street",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "16",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-01-2160.jpg",
@@ -38,6 +42,10 @@
       "Caption": "Public market sign sharp in the middle of a otherwise out of focus shot, cars blurred as they cross in front",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-02-2160.jpg",
@@ -66,6 +74,10 @@
       "Caption": "Shot of the public market sign, lights, buildings and cars around it are all blurry",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-03-2160.jpg",
@@ -94,6 +106,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "25/10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-04-2160.jpg",
@@ -122,6 +138,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "16",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-05-2160.jpg",
@@ -146,10 +166,14 @@
       ]
     },
     {
-      "Title": "Another shot, working on getting some motion blur of the passing cars",
+      "Title": "Another shot, working on getting some motion blur of the passing cars.",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "32/10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-06-2160.jpg",
@@ -178,6 +202,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "56/10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-07-2160.jpg",
@@ -206,6 +234,10 @@
       "Caption": "Public market sign, sharp but with a blurred version stretching out to the left of the image",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-08-2160.jpg",
@@ -234,6 +266,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "71/10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-09-2160.jpg",
@@ -262,6 +298,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "64/10",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-10-2160.jpg",
@@ -290,6 +330,10 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-11-2160.jpg",
@@ -318,6 +362,10 @@
       "Caption": "Image of a ferris wheel, lit spokes turning into wide bands of blue light also reflected on the water in front",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "9",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-12-2160.jpg",
@@ -346,6 +394,10 @@
       "Caption": "Shot of the wheel, red and yellow light banding around the middle, water reflection and a ferry visible on the water behind it.",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "16",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-13-2160.jpg",
@@ -374,6 +426,10 @@
       "Caption": "View of the wheel, outer ring in red, darker than other shots, some reflection on the water",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF16mm F1.4 R WR",
+      "FocalLength": "",
+      "fStop": "16",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-14-2160.jpg",
