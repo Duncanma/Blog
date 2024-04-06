@@ -2,6 +2,12 @@ section.galleries a.card {
   text-decoration: none;
 }
 
+.pswp__dynamic-caption {
+  .cameraInfo {
+    font-size: x-small;
+  }
+}
+
 .photo-list {
   display:flex;
   flex-wrap: wrap;

@@ -109,7 +109,7 @@
       "Camera": "FUJIFILM X-T5",
       "Lens": "FUJIFILM XF35mm F2 R WR",
       "FocalLength": "",
-      "fStop": "25/10",
+      "fStop": "2.5",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-04-2160.jpg",
@@ -173,7 +173,7 @@
       "Camera": "FUJIFILM X-T5",
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
-      "fStop": "32/10",
+      "fStop": "3.2",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-06-2160.jpg",
@@ -205,7 +205,7 @@
       "Camera": "FUJIFILM X-T5",
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
-      "fStop": "56/10",
+      "fStop": "5.6",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-07-2160.jpg",
@@ -269,7 +269,7 @@
       "Camera": "FUJIFILM X-T5",
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
-      "fStop": "71/10",
+      "fStop": "7.1",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-09-2160.jpg",
@@ -301,7 +301,7 @@
       "Camera": "FUJIFILM X-T5",
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
-      "fStop": "64/10",
+      "fStop": "6.4",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-10-2160.jpg",
