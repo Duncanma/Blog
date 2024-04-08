@@ -10,6 +10,11 @@
       "Caption": "Yellow lab running through snow that is up to his body",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Canon EOS REBEL T3",
+      "Lens": "EF-S18-55mm f/3.5-5.6 IS II",
+      "FocalLength": "47",
+      "fStop": "11",
+      "DateTimeOriginal": "2016-12-30T10:46:24-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-01-2160.jpg",
@@ -38,6 +43,11 @@
       "Caption": "Yellow lab in a snow bank with just his head sticking up",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Canon EOS REBEL T3",
+      "Lens": "EF-S18-55mm f/3.5-5.6 IS II",
+      "FocalLength": "48",
+      "fStop": "13",
+      "DateTimeOriginal": "2016-12-30T10:48:04-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-02-2160.jpg",
@@ -66,6 +76,11 @@
       "Caption": "Grey cat with big wide eyes sitting in a basket",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Canon EOS REBEL T3",
+      "Lens": "EF50mm f/1.8 STM",
+      "FocalLength": "",
+      "fStop": "1.8",
+      "DateTimeOriginal": "2018-10-06T20:14:33-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-03-2160.jpg",
@@ -94,6 +109,11 @@
       "Caption": "Yellow lab lying on a bed, head on a green pillow",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Canon EOS REBEL T3",
+      "Lens": "EF50mm f/1.8 STM",
+      "FocalLength": "",
+      "fStop": "1.8",
+      "DateTimeOriginal": "2018-10-08T09:31:13-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-04-2160.jpg",
@@ -122,6 +142,11 @@
       "Caption": "Yellow lab standing amongst yellow and orange leaves",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Canon EOS REBEL T3",
+      "Lens": "EF50mm f/1.8 STM",
+      "FocalLength": "",
+      "fStop": "2.8",
+      "DateTimeOriginal": "2019-10-26T13:14:20-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-05-2160.jpg",
@@ -150,6 +175,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "Apple iPhone 11 Pro",
+      "Lens": "Apple iPhone 11 Pro back triple camera 4.25mm f/1.8",
+      "FocalLength": "",
+      "fStop": "1.8",
+      "DateTimeOriginal": "2020-08-07T21:22:03-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-06-2160.jpg",
@@ -174,10 +204,15 @@
       ]
     },
     {
-      "Title": "",
+      "Title": "Pets-07",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T30",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "3.6",
+      "DateTimeOriginal": "2020-10-17T13:50:47-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-07-2160.jpg",
@@ -206,6 +241,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T30",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "4.5",
+      "DateTimeOriginal": "2022-07-30T22:12:16-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-08-2160.jpg",
@@ -234,6 +274,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T30",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "4",
+      "DateTimeOriginal": "2022-07-30T22:18:29-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-09-2160.jpg",
@@ -262,6 +307,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T30",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "2",
+      "DateTimeOriginal": "2022-07-30T22:35:26-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-10-2160.jpg",
@@ -290,6 +340,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF18-55mm F2.8-4 R LM OIS",
+      "FocalLength": "55",
+      "fStop": "4",
+      "DateTimeOriginal": "2023-06-11T15:02:24-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-11-2160.jpg",
@@ -318,6 +373,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
+      "DateTimeOriginal": "2023-07-12T18:02:21-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-12-2160.jpg",
@@ -346,6 +406,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "4.5",
+      "DateTimeOriginal": "2023-07-12T18:33:06-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-13-2160.jpg",
@@ -374,6 +439,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
+      "DateTimeOriginal": "2023-07-12T23:30:19+01:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-14-2160.jpg",
@@ -402,6 +472,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF35mm F2 R WR",
+      "FocalLength": "",
+      "fStop": "2",
+      "DateTimeOriginal": "2023-09-01T06:43:42-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-15-2160.jpg",
@@ -430,6 +505,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "FUJIFILM XF18-55mm F2.8-4 R LM OIS",
+      "FocalLength": "55",
+      "fStop": "20",
+      "DateTimeOriginal": "2023-10-18T11:43:52-07:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-16-2160.jpg",
@@ -458,6 +538,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
+      "DateTimeOriginal": "2023-12-02T17:29:35-04:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-17-2160.jpg",
@@ -486,6 +571,11 @@
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
+      "Camera": "FUJIFILM X-T5",
+      "Lens": "21.0 mm",
+      "FocalLength": "",
+      "fStop": "1",
+      "DateTimeOriginal": "2023-12-02T17:35:23-04:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/pets/pets-18-2160.jpg",
@@ -510,5 +600,7 @@
       ]
     }
   ]
+
+
 }
 ---

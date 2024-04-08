@@ -14,6 +14,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "16",
+      "DateTimeOriginal": "2024-03-09T17:49:03-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-01-2160.jpg",
@@ -46,6 +47,7 @@
       "Lens": "21.0 mm",
       "FocalLength": "",
       "fStop": "1",
+      "DateTimeOriginal": "2024-03-09T18:00:09-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-02-2160.jpg",
@@ -78,6 +80,7 @@
       "Lens": "21.0 mm",
       "FocalLength": "",
       "fStop": "1",
+      "DateTimeOriginal": "2024-03-09T18:00:36-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-03-2160.jpg",
@@ -110,6 +113,7 @@
       "Lens": "FUJIFILM XF35mm F2 R WR",
       "FocalLength": "",
       "fStop": "2.5",
+      "DateTimeOriginal": "2024-03-09T18:12:12-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-04-2160.jpg",
@@ -142,6 +146,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "16",
+      "DateTimeOriginal": "2024-03-09T18:18:30-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-05-2160.jpg",
@@ -174,6 +179,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "3.2",
+      "DateTimeOriginal": "2024-03-09T18:21:11-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-06-2160.jpg",
@@ -206,6 +212,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "5.6",
+      "DateTimeOriginal": "2024-03-09T18:29:10-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-07-2160.jpg",
@@ -238,6 +245,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "10",
+      "DateTimeOriginal": "2024-03-09T18:34:54-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-08-2160.jpg",
@@ -270,6 +278,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "7.1",
+      "DateTimeOriginal": "2024-03-09T18:44:54-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-09-2160.jpg",
@@ -302,6 +311,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "6.4",
+      "DateTimeOriginal": "2024-03-09T18:49:06-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-10-2160.jpg",
@@ -334,6 +344,7 @@
       "Lens": "21.0 mm",
       "FocalLength": "",
       "fStop": "1",
+      "DateTimeOriginal": "2024-03-09T19:02:59-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-11-2160.jpg",
@@ -366,6 +377,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "9",
+      "DateTimeOriginal": "2024-03-09T19:27:20-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-12-2160.jpg",
@@ -398,6 +410,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "16",
+      "DateTimeOriginal": "2024-03-09T19:33:40-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-13-2160.jpg",
@@ -430,6 +443,7 @@
       "Lens": "FUJIFILM XF16mm F1.4 R WR",
       "FocalLength": "",
       "fStop": "16",
+      "DateTimeOriginal": "2024-03-09T19:37:37-08:00",
       "Links": [
         {
           "Url": "https://photos.duncanmackenzie.net/images/seattle-night-workshop/seattlenightworkshop-14-2160.jpg",
