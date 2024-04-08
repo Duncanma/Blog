@@ -1,7 +1,7 @@
 ---
 {
   "Title": "Seattle Night Workshop",
-  "Description": "I took a class in shooting photos at night, learning about playing with light and shutter speed. Lots of fun!",
+  "Description": "I took a class in night/low-light photography, learning about playing with light and shutter speed. Lots of fun!",
   "BaseURL": "https://photos.duncanmackenzie.net/images/seattle-night-workshop",
   "Featured": 6,
   "Pictures": [
