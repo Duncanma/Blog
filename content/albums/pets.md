@@ -1,7 +1,7 @@
 ---
 {
   "Title": "Pets",
-  "Description": "Shots of a variety of pets from over the years",
+  "Description": "Furry family members",
   "BaseURL": "https://photos.duncanmackenzie.net/images/pets",
   "Featured": 1,
   "Pictures": [

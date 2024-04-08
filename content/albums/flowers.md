@@ -1,7 +1,7 @@
 ---
 {
     "Title": "Flowers",
-    "Description": "Shots of flowers from various locations in Redmond, WA and San Francisco.",
+    "Description": "From various locations in Redmond, WA and San Francisco.",
     "BaseURL": "https://photos.duncanmackenzie.net/images/flowers",
     "Featured": 0,
   "Pictures": [

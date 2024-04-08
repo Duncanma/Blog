@@ -1,7 +1,7 @@
 ---
 {
   "Title": "Brooklyn Bridge",
-  "Description": "A set of shots taken starting in the early morning from the bridge.",
+  "Description": "A set of photos taken starting in the early morning from the bridge.",
   "BaseURL": "https://photos.duncanmackenzie.net/images/nyc",
   "Featured": 12,
   "Pictures": [
