@@ -247,7 +247,7 @@ section.featured .card {
       font-weight: 600;
       font-size: 2rem;
       line-height: 2rem;
-      padding-bottom: 0;
+
       margin: 0.5rem 0 0.3rem 0;
     }
 
@@ -255,6 +255,34 @@ section.featured .card {
       font-size: 0.875rem;
       line-height: 1rem;
     }
+
+    & > span {
+      font-weight: bold;
+    }
+
+    @media (max-width: 639px) {
+      & > h2 {
+        font-weight: 600;
+        font-size: 1.125rem;
+        line-height: 0.875rem;
+        margin: 0.5rem 0 0.3rem 0;
+      }
+
+      & > p {
+        color: var(--text-2);
+        font-size: 0.675rem;
+        line-height: 1rem;
+      }
+
+      .featuredIndicator {
+        display: none;
+      }
+      & > span {
+        font-weight: normal;
+      }
+
+    }
+
   }
 }
 
@@ -328,46 +356,4 @@ section.featured {
   padding-left: 1.5rem;
   max-width: 1280px;
   color: var(--text-1-dark);
-}
-
-.featured-card {
-  display: flex;
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  border-radius: 1rem;
-  background-position: center;
-  background-size: cover;
-  aspect-ratio: 1 / 1;
-  width: 100%;
-  overflow: hidden;
-
-  @media (min-width: 640px) {
-    aspect-ratio: 16/9;
-  }
-
-  & > div {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    gap: 1rem;
-    background-image: linear-gradient(to top, RGB(0 0 0 / 0.8) 10%, transparent 50%);
-    padding: 1.5rem;
-    width: 100%;
-    height: 100%;
-
-    & > h2 {
-      font-weight: 700;
-      font-size: 1.5rem;
-      line-height: 1.25;
-
-      @media (min-width: 768px) {
-        font-size: 1.875rem;
-        line-height: 2.25rem;
-      }
-    }
-
-    & > p {
-      font-size: 0.875rem;
-      line-height: 1.25rem;
-    }
-  }
 }

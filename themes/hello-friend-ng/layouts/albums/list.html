@@ -18,7 +18,7 @@
                         <img loading="lazy" width="540" height="360" src="{{ $thumbnailLink.Url }}" style="" alt="{{ .Title }}" />
                         <div>
                             <h2>{{ .Title }}</h2>
-                            <span>{{ $photoCount }} photos</span>
+                            <span><span class="featuredIndicator">Featured | </span>{{ $photoCount }} photos</span>
                             {{ with .Description }}<p>{{ . }}</p>{{ end }}
                         </div>
                     </a>
