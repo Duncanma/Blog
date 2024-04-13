@@ -9,47 +9,8 @@
       <div class="albumContent">{{ .Content }}</div>
     {{- end }}
     <div class="photo-list" >
-      {{ $colLength := len .Params.Pictures }}
       {{- range .Params.Pictures }}
-        {{ $image := . }}
-        {{ $full := index ($image.Links) 0 }}
-        {{ $alt := $image.Caption }}
-        {{ if not $alt}}
-          {{ $alt = $image.Title }}
-        {{ end }}
-        {{ $srcset := "" }}
-        {{ range $image.Links }}
-          {{ $srcset = printf "%s %s %vw," $srcset .Url .Width }}
-        {{ end }}
-
-        {{ $srcset = trim $srcset ","}}
-        <a class="gallery-item" href="{{ $full.Url }}" data-pswp-src="{{ $full.Url }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $full.Width }} / {{ $full.Height }}" {{ printf "data-pswp-srcset=%q" $srcset | safeHTMLAttr }}>
-          <img loading="lazy" width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}" srcset="{{ $srcset }}"/>
-          <div class="pswp-caption-content">
-            {{ with .Title }}
-            <p class="title">{{ . }}</p>
-            {{ end }}
-            <div class="cameraInfo">
-              {{ with .DateTimeOriginal }}
-              <p class="photoDate">{{ dateFormat "Jan 2, 2006" . }}</p>
-              {{ end }}
-                {{ with .Camera }}
-              <p class="camera">
-                {{ . }}</p>
-              {{ end }}
-              {{ with .Lens }}
-              <p class="lens">{{ . }}</p>
-              {{ end }}
-              {{ with .FocalLength }}
-              <p class="focalLength">{{ . }}mm</p>
-              {{ end }}
-              {{ with .fStop }}
-              <p class="fStop"><em>&#402;</em>/{{ . }}</p>
-              {{ end }}
-            </div>
-          </div>
-          <meta itemprop="contentUrl" content="{{ $full.Url }}" />
-        </a>
+      {{ partial "singleImage.html" . }}
       {{- end }}
         <div class="spacer"></div>
     </div>

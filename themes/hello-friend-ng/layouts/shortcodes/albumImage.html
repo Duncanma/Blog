@@ -1,0 +1,9 @@
+{{ $albumName := print "/albums/" (index .Params 0) ".md" }}
+{{ $imageIndex :=  index .Params 1}}
+{{ $album := .Site.GetPage $albumName }}
+{{ $image := index $album.Params.Pictures $imageIndex }}
+{{ with $image }}
+<div class="photo-list" >
+    {{ partial "singleImage.html" . }}
+</div>
+{{ end }}

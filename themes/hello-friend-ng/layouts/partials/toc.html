@@ -8,6 +8,9 @@
   <p class="text-muted toc-heading">In this post</p>
   <ul class="toc">
     {{ range $i, $header := $headers }}
+      {{ if strings.Contains $header "albumCardTitle" }}
+        {{ continue }}
+      {{ end }}
       {{ $currentHeaderLevelString := index (findRE "[2-4]" $header 1) 0 }}
       {{ $currentHeaderLevel := len (seq $currentHeaderLevelString) }}
       {{ $anchorId := (replaceRE  "[’/_]" "-" ($header | htmlUnescape | plainify | htmlEscape)) | urlize }}

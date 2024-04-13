@@ -10,7 +10,7 @@ techfeatured: true
 description: If your company has a core domain, leverage it for all your sites, instead of making new ones.
 ---
 
-If you are an established company or organization, you probably have a main second domain. Microsoft has 'microsoft.com' for example, Washington state has wa.gov, and the UK government has gov.uk. There is both a perceived and real value to these domains, and any domains that leverage that value can be inherently trusted. A random third-party can’t create a new foo.gov.uk site, only the owners of the main domain can do that.
+If you are an established company or organization, you probably have a primary domain. Microsoft has 'microsoft.com' for example, Washington state has wa.gov, and the UK government has gov.uk. There is both a perceived and real value to these domains, and any domains that leverage that value can be inherently trusted. A random third-party can’t create a new foo.gov.uk site, only the owners of the main domain can do that.
 
 At Microsoft, this means we should leverage 'Microsoft.com' whenever we launch a new site. Instead of something like 'MicrosoftDocs.com' we used 'docs.microsoft.com' for example. Many users will not be aware of the difference, which could lead you to believe it doesn’t matter, but it is still a good practice. Anyone can register a domain like MicrosoftDocs.com, and with some careful design, they could trick users into thinking this is an official site.
 

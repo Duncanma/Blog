@@ -1,0 +1,7 @@
+{{ $albumName := print "/albums/" (index .Params 0) ".md" }}
+{{ $album := .Site.GetPage $albumName }}
+{{ with $album }}
+<section class="embedded">
+{{ partial "albumCard.html" . }}
+</section>
+{{ end }}
