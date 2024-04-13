@@ -2,10 +2,6 @@
     <!-- https://github.com/nicokaiser/hugo-theme-gallery/blob/main/layouts/partials/album-card.html -->
     <main class="posts">
         <h1>{{ .Title }}</h1>
-
-        {{- if .Content }}
-            <div class="content">{{ .Content }}</div>
-        {{- end }}
         <section class="featured">
             {{- range first 1 .Pages }}
                 {{- $gallery := . }}
@@ -24,7 +20,12 @@
                     </a>
                 {{- end }}
             {{- end }}
-            </section>
+        </section>
+
+        {{- if .Content }}
+            <div class="content">{{ .Content }}</div>
+        {{- end }}
+
         <section class="galleries">
         {{- range after 1 .Pages }}
             {{ partial "albumCard.html" . }}
