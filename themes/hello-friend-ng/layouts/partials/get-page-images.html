@@ -1,0 +1,62 @@
+{{- $imgs := slice }}
+{{- if eq .Type "albums" }}
+{{- if .Params.Pictures }}
+    {{ $imgPictures := .Params.Pictures }}
+    {{- $thumbnailIndex := .Params.Featured }}
+    {{- $thumbnail := index .Params.Pictures $thumbnailIndex }}
+    {{- $thumbnailLink := index $thumbnail.Links 0 }}
+    {{- $imgs = $imgs | append (dict
+        "Permalink" $thumbnailLink.Url)
+    }}
+{{- else }}
+    {{- range first 1 .Pages }}
+        {{- $gallery := . }}
+        {{- $thumbnailIndex := .Params.Featured }}
+        {{- $thumbnail := index .Params.Pictures $thumbnailIndex }}
+        {{- $thumbnailLink := index $thumbnail.Links 0 }}
+        {{- $imgs = $imgs | append (dict
+            "Permalink" $thumbnailLink.Url)
+        }}
+    {{- end }}
+{{- end }}
+{{- end }}
+{{- $imgParams := .Params.images }}
+{{- $resources := .Resources.ByType "image" -}}
+{{/* Find featured image resources if the images parameter is empty. */}}
+{{- if not $imgParams }}
+  {{- $featured := $resources.GetMatch "*feature*" -}}
+  {{- if not $featured }}{{ $featured = $resources.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+  {{- with $featured }}
+    {{- $imgs = $imgs | append (dict
+      "Image" .
+      "RelPermalink" .RelPermalink
+      "Permalink" .Permalink) }}
+  {{- end }}
+{{- end }}
+{{/* Parse page's images parameter. */}}
+{{- range $imgParams }}
+  {{- $img := . }}
+  {{- $url := urls.Parse $img }}
+  {{- if eq $url.Scheme "" }}
+    {{/* Internal image. */}}
+    {{- with $resources.GetMatch $img -}}
+      {{/* Image resource. */}}
+      {{- $imgs = $imgs | append (dict
+        "Image" .
+        "RelPermalink" .RelPermalink
+        "Permalink" .Permalink) }}
+    {{- else }}
+      {{- $imgs = $imgs | append (dict
+        "RelPermalink" (relURL $img)
+        "Permalink" (absURL $img)
+      ) }}
+    {{- end }}
+  {{- else }}
+    {{/* External image */}}
+    {{- $imgs = $imgs | append (dict
+      "RelPermalink" $img
+      "Permalink" $img
+    ) }}
+  {{- end }}
+{{- end }}
+{{- return $imgs }}
