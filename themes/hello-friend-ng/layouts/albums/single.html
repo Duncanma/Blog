@@ -8,6 +8,14 @@
     {{- if .Content }}
       <div class="albumContent">{{ .Content }}</div>
     {{- end }}
+    {{- $photosForSale := where .Params.Pictures "PaymentLink" "ne" nil }}
+    {{- $countForSale := len $photosForSale }}
+    {{- if gt $countForSale 0 }}
+    <div class="availableForPurchase">
+      <span class="notVisible"><a href="/"><strong>Note: </strong>Some of the photos on this page are available to buy, click here to view purchase links.</a></span>
+      <span class="visible"><a href="/">Click "Buy original image" on photos below to be directed to Stripe to purchase the full-resolution original file.<br /><br />Click this message to hide the purchase links.</a></span>
+    </div>
+    {{- end }}
     <div class="photo-list" >
       {{- range .Params.Pictures }}
       {{ partial "singleImage.html" . }}

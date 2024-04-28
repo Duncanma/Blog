@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="album">
+  <section id="gallery" >
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="albumDescription">{{ .Description }}</p>
+    {{ end }}
+    {{- if .Content }}
+      <div class="albumContent">{{ .Content }}</div>
+    {{- end }}
+    <div class="photo-list" >
+      {{- range .Params.Pictures }}
+      {{ partial "singleImage.html" . }}
+      {{- end }}
+        <div class="spacer"></div>
+    </div>
+  </section>
+</main>
+{{ end }}

@@ -33,8 +33,19 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+[outputFormats]
+  [outputFormats.GalleriesForSale]
+    name = "purchase"
+    baseName = "purchase"
+    isPlainText = false
+    isHTML  = true
+    mediaType = "text/html"
+    rel= "alternate"
+    noUgly= true
+
 [outputs]
     home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
 
 [author]
   name = "Duncan Mackenzie"
