@@ -282,13 +282,14 @@ body div.availableForPurchase {
   & > span.clickToBuy {
     display:none;
     position: absolute;
-    bottom: 1.5rem;
+    top: 1.5rem;
     right: 1.5rem;
     padding: 0.5rem .5rem;
     background-color: rgba(0, 0, 0, .7);
     border-radius: .5rem;
     color: var(--text-2);
-    font-size: .6rem;
+    font-size: .8rem;
+    font-weight: bold;
     line-height: .575rem;
     text-decoration: none;
     cursor:pointer;
