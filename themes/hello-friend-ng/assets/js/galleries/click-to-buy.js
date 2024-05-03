@@ -7,7 +7,7 @@ if (gallery) {
 
     const visible = sessionStorage.getItem(showBuyButtons);
 
-    if (visible) {
+    if (visible == "true") {
         document.body.classList.add(showBuyButtons);
     }
     else {
