@@ -1,3 +1,21 @@
+a.noJSclickToBuy {
+  display:none;
+}
+
+body.noJS {
+  div.backToNormal {
+    display: block;
+  }
+
+  a.noJSclickToBuy {
+    display: inline;
+  }
+}
+
+div.backToNormal {
+  display: none;
+}
+
 section.featured a.card, section.galleries a.card, section.embedded a.card {
   text-decoration: none;
 }
@@ -30,6 +48,19 @@ main.album {
     text-align: left;
     max-width: 800px;
     margin:auto;
+  }
+}
+
+body.noJS {
+  .photo-list {
+    display:block;
+    flex-wrap: wrap;
+    margin:auto;
+    width:auto;
+
+    @media (min-width: 700px) {
+      max-width:700px;
+    }
   }
 }
 

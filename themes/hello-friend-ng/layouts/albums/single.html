@@ -10,11 +10,16 @@
     {{- end }}
     {{- $photosForSale := where .Params.Pictures "PaymentLink" "ne" nil }}
     {{- $countForSale := len $photosForSale }}
-    {{- if gt $countForSale 0 }}
+    {{- $purchase := .OutputFormats.Get "purchase" -}}
+    {{- $html := .OutputFormats.Get "html" -}}
+    {{- if $purchase -}}
+    {{- if gt $countForSale 0 -}}
+    <div class="backToNormal"><a href="{{$html.RelPermalink}}">View original album page</a></div>
     <div class="availableForPurchase">
-      <span class="notVisible"><a href="/"><strong>Note: </strong>Some of the photos on this page are available to buy, click here to view purchase links.</a></span>
-      <span class="visible"><a href="/">Click "Buy original image" on photos below to be directed to Stripe to purchase the full-resolution original file.<br /><br />Click this message to hide the purchase links.</a></span>
+      <span class="notVisible"><a href="{{$purchase.RelPermalink}}"><strong>Note: </strong>Some of the photos on this page are available to buy, click here to view purchase links.</a><br/><br/></span>
+      <span class="visible"><a href="{{$html.RelPermalink}}">Click "Buy original image" on photos below to be directed to Stripe to purchase the full-resolution original file. Click this message to hide the purchase links.</a></span>
     </div>
+    {{- end }}
     {{- end }}
     <div class="photo-list" >
       {{- range .Params.Pictures }}

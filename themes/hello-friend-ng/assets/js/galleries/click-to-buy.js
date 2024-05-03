@@ -31,7 +31,7 @@ if (gallery) {
         element.onclick = function(e) {
             e.stopPropagation();
             const url = this.dataset.paymentLink;
-            window.location=url;
+            window.open(url, "_blank");
             return false;
         }
 

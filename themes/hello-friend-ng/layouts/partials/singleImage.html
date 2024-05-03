@@ -48,3 +48,8 @@
   {{- end }}
   <meta itemprop="contentUrl" content="{{ $full.Url }}" />
 </a>
+{{- if $image.PaymentLink }}
+<div>
+  <a class="noJSclickToBuy" href="{{ $image.PaymentLink }}">Buy original image (above)</a>
+</div>
+{{- end }}
