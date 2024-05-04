@@ -1,12 +1,14 @@
 ---
 {
+  "Outputs": ["html", "purchase"],
   "Title": "Olives and Spices",
   "Description": "Walking around the medina in Marrakesh",
   "BaseURL": "https://photos.duncanmackenzie.net/images/olives-and-spices",
   "Featured": 7,
   "Pictures": [
     {
-      "Title": "Spices out for display in large containers, in the tinsmiths squ",
+      "Title": "Spices out for display in large containers, in the tinsmiths square area of Marrakesh",
+      "uniqueID": "256fa3c842bbe087e6f35d6c20ce21c3",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -36,10 +38,12 @@
           "Width": 220,
           "Height": 172
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/eVa8xE3n57x8cfKbJ3"
     },
     {
       "Title": "Dried roses (I believe they are Damask roses) for sale in a spic",
+      "uniqueID": "46e6d50d1ff89cf7b6091dffb53cc856",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -69,10 +73,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/8wM29gf5N04G93yeVg"
     },
     {
       "Title": "Large mounds of olives, reddish, yellow and pale green",
+      "uniqueID": "577b45fcb6f0eb2e879ead735357a237",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -102,10 +108,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/28o29g6zh8BcbbG5kH"
     },
     {
-      "Title": "A mound of greed olives",
+      "Title": "A mound of green olives",
+      "uniqueID": "b8cfbae9e6f767b61aef9928ec0cf572",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -135,10 +143,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/5kA4hof5N5p02Fa7sQ"
     },
     {
       "Title": "Shiny black olives",
+      "uniqueID": "cfad9f25b67291cd0db09dda5394990b",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -168,10 +178,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/5kA8xE2j15p04Ni7sR"
     },
     {
-      "Title": "Mounds of spices and dyes, with some wool visible in the foregro",
+      "Title": "Mounds of spices and dyes, with some wool visible in the foreground.",
+      "uniqueID": "93bc320326aba6274b7deafed978ba5a",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -201,10 +213,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/aEUcNU5vd2cOdjO28y"
     },
     {
       "Title": "A display of dried herbs in front of a spice shop",
+      "uniqueID": "ff000a32d970facd30aa5e08240fe80d",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -234,10 +248,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/6oE7tAf5NaJkdjOfZp"
     },
     {
       "Title": "A mound of dried leaves and petals viewed up close",
+      "uniqueID": "56c2fe286410844cfcb0629bfbd233f8",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -267,10 +283,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/8wMg062j13gS5Rm8wY"
     },
     {
-      "Title": "A view into the olive shop, mounds of olives and jars of other f",
+      "Title": "A view into the olive shop, mounds of olives and jars of other fruits and vegetables",
+      "uniqueID": "d66ec168df15a5dc52743f63960455e3",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -300,10 +318,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/9AQcNU1eX7x85Rm28B"
     },
     {
       "Title": "Mounds of olives, green, and light red",
+      "uniqueID": "7fc25fa800e5face0f8b598f884ba43b",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -333,10 +353,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/dR69BIbTB3gS6VqcNg"
     },
     {
-      "Title": "Our tour guide, Omar, getting us olive samples as part of a food",
+      "Title": "Our tour guide, Omar, getting us olive samples as part of a food tour through the Medina",
+      "uniqueID": "d5f304d795096f00b8b52838288c05b0",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -366,10 +388,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": null
     },
     {
       "Title": "Very light green, almost yellow, olives.",
+      "uniqueID": "b0213833861fdb65e54bd2e4c12e9fbe",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -399,10 +423,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/cN26pwg9R04G7ZudRl"
     },
     {
       "Title": "Close up view of the shiny green olives",
+      "uniqueID": "c96885a1d97a65d481976a6d4e89957d",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -432,10 +458,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/eVa29g3n57x8gw028E"
     },
     {
       "Title": "Red or pinkish olives in a mound",
+      "uniqueID": "a53ad4c4a81026fa759846fbe99e7ae9",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -465,7 +493,8 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/9AQ9BI4r95p00x27sZ"
     }
   ]
 }
