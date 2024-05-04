@@ -1,5 +1,6 @@
 ---
 {
+  "Outputs": ["html", "purchase"],
   "Title": "Seattle Night Workshop",
   "Description": "I took a class in night/low-light photography, learning about playing with light and shutter speed. Lots of fun!",
   "BaseURL": "https://photos.duncanmackenzie.net/images/seattle-night-workshop",
@@ -7,6 +8,7 @@
   "Pictures": [
     {
       "Title": "Slightly long exposure, 3/5 second, showing moving people blurred as they cross the street.",
+      "uniqueID": "8736e7b2d7ec45aeda8d4b444b1f8107",
       "Caption": "Shot of the public market sign in Seattle, with blurred people as they cross the street",
       "Latitude": "",
       "Longitude": "",
@@ -36,10 +38,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/eVag06g9R6t4enS4h1"
     },
     {
       "Title": "Artsy shot with the Lensbaby Sweet 22mm",
+      "uniqueID": "38f9536adc830644ecfeeba341d3564c",
       "Caption": "Public market sign sharp in the middle of a otherwise out of focus shot, cars blurred as they cross in front",
       "Latitude": "",
       "Longitude": "",
@@ -69,10 +73,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/bIYeW21eX3gS1B65l6"
     },
     {
       "Title": "Another Lensbaby 22mm shot, feels darker even though it was taken at nearly the same time as the others with the same settings.",
+      "uniqueID": "4f1e229b40b8e03d0164d9bdd366745c",
       "Caption": "Shot of the public market sign, lights, buildings and cars around it are all blurry",
       "Latitude": "",
       "Longitude": "",
@@ -102,10 +108,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/aEUdRY9Lt5p00x2cNz"
     },
     {
       "Title": "Close shot of the sign, slightly slow shutter to get more of a glow.",
+      "uniqueID": "396b7c93135c5ebb3e8ed6e16264aad7",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -135,10 +143,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/bIYaFMe1J5p01B63d0"
     },
     {
       "Title": "Wider shot of the public market sign, red glow on the street",
+      "uniqueID": "2276d5d145221204a2304e157f1ff9da",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -168,10 +178,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/7sI9BIcXFcRs4Ni14T"
     },
     {
       "Title": "Another shot, working on getting some motion blur of the passing cars.",
+      "uniqueID": "2cc2f9ab5b5e640fcf9409b66226e0b6",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -201,10 +213,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/5kAcNU8HpdVwa7CbJy"
     },
     {
       "Title": "Way more glow by moving to a 1/2 second shutter speed",
+      "uniqueID": "ae9c8be2ae2f5f836ab8333ea9d3d003",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -234,10 +248,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/aEU8xEbTB8BcdjO9Br"
     },
     {
       "Title": "Messing around with 'intentional camera movement', in this case moving the camera to the right just at the end of the exposure.",
+      "uniqueID": "41295105868219a3e116801cbc6e4341",
       "Caption": "Public market sign, sharp but with a blurred version stretching out to the left of the image",
       "Latitude": "",
       "Longitude": "",
@@ -267,10 +283,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/4gw15c8Hp18Kgw0cNE"
     },
     {
       "Title": "The other market sign, enjoying the reflections on cars",
+      "uniqueID": "247c386e8e338d376140433268b7ee6b",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -300,10 +318,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/cN29BI2j12cO93ycNF"
     },
     {
       "Title": "Really stretching out the car lights as they cross in front",
+      "uniqueID": "6b9762205a0e044261150af414ae0283",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -333,10 +353,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/6oE4ho7Dl18Ka7C5le"
     },
     {
       "Title": "Back to the Lensbaby Sweet 22mm for a longer exposure shot inside the nearly empty market.",
+      "uniqueID": "6b390b1f2138a83fefd8c30dfeb19ad4",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -366,10 +388,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/7sI3dkaPx7x82Fa00V"
     },
     {
       "Title": "Seattle Wheel shot at 3s shutter speed, 16mm",
+      "uniqueID": "4a829633cc0ab386907ad29929a1db76",
       "Caption": "Image of a ferris wheel, lit spokes turning into wide bands of blue light also reflected on the water in front",
       "Latitude": "",
       "Longitude": "",
@@ -399,10 +423,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/3csdRYbTBbNobbG9Bw"
     },
     {
       "Title": "1/2 second exposure of the wheel showing some color in it's light sequence.",
+      "uniqueID": "8d894a57d2d87ecd7de9d2b1dce36fa1",
       "Caption": "Shot of the wheel, red and yellow light banding around the middle, water reflection and a ferry visible on the water behind it.",
       "Latitude": "",
       "Longitude": "",
@@ -432,10 +458,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/9AQg06e1Jg3E2FabJF"
     },
     {
       "Title": "1/3 second shutter speed, showing red animation along the outside",
+      "uniqueID": "0058e4c090afe184b1665d941d8ac13c",
       "Caption": "View of the wheel, outer ring in red, darker than other shots, some reflection on the water",
       "Latitude": "",
       "Longitude": "",
@@ -465,7 +493,8 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/7sI3dkf5N5p0bbGfZW"
     }
   ]
 }
