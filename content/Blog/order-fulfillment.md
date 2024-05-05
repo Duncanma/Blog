@@ -63,7 +63,7 @@ I'm using a [Restricted Access Key](https://docs.stripe.com/keys#limit-access), 
 
 ![image of the key management area of the Stripe dashboard, showing the two restricted keys](/images/photo-gallery/restricted-access-key-functions.png)
 
-Then, following [the instructions from the documentation](https://docs.stripe.com/webhooks#verify-official-libraries), I use the Stripe .NET SDK and the webhook signing secret (which I can get from the Stripe Dashboard, and in this case have it saved in the application settings) to validate that this is really a message *from* Stripe.
+Then, following [the instructions from the documentation](https://docs.stripe.com/webhooks#verify-official-libraries), I use the Stripe .NET SDK and the webhook signing secret (which I can get from the Stripe Dashboard, and in this case have saved in the application settings) to validate this is really a message *from* Stripe.
 
 ```csharp
 string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
