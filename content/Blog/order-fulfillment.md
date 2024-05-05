@@ -14,7 +14,7 @@ description: As the final step in my series on adding photo galleries to my site
 ---
 
 In the previous articles in this series, I covered how I [added photo galleries to my site](/blog/adding-photo-galleries), and then [how I enabled a feature to buy the original digital photo](/blog/adding-e-commerce-to-my-galleries). The last piece (for now at least) is how I automate delivery of those high-resolution images, so that everything *should* just happen without any manual steps.
-There might be a better way to handle this, but after reading even more pages on <docs.stripe.com>, I decided to create a system using three [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp).
+There might be a better way to handle this, but after reading even more pages on [Stripe Docs](https://docs.stripe.com), I decided to create a system using three [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp).
 
 ![Diagram of the steps in my 3 Azure Functions, also described in the following paragraph](/images/photo-gallery/azure-function-diagram.png)
 
