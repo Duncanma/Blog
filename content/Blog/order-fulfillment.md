@@ -30,7 +30,7 @@ Why three distinct functions instead of doing it all in response to the webhook?
 
 ## Receiving the Stripe webhook
 
-Stripe provides a way to run code when events happen with your integration, you can register a URL and select which events you wish to be sent, and whenever one of these events occurs you'll get a message POSTed to you. My scenario, [fulfilling orders after a checkout, is exactly covered by a tutorial on Stripe Docs](https://docs.stripe.com/payments/checkout/fulfill-orders), so I followed these steps (including testing with the Stripe CLI) almost exactly. I did have to change the code a bit, because it was written as if I was spinning up a regular ASP.NET web application and I wanted to use Azure Functions. Similar to AWS's Lambda, allows me to write small bits of code that respond to triggers such as HTTP requests or new items being added to a Queue.
+Stripe provides a way to run code when events happen with your integration, you can register a URL and select which events you wish to be sent, and whenever one of these events occurs, you'll get a message POSTed to you. My scenario, [fulfilling orders after a checkout, is exactly covered by a tutorial on Stripe Docs](https://docs.stripe.com/payments/checkout/fulfill-orders), so I followed these steps (including testing with the Stripe CLI) almost exactly. I did have to change the code a bit, because it was written as if I was spinning up a regular ASP.NET web application and I wanted to use Azure Functions. Similar to AWS's Lambda, this feature allows me to write small bits of code that respond to triggers such as HTTP requests or new items being added to a Queue.
 
 The whole function (all 3 functions) is available on GitHub in [Functions.cs](https://github.com/Duncanma/PhotoWebhooks/blob/main/Functions.cs), but I'll go through it in pieces here.
 
@@ -59,7 +59,7 @@ string connectionString
     = Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
 ```
 
-I'm using a [Restricted Access Key](https://docs.stripe.com/keys#limit-access), limited to only being able to read Checkout Sessions as a second layer of security. Even if this key leaked, it has limited ability to cause trouble, and having a distinct key for different parts of my system means it is easy to roll (replace with a new key and deactivating the leaked one) just this key without impacting the rest of my code.
+I'm using a [Restricted Access Key](https://docs.stripe.com/keys#limit-access), limited to only being able to read Checkout Sessions as a second layer of security. Even if this key leaked, it has limited ability to cause trouble, and having a distinct key for each part of my system means it is easy to roll (replace with a new key and deactivating the leaked one) just this key without impacting the rest of my code.
 
 ![image of the key management area of the Stripe dashboard, showing the two restricted keys](/images/photo-gallery/restricted-access-key-functions.png)
 
@@ -167,7 +167,7 @@ BlobClient blobClient
     = containerClient.GetBlobClient(imageFile);
 ```
 
-The original images are stored in a private blob container, so a direct link to them won't work. Instead, I create a SAS (Shared Access Signature) based link that has a time limit. This doesn't prevent someone from downloading the file once and re-sharing, but I am not that concerned right now. I could always add in some more security measures if I end up actually selling some photos!
+The original images are stored in a private blob container, so a direct link to them won't work. Instead, I create a SAS (Shared Access Signature) based link that has a time limit. This doesn't prevent someone from downloading the file once and re-sharing, but I am not that concerned right now. I could always add in some more security measures if I end up selling some photos!
 
 ```csharp
 //create a unique URL to the image for this customer, with 30-day expiry
@@ -196,9 +196,9 @@ await queueClient.SendMessageAsync(message);
 
 ## Create an email message and send it to the customer
 
-This last step is using a whole new Azure product I had never tried before, and it involved setting a custom email domain, creating various DNS records and more. I'm not going to go into all of that, but [the docs are available](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email?tabs=windows%2Cconnection-string&pivots=programming-language-csharp) (on the site I used to work on in my last job). It does take some time though, getting it all setup and working correctly.
+This last step is using a whole new Azure product I had never tried before, and it involved setting a custom email domain, creating various DNS records and more. I'm not going to go into all of that, but [the docs are available](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email?tabs=windows%2Cconnection-string&pivots=programming-language-csharp) (on the site I used to work on in my last job). It does take some time though, getting it all set up and working correctly.
 
-Once the service was done though, the code has only a couple steps.
+Once the service was ready though, the code has only a couple steps.
 
 Another function signature, again using the Queue trigger.
 
@@ -226,7 +226,7 @@ string connectionString
 var emailClient = new EmailClient(connectionString);
 ```
 
-I construct both an HTML and plain text version of my message. This is a bit messy, I should probably pull the message text out as a pair of string resources, but it works for now.
+I construct both an HTML and plain text version of my message. This is a bit messy, I should pull the message text out as a pair of string resources, but it works for now.
 
 ```csharp
 string htmlMessage = "<html><h1>Your photo order</h1>" +
@@ -252,7 +252,7 @@ string plainMessage = "Your photo order\n\n" +
     + "me at support@duncanmackenzie.net\n\n";
 ```
 
-Finally I use the customer's email, create the right email objects, and send it off.
+Finally, I use the customer's email, create the right email objects, and send it off.
 
 ```csharp
 EmailRecipients recipients = new EmailRecipients();
@@ -273,10 +273,10 @@ EmailMessage messageToSend
 await emailClient.SendAsync(WaitUntil.Started, messageToSend);
 ```
 
-That's it. It ignores a few possible issues, what if the customer's email is incorrect or if the email fails to deliver for other reasons, for example. I can use the Stripe dashboard to compare completed orders with my own data on emails sent and look for issues as a manual process, and perhaps I'll add in some more redundant checks in the future. The email client returns an operation ID that [I could use to check for delivery issues](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email?tabs=windows%2Cconnection-string&pivots=programming-language-csharp#getting-email-delivery-status) as a start.
+That's it. It ignores a few possible issues, what if the customer's email is incorrect or if the email fails to deliver for other reasons, for example. I can use the Stripe dashboard to compare completed orders with my own data on emails sent and look for issues as a manual process, and perhaps I might add in some more checks in the future. The email client returns an operation ID that [I could use to check for delivery issues](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email?tabs=windows%2Cconnection-string&pivots=programming-language-csharp#getting-email-delivery-status) as a start.
 
 ## Wrapping it up
 
-In creating this system, and then again in writing this article, I can see many ways to improve or add to it. I find this to be pretty normal with any software, but it is important not to let it stop you from shipping. This code, the v1 as it were, works in my limited testing. If I end up getting tons of orders and that reveals some issues, well that's a nice problem to have and I'll evolve this code and process as needed.
+In creating this system, and then again in writing this article, I can see many ways to improve or add to it. I find this to be normal with any project, but it is important not to let it stop you from shipping. This code, the v1 as it were, works in my limited testing. If I end up getting tons of orders and that reveals some issues, well that's a nice problem to have and I'll evolve this code and process as needed.
 
 Feel free to checkout [my photo albums](/albums), and since you made it this far, I've created a promo code, `THANKSFORREADING`, that will give you 50% off any image you want to buy.
