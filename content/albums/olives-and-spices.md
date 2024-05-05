@@ -42,7 +42,7 @@
       "PaymentLink": "https://buy.stripe.com/eVa8xE3n57x8cfKbJ3"
     },
     {
-      "Title": "Dried roses (I believe they are Damask roses) for sale in a spic",
+      "Title": "Dried roses (I believe they are Damask roses) for sale in a spice shop",
       "uniqueID": "46e6d50d1ff89cf7b6091dffb53cc856",
       "Caption": "",
       "Latitude": "",
@@ -182,7 +182,7 @@
       "PaymentLink": "https://buy.stripe.com/5kA8xE2j15p04Ni7sR"
     },
     {
-      "Title": "Mounds of spices and dyes, with some wool visible in the foreground.",
+      "Title": "Mounds of spices and dyes, with some wool visible in the foreground",
       "uniqueID": "93bc320326aba6274b7deafed978ba5a",
       "Caption": "",
       "Latitude": "",
@@ -392,7 +392,7 @@
       "PaymentLink": null
     },
     {
-      "Title": "Very light green, almost yellow, olives.",
+      "Title": "Very light green, almost yellow, olives",
       "uniqueID": "b0213833861fdb65e54bd2e4c12e9fbe",
       "Caption": "",
       "Latitude": "",
