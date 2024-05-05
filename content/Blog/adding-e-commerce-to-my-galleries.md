@@ -11,9 +11,7 @@ images:
  - /images/photo-gallery/buy-links.png
 description: As a weekend project, I decided to try coding against Stripe and adding the ability to buy original versions of my photos.
 ---
-{{% note %}}
-This is a follow-up to my last post on [creating a photo gallery feature for my site](/blog/adding-photo-galleries), so it might be worth a quick skim if you haven't read it before.
-{{% /note %}}
+{{% note %}}This is a follow-up to my last post on [creating a photo gallery feature for my site](/blog/adding-photo-galleries), so it might be worth a quick skim if you haven't read it before.{{% /note %}}
 
 What if I wanted to integrate with Stripe to let people buy these photos? I don’t really need to make money from this hobby, but I’ve had a few people comment that various images would make great wall art, and I’ve wanted to try coding against Stripe’s APIs for real, so… here goes.
 
