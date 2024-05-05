@@ -92,6 +92,10 @@ Some of my photos are not suitable for purchase because:
 
 I make the calls to Stripe as part of generating each gallery but checking against a list of images “not for sale". For each of the rest of the images, we are going to turn each of them into a Stripe Product in my account. Using the unique ID, we’ll check if a product already exists, and if so, just skip the creation. This allows us to run this code on the same input more than once without creating duplicate products.
 
+{{% note %}}Making calls to Stripe, using their .NET SDK, requires an API Key. I'm using a [Restricted Access Key](https://docs.stripe.com/keys#limit-access), limited to only being able to read and write Products, Prices and Payment Links as a second layer of security. Even if this key leaked, it has limited ability to cause trouble, and having a distinct key for different parts of my system means it is easy to roll (replace with a new key and deactivating the leaked one) just this key without impacting the rest of my code. In my next article, [order fulfillment](/blog/order-fulfillment), I use a different key with the set of permissions required for that code.
+
+![image of the key management area of the Stripe dashboard, showing the two restricted keys](/images/photo-gallery/restricted-access-key-gallery.png){{% /note %}}
+
 This was my first attempt to write this code:
 
 ```csharp
@@ -251,4 +255,5 @@ To provide the no-JS fallback, a page like [Olives & Spices](/albums/olives-and-
 ## Order fulfillment
 
 If I stopped there, I’d have a functional method to sell photos. In my Stripe dashboard, I could see a list of completed payments, and I could then manually email the original image to customers. Keeping track on my own, of which orders had been fulfilled. This is a fine solution, but I’m not excited about it. I don’t expect a lot of orders, so it isn’t the manual work that concerns me (in fact, coding up a solution here could be more work than processing a handful of orders), but the fact that it depends on me taking manual action on a regular basis. I get busy or travel, and suddenly people have paid me $ and are not happy with the service. What I want instead is for this to be completely automated, someone orders a picture at 2am, they get what they paid for within a few hours, I check the Stripe dashboard whenever I have time and see a list of happy orders.
-It feels like I’ve covered a lot in this article already, so I’m going to break out the order fulfillment into its own piece.
+
+It feels like I’ve covered a lot in this article already, so I’m going to break out the [order fulfillment into its own piece](/blog/order-fulfillment).
