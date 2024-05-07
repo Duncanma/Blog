@@ -3,7 +3,7 @@
 {{ $album := .Site.GetPage $albumName }}
 {{ $image := index $album.Params.Pictures $imageIndex }}
 {{ with $image }}
-<div class="photo-list" >
-    {{ partial "singleImage.html" . }}
+<div class="photo-list">
+{{ partial "singleImage-embed.html" . }}
 </div>
 {{ end }}

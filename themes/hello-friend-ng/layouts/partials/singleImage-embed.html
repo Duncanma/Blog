@@ -1,0 +1,20 @@
+{{ $image := . }}
+{{ $full := index ($image.Links) 0 }}
+{{ $alt := $image.Caption }}
+{{ if not $alt}}
+{{ $alt = $image.Title }}
+{{ end }}
+{{ $srcset := "" }}
+{{ range $image.Links }}
+{{ $srcset = printf "%s %s %vw," $srcset .Url .Width }}
+{{ end }}
+{{ $srcset = trim $srcset ","}}
+<!-- start embed -->
+<a class="gallery-item" href="{{ $full.Url }}" data-pswp-src="{{ $full.Url }}" data-pswp-width="{{ $full.Width }}"
+  data-pswp-height="{{ $full.Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject"
+  style="aspect-ratio: {{ $full.Width }} / {{ $full.Height }}" {{ printf "data-pswp-srcset=%q" $srcset | safeHTMLAttr
+  }}>
+  <img loading="lazy" width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}"
+    srcset="{{ $srcset }}" >
+</a>
+<!-- end embed -->
