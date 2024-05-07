@@ -181,11 +181,17 @@
     overflow: hidden;
   }
 
-  &.next .button__icon {
+  &.previous .button__icon {
     margin-left: 8px;
   }
 
-  &.previous .button__icon {
+  &.next .button__icon {
     margin-right: 8px;
   }
+}
+
+main.album .post-info {
+  text-align: left;
+  max-width: 400px;
+  margin: auto;
 }

@@ -1,10 +1,19 @@
 ---
 {
-  "Outputs": ["html", "purchase"],
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
+  "Tags": [
+    "Photography",
+    "Travel"
+  ],
   "Title": "Purisima trail hike",
   "Description": "In August of 2023, I went down to San Francisco for work, but I had some time on the Sunday and I wanted to get out into the woods. I was trying to figure out the best way to get to the Muir woods, but my local friends told me to head over to this Purisima trail instead. Close by where I was staying and an amazing little walk!",
   "BaseURL": "https://photos.duncanmackenzie.net/images/purisima",
   "Featured": 5,
+  "startDate": "2023-08-27T07:07:37-07:00",
+  "Date": "2023-08-27T08:19:15-07:00",
   "Pictures": [
     {
       "Title": "Sign at the Purisima trailhead",

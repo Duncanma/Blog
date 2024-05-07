@@ -17,7 +17,7 @@
                 {{- end }}
             {{else}}
             {{- range .Pages }}
-            <li class="post-item">
+            <li class="post-item type-{{ .Type }}">
                 <a href="{{.RelPermalink}}">
                     <span class="post-title">{{.Title}}</span>
                     <span class="post-day">{{ if .Site.Params.dateformShort }}{{ .Date.Format .Site.Params.dateformShort }}{{ else }}{{ .Date.Format "Jan 2"}}{{ end }}</span>

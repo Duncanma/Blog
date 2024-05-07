@@ -1,10 +1,18 @@
 ---
 {
-  "Outputs": ["html", "purchase"],
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
+  "Tags": [
+    "Photography"
+  ],
   "Title": "Flowers",
   "Description": "From various locations in Redmond, WA and San Francisco.",
   "BaseURL": "https://photos.duncanmackenzie.net/images/flowers",
-  "Featured": 0,
+  "Featured": 3,
+  "startDate": "2023-04-27T08:46:32-07:00",
+  "Date": "2023-10-01T12:15:33-07:00",
   "Pictures": [
     {
       "Title": "Pink and red flowers in South San Francisco",

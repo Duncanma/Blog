@@ -1,12 +1,21 @@
 ---
 {
+  "Outputs": ["html", "purchase"],
+  "Tags": [
+    "Japan",
+    "Photography",
+    "Travel"
+  ],
   "Title": "Osaka",
   "Description": "Photos taken during a visit to Osaka, Japan in January 2020",
   "BaseURL": "https://photos.duncanmackenzie.net/images/osaka",
   "Featured": 1,
+  "startDate": "2020-01-24T16:53:01-08:00",
+  "Date": "2020-01-24T18:53:16-08:00",
   "Pictures": [
     {
       "Title": "Sign of a craft beer bar",
+      "uniqueID": "acb41b77b9e2e7e3fdfd0aa1284d3f46",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -36,10 +45,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/7sI5ls4r9eZAenS3db"
     },
     {
       "Title": "Cute little gyoza pan",
+      "uniqueID": "2c9335433c68ecbad1f73be3f809ddba",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -69,10 +80,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/fZe7tA3n5g3EdjO298"
     },
     {
       "Title": "Cute little gyoza pan, showing one removed",
+      "uniqueID": "41bb2a80cef678ec5a3d418ccfe42d13",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -102,10 +115,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/cN20185vd9Fg7ZucNN"
     },
     {
       "Title": "Woman playing guitar at night",
+      "uniqueID": "e55e82b2ecc5ebf309946d6988991e88",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -135,10 +150,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/28o5ls7Dl6t46Vq6pq"
     },
     {
-      "Title": "View down the Doutonbori canal",
+      "Title": "View down the Dotombori canal",
+      "uniqueID": "26e3dd20c487c678be864b3750a4a942",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -168,10 +185,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/5kAeW23n53gSgw09BD"
     },
     {
       "Title": "Doutonbori Street, with the giant crab sign",
+      "uniqueID": "155ff11ba3076d272e96a863606ca61b",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -201,10 +220,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/eVa5ls5vd5p04Ni7tw"
     },
     {
       "Title": "Ebisubashisuji Shopping Street",
+      "uniqueID": "0f5f11330abf5e4f1cf5061ccd051930",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -234,10 +255,12 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/aEUg06bTBeZA4NiaFJ"
     },
     {
-      "Title": "Glico running man sign over the Doutonbori canal",
+      "Title": "Glico running man sign over the Dotombori canal",
+      "uniqueID": "9f8ec69196cd77e2264c3584af0f86e7",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -267,10 +290,12 @@
           "Width": 220,
           "Height": 330
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/dR69BIaPx18KenS8xC"
     },
     {
       "Title": "Sign at Doutonbori Street",
+      "uniqueID": "ab3ae00a2645c1c87054327784f43872",
       "Caption": "",
       "Latitude": "",
       "Longitude": "",
@@ -300,7 +325,8 @@
           "Width": 220,
           "Height": 147
         }
-      ]
+      ],
+      "PaymentLink": "https://buy.stripe.com/9AQeW24r99Fg6VqcNT"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {{ $related := .Site.RegularPages.RelatedIndices . | first 3 }}
 {{ with $related }}
 <h3>Related Posts</h3>
-<ul>
+<ul class="relatedLinks">
 	{{ range . }}
 	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 	{{ end }}

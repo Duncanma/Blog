@@ -1,10 +1,20 @@
 ---
 {
-  "Outputs": ["html", "purchase"],
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
+  "Tags": [
+    "Morocco",
+    "Photography",
+    "Travel"
+  ],
   "Title": "Olives and Spices",
   "Description": "Walking around the medina in Marrakesh",
   "BaseURL": "https://photos.duncanmackenzie.net/images/olives-and-spices",
   "Featured": 7,
+  "startDate": "2023-06-30T12:26:23+01:00",
+  "Date": "2023-06-30T06:55:47-07:00",
   "Pictures": [
     {
       "Title": "Spices out for display in large containers, in the tinsmiths square area of Marrakesh",

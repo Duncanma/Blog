@@ -1,10 +1,20 @@
 ---
 {
-  "Outputs": ["html", "purchase"],
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
+  "Tags": [
+    "New York",
+    "Photography",
+    "Travel"
+  ],
   "Title": "Brooklyn Bridge",
   "Description": "A set of photos taken starting in the early morning from the bridge.",
   "BaseURL": "https://photos.duncanmackenzie.net/images/nyc",
   "Featured": 12,
+  "startDate": "2023-10-24T03:41:12-07:00",
+  "Date": "2023-10-24T04:15:12-07:00",
   "Pictures": [
     {
       "Title": "Sunrise view of the Manhattan Bridge from the Brooklyn Bridge",

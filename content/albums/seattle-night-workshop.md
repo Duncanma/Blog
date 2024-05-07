@@ -1,10 +1,19 @@
 ---
 {
-  "Outputs": ["html", "purchase"],
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
+  "Tags": [
+    "Photography",
+    "Seattle"
+  ],
   "Title": "Seattle Night Workshop",
   "Description": "I took a class in night/low-light photography, learning about playing with light and shutter speed. Lots of fun!",
   "BaseURL": "https://photos.duncanmackenzie.net/images/seattle-night-workshop",
   "Featured": 6,
+  "startDate": "2024-03-09T17:49:03-08:00",
+  "Date": "2024-03-09T19:37:37-08:00",
   "Pictures": [
     {
       "Title": "Slightly long exposure, 3/5 second, showing moving people blurred as they cross the street.",

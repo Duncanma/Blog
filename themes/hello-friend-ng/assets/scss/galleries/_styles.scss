@@ -37,6 +37,10 @@ main.album {
   padding: 0 20px;
   margin: auto;
 
+  section.featured {
+    max-width: 1000px;
+  }
+
   h1 {
     margin-bottom: 0;
   }

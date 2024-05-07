@@ -1,6 +1,6 @@
 {{ define "main" }}
     <!-- https://github.com/nicokaiser/hugo-theme-gallery/blob/main/layouts/partials/album-card.html -->
-    <main class="posts">
+    <main class="album">
         <h1>{{ .Title }}</h1>
         <section class="featured">
             {{- range first 1 .Pages }}
@@ -15,7 +15,7 @@
                         <div>
                             <h2>{{ .Title }}</h2>
                             <span><span class="featuredIndicator">Featured | </span>{{ $photoCount }} photos</span>
-                            {{ with .Description }}<p>{{ . | truncate 100 }}</p>{{ end }}
+                            {{ with .Description }}<p>{{ . | truncate 200 }}</p>{{ end }}
                         </div>
                     </a>
                 {{- end }}
