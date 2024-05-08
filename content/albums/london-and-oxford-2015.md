@@ -12,7 +12,7 @@
   "Title": "London and Oxford 2015",
   "Description": "A work trip to London, split up by a day trip by train to Oxford",
   "BaseURL": "https://photos.duncanmackenzie.net/images/london-and-oxford-2015",
-  "Featured": 0,
+  "Featured": 2,
   "startDate": "2018-10-28T09:49:14-07:00",
   "Date": "2018-11-01T07:35:13-07:00",
   "Pictures": [
