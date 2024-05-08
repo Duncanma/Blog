@@ -9,9 +9,19 @@
                     {{- $photoCount := len .Params.Pictures }}
                     {{- $thumbnailIndex := .Params.Featured }}
                     {{- $thumbnail := index .Params.Pictures $thumbnailIndex }}
-                    {{- $thumbnailLink := index $thumbnail.Links 0 }}
+                    {{ $full := index ($thumbnail.Links) 0 }}
+                    {{ $alt := $thumbnail.Caption }}
+                    {{ if not $alt}}
+                    {{ $alt = $thumbnail.Title }}
+                    {{ end }}
+                    {{ $srcset := "" }}
+                    {{ range $thumbnail.Links }}
+                    {{ $srcset = printf "%s %s %vw," $srcset .Url .Width }}
+                    {{ end }}
+                    {{ $srcset = trim $srcset ","}}
                     <a class="card" href="{{ .RelPermalink }}" title="{{ .Title }}">
-                        <img loading="lazy" width="540" height="360" src="{{ $thumbnailLink.Url }}" style="" alt="{{ .Title }}" />
+                        <img loading="lazy" width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}"
+                        srcset="{{ $srcset }}" >
                         <div>
                             <h2>{{ .Title }}</h2>
                             <span><span class="featuredIndicator">Featured | </span>{{ $photoCount }} photos</span>
