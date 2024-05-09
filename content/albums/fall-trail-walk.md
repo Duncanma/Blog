@@ -4,7 +4,7 @@
     "Pets",
     "Photography"
   ],
-  "Title": "Fall Trail Walk",
+  "Title": "Fall trail walk",
   "Description": "A walk in Redmond, through Hollywood Hill with Loki",
   "BaseURL": "https://photos.duncanmackenzie.net/images/fall-trail-walk",
   "Featured": 1,
