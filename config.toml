@@ -34,7 +34,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [outputFormats]
-  [outputFormats.GalleriesForSale]
+  [outputFormats.purchase]
     name = "purchase"
     baseName = "purchase"
     isPlainText = false
