@@ -42,9 +42,20 @@
 
       {{- if .Date -}}
       <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-          Most recent photo taken <relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="relative">
+        {{- $startDate := .Params.startdate -}}
+        {{- if ne .Params.startDate nil -}}
+        {{- if eq (dateFormat "January 2, 2006" $startDate) (.Date.Format "January 2, 2006") -}}
+        Photos taken on
+        {{- else -}}
+        Photos taken between<span class="albumDate">&nbsp;<relative-time datetime="{{ dateFormat "2006-01-02T15:04:05Z0700" $startDate}}" format="datetime">
+            {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime $startDate }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" $startDate }}{{ end }}
+          </relative-time></span>
+           and
+        {{- end -}}
+        {{- end -}}
+          <span class="albumDate">&nbsp;<relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="datetime">
               {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}
-          </relative-time>
+          </relative-time></span>
       </p>
       {{- end -}}
 

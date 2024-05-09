@@ -192,6 +192,10 @@
 
 main.album .post-info {
   text-align: left;
-  max-width: 400px;
+  max-width: 600px;
   margin: auto;
+}
+
+.post-info ul.relatedLinks {
+  line-height: 1.5em;
 }
