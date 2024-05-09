@@ -7,7 +7,6 @@ tags:
  - Coding
  - Photography
  - Hugo
-featured: true
 images:
  - /images/photo-gallery/flexGallery.png
 description: I wanted to show off my photos, but it meant building a whole new set of pages onto my site

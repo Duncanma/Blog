@@ -9,10 +9,24 @@
         </div>
         {{- end }}
     </div>
+    <h2>Photography Content</h2>
+    <ol class="recent">
+        {{- range first 3 (where .Site.RegularPages ".Params.tags" "intersect" (slice "Photography")) -}}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="summary">{{.Summary}}</div>
+            <div class="meta">
+                <relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="relative" prefix="">
+                    {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}
+                </relative-time>
+            </div>
+    </li>
+        {{- end -}}
+    </ol>
 
     <h2>Posts on Engineering Management</h2>
     <ol class="recent">
-        {{- range where .Site.RegularPages ".Params.tags" "intersect" (slice "Engineering Management") -}}
+        {{- range first 3 (where .Site.RegularPages ".Params.tags" "intersect" (slice "Engineering Management")) -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             <div class="summary">{{.Summary}}</div>
@@ -26,6 +40,12 @@
     </ol>
     <h2>Other Featured Posts</h2>
     <ol class="recent">
+        {{- range after 3 (where .Site.RegularPages ".Params.tags" "intersect" (slice "Engineering Management")) -}}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <!-- <div class="summary">{{.Summary}}</div> -->
+        </li>
+        {{- end -}}
         {{- range where .Site.RegularPages "Params.featured" true -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
