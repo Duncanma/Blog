@@ -12,7 +12,7 @@ techfeatured: false
 ---
 The core purpose of a content distribution network (CDN), is to provide your users with endpoints to hit all over the world instead of having everyone go all the way back to your origin server. Caching is a core part of that, to bring some of your content closer to the user as well as the server they connect to. If you've looked into CDNs though, or tried to compare various companies, you will see they offer a lot of 'extras' on top of the basic functionality.
 
-> This post is one of [a series about CDNs](/tags/cdn), starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
+> This post is one of [a series about CDNs](/tags/cdn/), starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
 
 ## Web Application Firewalls
 

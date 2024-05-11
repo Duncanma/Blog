@@ -13,7 +13,7 @@ images:
 description: As the final step in my series on adding photo galleries to my site, I explain how I use Azure Functions to process incoming orders.
 ---
 
-In the previous articles in this series, I covered how I [added photo galleries to my site](/blog/adding-photo-galleries), and then [how I enabled a feature to buy the original digital photo](/blog/adding-e-commerce-to-my-galleries). The last piece (for now at least) is how I automate delivery of those high-resolution images, so that everything *should* just happen without any manual steps.
+In the previous articles in this series, I covered how I [added photo galleries to my site](/blog/adding-photo-galleries/), and then [how I enabled a feature to buy the original digital photo](/blog/adding-e-commerce-to-my-galleries/). The last piece (for now at least) is how I automate delivery of those high-resolution images, so that everything *should* just happen without any manual steps.
 There might be a better way to handle this, but after reading even more pages on [Stripe Docs](https://docs.stripe.com), I decided to create a system using three [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp).
 
 ![Diagram of the steps in my 3 Azure Functions, also described in the following paragraph](/images/photo-gallery/azure-function-diagram.png)
@@ -279,4 +279,4 @@ That's it. It ignores a few possible issues, what if the customer's email is inc
 
 In creating this system, and then again in writing this article, I can see many ways to improve or add to it. I find this to be normal with any project, but it is important not to let it stop you from shipping. This code, the v1 as it were, works in my limited testing. If I end up getting tons of orders and that reveals some issues, well that's a nice problem to have and I'll evolve this code and process as needed.
 
-Feel free to checkout [my photo albums](/albums), and since you made it this far, I've created a promo code, `THANKSFORREADING`, that will give you 50% off any image you want to buy.
+Feel free to checkout [my photo albums](/albums/), and since you made it this far, I've created a promo code, `THANKSFORREADING`, that will give you 50% off any image you want to buy.

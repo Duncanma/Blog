@@ -20,7 +20,7 @@ maybe I should post it up online for posterity's sake.
 > understand what should live at that address. For anything else though,
 > paths below that root, or subdomains, you are essentially creating a
 > categorization of content, and that will evolve over time.
-> Also, [a related discussion of domain names and why you should always **use your domain** instead of making random new ones](/blog/domain-names).
+> Also, [a related discussion of domain names and why you should always **use your domain** instead of making random new ones](/blog/domain-names/).
 
 ## The MSDN and TechNet days
 

@@ -103,7 +103,7 @@ The Hugo theme was using [a cool image layout library](https://flickr.github.io/
 
 ![the gallery view, showing landscape and portrait images sized and positioned together](/images/photo-gallery/flexGallery.png)
 
-All of this, done first in HTML, then in Hugo, turns into two ‘layouts’ in my theme. A List template, which is used when showing [the homepage for my albums](/albums), and then a Single template that handles [an individual album](/albums/flowers).  I built these first without any partials, but when I was building a later feature, I ended up moving the album card out of the list view into its own file and then doing the same with the individual image code. All of the templates, partials, css, etc. are included in [my blog repository](https://github.com/Duncanma/Blog).
+All of this, done first in HTML, then in Hugo, turns into two ‘layouts’ in my theme. A List template, which is used when showing [the homepage for my albums](/albums/), and then a Single template that handles [an individual album](/albums/flowers/).  I built these first without any partials, but when I was building a later feature, I ended up moving the album card out of the list view into its own file and then doing the same with the individual image code. All of the templates, partials, css, etc. are included in [my blog repository](https://github.com/Duncanma/Blog).
 
 ## Supporting multiple image resolutions
 

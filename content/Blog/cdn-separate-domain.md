@@ -11,7 +11,7 @@ techfeatured: false
 ---
 Short answer is "No, you shouldn't". You will see this quite often on sites, where the site itself is served at www.mydomain.com, and then static resources (CSS, JS, images, etc.) are served from a secondary domain like cdn.mydomain.com or something similar. The second domain is routed through a CDN, the main domain is not.
 
-> This post is one of [a series about CDNs](/tags/cdn), starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
+> This post is one of [a series about CDNs](/tags/cdn/), starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
 
 The argument for doing this generally follows one or both of these reasons:
 
