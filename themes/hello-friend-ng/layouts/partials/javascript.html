@@ -5,6 +5,16 @@
 
 {{ $js := resources.Get "js/main.js" | js.Build (dict "minify" true) }}
 <script src="{{ $js.RelPermalink }}" defer></script>
+<script type="speculationrules">
+    {
+      "prefetch": [
+        {
+          "where": { "href_matches": "/*" },
+          "eagerness": "eager"
+        }
+      ]
+    }
+</script>
 
 {{ $baguette := resources.Get "js/baguetteBox.js"}}
 {{ $secureBaguette := $baguette | resources.Fingerprint "sha512"}}
