@@ -1,9 +1,15 @@
 <meta charset="UTF-8">
 <link href="https://www.clarity.ms" rel="preconnect" >
-{{ if .NextInSection }}
-<link rel="next" href="{{ .NextInSection.RelPermalink }}">{{ end }}
-{{ if .PrevInSection }}
-<link rel="prev" href="{{ .PrevInSection.RelPermalink }}">{{ end }}
+<script type="speculationrules">
+    {
+      "prefetch": [
+        {
+          "where": { "href_matches": "/*" },
+          "eagerness": "eager"
+        }
+      ]
+    }
+</script>
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author"

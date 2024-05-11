@@ -7,7 +7,8 @@
   "Tags": [
     "Morocco",
     "Photography",
-    "Travel"
+    "Travel",
+    "Marrakech"
   ],
   "Title": "Olives and Spices",
   "Description": "Walking around the medina in Marrakesh",
