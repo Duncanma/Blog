@@ -199,3 +199,19 @@ main.album .post-info {
 .post-info ul.relatedLinks {
   line-height: 1.5em;
 }
+
+div.post-info {
+
+  svg {
+    margin-right: .4em;
+  }
+
+  span.share {
+    float:right;
+
+    a {
+      text-decoration: none;
+    }
+
+  }
+}
