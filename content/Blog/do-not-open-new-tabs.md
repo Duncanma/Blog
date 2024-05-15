@@ -5,6 +5,7 @@ type: posts
 tags:
  - Web Development
  - Accessibility
+ - DevTo
 techfeatured: true
 description: Every few days someone will suggest we have our links open in a new tab by default, here is why that is a bad idea
 ---
