@@ -63,7 +63,7 @@
       <link>{{ .Permalink }}</link>
       {{- with .Params.tags -}}
       {{- range . -}}
-      {{- if ne . "devto" }}
+      {{- if ne . "DevTo" }}
       <category>{{ . }}</category>
       {{- end -}}
       {{- end -}}
