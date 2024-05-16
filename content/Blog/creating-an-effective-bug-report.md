@@ -5,7 +5,7 @@ type: posts
 tags:
  - Web Development
  - Coding
- - devto
+ - DevTo
 techfeatured: true
 images:
 - /images/bernie.jpg
