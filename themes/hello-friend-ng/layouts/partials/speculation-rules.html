@@ -1,0 +1,37 @@
+<script type="speculationrules">
+{{- if or (eq .Type "tags") (eq .Type "blog")}}
+{{- $urls := slice }}
+{{- range first 3 .Pages  }}
+{{ $urls = $urls | append (printf "\"%s\"" .RelPermalink)  }}
+{{- end }}
+{{ $urlList := delimit $urls "," }}
+<!-- list page -->
+    {
+        "prefetch": [
+            {
+                "urls": [ {{ $urlList | safeHTML }} ],
+                "eagerness": "eager"
+            }
+        ],
+        "prerender": [{
+        "where": {
+            "href_matches": "/*"
+        },
+        "eagerness": "conservative"
+        }]
+    }
+{{- else }}
+    {
+      "prefetch": [
+        {
+          "where": { "href_matches": "/*" },
+          "eagerness": "eager"
+        }],
+		"prerender": [
+        {
+          "where": { "href_matches": "/*" },
+          "eagerness": "moderate"
+        }]
+    }
+{{- end }}
+</script>

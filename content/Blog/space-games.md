@@ -8,7 +8,6 @@ tags:
 images:
 - /images/spacegames/MySetup_sml.jpg
 description: The first time I really became obsessed with a video game was in my first year of college, playing an online game called 'Fed' ...
-featured: true
 ---
 I have played a lot of games over the years, going back to the C64 and our Intellivision, to a huge amount of time spent on the Xbox since it launched, and if you were to ask me what types of games I liked, the answers would really vary. I really enjoy RTS, I've played a lot of first-person shooters, I like 4X strategy games, racing, and even some platformers.
 
