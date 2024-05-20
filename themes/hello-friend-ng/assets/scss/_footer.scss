@@ -15,6 +15,9 @@
       flex-direction: column;
     }
   }
+  @media(prefers-color-scheme: dark) {
+    color: $dark-color-secondary;
+  }
 
   &__content {
     display: flex;
@@ -26,6 +29,15 @@
     @media #{$media-size-tablet} {
       flex-direction: column;
       margin-top: 10px;
+    }
+    @media(prefers-color-scheme: dark) {
+      color: $dark-color-secondary;
+    }
+    a {
+      color: $light-color-secondary;
+      @media(prefers-color-scheme: dark) {
+        color: $dark-color-secondary;
+      }
     }
 
     & > *:not(:last-child) {

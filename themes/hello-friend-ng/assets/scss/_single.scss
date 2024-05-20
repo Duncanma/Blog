@@ -59,7 +59,7 @@
     margin-top: 30px;
     font-size: .8rem;
     line-height: normal;
-    @include dimmed;
+
 
     p {
       margin: .8em 0;
@@ -179,7 +179,12 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-  }
+    color: #676767;
+
+    @media(prefers-color-scheme: dark) {
+      color: #aaaaaa;
+    }
+   }
 
   &.previous .button__icon {
     margin-left: 8px;
