@@ -154,7 +154,7 @@
       "PaymentLink": "https://buy.stripe.com/28o5ls7Dl6t46Vq6pq"
     },
     {
-      "Title": "View down the Dotombori canal",
+      "Title": "View down the Dotonbori canal",
       "uniqueID": "26e3dd20c487c678be864b3750a4a942",
       "Caption": "",
       "Latitude": "",
@@ -189,7 +189,7 @@
       "PaymentLink": "https://buy.stripe.com/5kAeW23n53gSgw09BD"
     },
     {
-      "Title": "Doutonbori Street, with the giant crab sign",
+      "Title": "Dotonbori Street, with the giant crab sign",
       "uniqueID": "155ff11ba3076d272e96a863606ca61b",
       "Caption": "",
       "Latitude": "",
@@ -259,7 +259,7 @@
       "PaymentLink": "https://buy.stripe.com/aEUg06bTBeZA4NiaFJ"
     },
     {
-      "Title": "Glico running man sign over the Dotombori canal",
+      "Title": "Glico running man sign over the Dotonbori canal",
       "uniqueID": "9f8ec69196cd77e2264c3584af0f86e7",
       "Caption": "",
       "Latitude": "",
@@ -294,7 +294,7 @@
       "PaymentLink": "https://buy.stripe.com/dR69BIaPx18KenS8xC"
     },
     {
-      "Title": "Sign at Doutonbori Street",
+      "Title": "Sign at Dotonbori Street",
       "uniqueID": "ab3ae00a2645c1c87054327784f43872",
       "Caption": "",
       "Latitude": "",

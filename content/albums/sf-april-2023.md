@@ -332,7 +332,7 @@
       "PaymentLink": "https://buy.stripe.com/00gcNU9Lt8Bc1B6bKc"
     },
     {
-      "Title": "Located near the Ghirardelli attractions is the brewpub/restaura",
+      "Title": "Located near the Ghirardelli attractions is the brewpub/restaurant SF Brewing",
       "uniqueID": "058cbb6c2d4ee748d031bc40fcebdcbf",
       "Caption": "SF Brewing sign placed on a metal grid with flowers growing up alongside",
       "Latitude": "",
@@ -577,7 +577,7 @@
       "PaymentLink": "https://buy.stripe.com/4gw6pwg9R6t40x229J"
     },
     {
-      "Title": "Tables and orange chairs outside a little coffee shop in North B",
+      "Title": "Tables and orange chairs outside a little coffee shop in North Beach",
       "uniqueID": "9d663abc1bcb35638582db6b518f76c7",
       "Caption": "",
       "Latitude": "",
@@ -857,7 +857,7 @@
       "PaymentLink": "https://buy.stripe.com/dR68xE7Dl9Fg7Zu6q6"
     },
     {
-      "Title": "Ghirardelli sign, in the daytime, showing all the scaffolding th",
+      "Title": "Ghirardelli sign, in the daytime, showing all the scaffolding that holds it up",
       "uniqueID": "941d6c08b359ad03089a30fcf9153315",
       "Caption": "",
       "Latitude": "",
@@ -1032,7 +1032,7 @@
       "PaymentLink": "https://buy.stripe.com/bIYaFM2j104GdjO15Q"
     },
     {
-      "Title": "Mural of Carol Doda (a legendary stripper from the 70s) painted ",
+      "Title": "Mural of Carol Doda (a legendary stripper from the 70s) on a wall in North Beach, painted by Natalie Gabriel",
       "uniqueID": "93c8d183d589c178878fc954bb2b9633",
       "Caption": "",
       "Latitude": "",
@@ -1137,7 +1137,7 @@
       "PaymentLink": "https://buy.stripe.com/dR64hog9RcRs3Je9Co"
     },
     {
-      "Title": "Mural of the words \u0022North Beach\u0022 made up of SF themed images ins",
+      "Title": "Mural of the words \u0022North Beach\u0022 made up of SF themed images inside the letters",
       "uniqueID": "701b42c3f4fe3c565338abb2f0353865",
       "Caption": "",
       "Latitude": "",
@@ -1347,7 +1347,7 @@
       "PaymentLink": "https://buy.stripe.com/8wMcNU9Ltg3E3Je7ul"
     },
     {
-      "Title": "I like a destination for my walks, so I found this online and wa",
+      "Title": "I like a destination for my walks, so I found this online and wandered my way to it",
       "uniqueID": "1bfd7ba5b4981ae46931bf2dd394ab4f",
       "Caption": "Small tile sign saying \u0022Hidden Garden Steps\u0022",
       "Latitude": "",
