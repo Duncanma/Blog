@@ -8,6 +8,7 @@ tags:
  - Performance
  - Scalability
  - Engineering Management
+ - DevTo
 techfeatured: true
 ---
 One of the keys to scalability in software systems is to reduce the
