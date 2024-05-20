@@ -2,7 +2,8 @@
 {
   "Tags": [
     "Pets",
-    "Photography"
+    "Photography",
+    "PNW"
   ],
   "Title": "Fall trail walk",
   "Description": "A walk in Redmond, through Hollywood Hill with Loki",

@@ -6,7 +6,9 @@
   ],
   "Tags": [
     "Photography",
-    "Travel"
+    "Travel",
+    "PNW",
+    "Hiking"
   ],
   "Title": "Purisima trail hike",
   "Description": "In August of 2023, I went down to San Francisco for work, but I had some time on the Sunday and I wanted to get out into the woods. I was trying to figure out the best way to get to the Muir woods, but my local friends told me to head over to this Purisima trail instead. Close by where I was staying and an amazing little walk!",

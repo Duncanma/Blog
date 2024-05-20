@@ -3,7 +3,7 @@
   <section id="gallery" >
     <h1>{{ .Title }}</h1>
     {{ if .Description }}
-      <p class="albumDescription">{{ .Description }}</p>
+      <p class="albumDescription">{{ .Description | markdownify }}</p>
     {{ end }}
     {{- if .Content }}
       <div class="albumContent">{{ .Content }}</div>

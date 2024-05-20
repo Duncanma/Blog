@@ -19,7 +19,7 @@
     <div>
         <h2 class="albumCardTitle">{{ .Title }}</h2>
         <span>{{ $photoCount }} photos</span>
-        {{ with .Description }}<p>{{ . | truncate 120 }}</p>{{ end }}
+        {{ with .Description }}<p>{{ . | markdownify | plainify | truncate 120 }}</p>{{ end }}
     </div>
 </a>
 {{- end }}

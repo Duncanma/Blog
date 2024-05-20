@@ -25,7 +25,7 @@
                         <div>
                             <h2>{{ .Title }}</h2>
                             <span><span class="featuredIndicator">Featured | </span>{{ $photoCount }} photos</span>
-                            {{ with .Description }}<p>{{ . | truncate 200 }}</p>{{ end }}
+                            {{ with .Description }}<p>{{ . | markdownify | plainify | truncate 200 }}</p>{{ end }}
                         </div>
                     </a>
                 {{- end }}
