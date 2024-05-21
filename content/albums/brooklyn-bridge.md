@@ -297,7 +297,7 @@
       "PaymentLink": "https://buy.stripe.com/8wMdRY4r904GdjO7t7"
     },
     {
-      "Title": "Almost full daylight, more and more people showing up",
+      "Title": "Almost full daylight, more and more people showing up.",
       "uniqueID": "551e03f7b2f09b2c6ca8eb42a2cfe9ee",
       "Caption": "View towards Manhattan, bridge support and walkway visible, but a few more people starting to show up.",
       "Latitude": "",
