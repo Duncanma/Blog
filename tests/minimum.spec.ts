@@ -29,8 +29,8 @@ async function visualDiffAlbum(page: Page, url: string, testInfo: TestInfo) {
     await expect(page).toHaveScreenshot(screenshot, { fullPage: true, timeout: 50000, stylePath: "tests/screenshot.css"});
 
     screenshot = testInfo.title + "purchase.png";
-    page.click("#gallery > div.availableForPurchase");
-    page.waitForSelector("body.showBuyButtons");
+    await page.click("#gallery > div.availableForPurchase");
+    await page.waitForSelector("body.showBuyButtons");
     await expect(page).toHaveScreenshot(screenshot, { fullPage: true, timeout: 50000, stylePath: "tests/screenshot.css"});
 }
 
