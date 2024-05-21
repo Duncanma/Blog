@@ -19,7 +19,7 @@
     {
       "Title": "Sunrise view of the Manhattan Bridge from the Brooklyn Bridge",
       "uniqueID": "191b96e339b43604fd66308ffb95a345",
-      "Caption": "The Suspension Tower of a large bridge visible with cables and the sun rising behind it",
+      "Caption": "The Suspension Tower of a large bridge visible with cables and the sun rising behind it.",
       "Latitude": "",
       "Longitude": "",
       "Camera": "FUJIFILM X-T5",
