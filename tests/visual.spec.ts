@@ -26,5 +26,5 @@ async function visualDiff(page: Page, url: string) {
     }
 
     // Set up listeners concurrently
-    await expect(page).toHaveScreenshot({ fullPage: true, timeout: 10000});
+    await expect(page).toHaveScreenshot({ fullPage: true, timeout: 10000, stylePath: "tests/screenshot.css" });
 }

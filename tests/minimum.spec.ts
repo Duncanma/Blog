@@ -8,6 +8,10 @@ test('Visual Diff Text and Image', async ({ page }) => {
     await visualDiff(page, '/blog/space-games/');
 });
 
+test('Visual Diff Small Album', async ({ page }) => {
+    await visualDiff(page, '/albums/fall-trail-walk/');
+});
+
 
 async function visualDiff(page: Page, url: string) {
     await page.goto(url);
@@ -18,5 +22,5 @@ async function visualDiff(page: Page, url: string) {
     }
 
     // Set up listeners concurrently
-    await expect(page).toHaveScreenshot({ fullPage: true, timeout: 50000});
+    await expect(page).toHaveScreenshot({ fullPage: true, timeout: 50000, stylePath: "tests/screenshot.css"});
 }
