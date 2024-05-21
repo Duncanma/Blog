@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "hugo-extended": "^0.125.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12"
+  },
+  "scripts": {
+    "build": "hugo",
+    "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
+    "start": "hugo server --baseURL \"http://localhost:1313\""
   }
 }

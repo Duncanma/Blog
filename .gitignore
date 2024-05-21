@@ -7,3 +7,7 @@ public/tags/index.html
 public/tags/index.xml
 resources
 node_modules
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
