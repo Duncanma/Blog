@@ -25,7 +25,6 @@ async function visualDiffAlbum(page: Page, url: string, testInfo: TestInfo) {
     }
 
     var screenshot = testInfo.title + ".png";
-    // Set up listeners concurrently
     await expect(page).toHaveScreenshot(screenshot, { fullPage: true, timeout: 50000, stylePath: "tests/screenshot.css"});
 
     screenshot = testInfo.title + "purchase.png";
@@ -42,6 +41,5 @@ async function visualDiff(page: Page, url: string) {
         await img.scrollIntoViewIfNeeded();
     }
 
-    // Set up listeners concurrently
     await expect(page).toHaveScreenshot({ fullPage: true, timeout: 50000, stylePath: "tests/screenshot.css"});
 }

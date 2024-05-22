@@ -25,6 +25,5 @@ async function visualDiff(page: Page, url: string) {
         await img.scrollIntoViewIfNeeded();
     }
 
-    // Set up listeners concurrently
     await expect(page).toHaveScreenshot({ fullPage: true, timeout: 10000, stylePath: "tests/screenshot.css" });
 }
