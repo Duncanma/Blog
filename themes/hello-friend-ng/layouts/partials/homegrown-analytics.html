@@ -1,0 +1,17 @@
+{{- $rootPath := .Site.Params.homegrownAnalytics }}
+<noscript>
+    <img src="{{ $rootPath }}&page={{ .RelPermalink }}&title={{ .Title }}" height="1" width="1">
+</noscript>
+<div id="analytics">
+</div>
+<script>
+    var referrer = document.referrer;
+    var img = document.createElement("img");
+    img.src = "{{ $rootPath }}&page={{ .RelPermalink }}&title={{ .Title }}&js_enabled";
+    img.height = "1";
+    img.width = "1";
+    if (referrer) {
+        img.src += "&referrer=" + encodeURIComponent(referrer);
+    }
+    document.getElementById('analytics').appendChild(img);
+</script>

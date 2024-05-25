@@ -243,8 +243,17 @@ section.featured .card {
   }
 }
 
+
 body.showBuyButtons .gallery-item span.clickToBuy {
   display: inline;
+}
+
+body.noJS .gallery-item span.clickToBuy {
+  display: none;
+}
+
+body.noJS div.availableForPurchase {
+  display: none;
 }
 
 div.availableForPurchase {

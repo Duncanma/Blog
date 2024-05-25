@@ -19,6 +19,10 @@
 		<script src="{{ $val }}"></script>
 	{{ end }}
 {{ end }}
+{{- if .Site.Params.homegrownAnalytics -}}
+{{- partial "homegrown-analytics.html" . }}
+{{- end }}
+
 {{- if .Site.GoogleAnalytics }}
 <!-- Google Analytics -->
 <script>
