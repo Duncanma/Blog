@@ -1,3 +1,7 @@
 .gitinfo {
     display: none;
 }
+
+img.analytics-pixel {
+    display: none;
+}
