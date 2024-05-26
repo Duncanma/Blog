@@ -4,7 +4,7 @@ import { expect, Page, TestInfo } from '@playwright/test';
 
 export async function visualDiffAlbum(page: Page, url: string, testInfo: TestInfo) {
     await page.goto(url);
-
+    await page.evaluate(() => document.fonts.ready);
     // Trigger loading of all images
     for (const img of await page.locator('//img').all()) {
         await img.scrollIntoViewIfNeeded();
@@ -21,7 +21,7 @@ export async function visualDiffAlbum(page: Page, url: string, testInfo: TestInf
 
 export async function visualDiff(page: Page, url: string) {
     await page.goto(url);
-
+    await page.evaluate(() => document.fonts.ready);
     // Trigger loading of all images
     for (const img of await page.locator('//img').all()) {
         await img.scrollIntoViewIfNeeded();

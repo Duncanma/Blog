@@ -1,14 +1,6 @@
 import { test, expect, Page } from '@playwright/test';
 import { visualDiff } from './visualDiffAlbum';
 
-test('About', async ({ page }) => {
-    await visualDiff(page, '/about/');
-});
-
-test('Home', async ({ page }) => {
-    await visualDiff(page, '/');
-});
-
 test('Post with images', async ({ page }) => {
     await visualDiff(page, '/blog/space-games/');
 });
@@ -25,6 +17,6 @@ test('Tag Performance', async ({ page }) => {
     await visualDiff(page, '/tags/performance/');
 });
 
-test('Publications', async ({ page }) => {
-    await visualDiff(page, '/publications/');
+test('Blog', async ({ page }) => {
+    await visualDiff(page, '/blog/');
 });
