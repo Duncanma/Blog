@@ -22,7 +22,7 @@ jobs:
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps chromium
     - name: Run Playwright tests
-      run: npx playwright test minimum.spec.ts --project 'chromium' --project 'chromium dark'
+      run: npx playwright test minimum.spec.ts
     - uses: actions/upload-artifact@v4
       if: always()
       with:
