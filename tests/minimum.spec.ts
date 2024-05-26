@@ -25,24 +25,24 @@ test('Small Album Buy Links', async ({ page }, testInfo) => {
     await visualDiffAlbum(page, '/albums/osaka/', testInfo);
 });
 
-test('Small Album Purchase', async ({ page }, testInfo) => {
-    await visualDiffAlbum(page, '/albums/osaka/purchase.html', testInfo);
+test('Small Album Purchase', async ({ page }) => {
+    await visualDiff(page, '/albums/osaka/purchase.html');
 });
 
-test('Albums', async ({ page }, testInfo) => {
-    await visualDiffAlbum(page, '/albums/', testInfo);
+test('Albums', async ({ page }) => {
+    await visualDiff(page, '/albums/');
 });
 
-test('Tags', async ({ page }, testInfo) => {
-    await visualDiffAlbum(page, '/tags/', testInfo);
+test('Tags', async ({ page }) => {
+    await visualDiff(page, '/tags/');
 });
 
-test('Tag Performance', async ({ page }, testInfo) => {
-    await visualDiffAlbum(page, '/tags/performance/', testInfo);
+test('Tag Performance', async ({ page }) => {
+    await visualDiff(page, '/tags/performance/');
 });
 
-test('Publications', async ({ page }, testInfo) => {
-    await visualDiffAlbum(page, '/publications/', testInfo);
+test('Publications', async ({ page }) => {
+    await visualDiff(page, '/publications/');
 });
 
 
