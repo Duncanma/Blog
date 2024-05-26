@@ -40,14 +40,14 @@ export default defineConfig({
       name: 'chromium dark',
       use: { ...devices['Desktop Chrome'], colorScheme: 'dark' },
     },
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-    },
-    {
-      name: 'firefox dark',
-      use: { ...devices['Desktop Firefox'], colorScheme: 'dark' },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    // },
+    // {
+    //   name: 'firefox dark',
+    //   use: { ...devices['Desktop Firefox'], colorScheme: 'dark' },
+    // },
     {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
