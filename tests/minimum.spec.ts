@@ -1,20 +1,50 @@
 import { test, expect, Page, TestInfo } from '@playwright/test';
 
-test('Visual Diff About', async ({ page }) => {
+test('About', async ({ page }) => {
     await visualDiff(page, '/about/');
 });
 
-test('Visual Diff Text and Image', async ({ page }) => {
+test('Home', async ({ page }) => {
+    await visualDiff(page, '/');
+});
+
+test('Post with images', async ({ page }) => {
     await visualDiff(page, '/blog/space-games/');
 });
 
-test('Visual Diff Small Album', async ({ page }, testInfo) => {
-    await visualDiff(page, '/albums/fall-trail-walk/');
+test('Post with Code', async ({ page }) => {
+    await visualDiff(page, '/blog/moving-my-google-fonts-local/');
 });
 
-test('Visual Diff Small Album Buy Links', async ({ page }, testInfo) => {
+
+test('Small Album', async ({ page }, testInfo) => {
+    await visualDiff(page, '/albums/flowers/');
+});
+
+test('Small Album Buy Links', async ({ page }, testInfo) => {
     await visualDiffAlbum(page, '/albums/osaka/', testInfo);
 });
+
+test('Small Album Purchase', async ({ page }, testInfo) => {
+    await visualDiffAlbum(page, '/albums/osaka/purchase.html', testInfo);
+});
+
+test('Albums', async ({ page }, testInfo) => {
+    await visualDiffAlbum(page, '/albums/', testInfo);
+});
+
+test('Tags', async ({ page }, testInfo) => {
+    await visualDiffAlbum(page, '/tags/', testInfo);
+});
+
+test('Tag Performance', async ({ page }, testInfo) => {
+    await visualDiffAlbum(page, '/tags/performance/', testInfo);
+});
+
+test('Publications', async ({ page }, testInfo) => {
+    await visualDiffAlbum(page, '/publications/', testInfo);
+});
+
 
 async function visualDiffAlbum(page: Page, url: string, testInfo: TestInfo) {
     await page.goto(url);

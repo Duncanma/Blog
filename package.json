@@ -9,6 +9,7 @@
   "scripts": {
     "build": "hugo",
     "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
-    "start": "hugo server --baseURL \"http://localhost:1313\""
+    "start": "hugo server --baseURL \"http://localhost:1313\" --disableFastRender",
+    "starttest": "hugo server --baseURL \"http://localhost:1313\" -c testcontent --disableFastRender"
   }
 }
