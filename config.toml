@@ -42,10 +42,20 @@ disableHugoGeneratorInject = false
     mediaType = "text/html"
     rel= "alternate"
     noUgly= true
+  [outputFormats.iframe]
+    name = "iframe"
+    baseName = "iframe"
+    mediaType = "text/html"
+    isHTML = true
+  [outputFormats.oembed]
+    name = "oembed"
+    baseName = "oembed"
+    mediaType = "application/json"
+    isPlainText = true
 
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
-    page = ["HTML"]
+    home = ["HTML", "RSS", "JSON", "OEMBED", "IFRAME"]
+    page = ["HTML", "OEMBED", "IFRAME"]
 
 [author]
   name = "Duncan Mackenzie"

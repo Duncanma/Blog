@@ -20,7 +20,7 @@
                     {{ end }}
                     {{ $srcset = trim $srcset ","}}
                     <a class="card" href="{{ .RelPermalink }}" title="{{ .Title }}">
-                        <img loading="lazy" width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}"
+                        <img width="{{ $full.Width }}" height="{{ $full.Height }}" src="{{ $full.Url }}" alt="{{ $alt }}"
                         srcset="{{ $srcset }}" >
                         <div>
                             <h2>{{ .Title }}</h2>

@@ -1,3 +1,14 @@
+div.oembed a.card img {
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin: auto;
+}
+
+div.oembed a.card {
+  text-decoration: none;
+}
+
 a.noJSclickToBuy {
   display:none;
 }

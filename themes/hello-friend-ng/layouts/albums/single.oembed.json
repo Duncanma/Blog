@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "provider_name": "{{ .Site.Title }}",
+    "provider_url": "{{ .Site.BaseURL }}",
+    "type": "rich",
+    "title": "{{ .Title }} | {{ .Site.Title }}",
+    "url": "{{ .Permalink }}",
+    "author_name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}",
+    "html": "<iframe src=\"{{ .Permalink }}iframe.html\" width=\"600\" height=\"300\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe>"
+  }

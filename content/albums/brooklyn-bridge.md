@@ -2,7 +2,7 @@
 {
   "Outputs": [
     "html",
-    "purchase"
+    "purchase", "oembed", "iframe"
   ],
   "Tags": [
     "New York",
