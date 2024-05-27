@@ -1,8 +1,0 @@
----
-date: 2005-09-20T05:10:00+00:00
-title: I thought "Gratis" was a really cool company name, but I guess I was wrong ...
-type: posts
----
-I noticed today that Gratis, the folks behind many of the more well-know "free stuff" sites have changed their name to "FreePay"... which seems like a much suckier name than Gratis. Gratis was simple, but yet meaningful. [FreePay](http://pcs.freepay.com/?r=15127916) starts with the right word, but it doesn't even make sense to me; I bet there was a legal reason behind the change.
-
-Gratis was the company behind the free flat screen site through which I received [my Sony LCD monitor](http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/27/1400.aspx), but the only sites I still follow are those run by OfferCentric, because they offer a wider range of 'gift' choices, usually including a PayPal option (which seems almost as good as cash to me). I've been sitting at 3-away on [PVPs 4 Free](http://www.pvps4free.com/default.aspx?r=160508) for months now, but during that time they have added a bunch of new video players (including the Samsung portable media center, and the new Creative Zen Vision <img src="http://www.pvps4free.com/images/products/139.jpg" align="left" />). I'm also 3-away on [MP3 Players 4 Free](http://www.mp3players4free.com/default.aspx?r=206786), and 4-away on [PSPs 4 Free](http://www.psps4free.com/default.aspx?r=315551) (that isn't saying much, it only takes 5 to get a PSP 🙂 ) ... but I'm not holding my breath, I got a free monitor out of the experience so I figure all the forms, referrals and the hassles have been worth it.
