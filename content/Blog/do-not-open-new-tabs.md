@@ -94,4 +94,4 @@ In addition to the two posts I already mentioned ([The Top 10 Web Design Mistake
 and [Opening Links in New Browser Windows and Tabs](https://www.nngroup.com/articles/new-browser-windows-and-tabs/)),
 this page from Washington University in St. Louis has a good explanation
 of the accessibility side to this discussion **and** a set of even more
-reference material: [Links Opening in New Tabs - Diversity & Inclusion](https://diversity.wustl.edu/framework/advisory-best-practice-groups/website-accessibility/links-opening-new-tabs/)
+reference material: [Links: Make links clear, convenient and reliable](https://sites.wustl.edu/items/effective-links/)
