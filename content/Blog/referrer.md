@@ -4,6 +4,7 @@ title: Don't depend on Referrer info
 type: posts
 tags:
 - Web Development
+- DevTo
 description: Determining the source of traffic to your pages is often done via the referral information passed in the request, but this information is often unavailable or inaccurate.
 ---
 
