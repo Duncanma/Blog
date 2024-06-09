@@ -129,6 +129,8 @@ else
 
 At this point, the function returns a 200 OK message, and the webhook handling work is done. By pushing a message into my incoming order queue, the next Function will get triggered.
 
+{{% note %}}Reading the documentation, I realized I hadn't handled the possibility of duplicate events (receiving the same event multiple times), so [I walked through those changes in a new article](/blog/handling-duplicate-stripe-events/).{{% /note %}}
+
 ## Get the image and create a custom link
 
 The second function is setup with a QueueTrigger, which means it is called whenever a new message arrives in a specific Azure Storage Queue.

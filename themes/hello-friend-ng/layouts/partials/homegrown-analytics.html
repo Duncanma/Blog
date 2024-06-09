@@ -1,6 +1,6 @@
 {{- $rootPath := .Site.Params.homegrownAnalytics }}
 <noscript>
-    <img class="analytics-pixel" src="{{ $rootPath }}&page={{ .RelPermalink | urlize }}&title={{ .Title }}" height="1" width="1">
+    <img class="analytics-pixel" src="{{ $rootPath }}&page={{ .RelPermalink | urlize }}&title={{ .Title }}" height="1" width="1" alt="">
 </noscript>
 <div id="analytics">
 </div>
@@ -20,6 +20,7 @@
         img.height = "1";
         img.width = "1";
         img.className="analytics-pixel";
+        img.alt = "";
         if (referrer) {
             img.src += "&referrer=" + encodeURIComponent(referrer);
         }
