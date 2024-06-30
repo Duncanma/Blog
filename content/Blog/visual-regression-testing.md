@@ -79,7 +79,7 @@ That was it. I honestly thought I was done at this point, so I did a commit and 
 
 ### Matching the OS of your test runner with your local dev environment
 
-The new GitHub action ran automatically even on the push that added it, and it failed. All of the tests ran on the server, and failed with the error that no baseline images existed. The issue was that, in the GitHub action definition (yml file), it specified that the tests should be run on an ubuntu linux runner (the cloud virtual machine used to run the tests), and when that happened, it was looking for files like `<test name>-1-<browser>-linux.png`. I generated the baselines by running the tests on my Windows machine, so the baseline images had filenames like `<test name>-1-<browser>-win32.png`. You could fix this by creating unique filenames per test and passing that into ` toHaveScreenshot`, so that they would match regardless of the OS used, or you could do like I did and change the OS of my GitHub action to windows-latest to have the CI tests run on a machine with the same OS as my local.
+The new GitHub action ran automatically even on the push that added it, and it failed. All of the tests ran on the server, and failed with the error that no baseline images existed. The issue was that, in the GitHub action definition (yml file), it specified that the tests should be run on an ubuntu linux runner (the cloud virtual machine used to run the tests), and when that happened, it was looking for files like `<test name>-1-<browser>-linux.png`. I generated the baselines by running the tests on my Windows machine, so the baseline images had filenames like `<test name>-1-<browser>-win32.png`. You could fix this by creating unique filenames per test and passing that into `toHaveScreenshot`, so that they would match regardless of the OS used, or you could do like I did and change the OS of my GitHub action to windows-latest to have the CI tests run on a machine with the same OS as my local.
 
 ```yaml
 jobs:
@@ -143,8 +143,6 @@ By setting it to my timezone, Pacific time, the server should match my locally g
 ### Handling lazy loaded images
 
 It wasn’t. The git commit was hidden, the dates on the page matched, but it turns out the images in my blog posts were rendering inconsistently. There were two issues causing this, one was that loading images can take a moment, so the test needed to wait longer, and the other was that my images are set to `loading=lazy`, which means without anyone scrolling them into view, they wouldn’t even try to load.
-
-<image>
 
 A few Google searches found some similar issues, and I was able to add a quick ‘find all images and scroll to each one’ bit of code. I could also explicitly write code to wait for the images to be ready, but that didn't seem to be necessary, so I went with just this.
 

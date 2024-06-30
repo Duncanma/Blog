@@ -1,0 +1,45 @@
+{{ define "main" }}
+    <main class="posts">
+        <h1>{{ .Title }}</h1>
+
+        {{- if .Content }}
+            <div class="content">{{ .Content }} {{ .Kind }}</div>
+        {{- end }}
+        {{- if eq .Kind "taxonomyTerm" }}
+        <ul class="posts-list">
+            {{- range $.Site.Taxonomies.tags.ByCount }}
+            <li class="post-item">
+                <a href="{{ .Page.RelPermalink }}">
+                    <span class="post-title">{{.Page.Title}}</span>
+                    <span class="post-count">{{.Count }}</span>
+                </a>
+            </li>
+        {{- end }}
+        </ul>
+    {{else}}
+        {{- $posts := where .Pages "Type" "posts" }}
+        {{- if $posts }}
+        <h2>Blog posts</h2>
+        <ul class="posts-list">
+            {{- range $posts }}
+            <li class="post-item type-{{ .Type }}">
+                <a href="{{.RelPermalink}}">
+                    <span class="post-title">{{.Title}}</span>
+                    <span class="post-day">{{ if .Site.Params.dateformShort }}{{ .Date.Format .Site.Params.dateformShort }}{{ else }}{{ .Date.Format "Jan 2"}}{{ end }}</span>
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+        {{- end }}
+        {{- $albums := where .Pages "Type" "albums" }}
+        {{- if $albums }}
+        <h2>Photo albums</h2>
+        <section class="galleries">
+            {{- range $albums }}
+                {{ partial "albumCard.html" . }}
+            {{- end }}
+        </section>
+        {{- end }}
+    {{end}}
+    </main>
+{{ end }}

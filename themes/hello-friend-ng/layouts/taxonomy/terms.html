@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <main class="posts">
+        <h1>{{ .Title }}</h1>
+
+        {{- if .Content }}
+            <div class="content">{{ .Content }} {{ .Kind }}</div>
+        {{- end }}
+        <ul class="posts-list">
+            {{- range $.Site.Taxonomies.tags.ByCount }}
+            <li class="post-item">
+                <a href="{{ .Page.RelPermalink }}">
+                    <span class="post-title">{{.Page.Title}}</span>
+                    <span class="post-count">{{.Count }}</span>
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+    </main>
+{{ end }}
