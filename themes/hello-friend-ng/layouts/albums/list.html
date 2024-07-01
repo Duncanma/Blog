@@ -3,7 +3,7 @@
     <main class="album">
         <h1>{{ .Title }}</h1>
         <section class="featured">
-            {{- range first 1 .Pages }}
+            {{- range where .Pages "Params.primary" true }}
                 {{- $gallery := . }}
                 {{- with $gallery }}
                     {{- $photoCount := len .Params.Pictures }}
@@ -37,7 +37,7 @@
         {{- end }}
 
         <section class="galleries">
-        {{- range after 1 .Pages }}
+        {{- range where .Pages "Params.primary" "ne" true }}
             {{ partial "albumCard.html" . }}
         {{- end }}
         </section>

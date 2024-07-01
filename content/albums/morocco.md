@@ -4,6 +4,7 @@
     "html",
     "purchase"
   ],
+  "Primary": true,
   "Tags": [
     "Photography",
     "Travel",

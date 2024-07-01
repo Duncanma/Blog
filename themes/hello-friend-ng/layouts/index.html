@@ -11,7 +11,8 @@
     </div>
     <h2>Photography Content</h2>
     <ol class="recent">
-        {{- range first 3 (where .Site.RegularPages ".Params.tags" "intersect" (slice "Photography")) -}}
+        {{- $posts :=  where .Site.RegularPages ".Params.tags" "intersect" (slice "Photography")}}
+        {{- range first 3 (where $posts "Type" "posts") -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             <div class="summary">{{.Summary}}</div>
