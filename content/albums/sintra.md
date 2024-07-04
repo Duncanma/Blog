@@ -6,7 +6,8 @@
   ],
   "Tags": [
     "Photography",
-    "Portugal"
+    "Portugal",
+    "Europe"
   ],
   "Title": "Sintra",
   "Description": "Took a day trip out to Sintra, near Lisbon, to see the Moorish castle and the Pena Palace",

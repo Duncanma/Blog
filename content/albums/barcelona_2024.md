@@ -5,6 +5,7 @@
     "Photography",
     "Spain",
     "Europe",
+    "Travel",
     "Barcelona",
     "Europe Trip June 2024"
   ],

@@ -8,6 +8,7 @@
     "Photography",
     "Hiking",
     "Spain",
+    "Travel",
     "Europe",
     "Viehla",
     "Europe Trip June 2024"

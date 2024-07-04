@@ -7,6 +7,7 @@
   "Tags": [
     "Photography",
     "Spain",
+    "Travel",
     "Europe",
     "Europe Trip June 2024"
   ],

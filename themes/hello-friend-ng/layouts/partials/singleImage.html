@@ -24,6 +24,9 @@
 {{ with .Title }}
 <p class="title">{{ . }}</p>
 {{ end }}
+{{ with .Description }}
+<p class="description">{{ . }}</p>
+{{ end }}
 <div class="cameraInfo">
     {{ with .DateTimeOriginal }}
     <p class="photoDate">{{ dateFormat "Jan 2, 2006" . }}</p>

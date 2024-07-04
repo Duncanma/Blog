@@ -7,6 +7,7 @@
   "Tags": [
     "Photography",
     "Portugal",
+    "Europe",
     "Travel",
     "Porto"
   ],
