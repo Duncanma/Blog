@@ -1,6 +1,9 @@
 ---
 {
-  "Outputs": null,
+  "Outputs": [
+    "html",
+    "purchase"
+  ],
   "Tags": [
     "Photography",
     "Spain",
