@@ -12,4 +12,4 @@ Many things on GotDotNet now have RSS feeds, including User Samples!
 I'm very excited.
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Absolute Beginners [[The Jam](http://www.windowsmedia.com/mg/search.asp?srch=The+Jam) / Grosse Pointe Blank])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Absolute Beginners [[The Jam](https://open.spotify.com/search/The%20Jam/artists) / Grosse Pointe Blank])

@@ -10,4 +10,4 @@ And it does all of this while including the word tea; what more could you ask fo
 
 
 
-  [Listening to: Clint Eastwood – [Gorillaz](http://www.windowsmedia.com/mg/search.asp?srch=Gorillaz) – Big Shiny Tunes 6 (03:45)]
+  [Listening to: Clint Eastwood – [Gorillaz](https://open.spotify.com/search/Gorillaz/artists) – Big Shiny Tunes 6 (03:45)]

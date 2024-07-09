@@ -10,4 +10,4 @@ We are working on that problem though... I think we are scheduled to attend a su
 Oh, and the PDC <font color="#0000ff">is almost sold out... wow... and in a year where conferences having been doing badly in general, that is quite impressive.
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): All That You Are [[Econoline Crush](http://www.windowsmedia.com/mg/search.asp?srch=Econoline+Crush) / Big Shiny 90's])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): All That You Are [[Econoline Crush](https://open.spotify.com/search/Econoline%20Crush/artists) / Big Shiny 90's])

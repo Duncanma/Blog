@@ -8,4 +8,4 @@ Arrived last night, which is sooner than some will be showing up, after flying t
 Now, I'm late for the keynote, but I'm here and I'm ready to go!
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Simple Lies [[Endo](http://www.windowsmedia.com/mg/search.asp?srch=Endo) / Daredevil])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Simple Lies [[Endo](https://open.spotify.com/search/Endo/artists) / Daredevil])

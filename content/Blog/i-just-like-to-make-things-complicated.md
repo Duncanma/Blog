@@ -27,4 +27,4 @@ I think that is about it for requirements... noting that I didn't specify anythi
 There are still changes to make to this design, I want to be able to control the order of Options in the poll, for example... but I think I have enough to start building a proof-of-concept control...
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Nautical Disaster [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Nautical Disaster [[The Tragically Hip](https://open.spotify.com/search/The%20Tragically%20Hip/artists) / Day for Night])

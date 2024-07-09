@@ -16,4 +16,4 @@ Anyway, to get to the point... I saw this new [Samsung DVD player](http://www.sa
 Quick check online to see if it comes with a DVI cable... nope, hmm.... how much do they cost? $99.99?!?!? And then it was over, before it began... now we are talking about approx $400 and I've left my impulse buy zone ... will need to put this off until next year perhaps... very disappointing 🙂
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Personal Jesus [[Depeche Mode](http://www.windowsmedia.com/mg/search.asp?srch=Depeche+Mode) / Violator])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Personal Jesus [[Depeche Mode](https://open.spotify.com/search/Depeche%20Mode/artists) / Violator])

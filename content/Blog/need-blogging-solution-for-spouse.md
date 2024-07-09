@@ -8,4 +8,4 @@ My wife read my blog for the first time yesterday, and she has decided that she 
 It turns out there is a [momblogs.com](http://momblogs.com), but I'm not sure they actually offer any blog services...
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Been Caught Stealing [[Jane's Addiction](http://www.windowsmedia.com/mg/search.asp?srch=Jane's+Addiction) / Big Shiny 90])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Been Caught Stealing [[Jane's Addiction](https://open.spotify.com/search/Jane/artists's%20Addiction) / Big Shiny 90])

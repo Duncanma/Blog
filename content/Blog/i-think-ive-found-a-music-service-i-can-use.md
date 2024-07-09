@@ -7,4 +7,4 @@ I'm going to buy an album as download-only today, from [www.buymusic.com](http:/
 I wonder what happens when I wipe and rebuild my machine? Maybe that isn't common for most of their customers, but it certainly is a regular occurence for me!
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Apparitions [[Matthew Good Band](http://www.windowsmedia.com/mg/search.asp?srch=Matthew+Good+Band) / Big Shiny Tunes, Vol. 3])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Apparitions [[Matthew Good Band](https://open.spotify.com/search/Matthew%20Good%20Band/artists) / Big Shiny Tunes, Vol. 3])

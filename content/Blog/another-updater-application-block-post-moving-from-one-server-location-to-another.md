@@ -28,4 +28,4 @@ By leaving the files up, then if it is a year later and someone runs a 3.0.0.0 (
 If you want to avoid that initial double-update after the server move, then you could do a redirect on the manifest file (using an ISAPI filter, or the like) to automatically redirect them to the new server's manifest file... but that would (as far as I can imagine) require code and I'm going to stick with just updating the xml files as required.
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Reload [[Rob Zombie](http://www.windowsmedia.com/mg/search.asp?srch=Rob+Zombie) / Matrix Reloaded: The Album Disc 1])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Reload [[Rob Zombie](https://open.spotify.com/search/Rob%20Zombie/artists) / Matrix Reloaded: The Album Disc 1])

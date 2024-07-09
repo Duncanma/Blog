@@ -6,4 +6,4 @@ type: posts
 Hmm... pretty cool so far, guess I'll see when I decide to start moving music around to my MCE box, my laptop, my Rio device... etc... found the Cake song I wanted though 🙂
 
 
-  [Listening to: Short Skirt/Long Jacket/Album Version – [CAKE](http://www.windowsmedia.com/mg/search.asp?srch=CAKE) – Comfort Eagle (03:24)]
+  [Listening to: Short Skirt/Long Jacket/Album Version – [CAKE](https://open.spotify.com/search/CAKE/artists) – Comfort Eagle (03:24)]

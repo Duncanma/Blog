@@ -10,4 +10,4 @@ See you folks there!
 _Oh, and w.bloggar is working again, so I'm a happy blogger!_
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Blurry [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Blurry [[Puddle of Mudd](https://open.spotify.com/search/Puddle%20of%20Mudd/artists) / Come Clean])

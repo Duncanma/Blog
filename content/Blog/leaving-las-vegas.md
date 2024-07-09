@@ -10,4 +10,4 @@ The most <i>interesting</i> aspect of the conference has to be the booth next to
 Speaking of terribly tragic accidents... I wrote quite a few quick ASP.NET apps in front of customers at this event. <b>General Rule:</b> don't let this Windows Forms guy near ASP.NET in a public place, I can make it look a lot harder than it needs to be!
 
 
-  [Listening to: Pearl's Girl – [Underworld](http://www.windowsmedia.com/mg/search.asp?srch=Underworld) – The Saint [Original Soundtrack] (09:38)]
+  [Listening to: Pearl's Girl – [Underworld](https://open.spotify.com/search/Underworld/artists) – The Saint [Original Soundtrack] (09:38)]

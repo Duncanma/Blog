@@ -10,4 +10,4 @@ If you were a big fan of programmable calculators in University (or highschool, 
 There is a shareware version available for download or you can register to get additional features...
 
 
-  [Listening to: One Week – [Barenaked Ladies](http://www.windowsmedia.com/mg/search.asp?srch=Barenaked+Ladies) – Disc One: All Their Greatest Hits (1991-2001) (02:49)]
+  [Listening to: One Week – [Barenaked Ladies](https://open.spotify.com/search/Barenaked%20Ladies/artists) – Disc One: All Their Greatest Hits (1991-2001) (02:49)]

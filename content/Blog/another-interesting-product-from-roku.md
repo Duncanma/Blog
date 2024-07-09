@@ -8,4 +8,4 @@ I was pretty impressed with the [first Roku offering](http://www.rokulabs.com/pr
 Disclaimer: I haven't actually _seen_ either of these products, just the specs on the site, but the feature set and design are interesting.
 
 
-  [Listening to: Love To Love You Baby – [No Doubt](http://www.windowsmedia.com/mg/search.asp?srch=No+Doubt) – Zoolander Soundtrack (04:23)]
+  [Listening to: Love To Love You Baby – [No Doubt](https://open.spotify.com/search/No%20Doubt/artists) – Zoolander Soundtrack (04:23)]

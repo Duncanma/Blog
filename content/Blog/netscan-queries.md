@@ -14,4 +14,4 @@ Within just a few seconds of playing around on NETSCAN, I was able to find out t
 The NETSCAN team is very interested in what developers think of their system, so please let me know what you think!!
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): The Little Death [[The Odds](http://www.windowsmedia.com/mg/search.asp?srch=The+Odds) / Bedbugs])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): The Little Death [[The Odds](https://open.spotify.com/search/The%20Odds/artists) / Bedbugs])

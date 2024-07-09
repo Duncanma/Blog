@@ -22,4 +22,4 @@ Eric describes a new Whidbey feature focused on creating those 'utility' classes
 
 
 
-      [Listening to: Do This Anymore – [Nickelback](http://www.windowsmedia.com/mg/search.asp?srch=Nickelback==) – The Long Road (04:04)]
+      [Listening to: Do This Anymore – [Nickelback](https://open.spotify.com/search/Nickelback/artists==) – The Long Road (04:04)]

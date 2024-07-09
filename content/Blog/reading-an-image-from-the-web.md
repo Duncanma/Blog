@@ -70,4 +70,4 @@ A generalized solution that will accept file paths or URIs and automatically det
 _Markup provided by [Darren Neimke's](http://weblogs.asp.net/dneimke) [cool markup sample from MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp)_
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Pets [[Porno For Pyros](http://www.windowsmedia.com/mg/search.asp?srch=Porno+For+Pyros) / Big Shiny 90's])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Pets [[Porno For Pyros](https://open.spotify.com/search/Porno%20For%20Pyros/artists) / Big Shiny 90's])

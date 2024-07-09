@@ -8,4 +8,4 @@ type: posts
 Of course, I'd suggest that you don't run WMP9, IE, or blogging client software on your Windows Server, but I don't want to sound _crazy_
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Oh, Me [[Nirvana](http://www.windowsmedia.com/mg/search.asp?srch=Nirvana) / MTV Unplugged in New York])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Oh, Me [[Nirvana](https://open.spotify.com/search/Nirvana/artists) / MTV Unplugged in New York])

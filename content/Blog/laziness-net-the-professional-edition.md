@@ -14,4 +14,4 @@ Very cool stuff... even handles radio favorites and video content from your libr
 Oh, and in case you are wondering... no kickbacks involved here folks... I'm just excited to see cool media related code created using .NET!
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): No One Like You [[Scorpions](http://www.windowsmedia.com/mg/search.asp?srch=Scorpions) / The Best of Rockers 'n' Ballads])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): No One Like You [[Scorpions](https://open.spotify.com/search/Scorpions/artists) / The Best of Rockers 'n' Ballads])

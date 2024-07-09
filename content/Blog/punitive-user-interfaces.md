@@ -16,4 +16,4 @@ First, it shows me the "right" type of discussion that needs to take place on we
 Second, I just liked the response... why punish the user for their "bad" entry... disable buttons and menu options that are not appropriate, don't yell at them for pressing the wrong button at the wrong time (and worse yet, don't crash because they clicked save when they should have clicked Save As...). That is certainly a guideline that deserves a top place when you are designing and/or reviewing your User Interface. Like I said at the start of this post, I realize this is already a well-known UI guideline, but it certainly seems to have been missed in quite a few of the products I use.
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Terra Firma (Lara's Mix) [[Delerium (feat. Aude)](http://www.windowsmedia.com/mg/search.asp?srch=Delerium+(feat.+Aude)) / Tomb Raider OST])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Terra Firma (Lara's Mix) [[Delerium (feat. Aude)](https://open.spotify.com/search/Delerium%20/artists(feat.%20Aude)) / Tomb Raider OST])

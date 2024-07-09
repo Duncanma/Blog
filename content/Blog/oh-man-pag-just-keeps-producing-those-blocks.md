@@ -16,4 +16,4 @@ _"This block is a reusable code component that uses the Microsoft Enterprise Ins
 I'm getting behind... I guess I have to just add this to my list of things to read and try out.
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Emergency [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Emergency [[The Tragically Hip](https://open.spotify.com/search/The%20Tragically%20Hip/artists) / Day for Night])

@@ -12,7 +12,7 @@ The motivation behind the purchase of a new home computer was that I would spend
 I'm looking forward to PDC week, we'll be putting a ton of new and interesting content up on MSDN... lots to read even if you aren't going to LA yourself. One of those pieces of content is a chapter from my next book, so I'm pretty excited to get that posted onto [MSDN](http://msdn.microsoft.com/events/pdc)... despite the heavy temptation to just stick it up on [www.duncanmackenzie.net](http://www.duncanmackenzie.net/)...
 
 
-  [Listening to: Too Little Too Late – [Barenaked Ladies](http://www.windowsmedia.com/mg/search.asp?srch=Barenaked+Ladies) – Disc One: All Their Greatest Hits (1991-2001) (03:24)]
+  [Listening to: Too Little Too Late – [Barenaked Ladies](https://open.spotify.com/search/Barenaked%20Ladies/artists) – Disc One: All Their Greatest Hits (1991-2001) (03:24)]
 
 
 _wrote this in w.bloggar, then cut and pasted into the .Text admin interface...not sure that is normal, but it works_

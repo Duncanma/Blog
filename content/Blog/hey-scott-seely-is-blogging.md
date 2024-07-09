@@ -16,4 +16,4 @@ type: posts
 </blockquote>
 
 
-  [Listening to: Long Time Running – [The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) – Road Apples (04:23)]
+  [Listening to: Long Time Running – [The Tragically Hip](https://open.spotify.com/search/The%20Tragically%20Hip/artists) – Road Apples (04:23)]

@@ -16,4 +16,4 @@ Check out the full discussion [by clicking here](http://www.gotdotnet.com/Commun
 
 
 
-  [Listening to: Fallen – [Sarah McLachlan](http://www.windowsmedia.com/mg/search.asp?srch=Sarah+McLachlan) – Afterglow (03:47)]
+  [Listening to: Fallen – [Sarah McLachlan](https://open.spotify.com/search/Sarah%20McLachlan/artists) – Afterglow (03:47)]

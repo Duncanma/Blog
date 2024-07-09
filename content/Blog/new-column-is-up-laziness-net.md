@@ -8,4 +8,4 @@ My most recent [Coding 4 Fun column](http://msdn.microsoft.com/library/default.a
 Keep in mind the column is called "Coding 4 Fun" not "Enterprise Architecture Best Practices", although I try to stick to 'proper' behaviour most of the time.![](http://help.microsoft.com/!data/en_us/data/messengerv47_xpxchg.its51/$content$/wink_smile.gif)
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Out of My Head [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Out of My Head [[Puddle of Mudd](https://open.spotify.com/search/Puddle%20of%20Mudd/artists) / Come Clean])

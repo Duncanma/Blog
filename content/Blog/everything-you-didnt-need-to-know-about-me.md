@@ -8,5 +8,5 @@ Is now up on the web (I guess it was all up there before, just not in one place)
 
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): She Hates Me [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): She Hates Me [[Puddle of Mudd](https://open.spotify.com/search/Puddle%20of%20Mudd/artists) / Come Clean])
 </div>

@@ -13,4 +13,4 @@ and, if you have opinions, but can't make the chat... or choose not to... why do
 Thanks in advance for your replies!!
 
 
-  [Listening to: The Scientist – [Coldplay](http://www.windowsmedia.com/mg/search.asp?srch=Coldplay) – Big Shiny Tunes 8 (05:10)]
+  [Listening to: The Scientist – [Coldplay](https://open.spotify.com/search/Coldplay/artists) – Big Shiny Tunes 8 (05:10)]

@@ -18,4 +18,4 @@ If they are ripping you off (or ripping off the artists), then go listen to some
 Oh, and despite my opinion on this.... it doesn't make the RIAA any less of a bunch of losers 🙂 [though they generate great humour.](http://www.penny-arcade.com/view.php3?date=2003-09-12&#038;res=l)
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Sympathy for the Devil [[The Rolling Stones](http://www.windowsmedia.com/mg/search.asp?srch=The+Rolling+Stones) / Forty Licks Disc 1])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Sympathy for the Devil [[The Rolling Stones](https://open.spotify.com/search/The%20Rolling%20Stones/artists) / Forty Licks Disc 1])

@@ -502,5 +502,5 @@ And (hopefully the formatting will work out ok in the blog) here are the results
 
 
 
-  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Aftermath [[The Tea Party](http://www.windowsmedia.com/mg/search.asp?srch=The+Tea+Party) / Transmission])
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Aftermath [[The Tea Party](https://open.spotify.com/search/The%20Tea%20Party/artists) / Transmission])
 </div>

@@ -14,4 +14,4 @@ In a very 'Easter-Egg-ish' post, [Grant Richins](http://blogs.msdn.com/grantri) 
 Personally, this seems of dubious worth, which might explain the lack of documentation, but if this option is useful to you, [check out his post for all the details](http://blogs.msdn.com/grantri/archive/2004/04/13/112837.aspx).
 
 
-  [Listening to: Flat On The Floor – [Nickelback](http://www.windowsmedia.com/mg/search.asp?srch=Nickelback===) – The Long Road (02:02)]
+  [Listening to: Flat On The Floor – [Nickelback](https://open.spotify.com/search/Nickelback/artists===) – The Long Road (02:02)]
