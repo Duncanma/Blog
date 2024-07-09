@@ -7,6 +7,5 @@ type: posts
 
 Most Visual Basic development, both historically and present day, is building Forms that run against databases (that probably describes most development across all languages, but I believe it is an even higher percentage for VB)... and this book aims directly at that topic... covering both Windows Forms and ADO.NET, while teaching you how to **design and build** a good user interface, instead of just focusing on the mechanics of the .NET classes like most books do.
 
-<div class="media">
+
   [Listening to: Go With the Flow – [Queens of the Stone Age](http://www.windowsmedia.com/mg/search.asp?srch=Queens+of+the+Stone+Age) – Big Shiny Tunes 8 (03:04)]
-</div>

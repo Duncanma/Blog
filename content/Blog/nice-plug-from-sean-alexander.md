@@ -7,6 +7,5 @@ type: posts
 
 Of course, I'd suggest that you don't run WMP9, IE, or blogging client software on your Windows Server, but I don't want to sound _crazy_
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Oh, Me [[Nirvana](http://www.windowsmedia.com/mg/search.asp?srch=Nirvana) / MTV Unplugged in New York])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Oh, Me [[Nirvana](http://www.windowsmedia.com/mg/search.asp?srch=Nirvana) / MTV Unplugged in New York])

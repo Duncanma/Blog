@@ -12,8 +12,8 @@ If you are looking for a user group in your own area, check out [INETA](http://i
 
 _
 
-<div class="media">
+
   [Listening to: [MSN Radio Plus... ](http://entertainment.msn.com/stations)and I haven't written any code to pull my now playing info into here yet... so I guess this feature won't be too interesting for awhile!]
-</div>
+
 
 </i>

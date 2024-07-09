@@ -9,6 +9,5 @@ See you folks there!
 
 _Oh, and w.bloggar is working again, so I'm a happy blogger!_
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Blurry [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Blurry [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])

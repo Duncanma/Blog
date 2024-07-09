@@ -21,12 +21,5 @@ Eric describes a new Whidbey feature focused on creating those 'utility' classes
       Of course, you'll have to click on the title of his post to read more 🙂
 
 
-    <div class="media">
+
       [Listening to: Do This Anymore – [Nickelback](http://www.windowsmedia.com/mg/search.asp?srch=Nickelback==) – The Long Road (04:04)]
-    </div>
-
-
-
-
-
-

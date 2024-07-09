@@ -9,6 +9,5 @@ And it does all of this while including the word tea; what more could you ask fo
 
 
 
-<div class="media">
+
   [Listening to: Clint Eastwood – [Gorillaz](http://www.windowsmedia.com/mg/search.asp?srch=Gorillaz) – Big Shiny Tunes 6 (03:45)]
-</div>

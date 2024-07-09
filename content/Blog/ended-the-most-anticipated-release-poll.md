@@ -501,6 +501,6 @@ And (hopefully the formatting will work out ok in the blog) here are the results
 
 
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Aftermath [[The Tea Party](http://www.windowsmedia.com/mg/search.asp?srch=The+Tea+Party) / Transmission])
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Aftermath [[The Tea Party](http://www.windowsmedia.com/mg/search.asp?srch=The+Tea+Party) / Transmission])
 </div>

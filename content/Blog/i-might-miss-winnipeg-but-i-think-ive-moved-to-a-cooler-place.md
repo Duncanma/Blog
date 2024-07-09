@@ -11,6 +11,4 @@ Cool stuff, small world, etc.
 
 On a related note, though certainly not a recent event, on New Year's Eve my brother and I went out to [a Presidents' concert](http://www.kingcountyjournal.com/sited/story/html/116439) at [the Crocodile Cafe](http://www.thecrocodile.com/), with a bunch of opening acts ([the Divorce](http://seattletimes.nwsource.com/html/popmusicnightlife/134859889_soundoff01.html), The Fitness and [Anna Oxygen](http://www.coldcrushrecords.com/artists.html)).... it seemed very Seattle to both of us, a perfect concert for someone who is relatively new to the area, though I suspect my view of the Seattle music scene is a bit behind the times 🙂
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Video Killed the Radio Star [[Presidents of the USA](http://www.windowsmedia.com/mg/search.asp?srch=Presidents+of+the+USA) / Presidents Of The United States Of America])
-</div>
+([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Video Killed the Radio Star [[Presidents of the USA](http://www.windowsmedia.com/mg/search.asp?srch=Presidents+of+the+USA) / Presidents Of The United States Of America])

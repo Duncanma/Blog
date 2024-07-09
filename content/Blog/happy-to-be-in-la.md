@@ -7,6 +7,5 @@ Arrived last night, which is sooner than some will be showing up, after flying t
 
 Now, I'm late for the keynote, but I'm here and I'm ready to go!
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Simple Lies [[Endo](http://www.windowsmedia.com/mg/search.asp?srch=Endo) / Daredevil])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Simple Lies [[Endo](http://www.windowsmedia.com/mg/search.asp?srch=Endo) / Daredevil])

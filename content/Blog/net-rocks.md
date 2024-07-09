@@ -12,6 +12,5 @@ MSDN now hosts .NET Rocks!, and Internet audio talk show for .NET developers. Pr
 
 
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): The Sky Is Fallin' [[Queens of the Stone Age](http://www.windowsmedia.com/mg/search.asp?srch=Queens+of+the+Stone+Age) / Songs for the Deaf [Deluxe Edition]])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): The Sky Is Fallin' [[Queens of the Stone Age](http://www.windowsmedia.com/mg/search.asp?srch=Queens+of+the+Stone+Age) / Songs for the Deaf [Deluxe Edition]])

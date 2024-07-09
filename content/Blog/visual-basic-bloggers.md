@@ -15,6 +15,5 @@ As some folks may know, [I](http://msdn.microsoft.com/vbasic/letters) come up wi
 
 Although this is **not** intended to be a complete list of all useful blogs... (that would quickly become unusable as a page on the site), but if you have any suggestions for blogs to list on the VB developer center (or comments on the ones I have listed), please let me know!
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Stupify [[Disturbed](http://www.windowsmedia.com/mg/search.asp?srch=Disturbed) / Big Shiny Tunes, Vol. 5])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Stupify [[Disturbed](http://www.windowsmedia.com/mg/search.asp?srch=Disturbed) / Big Shiny Tunes, Vol. 5])

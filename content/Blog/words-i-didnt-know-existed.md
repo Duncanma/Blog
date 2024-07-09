@@ -7,6 +7,5 @@ After going to **the movie** this morning (movies in the morning just aren't nat
 
 I didn't realize there were words for this type of thing... though more words along the same theme could make for interesting, if cryptic, conversations.
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Rusty D-Con-Struck-Tion (Tatter Jack Walsh/O'Reilly's/Sailor's Wife) [[Ashley MacIsaac](http://www.windowsmedia.com/mg/search.asp?srch=Ashley+MacIsaac) / Hi How Are You Today?])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Rusty D-Con-Struck-Tion (Tatter Jack Walsh/O'Reilly's/Sailor's Wife) [[Ashley MacIsaac](http://www.windowsmedia.com/mg/search.asp?srch=Ashley+MacIsaac) / Hi How Are You Today?])

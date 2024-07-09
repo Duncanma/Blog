@@ -15,7 +15,5 @@ type: posts
 
 </blockquote>
 
-<div class="media">
-  [Listening to: Long Time Running – [The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) – Road Apples (04:23)]
-</div>
 
+  [Listening to: Long Time Running – [The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) – Road Apples (04:23)]

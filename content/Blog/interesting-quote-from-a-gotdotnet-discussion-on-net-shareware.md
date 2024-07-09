@@ -15,6 +15,5 @@ Check out the full discussion [by clicking here](http://www.gotdotnet.com/Commun
 
 
 
-<div class="media">
+
   [Listening to: Fallen – [Sarah McLachlan](http://www.windowsmedia.com/mg/search.asp?srch=Sarah+McLachlan) – Afterglow (03:47)]
-</div>

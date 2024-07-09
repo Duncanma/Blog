@@ -18,6 +18,5 @@ There is a [workspace](http://www.gotdotnet.com/Community/Workspaces/workspace.a
 
 _On a related note... if you are looking for a URL where you can find a listing of the PAG application blocks, this (<http://msdn.microsoft.com/vbasic/letters/20030724>) might do for the time being, but we are working on something better!_
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Yawning or Snarling [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Yawning or Snarling [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])

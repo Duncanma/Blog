@@ -7,6 +7,6 @@ Is now up on the web (I guess it was all up there before, just not in one place)
 
 
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): She Hates Me [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): She Hates Me [[Puddle of Mudd](http://www.windowsmedia.com/mg/search.asp?srch=Puddle+of+Mudd) / Come Clean])
 </div>

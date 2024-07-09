@@ -11,6 +11,5 @@ and placed it up onto [a gotdotnet workspace](http://www.gotdotnet.com/Community
 
 Enjoy!
 
-<div class="media">
+
   [Listening to: Beginner's Waltz – Kent Sharkey – None (01:24)]
-</div>

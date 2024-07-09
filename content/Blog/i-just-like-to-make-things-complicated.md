@@ -26,6 +26,5 @@ I think that is about it for requirements... noting that I didn't specify anythi
 
 There are still changes to make to this design, I want to be able to control the order of Options in the poll, for example... but I think I have enough to start building a proof-of-concept control...
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Nautical Disaster [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Nautical Disaster [[The Tragically Hip](http://www.windowsmedia.com/mg/search.asp?srch=The+Tragically+Hip) / Day for Night])

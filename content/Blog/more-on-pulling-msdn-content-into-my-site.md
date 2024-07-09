@@ -11,6 +11,5 @@ It is possible that this XML file doesn't exist, so it is important to handle th
 
 _more details and code to follow...._
 
-<div class="media">
+
   [Listening to: Last Chance – Jet – Get Born (01:52)]
-</div>

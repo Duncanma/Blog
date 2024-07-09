@@ -31,6 +31,5 @@ To sum up the differences I would have to say that href-exes are simple to use a
 
 
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Still Got This Thing [[Alannah Myles](http://www.windowsmedia.com/mg/search.asp?srch=Alannah+Myles) / Alannah Myles])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Still Got This Thing [[Alannah Myles](http://www.windowsmedia.com/mg/search.asp?srch=Alannah+Myles) / Alannah Myles])

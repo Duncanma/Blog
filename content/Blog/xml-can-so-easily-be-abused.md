@@ -21,6 +21,5 @@ Tonight I started thinking of adding weather information to my music system (hey
 
 _Note that some web services should be string in, string out... like this cool looking [RTF To HTML service](http://www.infoaccelerator.net/rtf2html/) I saw on xmethods..._
 
-<div class="media">
+
   [Listening to: Clint Eastwood – [Gorillaz](http://www.windowsmedia.com/mg/search.asp?srch=Gorillaz) – Big Shiny Tunes 6 (03:45)]
-</div>

@@ -11,6 +11,6 @@ I'm leaning towards the 'simple' samples at the moment, like [my printing exampl
 
 If you have any ideas or if you are just sick of answering a particular question over and over again (or asking it, and not getting a good answer) then just let me know.
 
-<div class="media">
+
   [Listening to: Man on the Moon – [R.E.M.](http://www.windowsmedia.com/mg/search.asp?srch=R.E.M.) – In Time: The Best of R.E.M. 1988-2003 (05:14)]
 </div>

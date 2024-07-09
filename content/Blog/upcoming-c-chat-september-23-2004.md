@@ -12,6 +12,5 @@ and, if you have opinions, but can't make the chat... or choose not to... why do
 
 Thanks in advance for your replies!!
 
-<div class="media">
+
   [Listening to: The Scientist – [Coldplay](http://www.windowsmedia.com/mg/search.asp?srch=Coldplay) – Big Shiny Tunes 8 (05:10)]
-</div>

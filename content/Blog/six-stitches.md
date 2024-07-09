@@ -7,6 +7,5 @@ That was what my 2-yr old son received last night... ouch. We were at a birthday
 
 I don't know what it felt like to have those stitches put in, but I can tell you that it was very difficult for his parents to watch while we held him down for the procedure... and I'm sure he won't be quite as friendly towards doctors for some time.
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): The Real Slim Shady (Album Ver [[Eminem](http://www.windowsmedia.com/mg/search.asp?srch=Eminem) / The Real Slim Shady (CD Single])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): The Real Slim Shady (Album Ver [[Eminem](http://www.windowsmedia.com/mg/search.asp?srch=Eminem) / The Real Slim Shady (CD Single])

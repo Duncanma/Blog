@@ -69,6 +69,5 @@ A generalized solution that will accept file paths or URIs and automatically det
 
 _Markup provided by [Darren Neimke's](http://weblogs.asp.net/dneimke) [cool markup sample from MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp)_
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Pets [[Porno For Pyros](http://www.windowsmedia.com/mg/search.asp?srch=Porno+For+Pyros) / Big Shiny 90's])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Pets [[Porno For Pyros](http://www.windowsmedia.com/mg/search.asp?srch=Porno+For+Pyros) / Big Shiny 90's])

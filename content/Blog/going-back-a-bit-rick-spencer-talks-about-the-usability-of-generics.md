@@ -11,6 +11,5 @@ Rick is a Usability Specialist on the C# team, and he did a lot of work to under
 
 > _... We're going way back here, to October 2002. I was working with Anson Horton, who was at the time the PM for the C# compiler. We wanted to get some understanding of how users would react to generics and our documentation for them. We wanted to know if users would be able to master the syntax with a minimum of frustration, and would they get how to use them to write clean code. We recruited 5 Visual C# developers to come to the Microsoft Usability labs, and asked them to try some programming with generics...._
 
-<div class="media">
+
   [Listening to: Get Free – [The Vines](http://www.windowsmedia.com/mg/search.asp?srch=The+Vines) – Big Shiny Tunes 7 (02:05)]
-</div>

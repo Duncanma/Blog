@@ -7,6 +7,5 @@ My wife read my blog for the first time yesterday, and she has decided that she 
 
 It turns out there is a [momblogs.com](http://momblogs.com), but I'm not sure they actually offer any blog services...
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Been Caught Stealing [[Jane's Addiction](http://www.windowsmedia.com/mg/search.asp?srch=Jane's+Addiction) / Big Shiny 90])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Been Caught Stealing [[Jane's Addiction](http://www.windowsmedia.com/mg/search.asp?srch=Jane's+Addiction) / Big Shiny 90])

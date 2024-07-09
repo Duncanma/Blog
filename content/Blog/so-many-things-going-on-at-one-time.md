@@ -9,6 +9,5 @@ If you were watching closely (and I didn't expect you to be), you'll have notice
 
 <img src="http://www.duncanmackenzie.net/somuchstuff.png" border="0" />
 
-<div class="media">
-  ([Listening To](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun04252003.asp): Epic [[Faith No More](http://www.windowsmedia.com/mg/search.asp?srch=Faith+No+More) / Big Shiny 90's])
-</div>
+
+  ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Epic [[Faith No More](http://www.windowsmedia.com/mg/search.asp?srch=Faith+No+More) / Big Shiny 90's])
