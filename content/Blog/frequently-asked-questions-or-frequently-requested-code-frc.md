@@ -13,4 +13,3 @@ If you have any ideas or if you are just sick of answering a particular question
 
 
   [Listening to: Man on the Moon – [R.E.M.](https://open.spotify.com/search/R/artists.E.M.) – In Time: The Best of R.E.M. 1988-2003 (05:14)]
-</div>
