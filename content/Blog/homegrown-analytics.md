@@ -1,5 +1,5 @@
 ---
-date: 2024-06-01T23:01:49-07:00
+date: 2024-07-10T20:52:47-07:00
 title: Homegrown Analytics
 type: posts
 tags:
@@ -7,11 +7,11 @@ tags:
  - Coding
  - Performance
  - Azure
+ - Hugo
  - DevTo
 images:
 - /images/homegrown/chart.png
 description: I decided to roll my own analytics system, using Azure Functions and CosmosDB, to eventually replace my Google Analytics system.
-draft: true
 ---
 
 I must start with a quick disclaimer. Replacing the near-universal web analytics with your own is not the right path for *most* people. What I’ve made is nowhere near equivalent, it involves writing my own code, any analysis I want to do is all on me, etc. If you are here because you want to remove GA from your site, you could try one of the more popular alternatives like [Plausible](https://plausible.io) or [Piwik](https://piwik.pro/web-analytics/). Personally, I had looked at Plausible, but $9/mo (which is a completely reasonable price) seemed like a lot for the tiny amount of traffic I get. Ok, so that’s out of the way.
@@ -55,7 +55,8 @@ A tracking pixel, just a very tiny image requested with an `<img>` tag on your p
 I’m going to start with this, because I figure that will be my *base* implementation. I just need something to point it to.
 
 ## Handling the image request
-I could spin up a webserver, but to ensure it responds quickly I’d need it to run 24/7, and that’s inefficient for my site’s level of traffic. Instead, I will use another Azure Function (like I did in [the order fulfillment article]( /blog/order-fulfillment/), that responds to a HTTP GET request and puts a message into a Queue.
+
+I could spin up a web server, but to ensure it responds quickly I’d need it to run 24/7, and that’s inefficient for my site’s level of traffic. Instead, I will use another Azure Function (like I did in [the order fulfillment article](/blog/order-fulfillment/)), that responds to a HTTP GET request and puts a message into a Queue.
 
 I’ll pull some information from the query string and some from the request. As a start, I’ll be trying to fill up this data structure:
 
@@ -63,12 +64,12 @@ I’ll pull some information from the query string and some from the request. As
 - Post Title
 - Canonical (/blog/foo)
 - Actual URL (https://www.duncanmackenzie.net/blog/foo?bar=buzz)
-- User-Agent (mostly to give us OS & Browser info, but it’s a complicated string like “Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36”)
+- User-Agent (mostly to give us OS & Browser info, but it’s a complicated string like `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36`)
 - IP Address (8.8.8.8)
 - Accept-Language (en-US,en;q=0.9)
 - Referrer
 
-I’ll create the image tag in my Hugo code, adding readily available info (title, type, and the relative canonical URL) as query string params, IP, Accept-Language, User-Agent, and URL can all come from the request. Referrer is a problem though, as the request for the *page* will have received it, but the referrer for the image request will be the site page itself. We’ll come back to that in a moment, but with all of this figured out, I was ready to start planning the Azure side of the project.
+I’ll create the image tag in my Hugo code, adding readily available info (title, type, and the relative canonical URL) as query string params all at build time. IP, Accept-Language, User-Agent, and URL can all come from the request. Referrer is a problem though, as the request for the *page* will have received it, but the referrer for the image request will be the site page itself. We’ll come back to that in a moment, but with all of this figured out, I was ready to start planning the Azure side of the project.
 
 As I mentioned, the image URL will point at an Azure Function, which will extract all the info from above, turn it into a message, push it onto a Queue (for further processing), and return a transparent 1px image. I want this function to return as fast as possible, so I avoid doing any work on the data at this point, just grab it raw and push it to the queue. The function is triggered by a GET request, creates the request object, pushes it onto a Queue, and returns the 1px image.
 
@@ -193,7 +194,7 @@ private static RequestRecord
 
 In my Hugo site, I add this image to the bottom of the page with a partial, creating a version for both the no JavaScript situation and another for when I can execute code.
 
-```html
+```go-html-template
 {{- $rootPath := .Site.Params.homegrownAnalytics }}
 <noscript>
     <img class="analytics-pixel" src="{{ $rootPath }}&page={{ .RelPermalink | urlize }}&title={{ .Title }}" height="1" width="1">
@@ -225,7 +226,7 @@ In my Hugo site, I add this image to the bottom of the page with a partial, crea
 </script>
 ```
 
-As you can see in the code, the script version lets me add the referrer, and I also pass along the js_enabled param so I can track what % of visits are hitting my `<noscript>` version. I had to add in the ` document.prerendering` section to handle when Chrome was [prerendering my pages]( /blog/speculation-rules/), I don’t want to fire an analytics event in that case.
+As you can see in the code, the script version lets me add the referrer, and I also pass along the js_enabled param so I can track what % of visits are hitting my `<noscript>` version. I had to add in the `document.prerendering` section to handle when Chrome was [prerendering my pages](/blog/speculation-rules/), I don’t want to fire an analytics event in that case.
 
 ## Determining the data architecture
 
@@ -234,26 +235,42 @@ I can add this to my pages right now, and it will start filling up the queue wit
 Going back to my original requirements, I’d want to pull the following sets of data:
 
 **Overall Views (by day/week/month)**
-Date Partition	Views
-July, 2023	1,343
-August, 2023	1,235
-….
 
-To allow the date partition to always be expressed as a date, we could just make it the day, the first day of the week, or the first day of the month for the different sets of data.
+| Date    | Views |
+| -------- | ------- |
+| July 2023  | 1343    |
+| August 2023 | 1235     |
+
+(and so on)
+
+To allow the date partition to always be expressed as a date, we could just make it the day, the first day of the week, or the first day of the month for the different sets of data, so I'll add a 'date type' column.
+
+| Date Type | Date    | Views |
+| ------- | -------- | ------- |
+| Day | July 1, 2023  | 60    |
+| Day | July 2, 2023  | 43    |
+| Day | July 3, 2023  | 57    |
+| Month | July 1, 2023  | 1343    |
+| Month | August 1, 2023  | 1235    |
+
 
 **Views by page (by day, week, month)**
-Date Partition	Page	Views
-July, 2023	/blog/post1	343
-July, 2023	/blog/post2	837
-August, 2023	/blog/post1	320
-….
+
+| Date Type | Date  | Path | Views |
+| ------- | ------- | -------- | ------- |
+| Day | July 1, 2023 | /blog/post1  | 2    |
+| Day | July 1, 2023  | /blog/post2 | 4    |
+| Day | July 2, 2023  | /blog/post1 | 5    |
+| Month | July 1, 2023  | /blog/post1 | 97  |
 
 **Views by referral source (by day, week, month)**
-Date Partition	Referral	Views
-July, 2023	LinkedIn	343
-July, 2023	Google	837
-August, 2023	Google	320
-….
+
+| Date Type | Date  | Source | Views |
+| ------- | ------- | -------- | ------- |
+| Day | July 1, 2023 | Google  | 6    |
+| Day | July 1, 2023  | LinkedIn | 4    |
+| Day | July 2, 2023  | Google | 5    |
+| Month | July 1, 2023  | Reddit | 97  |
 
 That’s enough to start with, it will result in a few different tables, because I want to store the data already calculated and in the formats I want to view it in. We’ll have a `ViewEvents` table as well, to store the original requests, and that’s the first step.
 
@@ -382,7 +399,11 @@ I will go through all the pieces for ‘views per day’, but the same pattern w
 The SQL-like syntax is unique enough that it takes me a bit of futzing around, but I end up with:
 
 ```sql
-SELECT 'day' as dateType, c.day as id, count(1) as views FROM c GROUP BY c.day ORDER by c.day offset 0 limit 3
+SELECT 'day' as dateType, c.day as id,
+  count(1) as views FROM c
+  GROUP BY c.day
+  ORDER by c.day
+  offset 0 limit 3
 ```
 
 Which pulls views for the past few days. I’ve decided to share a single container for all views by day/week/month, using this class as the structure.
@@ -461,7 +482,9 @@ The [timer trigger syntax]( https://learn.microsoft.com/en-us/azure/azure-functi
 I decided that a ‘last 7 days’ report would be a good daily summary, which is available by just grabbing the last seven records from the ViewsByDate table.
 
 ```csharp
-public async Task<Dictionary<string, string>> GetViewsByDay(int days)
+public async
+  Task<Dictionary<string, string>>
+  GetViewsByDay(int days)
 {
     Dictionary<string, string> results
         = new Dictionary<string, string>();
@@ -471,10 +494,12 @@ public async Task<Dictionary<string, string>> GetViewsByDay(int days)
 
     QueryDefinition q = new QueryDefinition(query)
         .WithParameter("@firstDay",
-        DateTimeOffset.Now.AddDays(days).ToString("yyyyMMdd"));
+        DateTimeOffset.Now.AddDays(days)
+        .ToString("yyyyMMdd"));
 
     using (FeedIterator<ViewsByDate> feedIterator
-        = this.c_viewsByDate.GetItemQueryIterator<ViewsByDate>(q))
+        = this.c_viewsByDate.GetItemQueryIterator
+            <ViewsByDate>(q))
     {
         while (feedIterator.HasMoreResults)
         {
@@ -581,7 +606,7 @@ This works, but it’s a little boring.
 
 ![A simple table view of date + data](/images/homegrown/boring.png)
 
-I did some more digging around and found [Quick Charts](https://quickchart.io/documentation/), which lets me construct a chart using their .NET SDK, and get a URL that I can stick into my email. The full source code involved is up in [my GitHub repo](https://github.com/Duncanma/PhotoWebhooks/blob/main/Charting.cs) , but the result is definitely more pleasing.
+I did some more digging around and found [Quick Charts](https://quickchart.io/documentation/), which lets me construct a chart using their .NET SDK, and get a URL that I can stick into my email. The full source code involved is up in [my GitHub repo](https://github.com/Duncanma/PhotoWebhooks/blob/main/Charting.cs), but the result is definitely more pleasing.
 
 ![A line graph showing daily views as labels along the curve](/images/homegrown/chart.png)
 
