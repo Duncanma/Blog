@@ -7,7 +7,7 @@ Hmm... I had no idea it was going up, but there it is...
 
 > [**Click to read Chapter 3: Building Windows Applications
 
->**](http://www.codeproject.com/books/vbdotnetkickstart.asp)
+>**](https://www.codeproject.com/books/vbdotnetkickstart.asp)
 >
 >   * The Way Things Were
 >   * The Windows Forms Model

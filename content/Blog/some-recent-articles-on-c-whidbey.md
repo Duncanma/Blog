@@ -3,7 +3,7 @@ date: 2004-02-02T21:31:00+00:00
 title: Some recent articles on C# Whidbey
 type: posts
 ---
-From [Dan Fernandez's Blog](http://blogs.msdn.com/danielfe/archive/2004/02/01/65925.aspx);
+From [Dan Fernandez's Blog](https://blogs.msdn.com/danielfe/archive/2004/02/01/65925.aspx);
 
 > Below are some recently released articles on C# Whidbey, definitely check them
 
@@ -15,7 +15,7 @@ From [Dan Fernandez's Blog](http://blogs.msdn.com/danielfe/archive/2004/02/01/65
 
 > **[
 
-> <span style="FONT-WEIGHT: normal">http://www.code-magazine.com/Article.aspx?quickid=0303072</span>](http://www.code-magazine.com/Article.aspx?quickid=0303072)**
+> <span style="FONT-WEIGHT: normal">http://www.code-magazine.com/Article.aspx?quickid=0303072</span>](https://www.code-magazine.com/Article.aspx?quickid=0303072)**
 
 >**
 >

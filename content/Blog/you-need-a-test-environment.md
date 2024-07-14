@@ -70,7 +70,7 @@ them again.
 
 I like to play with performance tuning, and [I use my personal site as a
 place to experiment with a ton of minor
-changes](https://www.duncanmackenzie.net/blog/new-blog-performance/). Up
+changes](/blog/new-blog-performance/). Up
 until this weekend though, I had just been pushing my updates to
 production, because:
 
@@ -117,7 +117,7 @@ because I didn't think of it until about halfway through the steps.
 There is one slight difference between the two sites though, I added a
 bit of conditional logic to the robots.txt template in my blog theme to
 add a site-wide Disallow line if the site was generated for anything
-other than [www.duncanmackenzie.net](http://www.duncanmackenzie.net).
+other than [www.duncanmackenzie.net](https://www.duncanmackenzie.net).
 This change makes robots.txt on stage look like this:
 
 ```
@@ -147,7 +147,7 @@ hours. I was able to try:
 
 ## A different approach using CloudFlare Workers
 
-Matt Hobbs wrote up [this great guide to an alternate way to do some quick performance testing on your site](https://nooshu.github.io/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing/), **without** creating a secondary environment, and I love it. For my blog, a secondary environment was quick and easy to setup, but doing the same for [Microsoft Docs](https://docs.microsoft.com) (or for a site you don't own) would be much harder. Following this path, you use [workers](https://workers.cloudflare.com/) to manipulate the responses coming from the live production site. You write scripts to apply your changes, and then test the result.
+Matt Hobbs wrote up [this great guide to an alternate way to do some quick performance testing on your site](https://nooshu.com/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing/), **without** creating a secondary environment, and I love it. For my blog, a secondary environment was quick and easy to setup, but doing the same for [Microsoft Docs](https://docs.microsoft.com) (or for a site you don't own) would be much harder. Following this path, you use [workers](https://workers.cloudflare.com/) to manipulate the responses coming from the live production site. You write scripts to apply your changes, and then test the result.
 
 You should definitely check it out, and I may end up using it for Docs, but it is worth noting that the final result is not a **true copy** of your environment. In my case, I'm using the Azure CDN for example, but this setup would be going through Cloudflare. As a way to test a variety of changes without a lot of infrastructure though, this is a great option.
 

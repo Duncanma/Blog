@@ -47,7 +47,7 @@ Which declares a "Generic Method", which is then strongly typed at runtime via c
 
 `gm.Swap(Of Integer)(i, j)`
 
-**[Update]**: [Paul Vick](http://www.panopticoncentral.net/) points out that (Of Integer) can be skipped on the call, making it just
+**[Update]**: [Paul Vick](https://www.panopticoncentral.net/) points out that (Of Integer) can be skipped on the call, making it just
 
 `gm.Swap(i, j)`
 

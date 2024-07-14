@@ -6,11 +6,11 @@ tags:
  - Channel9
  - Microsoft
 ---
-We recently had Donovan West ([LiveGadgets.net](http://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop.
+We recently had Donovan West ([LiveGadgets.net](https://livegadgets.net/)) build us a set of sidebar gadgets for Windows Vista. These gadgets use the RSS feeds from each site and let you see all of our new content as it gets posted, then (using Silverlight) you can even play our videos right there on your desktop.
 
 ![The Gadget in its open state](/images/Channel9_SidebarGadgetBig.png)
 
-You can check out the gadgets (for [Channel 9](http://channel9.msdn.com), [Mix](http://visitmix.com/), [C8](http://channel8.msdn.com/), [Edge](http://edge.technet.com/), and [on10.net](http://on10.net/)) by clicking on the appropriate image below:
+You can check out the gadgets (for [Channel 9](https://channel9.msdn.com), [Mix](https://visitmix.com/), [C8](https://channel8.msdn.com/), [Edge](https://edge.technet.com/), and [on10.net](https://on10.net/)) by clicking on the appropriate image below:
 
 {{% note %}}
 These images used to be links to the sidebar gadget, **but** sidebar gadgets have been retired completely as a technology in Windows, so I have removed the links

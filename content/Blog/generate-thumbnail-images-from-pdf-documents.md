@@ -7,7 +7,7 @@ This is so very cool... a great idea, good explanations, tons of useful bits of 
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    **[Generate Thumbnail Images from PDF Documents](http://www.codeproject.com/vb/net/pdfthumbnail.asp)By **[**Jonathan Hodgson**](http://www.codeproject.com/script/profile/whos_who.asp?id=49532)** **
+    **[Generate Thumbnail Images from PDF Documents](https://www.codeproject.com/vb/net/pdfthumbnail.asp)By **[**Jonathan Hodgson**](https://www.codeproject.com/script/profile/whos_who.asp?id=49532)** **
 
 
 
@@ -16,4 +16,3 @@ This is so very cool... a great idea, good explanations, tons of useful bits of 
 </blockquote>
 
 <p dir="ltr">
-

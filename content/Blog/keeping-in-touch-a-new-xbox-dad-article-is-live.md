@@ -7,7 +7,7 @@ It has been 'marketized' a bit from how I originally wrote it (with the addition
 
 > ###
 >
-> [Keep in Touch with Xbox LIVE Vision](http://www.xbox.com/en-US/community/personality/xboxdad/2007/0613-keepintouch.htm)
+> [Keep in Touch with Xbox LIVE Vision](https://www.xbox.com/en-US/community/personality/xboxdad/2007/0613-keepintouch.htm)
 >
 > _Published June 13, 2007_
 >

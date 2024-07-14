@@ -13,7 +13,7 @@ a sample entry:
 
 
 
-> [Peanut Butter Mixer](http://www.kk.org/cooltools/archives/001674.php)
+> [Peanut Butter Mixer](https://www.kk.org/cooltools/archives/001674.php)
 >
 > ###### Stirs PB with less mess
 >
@@ -24,10 +24,10 @@ a sample entry:
 >
 > Peanut Butter Mixer
 > $8
-> Available from [Lehman's](http://www.lehmans.com/shopping/product/detailmain.jsp?itemID=5912&itemType=PRODUCT&RS=1&keyword=peanut+butter)
+> Available from [Lehman's](https://www.lehmans.com/shopping/product/detailmain.jsp?itemID=5912&itemType=PRODUCT&RS=1&keyword=peanut+butter)
 >
-> Or $11 from [Amazon](http://www.amazon.com/exec/obidos/ASIN/B000A3I3BA/ref=nosim/kkorg-20)
+> Or $11 from [Amazon](https://www.amazon.com/exec/obidos/ASIN/B000A3I3BA/ref=nosim/kkorg-20)
 >
-> Manufactured by [Witmer Prodcuts, Inc.](http://witmerproducts.com/)
+> Manufactured by [Witmer Prodcuts, Inc.](https://witmerproducts.com/)
 
 Hot stuff!

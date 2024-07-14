@@ -11,6 +11,6 @@ type: posts
 
 Follow the link to get a high-quality WMV for your PC, a WMV for your Zune or a MP4 for your iPod/PSP... or a WMA/MP3 if all you want is the music 🙂
 
-[Heck, I even have an Ogg Vorbis version up there](http://download.microsoft.com/download/5/D/5/5D5E2663-F209-4433-B873-F3FA2176EAC0/GetYourXboxOn.ogg).
+[Heck, I even have an Ogg Vorbis version up there](https://download.microsoft.com/download/5/D/5/5D5E2663-F209-4433-B873-F3FA2176EAC0/GetYourXboxOn.ogg).
 
 _And yes, we know that Laura was known to bash MSFT a bit (ok, a lot...) when she was at G4... the irony is not lost on us 🙂_

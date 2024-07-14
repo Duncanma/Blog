@@ -7,6 +7,6 @@ type: posts
 
 Ambient Devices
 
-](http://www.ambientdevices.com/cat/index.html)
+](https://www.ambientdevices.com/cat/index.html)
 
 I can't even describe this, you have to check it out on your own. I'm making up a list of possible geeky applications in my head right now!

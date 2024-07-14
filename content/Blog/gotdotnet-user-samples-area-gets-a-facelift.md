@@ -9,4 +9,4 @@ The GDN User Samples area has been radically updated into what I find to be a mu
 
 check it out!
 
-](http://www.gotdotnet.com/community/usersamples/)
+](https://www.gotdotnet.com/community/usersamples/)

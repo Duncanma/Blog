@@ -3,11 +3,11 @@ date: 2005-10-28T07:35:00+00:00
 title: Some great podcasts on VB6 -&gt; .NET and more...
 type: posts
 ---
-I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I spotted these [podcasts](http://www.ddj.com/podcast/dotnetcast/), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
+I was reading the [dotnetjunkies.com](https://dotnetjunkies.com) newsletter and I spotted these [podcasts](https://www.ddj.com/podcast/dotnetcast/), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
 
 > [
 
-> Moving to .NET from VB6 and C++](http://devnet.developerpipeline.com/documents/dev051026dnc/ "http://devnet.developerpipeline.com/documents/dev051026dnc/")
+> Moving to .NET from VB6 and C++](https://devnet.developerpipeline.com/documents/dev051026dnc/ "http://devnet.developerpipeline.com/documents/dev051026dnc/")
 
 > Juval Lowy discusses the different perspectives that VB6 and C++ developers
 
@@ -17,7 +17,7 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I
 >
 > [
 
-> VB6 Glass Ceiling](http://devnet.developerpipeline.com/documents/ddj051018dnc/ "http://devnet.developerpipeline.com/documents/ddj051018dnc/")
+> VB6 Glass Ceiling](https://devnet.developerpipeline.com/documents/ddj051018dnc/ "http://devnet.developerpipeline.com/documents/ddj051018dnc/")
 
 > .NET Software Legend Juval Lowy offers his thoughts on the non-linear
 
@@ -27,7 +27,7 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I
 >
 > [
 
-> Perf Stats of the Upgrade Tools](http://www.ddj.com/documents/ddj051007dnc/ "http://www.ddj.com/documents/ddj051007dnc/")
+> Perf Stats of the Upgrade Tools](https://www.ddj.com/documents/ddj051007dnc/ "http://www.ddj.com/documents/ddj051007dnc/")
 
 > Keith Pleas discusses the performance characteristics of the Upgrade Wizard and
 
@@ -39,7 +39,7 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I
 >
 > [
 
-> .NET Upgrade Metrics and the Migration Assessment Tool](http://www.ddj.com/documents/ddj050927dnc/ "http://www.ddj.com/documents/ddj050927dnc/")
+> .NET Upgrade Metrics and the Migration Assessment Tool](https://www.ddj.com/documents/ddj050927dnc/ "http://www.ddj.com/documents/ddj050927dnc/")
 
 > Keith Pleas of Keith Pleas & Associates explains how the new .NET Migration
 
@@ -51,4 +51,4 @@ I was reading the [dotnetjunkies.com](http://dotnetjunkies.com) newsletter and I
 >
 > [
 
-> More Pod Casts >>](http://www.ddj.com/podcast/dotnetcast/ "http://www.ddj.com/podcast/dotnetcast/")
+> More Pod Casts >>](https://www.ddj.com/podcast/dotnetcast/ "http://www.ddj.com/podcast/dotnetcast/")

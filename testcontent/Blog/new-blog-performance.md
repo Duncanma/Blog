@@ -35,14 +35,14 @@ For all of my tests, I was using [this single blog post](/blog/content-taxonomy-
 
 First comparison matched up with expectations. The static version of a given blog page was faster and more lightweight.
 
-**WordPress** ([Source on WebPageTest.org](http://webpagetest.org/result/190331_P4_dd017126d3a5df3c7382a70bf60e3188/))
+**WordPress** ([Source on WebPageTest.org](https://webpagetest.org/result/190331_P4_dd017126d3a5df3c7382a70bf60e3188/))
 
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
 |First View | 3.965s | 1.150s | 2.900s | 59 | 870 KB|
 |Repeat View | 2.441s | 1.170s | 1.900s | 6 | 66 KB|
 
-**Baseline of New Blog** ([Source on WebPageTest.org](http://webpagetest.org/result/190331_4N_591e3f9ef7dc99a75c2238acb415fa00/))
+**Baseline of New Blog** ([Source on WebPageTest.org](https://webpagetest.org/result/190331_4N_591e3f9ef7dc99a75c2238acb415fa00/))
 
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
@@ -82,7 +82,7 @@ At the same time, I had noticed that the CSS returned by the googleapis.com call
 
 It made for a good improvement, knocking the median first view load time to 1.466s (from 1.862s) and the bytes sent down to 446 KB (from 704 KB).
 
-**After removing local fonts** ([Source on WebPageTest.org](http://webpagetest.org/result/190331_4N_591e3f9ef7dc99a75c2238acb415fa00/))
+**After removing local fonts** ([Source on WebPageTest.org](https://webpagetest.org/result/190331_4N_591e3f9ef7dc99a75c2238acb415fa00/))
 
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
@@ -105,7 +105,7 @@ Ideally I'd have made only one change at a time, but I also fixed up the missing
 
 At this point, I was starting to feel pretty good about the performance numbers, which were below 1s on page load. This was from the default location of Dulles, VA over a high-speed connection, but these improvements would help slower devices and slower connections as well.
 
-**After reducing the JavaScript** ([Source on WebPageTest.org](http://webpagetest.org/result/190417_FS_617e5fb90a4c42c36f48c3e5fe0980f4/))
+**After reducing the JavaScript** ([Source on WebPageTest.org](https://webpagetest.org/result/190417_FS_617e5fb90a4c42c36f48c3e5fe0980f4/))
 
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|
@@ -126,7 +126,7 @@ Starting with [the async-enabled version of the tracking script](https://develop
 
 The difference between these three was very small (different amounts on different runs, which isn't unusual), but a few minutes of testing wasn't that hard and I really didn't want to undo all my earlier performance work. In the end, the first attempt (async script in the footer) seemed to produce the best result.
 
-**After adding Google Analytics** ([Source on WebPageTest.org](http://webpagetest.org/result/190427_MA_f1e3de6d27d104d1774b28ef619a9052/))
+**After adding Google Analytics** ([Source on WebPageTest.org](https://webpagetest.org/result/190427_MA_f1e3de6d27d104d1774b28ef619a9052/))
 
 |Run | Load Time | First Byte | Start Render | Requests | Bytes In|
 |----|-----------|------------|--------------|----------|---------|

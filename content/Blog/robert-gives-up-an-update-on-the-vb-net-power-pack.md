@@ -13,7 +13,7 @@ type: posts
 
     <b><a id="_7cbc6ccff9f_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl1_TitleUrl" href="/rgreen_msft/archive/2004/07/14/183242.aspx">VB Power Pack Update</a></b><span style="FONT-SIZE: 10pt"><font face="Verdana" color="navy" size="3"><span style="FONT-SIZE: 10pt; COLOR: navy"><?xml:namespace prefix = o /?><o:p>
 
-    <span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial"><font color="#000000">It’s been a little over a month since we shipped the Power Pack. As of this morning, the controls have been downloaded <b>17,401</b> times!! And there are more than 100 members of the Power Pack Workspace ([link](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=167542e0-e435-4585-ae4f-c111fe60ed58)<font color="#000000">). Nathan Blecharczyk, an intern on the VB team for the summer, has been added as an Owner to help manage the Workspace. <o:p></o:p></span></o:p></span></span>
+    <span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial"><font color="#000000">It’s been a little over a month since we shipped the Power Pack. As of this morning, the controls have been downloaded <b>17,401</b> times!! And there are more than 100 members of the Power Pack Workspace ([link](https://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=167542e0-e435-4585-ae4f-c111fe60ed58)<font color="#000000">). Nathan Blecharczyk, an intern on the VB team for the summer, has been added as an Owner to help manage the Workspace. <o:p></o:p></span></o:p></span></span>
 
 
   <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">
@@ -44,7 +44,7 @@ type: posts
 </blockquote>
 
 <p class="MsoNormal" dir="ltr" style="MARGIN: 0in 0in 0pt">
-  <span style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial"><o:p>Looking for more info on the controls? Check out [the power pack article ](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbpowerpack.asp)on MSDN.</o:p></span>
+  <span style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial"><o:p>Looking for more info on the controls? Check out [the power pack article ](https://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbpowerpack.asp)on MSDN.</o:p></span>
 
 
 <p class="MsoNormal" dir="ltr" style="MARGIN: 0in 0in 0pt">

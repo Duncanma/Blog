@@ -13,7 +13,7 @@ type: posts
 
 
 
-    _All versions of VS support debugging both managed and unmanaged code. However there is a big difference between doing one or the other and doing both. GreggM has written about some of the _ [ _reasons interop debugging is difficult_ ](http://blogs.msdn.com/greggm/archive/2004/01/23/62455.aspx) _. Here I will refer to debugging both managed and unmanaged at the same time as Mixed debugging._
+    _All versions of VS support debugging both managed and unmanaged code. However there is a big difference between doing one or the other and doing both. GreggM has written about some of the _ [ _reasons interop debugging is difficult_ ](https://blogs.msdn.com/greggm/archive/2004/01/23/62455.aspx) _. Here I will refer to debugging both managed and unmanaged at the same time as Mixed debugging._
 
 
 

@@ -5,7 +5,7 @@ type: posts
 ---
 > **
 
-> [Using the Edit and Continue Feature in C# 2.0](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/edit_continue.asp)
+> [Using the Edit and Continue Feature in C# 2.0](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/edit_continue.asp)
 
 >**
 

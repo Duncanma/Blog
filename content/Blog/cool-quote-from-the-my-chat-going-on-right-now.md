@@ -14,8 +14,8 @@ type: posts
 
 
 
-      Interested in "My", [check out this article](http://msdn.microsoft.com/vbasic/default.aspx?pull=/msdnmag/issues/04/05/visualbasic2005/default.aspx)
+      Interested in "My", [check out this article](https://msdn.microsoft.com/vbasic/default.aspx?pull=/msdnmag/issues/04/05/visualbasic2005/default.aspx)
 
 
 
-      Want to join the chat in progress? [Click here](http://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)
+      Want to join the chat in progress? [Click here](https://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)

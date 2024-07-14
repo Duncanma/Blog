@@ -5,7 +5,7 @@ type: posts
 ---
 I recently noticed a bug in the trackback code on Channel 10, some sites were failing to send us trackbacks, even though we were receiving trackbacks from other sources and those sites were happily trackbacking (I'm just annoying the spell checker today) other blogs.
 
-Turns out the problem appears to be in our RDF block on our blog pages. On a page like [this](http://on10.net/blogs/tina/exclusive-video-first-look-at-the-xbox-elite/), the RDF block contains the following element:
+Turns out the problem appears to be in our RDF block on our blog pages. On a page like [this](https://on10.net/blogs/tina/exclusive-video-first-look-at-the-xbox-elite/), the RDF block contains the following element:
 
 `dc:identifier="http://on10.net/Blogs/tina/exclusive-video-first-look-at-the-xbox-elite/"`
 

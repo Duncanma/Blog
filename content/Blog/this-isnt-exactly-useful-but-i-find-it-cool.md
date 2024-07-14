@@ -9,7 +9,7 @@ I've been working on code to pull the currently playing item out of Windows Medi
 
 this
 
-](http://www.wmplugins.com/ItemDetail.aspx?ItemID=245)
+](https://www.wmplugins.com/ItemDetail.aspx?ItemID=245)
 
 , a plug-in that pulls that value out and writes it to a ftp site of your choosing for display on the web (
 
@@ -17,7 +17,7 @@ this
 
 here is mine
 
-](http://www.duncanmackenzie.net/songxml.asp)
+](https://www.duncanmackenzie.net/songxml.asp)
 
 )... so everyone can know what you are currently listening to.
 

@@ -3,9 +3,9 @@ date: 2004-04-08T01:11:00+00:00
 title: Part 6 of Scott Mitchell's series on Data Structures is now live...
 type: posts
 ---
-Check it out [here](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)
+Check it out [here](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)
 
-> **[Part 6: Efficiently Representing Sets](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)**
+> **[Part 6: Efficiently Representing Sets](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)**
 
 > Scott Mitchell
 

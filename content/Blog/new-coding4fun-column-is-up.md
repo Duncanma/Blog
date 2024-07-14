@@ -26,4 +26,4 @@ Background Copying
     </div>
 
 
-      [<font face="Trebuchet MS">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun02282003.asp ](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun02282003.asp)
+      [<font face="Trebuchet MS">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun02282003.asp ](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun02282003.asp)

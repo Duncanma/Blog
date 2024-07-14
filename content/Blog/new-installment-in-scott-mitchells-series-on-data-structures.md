@@ -3,7 +3,7 @@ date: 2004-02-10T21:25:00+00:00
 title: New installment in Scott Mitchell's series on Data Structures
 type: posts
 ---
-[ <b>Part 3: Binary Trees and BSTs</b> ](http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide3.asp)
+[ <b>Part 3: Binary Trees and BSTs</b> ](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide3.asp)
 
 
 

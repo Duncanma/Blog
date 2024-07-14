@@ -7,6 +7,6 @@ I'm still at SeaTac, but I've given up on my flight to LA (which could turn out 
 
 Talked to Brian Johnson, who is already in LA, and he asked me the most important question to ask when someone is stuck in an airport for hours...
 
-![](http://www.duncanmackenzie.net/doyouhave.png)
+![](https://www.duncanmackenzie.net/doyouhave.png)
 
 And, yes... yes I do!

@@ -9,4 +9,4 @@ type: posts
 
 </blockquote>
 
-(from <http://www.ananova.com/news/story/sm_958267.html>, found via [When RFID goes bad](http://objectsharp.com/Blogs/barry/archive/2004/05/18/458.aspx){#_196154e5d3cf_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl0_TitleUrl} by Barry Gervin)
+(from <http://www.ananova.com/news/story/sm_958267.html>, found via [When RFID goes bad](https://objectsharp.com/Blogs/barry/archive/2004/05/18/458.aspx){#_196154e5d3cf_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl0_TitleUrl} by Barry Gervin)

@@ -62,4 +62,4 @@ Oh, and there was another part to the original question... what if I want to res
 
 Of course, after your code 'does something', the focus will also move to the next control... both sets of code, the Form's **OnKeyUp** routine and the control's **KeyDown** event handler, execute when the user hits Enter on this particular control.
 
-I've gotten flack in the past for articles that discuss ['simple' topics](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun07012004.asp), but I hope this is useful to some of the folks that find it 🙂
+I've gotten flack in the past for articles that discuss ['simple' topics](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncodefun/html/code4fun07012004.asp), but I hope this is useful to some of the folks that find it 🙂

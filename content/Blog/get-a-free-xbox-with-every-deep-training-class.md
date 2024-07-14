@@ -5,7 +5,7 @@ type: posts
 ---
 I just saw this in a recent MSDN flash and thought it was worth mentioning...
 
-> [Get a Free Xbox with Every Deep Training Class](http://www.deeptraining.com/xbox.aspx)
+> [Get a Free Xbox with Every Deep Training Class](https://www.deeptraining.com/xbox.aspx)
 >
 >   * ASP.NET w/ Visual Basic, January 19 – 23, Seattle, WA
 >   * Visual Basic .NET, January 26 – 31, Seattle, WA

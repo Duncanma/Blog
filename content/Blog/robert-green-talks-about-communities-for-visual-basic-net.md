@@ -7,7 +7,7 @@ I had read this in the 'offline' version of MSDN magazine (you know, that one th
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    ** [Robert Green Talks About Communities for Visual Basic .NET](http://msdn.microsoft.com/msdnmag/issues/04/04/TalkingTo/default.aspx) **
+    ** [Robert Green Talks About Communities for Visual Basic .NET](https://msdn.microsoft.com/msdnmag/issues/04/04/TalkingTo/default.aspx) **
 
 
 
@@ -16,4 +16,4 @@ I had read this in the 'offline' version of MSDN magazine (you know, that one th
 </blockquote>
 
 <p dir="ltr">
-  The [Visual Basic Developer Center](http://msdn.microsoft.com/vbasic) gets mentioned a few times, so it is definitely worth reading the interview all the way through 🙂
+  The [Visual Basic Developer Center](https://msdn.microsoft.com/vbasic) gets mentioned a few times, so it is definitely worth reading the interview all the way through 🙂

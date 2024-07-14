@@ -5,7 +5,7 @@ type: posts
 ---
 Provides a great introduction to creating your own custom columns and column styles.... including a drop-down column style, which is a very popular custom column for most folks!!
 
-> [**DataGrid Zen Novice**](http://www.codeproject.com/cs/miscctrl/DataGridZen.asp) **by Alastair Stell**
+> [**DataGrid Zen Novice**](https://www.codeproject.com/cs/miscctrl/DataGridZen.asp) **by Alastair Stell**
 >
 > This project provides a 101 tour of the Windows Forms DataGrid Control, with emphasis on easy-to-use (and understand) customizations.
 >

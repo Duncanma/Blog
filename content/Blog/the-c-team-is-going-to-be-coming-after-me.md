@@ -3,7 +3,7 @@ date: 2004-01-28T20:30:00+00:00
 title: The C# team is going to be coming after me...
 type: posts
 ---
-Every week, [Eric Gunnerson](http://blogs.msdn.com/ericgu), [Dan Fernandez](http://blogs.msdn.com/danielfe/) and I get together to work on [the C# developer center](http://msdn.microsoft.com/vcsharp) and other C#-ish topics... and last week we divided up some tasks amongst the three of us. Well, we are meeting again today and I don't have those tasks done... so I'm starting to watch my back.
+Every week, [Eric Gunnerson](https://blogs.msdn.com/ericgu), [Dan Fernandez](https://blogs.msdn.com/danielfe/) and I get together to work on [the C# developer center](https://msdn.microsoft.com/vcsharp) and other C#-ish topics... and last week we divided up some tasks amongst the three of us. Well, we are meeting again today and I don't have those tasks done... so I'm starting to watch my back.
 
 <img src="http://msdn.microsoft.com/vcsharp/art/csharp_team.gif" border="0" />
 

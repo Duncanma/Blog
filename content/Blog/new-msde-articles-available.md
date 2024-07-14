@@ -3,7 +3,7 @@ date: 2004-03-09T03:52:00+00:00
 title: New MSDE Articles Available
 type: posts
 ---
-Brian Randell has written 4 (really 7, but 3 of them are just the same article as both VB and C#) articles on using MSDE in your applications... (via [Kent Sharkey's blog](http://blogs.msdn.com/ksharkey));
+Brian Randell has written 4 (really 7, but 3 of them are just the same article as both VB and C#) articles on using MSDE in your applications... (via [Kent Sharkey's blog](https://blogs.msdn.com/ksharkey));
 
 > <div class="post">
 >   <h4>
@@ -16,7 +16,7 @@ Brian Randell has written 4 (really 7, but 3 of them are just the same article a
 >
 >   <ul>
 >     <li>
->       [Using MSDE 2000 in a Web Application](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/msde2000webapp.asp) <li>
+>       [Using MSDE 2000 in a Web Application](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/msde2000webapp.asp) <li>
 >         And every possible combination and permutation of:
 >       </li>
 >       <ul>
@@ -35,7 +35,7 @@ Brian Randell has written 4 (really 7, but 3 of them are just the same article a
 >   </ul>
 >
 >
->     [VB+VS](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbvs.asp)  [VB+WM](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbwm.asp)  [VB+SDK](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbsdk.asp)  [C#+VS](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscsvs.asp)  [C#+WM](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscswm.asp)  [C#+SDK](http://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscssdk.asp)
+>     [VB+VS](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbvs.asp)  [VB+WM](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbwm.asp)  [VB+SDK](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicsvbsdk.asp)  [C#+VS](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscsvs.asp)  [C#+WM](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscswm.asp)  [C#+SDK](https://msdn.microsoft.com/asp.net/using/understanding/data/default.aspx?pull=/library/en-us/dnmsde2kwrk/html/mypicscssdk.asp)
 >
 >
 >

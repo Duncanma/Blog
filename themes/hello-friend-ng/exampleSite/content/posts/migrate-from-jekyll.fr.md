@@ -42,7 +42,7 @@ supporte également les paramètres de configuration. Plus d'informations sur la
 La valeur par défaut pour Jekyll est d'utiliser le répertoire `_site` pour
 publier le contenu. Pour Hugo, le répertoire de publication est `public`. Si,
 comme moi, vous avez [lié `_site` vers un sous-module git sur la branche
-`gh-pages`](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.ht
+`gh-pages`](https://blog.blindgaenger.net/generate_github_pages_in_a_submodule.ht
 ml), vous allez vouloir avoir quelques alternatives :
 
 1. Changez votre lien du sous-module `gh-pages` pour pointer sur public au lieu
@@ -70,10 +70,10 @@ sur la façon dont vous avez construit votre blog et [les thèmes de Hugo]
 (/layout/templates/) pour apprendre la manière de faire sur Hugo.
 
 Pour vous donner un point de référence, la conversion du thème pour
-[heyitsalex.net](http://heyitsalex.net/) ne m'a pris que quelques heures.
+[heyitsalex.net](https://heyitsalex.net/) ne m'a pris que quelques heures.
 
 ## Convertir les extensions Jekyll vers des shortcodes Hugo
-Jekyll support les [extensions](http://jekyllrb.com/docs/plugins/); Hugo lui a
+Jekyll support les [extensions](https://jekyllrb.com/docs/plugins/); Hugo lui a
 les [shortcodes](/doc/shortcodes/). C'est assez banal les porter.
 
 ### Implémentation
@@ -211,7 +211,7 @@ Vous voudrez sûrement supprimer votre configuration Jekyll maintenant que tout
 est fini. Exact, pensez à supprimer tout ce qui est inutilisé.
 
 ## Un exemple pratique
-[Hey, it's Alex](http://heyitsalex.net/) a été migré de Jekyll vers Hugo en
+[Hey, it's Alex](https://heyitsalex.net/) a été migré de Jekyll vers Hugo en
 moins de temps qu'une journée père enfant. Vous pouvez trouver toutes les
 modification en regardant ce [diff](https://github.com/alexandre-normand/alexand
 re-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b

@@ -7,6 +7,6 @@ I've often had email exchanges and thought about posting them as blog entries...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
   <div>
-    [More thoughts on Iterators](http://blogs.msdn.com/grantri/archive/2004/05/07/127714.aspx)  _... This got me thinking some more about iterators.  The frameworks often use an int as a version field to detect when a collection has changed.  This seems like a bit of overkill and isn't 100% correct because it does suffer from wrap-around (although that is almost entirely impossible short of malicious code).  So I was wondering how you could write 100% correct code and still use an iterator, and have it be clean and maintainable code...._
+    [More thoughts on Iterators](https://blogs.msdn.com/grantri/archive/2004/05/07/127714.aspx)  _... This got me thinking some more about iterators.  The frameworks often use an int as a version field to detect when a collection has changed.  This seems like a bit of overkill and isn't 100% correct because it does suffer from wrap-around (although that is almost entirely impossible short of malicious code).  So I was wondering how you could write 100% correct code and still use an iterator, and have it be clean and maintainable code...._
   </div>
 </blockquote>

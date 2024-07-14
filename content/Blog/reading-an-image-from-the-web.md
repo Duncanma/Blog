@@ -3,7 +3,7 @@ date: 2003-11-17T10:57:00+00:00
 title: Reading An Image from the web...
 type: posts
 ---
-Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357) so I thought I would answer it here;
+Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357) so I thought I would answer it here;
 
 Glenn Holden asks how to turn this file based function into one for images stored at http addresses...
 
@@ -67,7 +67,7 @@ with a bit of test code thrown into a button.....
 
 A generalized solution that will accept file paths or URIs and automatically determine how to retrieve the stream would likely be useful, but I think this will do for Glenn...
 
-_Markup provided by [Darren Neimke's](http://weblogs.asp.net/dneimke) [cool markup sample from MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp)_
+_Markup provided by [Darren Neimke's](https://weblogs.asp.net/dneimke) [cool markup sample from MSDN](https://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/vbmarkup.asp)_
 
 
   ([Listening To](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)): Pets [[Porno For Pyros](https://open.spotify.com/search/Porno%20For%20Pyros/artists) / Big Shiny 90's])

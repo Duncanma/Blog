@@ -5,7 +5,7 @@ type: posts
 tags:
  - Coding
 ---
-In [a recent post to his blog](http://www.panopticoncentral.net/PermaLink.aspx/086feb98-d3d3-4831-a1ba-e8f70c72dac1), Paul Vick discusses the new **IsNot** Operator (and the history/rational behind the **Is** operator), which allows you to write;
+In [a recent post to his blog](https://www.panopticoncentral.net/PermaLink.aspx/086feb98-d3d3-4831-a1ba-e8f70c72dac1), Paul Vick discusses the new **IsNot** Operator (and the history/rational behind the **Is** operator), which allows you to write;
 
 > `If myString IsNot Nothing Then`
 
@@ -13,7 +13,7 @@ instead of
 
 > `If Not myString Is Nothing Then`
 
-and then, [in another post](http://www.panopticoncentral.net/PermaLink.aspx/0d6ba439-8126-427e-952e-3f5fbba33904), he covers the new **TryCast** operator (which is like C#'s 'as' operator), which will allow you to save a bit of extra work (and produce a slight perf improvement in some situations) when checking to see if an object can be cast to a specific type .... allowing you to write;
+and then, [in another post](https://www.panopticoncentral.net/PermaLink.aspx/0d6ba439-8126-427e-952e-3f5fbba33904), he covers the new **TryCast** operator (which is like C#'s 'as' operator), which will allow you to save a bit of extra work (and produce a slight perf improvement in some situations) when checking to see if an object can be cast to a specific type .... allowing you to write;
 
 ```vb
 Sub Print(ByVal o As Object)

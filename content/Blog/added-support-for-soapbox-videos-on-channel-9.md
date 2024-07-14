@@ -9,7 +9,7 @@ tags:
 ---
 When I started on the C9 dev team, one of the first things I did was to **remove** the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn't really mind and in some cases would even like to encourage.
 
-As a small step towards a more community-driven future, [I added support to C9 today to allow you to embed Soapbox videos in any forum post](http://channel9.msdn.com/ShowPost.aspx?PostID=338082). Simple use the following markup in your post:
+As a small step towards a more community-driven future, [I added support to C9 today to allow you to embed Soapbox videos in any forum post](https://channel9.msdn.com/ShowPost.aspx?PostID=338082). Simple use the following markup in your post:
 
 `[soapbox video="(soapbox video id)"]`
 

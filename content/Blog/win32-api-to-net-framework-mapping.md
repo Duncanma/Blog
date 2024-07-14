@@ -3,7 +3,7 @@ date: 2004-01-27T00:24:00+00:00
 title: Win32 API to .NET Framework mapping
 type: posts
 ---
-[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp)
+[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp)
 
 
 

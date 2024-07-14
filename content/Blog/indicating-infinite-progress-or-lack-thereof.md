@@ -9,7 +9,7 @@ clovett
 
 posted this sample
 
-](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=d2bd8858-97c7-4a77-96eb-5d86d3b022d4)
+](https://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=d2bd8858-97c7-4a77-96eb-5d86d3b022d4)
 
  of a progress bar **that does not progress** to GDN at some point in the past and I had occasion to use it today. Using irrational coder logic, I decided that converting it to VB, so I could place it directly in my application, was faster than modifying his sample into a component...
 

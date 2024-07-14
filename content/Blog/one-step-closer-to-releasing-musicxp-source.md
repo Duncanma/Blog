@@ -9,7 +9,7 @@ I have a home music system, that I have dubbed
 
 MusicXP
 
-](http://www.duncanmackenzie.net/musicxp)
+](https://www.duncanmackenzie.net/musicxp)
 
  (mostly because that is the name of the machine it is on, the actual app that runs is called "Shell.exe")... and I've been meaning to upload the full source for some time. I've covered bits and pieces of it in
 
@@ -17,7 +17,7 @@ MusicXP
 
 various
 
-](http://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun01242003.asp)
+](https://msdn.microsoft.com/library/en-us/dncodefun/html/code4fun01242003.asp)
 
 
 
@@ -25,7 +25,7 @@ various
 
 articles
 
-](http://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp)
+](https://msdn.microsoft.com/library/en-us/dnwinforms/html/custcntrlsamp4.asp)
 
  but now I've decided to create a
 
@@ -33,7 +33,7 @@ articles
 
 GotDotNet Workspace
 
-](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9)
+](https://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=cd71ce33-9238-4ba0-a1e6-294413f743b9)
 
 and get the whole thing up there.
 

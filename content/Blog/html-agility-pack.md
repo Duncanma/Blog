@@ -5,7 +5,7 @@ type: posts
 ---
 I've seen this around before, and this post was from June 2003, but it is worth mentioning again!
 
-> [<b>.NET Html Agility Pack: How to use malformed HTML just like it was well-formed XML... </b>](http://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx)
+> [<b>.NET Html Agility Pack: How to use malformed HTML just like it was well-formed XML... </b>](https://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx)
 
 > Here is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT. It is an assembly that allows you to parse "out of the web" HTML files. The parser is very tolerant with "real world" malformed HTML. The object model is very similar to what [is provided by] System.Xml, but for HTML documents (or streams).
 >

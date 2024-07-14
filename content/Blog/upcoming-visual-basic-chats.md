@@ -3,7 +3,7 @@ date: 2004-02-07T03:13:00+00:00
 title: Upcoming Visual Basic Chats
 type: posts
 ---
-Check out these chats on [http://msdn.microsoft.com/chats/](http://msdn.microsoft.com/chats/)
+Check out these chats on [http://msdn.microsoft.com/chats/](https://msdn.microsoft.com/chats/)
 
 > **Using Windows Forms Controls in Visual Basic .NET**
 

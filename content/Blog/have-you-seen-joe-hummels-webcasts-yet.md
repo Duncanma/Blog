@@ -3,7 +3,7 @@ date: 2004-03-11T11:39:00+00:00
 title: Have you seen Joe Hummel's webcasts yet?
 type: posts
 ---
-Well, if you haven't managed to see [any of them](http://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx) live yet... don't fret, they are all available on-demand as well (after the live presentation that is). If you are a VB6 programmer interested in learning .NET or if you are already programming in VB.NET, you have to [check them out](http://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx)...
+Well, if you haven't managed to see [any of them](https://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx) live yet... don't fret, they are all available on-demand as well (after the live presentation that is). If you are a VB6 programmer interested in learning .NET or if you are already programming in VB.NET, you have to [check them out](https://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx)...
 
   * Session 1: Program Execution in the 21st Century
   * Session 2: OOP and Class Design

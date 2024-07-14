@@ -11,11 +11,11 @@ In the new code that we are building for Channel 9, we have a few HTML popups he
 
 We ran into a bit of an issue though, in that our floating HTML was sitting **under** the Silverlight player, no matter what I did with the z-index of the two areas of the page.
 
-[<img height="111" alt="clip_image002" src="http://www.duncanmackenzie.net/images/c70dba6d-7ee0-4717-82d4-7a4cbaf7b9d7.jpg" width="240" border="0" />](http://www.duncanmackenzie.net/images/d887715a-1bdd-4672-8565-35151429d166.jpg" atomicselection="true" rel="lightbox[522]" title="clip_image002)
+[<img height="111" alt="clip_image002" src="http://www.duncanmackenzie.net/images/c70dba6d-7ee0-4717-82d4-7a4cbaf7b9d7.jpg" width="240" border="0" />](https://www.duncanmackenzie.net/images/d887715a-1bdd-4672-8565-35151429d166.jpg" atomicselection="true" rel="lightbox[522]" title="clip_image002)
 
 
 
-That just wouldn't do, so I asked [Adam Kinney](www.adamkinney.com) (Silverlight Evangelist and former dev on the C9/C10 team) what to do. He pointed me to the 'isWindowless' property of the Silverlight object and that info, combined with [this KB article about Windowless controls](http://support.microsoft.com/kb/177378), was enough for me to figure out what to do.
+That just wouldn't do, so I asked [Adam Kinney](www.adamkinney.com) (Silverlight Evangelist and former dev on the C9/C10 team) what to do. He pointed me to the 'isWindowless' property of the Silverlight object and that info, combined with [this KB article about Windowless controls](https://support.microsoft.com/kb/177378), was enough for me to figure out what to do.
 
 
 

@@ -9,6 +9,6 @@ I just uploaded a new sample to microsoft.com, pulling some useful code out of a
 
 That link might not be live for a little bit while it replicates out to the download servers, but the code is available at;
 
-[http://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi](http://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi "http://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi")
+[http://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi](https://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi "http://download.microsoft.com/download/a/c/5/ac51af30-44c3-43cd-8ffb-0714188a590b/FileIconsSetup.msi")
 
  

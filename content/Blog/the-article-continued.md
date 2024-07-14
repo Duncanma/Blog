@@ -98,7 +98,7 @@ end function
 
 Before I can continue with the article I really need to finish up the code, which I haven't had quite enough time for yet... so far I ended up creating a little 'test' application (see the pic below) that will eventually be scrapped in favour of the real system, and the same goes for that code I've pasted in above... but it is a start. The XSLT will likely be improved a bit more as well, it can't handle
 
-[Chris Sells's feed](http://www.sellsbrothers.com/news/rss.aspx) at the moment among others (due to [the wonders of RSS](http://weblogs.asp.net/ksharkey/posts/21875.aspx) and my own lack of knowledge about all of the different possible elements).
+[Chris Sells's feed](https://www.sellsbrothers.com/news/rss.aspx) at the moment among others (due to [the wonders of RSS](https://weblogs.asp.net/ksharkey/posts/21875.aspx) and my own lack of knowledge about all of the different possible elements).
 
 ![RSS Viewer Screenshot](/images/rssviewer.jpg)
 

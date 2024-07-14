@@ -12,4 +12,4 @@ From their site...
 </blockquote>
 
 <p dir="ltr">
-  [More info here...](http://www.jetbrains.com/resharper/index.html)
+  [More info here...](https://www.jetbrains.com/resharper/index.html)

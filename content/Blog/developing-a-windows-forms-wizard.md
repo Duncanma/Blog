@@ -3,7 +3,7 @@ date: 2004-04-12T02:28:00+00:00
 title: Developing a Windows Forms Wizard...
 type: posts
 ---
-I have to admit that I haven't developed a "wizard" framework yet in .NET, I've just been stacking panels on top of each other, naming them step1...stepN and then showing and hiding them as necessary. Not exactly an easy-to-reuse approach, but it works. [Justin Rogers](http://weblogs.asp.net/justin_rogers), a developer who has worked on the GDN Workspaces system, the ASP.NET forums, Terrarium and more... has released an article on his blog that details a structured approach to create a Windows Forms Wizard:
+I have to admit that I haven't developed a "wizard" framework yet in .NET, I've just been stacking panels on top of each other, naming them step1...stepN and then showing and hiding them as necessary. Not exactly an easy-to-reuse approach, but it works. [Justin Rogers](https://weblogs.asp.net/justin_rogers), a developer who has worked on the GDN Workspaces system, the ASP.NET forums, Terrarium and more... has released an article on his blog that details a structured approach to create a Windows Forms Wizard:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
@@ -15,4 +15,4 @@ I have to admit that I haven't developed a "wizard" framework yet in .NET, I've 
 
 </blockquote>
 
-Update: Justin has posted [a 3rd installment in this series](http://weblogs.asp.net/justin_rogers/articles/111939.aspx)...
+Update: Justin has posted [a 3rd installment in this series](https://weblogs.asp.net/justin_rogers/articles/111939.aspx)...

@@ -8,7 +8,7 @@ tags:
  - RSS
  - CMS
 ---
-About a year or so back I added `<category>` elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn't until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn't have categories specified in them at all. Not in [the main feed](http://blogs.duncanmackenzie.net/MainFeed.aspx) or in the [per-blog feeds](http://blogs.duncanmackenzie.net/duncanma/rss.aspx)...
+About a year or so back I added `<category>` elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn't until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn't have categories specified in them at all. Not in [the main feed](https://blogs.duncanmackenzie.net/MainFeed.aspx) or in the [per-blog feeds](https://blogs.duncanmackenzie.net/duncanma/rss.aspx)...
 
 This seemed really odd to me, since much of the UI of the .Text posting page, editing page, and even the blog skins themselves is dedicated to the listing and selecting of categories. Obviously, categories are seen as important information about blog entries, so why not include them in the RSS feeds? Oh well, there is little point in wondering about these sorts of things, not when you have the source, so I added category elements to my main and individual feeds. I haven't added them to the per-category feeds yet, or to the ATOM feeds, but I'll get to those in the near future.
 
@@ -33,8 +33,8 @@ If you haven't looked at the .Text source yourself, you might be wondering why a
  END
 ```
 
-_thanks to [Garth's 2001 article from SQLTeam.com for showing me COALESCE being used for this purpose...](http://www.sqlteam.com/item.asp?ItemID=2368)_
+_thanks to [Garth's 2001 article from SQLTeam.com for showing me COALESCE being used for this purpose...](https://www.sqlteam.com/item.asp?ItemID=2368)_
 
 and then modifying the queries that retrieved entries to also return `blog_GetCategoryTitles(<PostID>)`, and then modify the RSS writer to output the categories if any were returned.
 
-Interesting note, I figured the omission of category data from the feeds in .Text was a simple error and that it would have been added along the way to Community Server, but I noticed that the feeds on [blogs.msdn.com](http://blogs.msdn.com/alexbarn/rss.aspx) don't appear to have category data either... is category information not considered useful in feeds?
+Interesting note, I figured the omission of category data from the feeds in .Text was a simple error and that it would have been added along the way to Community Server, but I noticed that the feeds on [blogs.msdn.com](https://blogs.msdn.com/alexbarn/rss.aspx) don't appear to have category data either... is category information not considered useful in feeds?

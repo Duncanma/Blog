@@ -5,7 +5,7 @@ type: posts
 ---
 > **
 
-> [Recusive GetFiles for DirectoryInfo via a C# Iterator](http://weblogs.asp.net/whaggard/archive/2004/08/15/214864.aspx)
+> [Recusive GetFiles for DirectoryInfo via a C# Iterator](https://weblogs.asp.net/whaggard/archive/2004/08/15/214864.aspx)
 
 >**
 >

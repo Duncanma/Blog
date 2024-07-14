@@ -17,6 +17,6 @@ type: posts
                                               * <font face="Verdana">Albany 6/9 (Joe Binder and tbd)
                                                   * _<font face="Verdana">note that more dates/locations are coming, including events in **Asia** and **Europe**..._
 
-From [Robert Green's Visual Basic Blog](http://blogs.msdn.com/rgreen_msft/archive/2004/04/12/111938.aspx)
+From [Robert Green's Visual Basic Blog](https://blogs.msdn.com/rgreen_msft/archive/2004/04/12/111938.aspx)
 
-Check out the main page for the tour [here...](http://msdn.microsoft.com/vbasic/worldtour)
+Check out the main page for the tour [here...](https://msdn.microsoft.com/vbasic/worldtour)

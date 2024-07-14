@@ -5,4 +5,4 @@ type: posts
 ---
 Yep, it may be surprising to some, but on10 has a bunch of great info on Sony up today....
 
-[<img src="http://www.duncanmackenzie.net/images/Sony1.jpg" title="" border="0" />](http://on10.net/Blogs/TheShow/3052/)
+[<img src="http://www.duncanmackenzie.net/images/Sony1.jpg" title="" border="0" />](https://on10.net/Blogs/TheShow/3052/)

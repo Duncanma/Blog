@@ -3,7 +3,7 @@ date: 2004-06-05T10:47:00+00:00
 title: Early & Adopter fill you in on "Application Level Events"
 type: posts
 ---
-The [3 Leaf](http://www.3leaf.com/) guys, (well probably just one of them... but who knows which one), talk about ["Application Level Events" in Whidbey](http://ea.3leaf.com/2004/06/application_lev.html)
+The [3 Leaf](https://www.3leaf.com/) guys, (well probably just one of them... but who knows which one), talk about ["Application Level Events" in Whidbey](https://ea.3leaf.com/2004/06/application_lev.html)
 
 Here's a code snippet to illustrate what they are talking about... something that I like to think of as "Global.asa" (I haven't done a lot of web work since ASP) for Windows applications...
 
@@ -30,4 +30,4 @@ Namespace My
 End Namespace
 ```
 
-Make sure you check out [the whole post](http://ea.3leaf.com/2004/06/application_lev.html) for a pretty screenshot 🙂
+Make sure you check out [the whole post](https://ea.3leaf.com/2004/06/application_lev.html) for a pretty screenshot 🙂

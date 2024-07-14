@@ -41,7 +41,7 @@ _Bing_
 ![Google search results](/images/titlesForChannel9_figure5.png)
 _Google_
 
-You can find more info on [the limits for visible title length here](http://blog.powermapper.com/blog/post/Page-Title-Length-for-Search-Engines.aspx), but in the end I would focus on putting the right info in the title, and putting the most important parts closer to the front… ideally in the first 50-60 characters.
+You can find more info on [the limits for visible title length here](https://blog.powermapper.com/blog/post/Page-Title-Length-for-Search-Engines.aspx), but in the end I would focus on putting the right info in the title, and putting the most important parts closer to the front… ideally in the first 50-60 characters.
 
 ## What to say in the title
 
@@ -69,4 +69,4 @@ _"New features in Windows 10"_
 
 One implies it is shocking and exciting, the other just tells me what I'll learn if I click it.
 
-As mentioned earlier, more specifics would be good. Windows 10 is a big product, so maybe  "New features for client applications in Windows 10" or "5 new features in Windows 10 for client applications". A list of items, "5 hottest cars at the auto show", is really common in both good and bad headlines online. This style of headline is so common in 'clickbait' that sometimes we associate it with that type of misleading content. In reality though, [people love numbered lists of things](http://www.newyorker.com/tech/elements/a-list-of-reasons-why-our-brains-love-lists), so as long as you deliver what you promise then I think you should go for it.
+As mentioned earlier, more specifics would be good. Windows 10 is a big product, so maybe  "New features for client applications in Windows 10" or "5 new features in Windows 10 for client applications". A list of items, "5 hottest cars at the auto show", is really common in both good and bad headlines online. This style of headline is so common in 'clickbait' that sometimes we associate it with that type of misleading content. In reality though, [people love numbered lists of things](https://www.newyorker.com/tech/elements/a-list-of-reasons-why-our-brains-love-lists), so as long as you deliver what you promise then I think you should go for it.

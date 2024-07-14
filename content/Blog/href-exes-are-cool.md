@@ -3,7 +3,7 @@ date: 2003-03-16T14:18:00+00:00
 title: HREF EXEs are cool.
 type: posts
 ---
-I have been, since I started using .NET, a big supporter of the ['Smart Client' or 'Rich Client' application](http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/toc.asp). I've talked about it to people, I've dug deep into the underlying technology, I've built samples... **big fan of the whole idea**
+I have been, since I started using .NET, a big supporter of the ['Smart Client' or 'Rich Client' application](https://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/toc.asp). I've talked about it to people, I've dug deep into the underlying technology, I've built samples... **big fan of the whole idea**
 
 
   . On a parallel track, I wrote several systems internal to MSDN using VB.NET and Windows Forms, but I didn't make any of them into auto-deploying apps (aka no-touch apps, aka HREF EXEs, etc.). Why not? Habit I suppose, it just really didn't occur to me, until after I had sent out a few updates for each of them, then I felt really silly... I'm not supposed to have to do this anymore, sending out updates is a thing of the past!

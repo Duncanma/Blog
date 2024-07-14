@@ -3,7 +3,7 @@ date: 2004-04-14T22:15:00+00:00
 title: Hey Scott Seely is blogging!!
 type: posts
 ---
-[Scott](http://www.amazon.com/exec/obidos/ASIN/0130907634/duncanmackenz-20?creative=125581&camp=2321&link_code=as1), one of my colleagues from my first year at MSDN, has [a blog now](http://weblogs.asp.net/scottseely/) and he just posted a cool entry illustrating the new configuration system in VS 2005...
+[Scott](https://www.amazon.com/exec/obidos/ASIN/0130907634/duncanmackenz-20?creative=125581&camp=2321&link_code=as1), one of my colleagues from my first year at MSDN, has [a blog now](https://weblogs.asp.net/scottseely/) and he just posted a cool entry illustrating the new configuration system in VS 2005...
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

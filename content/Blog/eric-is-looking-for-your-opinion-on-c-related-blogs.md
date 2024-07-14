@@ -12,4 +12,4 @@ If you have any opinions on this topic, make sure you click on the link below an
 </blockquote>
 
 <p dir="ltr">
-  I'll likely be using these comments to restructure [the blogs page ](http://msdn.microsoft.com/vcsharp/community/blogs/)on the C# developer center, so please make your voice heard!
+  I'll likely be using these comments to restructure [the blogs page ](https://msdn.microsoft.com/vcsharp/community/blogs/)on the C# developer center, so please make your voice heard!

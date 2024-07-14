@@ -7,6 +7,6 @@ Matthew Gertz, Dev Lead for the VB Compiler, Editor & Debugger team has written 
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    ** [Operator Overloading In Visual Basic 2005](http://msdn.microsoft.com/vbasic/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/vboperatoroverloading.asp) ** Operator Overloading, new to Visual Basic 2005, simplifies the use and development of complex types by allowing you to specify your own implementation for standard operations such as addition and subtraction.
+    ** [Operator Overloading In Visual Basic 2005](https://msdn.microsoft.com/vbasic/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/vboperatoroverloading.asp) ** Operator Overloading, new to Visual Basic 2005, simplifies the use and development of complex types by allowing you to specify your own implementation for standard operations such as addition and subtraction.
 
 </blockquote>

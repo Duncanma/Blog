@@ -5,8 +5,8 @@ type: posts
 tags:
  - Coding
 ---
-The same programmer who asked for [an example of rotated text](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx) is back with another interesting request; how to partially fill a circle from the bottom up
-as if it was a glass that you've poured water into... so here goes (this is only a snippet of the code, see [the original post ](http://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx)for the rest);
+The same programmer who asked for [an example of rotated text](https://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx) is back with another interesting request; how to partially fill a circle from the bottom up
+as if it was a glass that you've poured water into... so here goes (this is only a snippet of the code, see [the original post ](https://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx)for the rest);
 
 ```vb
     Protected Overrides Sub OnPaint( _

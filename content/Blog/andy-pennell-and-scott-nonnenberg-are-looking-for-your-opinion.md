@@ -26,4 +26,4 @@ type: posts
 </blockquote>
 
 <p dir="ltr">
-  If you have an opinion on this (I'm for #2 myself), chime in on the comments to [Andy's post](http://blogs.msdn.com/andypennell/archive/2004/06/17/158597.aspx).
+  If you have an opinion on this (I'm for #2 myself), chime in on the comments to [Andy's post](https://blogs.msdn.com/andypennell/archive/2004/06/17/158597.aspx).

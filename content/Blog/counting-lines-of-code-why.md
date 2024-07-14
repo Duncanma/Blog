@@ -7,7 +7,7 @@ type: posts
 
 I've never even tried to count the lines of code in a project, and I have no
 
-idea why I would. Jason mentions in his [post](http://dotnetweblogs.com/Jtucker/posts/3685.aspx) that some
+idea why I would. Jason mentions in his [post](https://dotnetweblogs.com/Jtucker/posts/3685.aspx) that some
 
 people have to account for their lines of code produced in a day and I think
 
@@ -34,4 +34,3 @@ and that should be enough. If I hand in 2 pages and you expected 20, read the
 pages... did I cover the material, if not then don't pay me... ok, now I am
 
 rambling so I had better hit post...
-

@@ -35,4 +35,4 @@ Private Sub TextBox1_TextChanged(ByVal sender As System.Object, _
 End Sub
 ```
 
-The key is that the **[CultureInfo](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfSystemGlobalizationCultureInfoClassTopic.asp)** class provides a **[TextInfo](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemglobalizationtextinfoclasstopic.asp)** instance, which in turn has a method of `ToTitleCase` on it... [This KB article](http://support.microsoft.com/default.aspx?scid=kb;en-us;312897#3) provides more info and also shows an alternate method to achieve the same results (`StrConv()`).
+The key is that the **[CultureInfo](https://msdn.microsoft.com/library/en-us/cpref/html/frlrfSystemGlobalizationCultureInfoClassTopic.asp)** class provides a **[TextInfo](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemglobalizationtextinfoclasstopic.asp)** instance, which in turn has a method of `ToTitleCase` on it... [This KB article](https://support.microsoft.com/default.aspx?scid=kb;en-us;312897#3) provides more info and also shows an alternate method to achieve the same results (`StrConv()`).

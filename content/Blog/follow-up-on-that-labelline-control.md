@@ -5,7 +5,7 @@ type: posts
 tags:
  - Coding
 ---
-It seems a few people had questions about [the control I posted previously](http://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx), so here are answers to two of the questions that people might be running into:
+It seems a few people had questions about [the control I posted previously](https://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx), so here are answers to two of the questions that people might be running into:
 
   1. What about word wrapping? Good point, turns out I hadn't quite finished my code before I got distracted by food or coffee... and then I ended up leaving out word wrapping! You just need to modify 1 line to make wrapping work, though:
 

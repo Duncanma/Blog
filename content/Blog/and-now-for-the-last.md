@@ -13,7 +13,7 @@ With this final bit of text, this is the whole article... before any of your com
 
 ### Storing and Retrieving the Feed Lists
 
-Once I had the RSS feeds displaying, and I had tested the system with enough sample data (translation: it worked against [my blog's feed](http://weblogs.asp.net/duncanma)) to ensure it was working correctly, it was time to move onto creating code to support retrieving and editing the personal and master feed lists. For now, I only implemented two classes that used the IFeedList interface, one for accessing SQL and one that works with an xml settings file that is unique to the current user. See the code download for the source to the IFeedList interface and to the two implementations.
+Once I had the RSS feeds displaying, and I had tested the system with enough sample data (translation: it worked against [my blog's feed](https://weblogs.asp.net/duncanma)) to ensure it was working correctly, it was time to move onto creating code to support retrieving and editing the personal and master feed lists. For now, I only implemented two classes that used the IFeedList interface, one for accessing SQL and one that works with an xml settings file that is unique to the current user. See the code download for the source to the IFeedList interface and to the two implementations.
 
 ```vb
 Public Interface IFeedList
@@ -85,8 +85,8 @@ As I developed the system, I decided to break it up for easier reuse in the futu
 
 As always, I need to use some resources from various places on the web to build my finished application. I didn't use any GotDotNet user samples in this particular sample, but I did use:
 
-  * Eric J. Smith's excellent "[CodeSmith](http://www.ericjsmith.net/codesmith/)" utility to generate my strongly-typed Feeds collection,
-  * Some starter XSL stolen from the template folder of RSS Bandit ([check out the workspace](http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=cb8d3173-9f65-46fe-bf17-122e3703bb00)!), and
+  * Eric J. Smith's excellent "[CodeSmith](https://www.ericjsmith.net/codesmith/)" utility to generate my strongly-typed Feeds collection,
+  * Some starter XSL stolen from the template folder of RSS Bandit ([check out the workspace](https://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=cb8d3173-9f65-46fe-bf17-122e3703bb00)!), and
   * Various bits of XSL and "help desk support" from Kent Sharkey.
 
 I will also point you to some good sources of RSS data, great material to display using the code from this article, as well as being great reading.

@@ -5,4 +5,4 @@ type: posts
 ---
 And the general geek-focused music world in general I suspect... but I only see Frontalot's name on there now.
 
-[Check out the description and trailer here](http://www.vaguelyqualifiedproductions.com/Projects%20Nerdcore.html)
+[Check out the description and trailer here](https://www.vaguelyqualifiedproductions.com/Projects%20Nerdcore.html)

@@ -7,7 +7,7 @@ Part of vbCity's newsletter, the 'diary' column always has some great content fo
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    [Diary of a .NET Newbie: Owning Up](http://www.devcity.net/newsletter/archive/devcity/devcity20040505.htm#ni020)
+    [Diary of a .NET Newbie: Owning Up](https://www.devcity.net/newsletter/archive/devcity/devcity20040505.htm#ni020)
 
 
 
@@ -20,4 +20,4 @@ Part of vbCity's newsletter, the 'diary' column always has some great content fo
 </blockquote>
 
 <p dir="ltr">
-  [Visit vbCity if you want to sign up for the newsletter...](http://vbcity.com/newsletter.asp)
+  [Visit vbCity if you want to sign up for the newsletter...](https://vbcity.com/newsletter.asp)

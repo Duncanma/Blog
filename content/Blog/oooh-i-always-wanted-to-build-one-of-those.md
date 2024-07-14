@@ -5,7 +5,7 @@ type: posts
 ---
 Actually, I've always wanted to mimic something simpler, just the error message and a more button to see the stack trace... but this component would be wonderful during a beta release, or as something that can be toggled on by the troubleshooting developer...
 
-via [Sijin Joseph](http://weblogs.asp.net/sjoseph/archive/2004/02/13/72341.aspx)
+via [Sijin Joseph](https://weblogs.asp.net/sjoseph/archive/2004/02/13/72341.aspx)
 
 > Found some great components to integrate into my project.
 

@@ -23,11 +23,11 @@ To sum up the differences I would have to say that href-exes are simple to use a
 
 **Resources:**
 
-  * [Application Updater by Jamie Cool](http://windowsforms.net/articles/appupdater.aspx)
-  * [GotDotNet Workspace of new PAG version of the same concept](http://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5)
-  * [The WIndows Forms Deployment area of the Visual Basic Developer Center](http://msdn.microsoft.com/vbasic/using/building/windows/deploy/default.aspx)
-  * [Deployment Articles on WindowsForms.net](http://www.windowsforms.net/Default.aspx?tabindex=3&tabid=40#Deployment)
-  * [Wahoo! An Href-Exe Application Example](http://www.sellsbrothers.com/wahoo) by Chris Sells (and [an associated article](http://msdn.microsoft.com/vbasic/using/columns/wonders/default.aspx?pull=/library/en-us/dnforms/html/winforms11122002.asp))
+  * [Application Updater by Jamie Cool](https://windowsforms.net/articles/appupdater.aspx)
+  * [GotDotNet Workspace of new PAG version of the same concept](https://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5)
+  * [The WIndows Forms Deployment area of the Visual Basic Developer Center](https://msdn.microsoft.com/vbasic/using/building/windows/deploy/default.aspx)
+  * [Deployment Articles on WindowsForms.net](https://www.windowsforms.net/Default.aspx?tabindex=3&tabid=40#Deployment)
+  * [Wahoo! An Href-Exe Application Example](https://www.sellsbrothers.com/wahoo) by Chris Sells (and [an associated article](https://msdn.microsoft.com/vbasic/using/columns/wonders/default.aspx?pull=/library/en-us/dnforms/html/winforms11122002.asp))
 
 
 

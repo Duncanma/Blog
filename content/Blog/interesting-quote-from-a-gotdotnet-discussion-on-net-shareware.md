@@ -11,7 +11,7 @@ Anytime people talk about developing shareware with .NET, the discussion centers
 
 
 
-Check out the full discussion [by clicking here](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=260372&Page=1#260936)
+Check out the full discussion [by clicking here](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=260372&Page=1#260936)
 
 
 

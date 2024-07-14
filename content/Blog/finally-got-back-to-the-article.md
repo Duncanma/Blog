@@ -9,7 +9,7 @@ tags:
 ---
 Thanks to everyone who emailed me and offered to help... but the problem was time, not technical... despite my joke about working on the cool stuff first, a ton of high-priority stuff has made me weeks late on my article!
 
-Although I did hit some snags with odd unsorted feeds (MSDN's!), I managed to get everything working the way I wanted. I'm still a little unhappy with the system because I don't strip out potentially bad tags from any HTML content included in the RSS (as per [http://diveintomark.org/archives/2003/06/12/how\_to\_consume\_rss\_safely](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely)) , but it has certainly progressed far enough in code for me to finish up the article.
+Although I did hit some snags with odd unsorted feeds (MSDN's!), I managed to get everything working the way I wanted. I'm still a little unhappy with the system because I don't strip out potentially bad tags from any HTML content included in the RSS (as per [http://diveintomark.org/archives/2003/06/12/how\_to\_consume\_rss\_safely](https://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely)) , but it has certainly progressed far enough in code for me to finish up the article.
 
 * * *
 
@@ -104,7 +104,7 @@ The end result should work for any feed that is using one of these three methods
 
 **Figure 3**
 
-Now, it is very important to note that whenever you are going to display HTML content that someone else has provided (such as the content inside of an RSS feed), you need to be aware of the possible risks, especially when you are using my method of replacing the contents of the "about:blank" page. When HTML is displayed in the embedded browser, it is running within the local zone, which will likely have much lower security restrictions than the Internet zone. Although there are ways in which you can clean up HTML before displaying it, it takes quite a bit of work to guarantee that it is completely safe. Check out [this useful blog post](http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely) that describes some of the issues caused by HTML in RSS, and gives some suggestions on avoiding them.
+Now, it is very important to note that whenever you are going to display HTML content that someone else has provided (such as the content inside of an RSS feed), you need to be aware of the possible risks, especially when you are using my method of replacing the contents of the "about:blank" page. When HTML is displayed in the embedded browser, it is running within the local zone, which will likely have much lower security restrictions than the Internet zone. Although there are ways in which you can clean up HTML before displaying it, it takes quite a bit of work to guarantee that it is completely safe. Check out [this useful blog post](https://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely) that describes some of the issues caused by HTML in RSS, and gives some suggestions on avoiding them.
 
 More to come soon... I've updated the XSLT at
 

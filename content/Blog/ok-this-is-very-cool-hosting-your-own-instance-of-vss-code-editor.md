@@ -5,7 +5,7 @@ type: posts
 ---
 Dr. Ex(tensibility) posted this recently;
 
-> **[Deploying Managed Packages and Hosting Code Editor in Tool Windows](http://blogs.msdn.com/Dr._Ex/archive/2004/08/29/222425.aspx)**
+> **[Deploying Managed Packages and Hosting Code Editor in Tool Windows](https://blogs.msdn.com/Dr._Ex/archive/2004/08/29/222425.aspx)**
 
 First things first.... this should have been two blog entries... because it is way too long for one, and because the two topics are not related... so here I end up, interested only in the hosting of code editors, and I have to link to that other stuff as well... but I digress... 🙂
 

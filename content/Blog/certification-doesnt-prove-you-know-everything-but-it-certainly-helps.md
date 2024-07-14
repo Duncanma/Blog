@@ -13,7 +13,7 @@ type: posts
 
 
 
-    _<font face="Verdana" size="2">[[Julie Lerman](http://dotnetweblogs.com/JLerman/posts/4964.aspx)]_
+    _<font face="Verdana" size="2">[[Julie Lerman](https://dotnetweblogs.com/JLerman/posts/4964.aspx)]_
 
 </blockquote>
 

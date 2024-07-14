@@ -5,7 +5,7 @@ type: posts
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 
-    <b> [Chats on Visual Basic 2005](http://blogs.msdn.com/vbteam/archive/2004/07/07/175635.aspx) </b> _ For the past year, I've been organizing the Visual Basic chats that appear at _ [ _http://msdn.microsoft.com/chats/_ ](http://msdn.microsoft.com/chats/) _. For the most part, these chats focused on answering your questions about Visual Basic._
+    <b> [Chats on Visual Basic 2005](https://blogs.msdn.com/vbteam/archive/2004/07/07/175635.aspx) </b> _ For the past year, I've been organizing the Visual Basic chats that appear at _ [ _http://msdn.microsoft.com/chats/_ ](https://msdn.microsoft.com/chats/) _. For the most part, these chats focused on answering your questions about Visual Basic._
 
 
 

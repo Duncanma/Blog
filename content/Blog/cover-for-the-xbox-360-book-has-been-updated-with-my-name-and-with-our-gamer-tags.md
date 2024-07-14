@@ -8,4 +8,4 @@ tags:
 ---
 ![Book Cover, Xbox 360 for Dummies](/images/BookCover.jpg)
 
-[from Brian's blog....](http://spaces.msn.com/members/brianjo/blog/cns!1ph41gaeDxp9TA2G5t8Gj1DA!391.entry)
+[from Brian's blog....](https://spaces.msn.com/members/brianjo/blog/cns!1ph41gaeDxp9TA2G5t8Gj1DA!391.entry)

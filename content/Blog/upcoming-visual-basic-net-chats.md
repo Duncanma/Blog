@@ -7,7 +7,7 @@ Check out <http://msdn.microsoft.com/chats> for a full listing of upcoming chats
 
 **
 
-[Debugging Visual Basic .NET Applications](http://msdn.microsoft.com/chats/#vs_0420)
+[Debugging Visual Basic .NET Applications](https://msdn.microsoft.com/chats/#vs_0420)
 
 **
 
@@ -19,7 +19,7 @@ Check out <http://msdn.microsoft.com/chats> for a full listing of upcoming chats
 
 **
 
-[Working with the DataGrid Control in Visual Basic .NET](http://msdn.microsoft.com/chats/#vs_0427)
+[Working with the DataGrid Control in Visual Basic .NET](https://msdn.microsoft.com/chats/#vs_0427)
 
 **
 

@@ -11,4 +11,4 @@ This time, he wants to know what you think about C#'s community:
 
 </blockquote>
 
-[Go on over there and let him know what you think!](http://blogs.msdn.com/ericgu/archive/2004/05/03/125336.aspx#FeedBack)
+[Go on over there and let him know what you think!](https://blogs.msdn.com/ericgu/archive/2004/05/03/125336.aspx#FeedBack)

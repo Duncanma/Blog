@@ -7,7 +7,7 @@ tags:
 ---
 I noticed yesterday that my poll wasn't showing the question on the top of the list of choices, or the list of results. Viewing the source made it pretty obvious the `<asp:label>` was rendering, but that it was empty. Checking my code everything seemed fine, but when I retrieved the poll details through a Stored Proc I was using an Output param for the question text and it was always blank. Well, I knew there was an entire article on MSDN on this exact topic... and a quick search on “Vaughn” on MSDN took me right to the article I knew would show me exactly what I needed to do.
 
-[Retrieving the Gazoutas: Understanding SQL Server Return Codes and Output Parameters](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnadonet/html/gazoutas.asp) by William Vaughn -- Discusses how to capture, interrupt, and handle resultsets and rowsets, as well as the extra information that they return when executing a Microsoft SQL Server query.
+[Retrieving the Gazoutas: Understanding SQL Server Return Codes and Output Parameters](https://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnadonet/html/gazoutas.asp) by William Vaughn -- Discusses how to capture, interrupt, and handle resultsets and rowsets, as well as the extra information that they return when executing a Microsoft SQL Server query.
 
 Yep... turns out I had goofed up, I was calling the stored proc with ExecuteReader, but I was trying to read those params before I had closed the data reader. So I made one change to my code;
 

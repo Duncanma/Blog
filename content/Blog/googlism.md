@@ -3,7 +3,7 @@ date: 2003-02-27T04:21:00+00:00
 title: Googlism
 type: posts
 ---
-This isn't all that new, but I hadn't [tried it on myself](http://www.googlism.com/index.htm?ism=Duncan+Mackenzie&type=1) before;
+This isn't all that new, but I hadn't [tried it on myself](https://www.googlism.com/index.htm?ism=Duncan+Mackenzie&type=1) before;
 
 ```
 duncan mackenzie is all man

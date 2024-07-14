@@ -6,4 +6,4 @@ tags:
  - RSS
  - Coding
 ---
-I guess I could have just added a category to my blog, but this works... [http://www.duncanmackenzie.net/articles/rss.xml](http://www.duncanmackenzie.net/articles/rss.xml)
+I guess I could have just added a category to my blog, but this works... [http://www.duncanmackenzie.net/articles/rss.xml](https://www.duncanmackenzie.net/articles/rss.xml)

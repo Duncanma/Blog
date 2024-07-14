@@ -44,9 +44,9 @@ A customer emailed me today (via the VB FAQ blog) with a question; "how can I ou
 
 If you want to try this code, create a new Windows Forms application in VS.NET 2003, and paste this code into your Form, after the "Windows Form Designer generated code" region.
 
-The result will be an image like this: ![Output sample](http://msdn.microsoft.com/vbasic/art/compass.png)
+The result will be an image like this: ![Output sample](https://msdn.microsoft.com/vbasic/art/compass.png)
 
-If you are looking for more info on GDI+ drawing in VB.NET, I'd suggest [my article on the subject](http://msdn.microsoft.com/library/en-us/dndotnet/html/designsurface.asp) 🙂 and there is [a good book available from AW](http://www.amazon.com/exec/obidos/ASIN/0321160770/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2)
+If you are looking for more info on GDI+ drawing in VB.NET, I'd suggest [my article on the subject](https://msdn.microsoft.com/library/en-us/dndotnet/html/designsurface.asp) 🙂 and there is [a good book available from AW](https://www.amazon.com/exec/obidos/ASIN/0321160770/duncanmackenz-20?dev-t=mason-wrapper%26camp=2025%26link_code=xm2)
 
 **Update:** Ugh... I messed up the directions... and didn't even notice (thanks Edward!!)
 

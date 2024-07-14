@@ -8,7 +8,7 @@ Here is the official blurb and link;
 
 MSDN now hosts .NET Rocks!, and Internet audio talk show for .NET developers. Produced by Carl Franklin and Mark Dunn from Franklins.Net, .NET Rocks! features interviews with .NET experts and other industry movers and shakers.
 
-[Check out .NET Rocks!.](http://msdn.microsoft.com/dotnetrocks/) </ul>
+[Check out .NET Rocks!.](https://msdn.microsoft.com/dotnetrocks/) </ul>
 
 
 

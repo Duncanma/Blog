@@ -5,7 +5,7 @@ type: posts
 tags:
  - Coding
 ---
-As with my earlier messing around with a poll, I took a concept from the [www.asp.net](http://www.asp.net/) site today and made my own "CheckDotNet.aspx" page. The one on [www.asp.net](http://www.asp.net/) only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases... recommending an upgrade for no framework or 1.0, and returning "Framework Found" if you have 1.1 already.
+As with my earlier messing around with a poll, I took a concept from the [www.asp.net](https://www.asp.net/) site today and made my own "CheckDotNet.aspx" page. The one on [www.asp.net](https://www.asp.net/) only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases... recommending an upgrade for no framework or 1.0, and returning "Framework Found" if you have 1.1 already.
 
 <http://www.duncanmackenzie.net/tools/checkdotnet.aspx>
 
@@ -60,4 +60,3 @@ _Ouch... I guess I was porting/modifying that code way too quickly... goofed up 
 Also, in the html of the aOkPanel11, which can appear for the .NET Framework 1.1 or greater... I changed the text to reflect this possibility and added `<%Response.Write(Request.Browser.ClrVersion)%>`
 
 _hopefully, this 'release' works better than the last one 🙂_
-

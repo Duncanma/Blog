@@ -8,6 +8,6 @@ The theme at my son's preschool last week was Caterpillars, and it also happened
 
 ![Butterfly Cookies](/images/DSC01763.JPG)
 
-... and these butterfly cookies. [Recipe for the breadstick/caterpillars](http://familycrafts.about.com/od/creativesnacks/r/caterpilrecipe.htm)
+... and these butterfly cookies. [Recipe for the breadstick/caterpillars](https://familycrafts.about.com/od/creativesnacks/r/caterpilrecipe.htm)
 
 Very yummy and supposedly quite well received by the kids...

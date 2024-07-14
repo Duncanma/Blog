@@ -5,4 +5,4 @@ type: posts
 ---
 It may not be everywhere, especially outside of the US, but it seems to be on its way....
 
-[<img height="243" alt="Xbox 360 for Dummies at a local Barnes and Noble" src="http://www.duncanmackenzie.net/images/bookAtBandN.jpg" width="323" />](http://www.xbox4dummies.com)
+[<img height="243" alt="Xbox 360 for Dummies at a local Barnes and Noble" src="http://www.duncanmackenzie.net/images/bookAtBandN.jpg" width="323" />](https://www.xbox4dummies.com)

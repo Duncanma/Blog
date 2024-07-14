@@ -66,7 +66,7 @@ Perhaps, if we had this relationship, we could use this knowledge to make the ta
 
 We could look at the tags used and ‘notice’ (I like putting human style verbs to what will turn into a series of Linq statements in code) that you are using a tag that has children, but that you are using none of the children. “You’ve tagged this video with ‘Azure’, which is a general tag that has 50 more specific child tags such as … do any of these also apply to your video?” Not sure if it would be sufficient to just check for tags that happen to have children, maybe we’d have to flag tags in the system as being very broad.
 
-If we are creating parent-child relationships, we could take this another step and create ‘aliases’ as well, similar to what [Stack Overflow has done with their tag synonyms](http://stackoverflow.com/tags/synonyms?tab=newest&filter=all). This would help avoid the continual creation of duplicate tags in our system (such as Microsoft Research, MS Research, MSR, MSResearch), and increases the value of each tag.
+If we are creating parent-child relationships, we could take this another step and create ‘aliases’ as well, similar to what [Stack Overflow has done with their tag synonyms](https://stackoverflow.com/tags/synonyms?tab=newest&filter=all). This would help avoid the continual creation of duplicate tags in our system (such as Microsoft Research, MS Research, MSR, MSResearch), and increases the value of each tag.
 
 ## Auto-Tagging?
 

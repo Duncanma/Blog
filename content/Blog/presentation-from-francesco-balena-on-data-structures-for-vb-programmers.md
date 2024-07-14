@@ -17,12 +17,12 @@ type: posts
 
 
 
-    Download [here](http://www.only4gurus.com/techlib/miscellaneous/n6.pdf)
+    Download [here](https://www.only4gurus.com/techlib/miscellaneous/n6.pdf)
 
 
 
-    Source: [Only4gurus](http://www.only4gurus.com/)
+    Source: [Only4gurus](https://www.only4gurus.com/)
 
 </blockquote>
 
-Good presentation... [from a great author](http://www.wintellect.com/about/instructors/instructorbios.aspx?id=5). It appears to be a [Wintellect](http://www.wintellect.com/) presentation, so I hope they intended for it to be posted for free like this...
+Good presentation... [from a great author](https://www.wintellect.com/about/instructors/instructorbios.aspx?id=5). It appears to be a [Wintellect](https://www.wintellect.com/) presentation, so I hope they intended for it to be posted for free like this...

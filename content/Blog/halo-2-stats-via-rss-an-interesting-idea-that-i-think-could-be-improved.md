@@ -8,7 +8,7 @@ tags:
  - Xbox
  - RSS
 ---
-I like that Bungie is exposing your stats as RSS ([see mine here](http://www.duncanmackenzie.net/halo2.aspx)), but it would be cooler if they had added some additional elements and attributes to the feed to describe the games in a more usable format, rather than just in HTML... instead of;
+I like that Bungie is exposing your stats as RSS ([see mine here](https://www.duncanmackenzie.net/halo2.aspx)), but it would be cooler if they had added some additional elements and attributes to the feed to describe the games in a more usable format, rather than just in HTML... instead of;
 
 ```xml
 <item>

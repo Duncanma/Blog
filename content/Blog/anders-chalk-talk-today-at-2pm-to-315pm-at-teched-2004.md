@@ -9,4 +9,4 @@ Swing by **Cabana 5** today (May 26) at 2pm if you want to chat with Anders.... 
 
 ![Anders Hejlsberg](/images/AndersChalkTalk.JPG)
 
-_(Just in case you don't know the name: Anders Hejlsberg is the designer of_ [_the C# language_](http://msdn.microsoft.com/vcsharp/language)_... so if you are into C#, you'd probably enjoy listening to his talk)_
+_(Just in case you don't know the name: Anders Hejlsberg is the designer of_ [_the C# language_](https://msdn.microsoft.com/vcsharp/language)_... so if you are into C#, you'd probably enjoy listening to his talk)_

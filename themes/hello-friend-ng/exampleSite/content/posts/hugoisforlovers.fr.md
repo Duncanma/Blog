@@ -33,7 +33,7 @@ vous lisez actuellement.
 
 Suivez les instructions suivante :
 
- 1. Clonez le [dépôt de hugo](http://github.com/spf13/hugo)
+ 1. Clonez le [dépôt de hugo](https://github.com/spf13/hugo)
  2. Allez dans ce dépôt
  3. Lancez Hugo en mode serveur et compilez la documentation
  4. Ouvrez votre navigateur sur http://localhost:1313
@@ -68,7 +68,7 @@ surveillance.
 
 Ouvrez votre [éditeur favori](https://vim.spf13.com) et changer l'une des
 sources des pages de contenu.
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
+Open your [favorite editor](https://vim.spf13.com) and change one of the source
 content pages. Que diriez-vous de modifier ce fichier pour *résoudre une faute
 de typo*.
 

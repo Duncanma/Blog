@@ -3,7 +3,7 @@ date: 2003-11-11T11:13:00+00:00
 title: ClickOnce and "locked down" systems
 type: posts
 ---
-Ron Krauter posted this comment to [one of my earlier posts](http://weblogs.asp.net/duncanma/posts/34182.aspx);
+Ron Krauter posted this comment to [one of my earlier posts](https://weblogs.asp.net/duncanma/posts/34182.aspx);
 
 > **re: Reading Blogs... 11/2/2003 9:59 AM Ron Krauter**
 
@@ -17,4 +17,4 @@ So no more running to each machine to do a 'RUNAS' administrative install.
 
 It is worth pointing out though, that installing the framework is an 'impactful' install, using a standard .msi, so getting the framework out ahead of your ClickOnce applications will likely require higher privileges.
 
-_looking for more info on ClickOnce? check out [the first chapter of my book up on MSDN](http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp)_
+_looking for more info on ClickOnce? check out [the first chapter of my book up on MSDN](https://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp)_

@@ -5,9 +5,9 @@ type: posts
 ---
 From Major Nelson:
 
-> ### [Oblivion: Knights of the Nine](http://www.majornelson.com/archive/2006/11/21/oblivion-knights-of-the-nine.aspx)
+> ### [Oblivion: Knights of the Nine](https://www.majornelson.com/archive/2006/11/21/oblivion-knights-of-the-nine.aspx)
 >
-> The following ‘[Oblivion](http://www.xbox.com/en-US/games/t/theelderscrollsIVoblivion/)’ content is available on the Xbox Live Marketplace for all regions:
+> The following ‘[Oblivion](https://www.xbox.com/en-US/games/t/theelderscrollsIVoblivion/)’ content is available on the Xbox Live Marketplace for all regions:
 > **Name**: Knights of the Nine
 > **Price**: 800 Points
 > **Available** **in**: All Xbox Live Regions

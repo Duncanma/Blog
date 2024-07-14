@@ -9,7 +9,7 @@ type: posts
 
 <font face="Tahoma">my grand-boss
 
-](http://blogs.gotdotnet.com/saraw/)
+](https://blogs.gotdotnet.com/saraw/)
 
  <font face="Tahoma">started blogging, but now the Senior Vice President of Microsoft's Developer Platform and Evangelism Group,
 
@@ -17,6 +17,6 @@ type: posts
 
 <font face="Tahoma">Eric Rudder
 
-](http://msdn.microsoft.com/blogs/ericr/)
+](https://msdn.microsoft.com/blogs/ericr/)
 
  <font face="Tahoma">has a blog... I've already learned that he codes at night and I'm sure there will be more interesting tidbits coming! Yet another feed added to my OPML.

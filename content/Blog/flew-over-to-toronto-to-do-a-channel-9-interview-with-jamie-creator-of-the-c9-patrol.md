@@ -5,4 +5,4 @@ type: posts
 ---
 ![Jamie has some Channel 9 Guys](/images/C9Jamie.jpg)
 
-No idea what I'm talking about? Head over [to this blog post about Jamie's artwork](http://c9park.wordpress.com/2006/07/03/9-patrol) to find out more.
+No idea what I'm talking about? Head over [to this blog post about Jamie's artwork](https://c9park.wordpress.com/2006/07/03/9-patrol) to find out more.

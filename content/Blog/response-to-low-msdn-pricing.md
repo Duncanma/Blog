@@ -3,7 +3,7 @@ date: 2003-05-21T02:03:00+00:00
 title: Response to low MSDN pricing
 type: posts
 ---
-<font face="Verdana,Arial,Helvetica,sans-serif" color="#008080">DonXML was [discussing the various prices he has seen on the web for MSDN subscriptions](http://dotnetweblogs.com/donxml/posts/7289.aspx), and being from [MSDN](http://msdn.microsoft.com/vbasic) I was a little curious. I asked around, and it turns out we have a canned response to this question that you might find helpful (or not).
+<font face="Verdana,Arial,Helvetica,sans-serif" color="#008080">DonXML was [discussing the various prices he has seen on the web for MSDN subscriptions](https://dotnetweblogs.com/donxml/posts/7289.aspx), and being from [MSDN](https://msdn.microsoft.com/vbasic) I was a little curious. I asked around, and it turns out we have a canned response to this question that you might find helpful (or not).
 
 <font face="Arial,Helvetica,sans-serif" color="#000000">The sheer volume and ever changing number of offers, resellers, businesses, marketing programs and selling that takes place on the global commerce stage precludes Microsoft from being in a position to validate every MSDN subscription offer in the market. As is the basis for any general purchasing decision you may make, it is in your best interest to thoroughly investigate who you are buying anything from. Generally speaking, we have found that the following are some common sense warning signs to look out for (but by no means limited to)...
 
@@ -18,7 +18,7 @@ type: posts
 
 
 
-        Finally, there are sites designed to provide education on what you should receive when acquiring software licenses or how to tell if what you are seeing is genuine Microsoft software – Visit [http://www.microsoft.com/licensing/](http://www.microsoft.com/licensing/) to learn more about how Microsoft licensing programs work and the options that are available to consumers. Visit [http://www.microsoft.com/piracy/default.asp](http://www.microsoft.com/piracy/default.asp) to learn how to tell if what you are looking at is genuine Microsoft software.
+        Finally, there are sites designed to provide education on what you should receive when acquiring software licenses or how to tell if what you are seeing is genuine Microsoft software – Visit [http://www.microsoft.com/licensing/](https://www.microsoft.com/licensing/) to learn more about how Microsoft licensing programs work and the options that are available to consumers. Visit [http://www.microsoft.com/piracy/default.asp](https://www.microsoft.com/piracy/default.asp) to learn how to tell if what you are looking at is genuine Microsoft software.
 
     </li>
   </li>

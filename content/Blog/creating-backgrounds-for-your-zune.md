@@ -16,12 +16,12 @@ When you hook up to a TV though, you may be surprised by the result. We expected
 
 If you decide that the first issue matters to you (and it might not, TV output is not the main usage scenario for a Zune), then you need to make sure that a centered horizontal slice approximately two thirds the size of the image will still make a good background. If you don't care about TV out, then you can focus only on how the image looks at 240x320, which is what we did when making the Halo image shown below, but you still run into issues when the Zune zooms into your image on secondary menu pages.
 
- ![Halo Background](http://www.on10.net/images/blogs/Halo3Zune.jpg)
+ ![Halo Background](https://www.on10.net/images/blogs/Halo3Zune.jpg)
 
 With only a 240x320 image, you may see distortion when zoomed in; you can avoid this affect by creating your images at a slightly higher resolution while still maintaining a perfect ratio of 3:4 for the width and height. Following this plan, we created another copy of that same Halo image that works zoomed out as a background, looks good zoomed in, but doesn't look good at all when hooked up to a TV. This second background is 400px by 533px, but you could experiment with various resolutions to see which ones scale down the best on your Zune.
 
 ![Larger Halo background](/images/LargerHalo3Background.jpg)
 
-(both Halo images are cropped versions of a wallpaper from [360Style.net](http://360style.net/wallpapers28.html))
+(both Halo images are cropped versions of a wallpaper from [360Style.net](https://360style.net/wallpapers28.html))
 
 Once you have a picture (or pictures) created that you'd like to use as a background, put those pictures into one of the folders that your Zune software is monitoring (such as your My Pictures folder) then, when they appear in the library you can drag them onto the synclist and click "Start Sync" to get them onto your Zune. Disconnect your Zune after you've sync'd and browse to the picture and select it so that you are viewing it on your Zune. Click the center navigation button to bring up a menu listing what you can do with this image and pick the "apply as background" option. Hold down the back button to jump back to the home page and check out your creation!

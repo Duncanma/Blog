@@ -5,7 +5,7 @@ type: posts
 tags:
  - personal
 ---
-It was a very enjoyable summer weekend for our little family, including a trip today to pick raspberries (tons of fun, easy to pick...) and strawberries (very tasty... but much less enjoyable to be squatting down in the tiny little space between the rows trying to dig through the little bushes looking for ripe strawberries...) out at a local place called [Remlinger Farms](http://www.RemlingerFarms.com).
+It was a very enjoyable summer weekend for our little family, including a trip today to pick raspberries (tons of fun, easy to pick...) and strawberries (very tasty... but much less enjoyable to be squatting down in the tiny little space between the rows trying to dig through the little bushes looking for ripe strawberries...) out at a local place called [Remlinger Farms](https://www.RemlingerFarms.com).
 
 ![Raspberries](/images/raspberries.jpg)
 

@@ -5,12 +5,12 @@ type: posts
 tags:
  - Gaming
 ---
-I think it was playing Chargeball in [Meet the Robinsons](http://www.xbox.com/en-US/games/m/meettherobinsons/default.htm), but for whatever reason I started thinking about this
+I think it was playing Chargeball in [Meet the Robinsons](https://www.xbox.com/en-US/games/m/meettherobinsons/default.htm), but for whatever reason I started thinking about this
 
 ![Tron Deadly Discs](/images/7065efa9-4fdd-45fb-85a8-002727cfb794.gif)
 
-[Tron Deadly Discs Game Info page on Moby Games](http://www.mobygames.com/game/intellivision/tron-deadly-discs)
+[Tron Deadly Discs Game Info page on Moby Games](https://www.mobygames.com/game/intellivision/tron-deadly-discs)
 
 I loved the breaking glass sound when I broke an enemy's disc or threw my disc through the recognizer's eye... mmm.... good times 🙂
 
-[Tron Deadly Discs for the Intellivision on Wikipedia](http://en.wikipedia.org/wiki/Tron_Deadly_Discs)
+[Tron Deadly Discs for the Intellivision on Wikipedia](https://en.wikipedia.org/wiki/Tron_Deadly_Discs)

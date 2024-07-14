@@ -6,7 +6,7 @@ tags:
  - Coding
  - Web
 ---
-I noticed the cool ads rotating on the side of the developer centers ([VB](http://msdn.microsoft.com/vbasic) and [C#](http://msdn.microsoft.com/vcsharp)) so I “Viewed Source” and grabbed the relevant HTML... voila, I'm now showing MSN Ads on my site... totally inappropriate? Perhaps, but very easy...
+I noticed the cool ads rotating on the side of the developer centers ([VB](https://msdn.microsoft.com/vbasic) and [C#](https://msdn.microsoft.com/vcsharp)) so I “Viewed Source” and grabbed the relevant HTML... voila, I'm now showing MSN Ads on my site... totally inappropriate? Perhaps, but very easy...
 
 ```html
 <div class="mnpAds" style="width: 181px; height: 100%; padding-bottom: 20px;

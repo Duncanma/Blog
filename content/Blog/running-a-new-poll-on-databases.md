@@ -5,7 +5,7 @@ type: posts
 ---
 I've put up a new poll on my site:
 
-> [What type of database do you use for the majority of your applications?](http://www.duncanmackenzie.net/)
+> [What type of database do you use for the majority of your applications?](https://www.duncanmackenzie.net/)
 
 
 
