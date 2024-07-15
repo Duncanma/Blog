@@ -503,8 +503,7 @@
           "Width": 220,
           "Height": 330
         }
-      ],
-      "PaymentLink": "https://buy.stripe.com/3cs6pwbTBg3EenS7zI"
+      ]
     },
     {
       "Title": "Subway entrance",
@@ -962,7 +961,7 @@
       "PaymentLink": "https://buy.stripe.com/4gwbJQ6zh04G3Je7zV"
     },
     {
-      "Title": "Inside  the Half Pint",
+      "Title": "Inside the Half Pint",
       "uniqueID": "94267ae97ce7a56d98ac11d3e5b2d19e",
       "Caption": "",
       "Latitude": "",
@@ -1168,8 +1167,7 @@
           "Width": 220,
           "Height": 147
         }
-      ],
-      "PaymentLink": "https://buy.stripe.com/28o3dk9Lt5p0bbGg6x"
+      ]
     },
     {
       "Title": "Neon Pandas",
