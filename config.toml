@@ -2,16 +2,14 @@ baseURL = "https://www.duncanmackenzie.net/"
 languageCode = "en-us"
 title = "Duncan Mackenzie"
 DefaultContentLanguage = "en"
+summaryLength = 20
 
 theme = "hello-friend-ng"
-summaryLength = 10
 pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "UA-23971530-1"
-# disqusShortname = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -57,9 +55,6 @@ disableHugoGeneratorInject = false
     home = ["HTML", "RSS", "JSON", "OEMBED", "IFRAME"]
     page = ["HTML", "OEMBED", "IFRAME"]
 
-[author]
-  name = "Duncan Mackenzie"
-
 [blackfriday]
   hrefTargetBlank = false
 
@@ -100,6 +95,8 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
   homegrownAnalytics = "https://functions.duncanmackenzie.net/api/event?code=Z2iNU1ncqSCA9CMwMSVhgQfcQAOuqwtyDkpKKfeqqB0oAzFudj2C3g%3D%3D"
 
+  [params.author]
+    name = "Duncan Mackenzie"
 
   [params.logo]
     logoText     = "$ cd /home/"
@@ -159,3 +156,6 @@ pattern = "2006"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[services.googleAnalytics]
+  id = 'UA-23971530-1'

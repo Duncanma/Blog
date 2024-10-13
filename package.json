@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "hugo-extended": "^0.125.6"
+    "hugo-extended": "^0.135.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.44.1",

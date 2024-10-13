@@ -15,7 +15,7 @@
         {{- range first 3 (where $posts "Type" "posts") -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="summary">{{.Summary}}</div>
+            <div class="summary">{{.Summary | plainify }}</div>
             <div class="meta">
                 <relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="relative" prefix="">
                     {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}
@@ -30,7 +30,7 @@
         {{- range first 3 (where .Site.RegularPages ".Params.tags" "intersect" (slice "Engineering Management")) -}}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div class="summary">{{.Summary}}</div>
+            <div class="summary">{{.Summary | plainify }}</div>
             <div class="meta">
                 <relative-time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700"}}" format="relative" prefix="">
                     {{ if .Site.Params.dateformNumTime }}{{ dateFormat .Site.Params.dateformNumTime .Date.Local }}{{ else }}{{ dateFormat "2006-01-02 15:04 -0700" .Date.Local }}{{ end }}

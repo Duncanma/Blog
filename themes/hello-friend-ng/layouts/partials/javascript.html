@@ -23,12 +23,12 @@
 {{- partial "homegrown-analytics.html" . }}
 {{- end }}
 
-{{- if .Site.GoogleAnalytics }}
+{{- if .Site.Config.Services.GoogleAnalytics.ID }}
 <!-- Google Analytics -->
 <script>
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
     ga('set', 'anonymizeIp', true);
-	ga('create', '{{.Site.GoogleAnalytics}}', 'auto');
+	ga('create', '{{.Site.Config.Services.GoogleAnalytics.ID}}', 'auto');
 	var saveData = "unknown";
 	if (navigator.connection != undefined && navigator.connection.saveData != undefined) {
 		if (navigator.connection.saveData) {
