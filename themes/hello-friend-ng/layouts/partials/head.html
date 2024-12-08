@@ -10,6 +10,9 @@
 {{ if .OutputFormats.Get "OEMBED" }}
 <link href="{{ with .OutputFormats.Get "OEMBED" }}{{ .Permalink }}{{ end }}" rel="alternate" type="application/json+oembed" title="{{ .Title }}" />
 {{ end }}
+{{ if .OutputFormats.Get "MARKDOWN" }}
+<link href="{{ with .OutputFormats.Get "MARKDOWN" }}{{ .Permalink }}{{ end }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
+{{ end }}
 {{ if or (eq .Type "tags") (eq .Type "blog")}}<meta name="robots" content="noindex" />{{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 {{ block "title" . }}

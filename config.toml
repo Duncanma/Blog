@@ -31,6 +31,7 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+
 [outputFormats]
   [outputFormats.purchase]
     name = "purchase"
@@ -50,10 +51,16 @@ disableHugoGeneratorInject = false
     baseName = "oembed"
     mediaType = "application/json"
     isPlainText = true
+  [outputFormats.markdown]
+    name = "markdown"
+    baseName = "index"
+    mediaType = "text/markdown"
+    isPlainText = true
+
 
 [outputs]
     home = ["HTML", "RSS", "JSON", "OEMBED", "IFRAME"]
-    page = ["HTML", "OEMBED", "IFRAME"]
+    page = ["HTML", "OEMBED", "IFRAME", "MARKDOWN"]
 
 [blackfriday]
   hrefTargetBlank = false
