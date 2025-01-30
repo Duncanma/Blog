@@ -219,4 +219,18 @@ div.post-info {
     }
 
   }
+
+  span.copyAsMarkdown {
+    padding-right: 15px;
+    float:right;
+    display: none;
+    a {
+      text-decoration: none;
+    }
+
+  }
+}
+
+body.hasMarkdown span.copyAsMarkdown {
+  display: inline;
 }
