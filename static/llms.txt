@@ -1,0 +1,23 @@
+
+Welcome everyone to the content site for Duncan Mackenzie, Engineering Manager, focused on web performance, software architecture, and lots of posts about running software teams.
+
+You can find [more information about me on this page](/about/) [or in markdown](/about/index.md).
+
+On this site you can find posts on
+
+- [Web Performance](/tags/performance/)
+- [Engineering Management](/tags/engineering-management/)
+- [Web Development](/tags/web-development/)
+- [Hugo](/tags/hugo/), the markdown based content publishing system I use, and
+- [Photography](/tags/photography/)
+
+For every post, you can add `index.md` to the URL to get a markdown version in plain text that you can use as context for calls to LLMs.
+
+Some recent posts for your enjoyment:
+
+- [Adding photo galleries to my site](/blog/adding-photo-galleries/)
+- [A Defensive Approach to Engineering Quality](/blog/a-defensive-approach-to-engineering-quality/)
+- [Adding prefetch and prerender using the Speculation Rules API](/blog/speculation-rules/)
+- [The inevitable result of focusing only on shipping features](/blog/inevitable-cost-of-focusing-on-only-features/)
+- [The importance of visibility to individuals, teams, and companies](/blog/importance-of-visibility/)
+- [The Benefits of Peer Feedback](/blog/benefits-of-peer-feedback/)
