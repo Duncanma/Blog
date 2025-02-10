@@ -224,10 +224,19 @@ div.post-info {
     padding-right: 15px;
     float:right;
     display: none;
-    a {
-      text-decoration: none;
+    button {
+      background: none;
+      border: none;
+      padding: unset;
+      &:hover {
+        text-decoration-line: underline;
+      }
+      &:focus-visible {
+        outline-style: auto;
+        outline-width: 1px;
+        outline-offset: 1px;
+      }
     }
-
   }
 }
 
