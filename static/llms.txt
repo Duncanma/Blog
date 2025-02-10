@@ -1,23 +1,23 @@
+# Duncan Mackenzie
 
-Welcome everyone to the content site for Duncan Mackenzie, Engineering Manager, focused on web performance, software architecture, and lots of posts about running software teams.
+> Duncan Mackenzie is an engineering manager who writes about web performance, software architecture, and a lot of various topics related to running software teams.
+> For every post, you can add `index.md` to the URL to get a markdown version in plain text that you can use as context for calls to LLMs.
 
-You can find [more information about me on this page](/about/) [or in markdown](/about/index.md).
+You can find [more information about me on this page](/about/index.md).
 
-On this site you can find posts on
+## Categories
 
-- [Web Performance](/tags/performance/)
-- [Engineering Management](/tags/engineering-management/)
-- [Web Development](/tags/web-development/)
-- [Hugo](/tags/hugo/), the markdown based content publishing system I use, and
-- [Photography](/tags/photography/)
+- [Web Performance](/tags/performance/index.md)
+- [Engineering Management](/tags/engineering-management/index.md)
+- [Web Development](/tags/web-development/index.md)
+- [Hugo](/tags/hugo/index.md), the markdown based content publishing system I use, and
+- [Photography](/tags/photography/index.md)
 
-For every post, you can add `index.md` to the URL to get a markdown version in plain text that you can use as context for calls to LLMs.
+## Recent posts
 
-Some recent posts for your enjoyment:
-
-- [Adding photo galleries to my site](/blog/adding-photo-galleries/)
-- [A Defensive Approach to Engineering Quality](/blog/a-defensive-approach-to-engineering-quality/)
-- [Adding prefetch and prerender using the Speculation Rules API](/blog/speculation-rules/)
-- [The inevitable result of focusing only on shipping features](/blog/inevitable-cost-of-focusing-on-only-features/)
-- [The importance of visibility to individuals, teams, and companies](/blog/importance-of-visibility/)
-- [The Benefits of Peer Feedback](/blog/benefits-of-peer-feedback/)
+- [Adding photo galleries to my site](/blog/adding-photo-galleries/index.md)
+- [A Defensive Approach to Engineering Quality](/blog/a-defensive-approach-to-engineering-quality/index.md)
+- [Adding prefetch and prerender using the Speculation Rules API](/blog/speculation-rules/index.md)
+- [The inevitable result of focusing only on shipping features](/blog/inevitable-cost-of-focusing-on-only-features/index.md)
+- [The importance of visibility to individuals, teams, and companies](/blog/importance-of-visibility/index.md)
+- [The Benefits of Peer Feedback](/blog/benefits-of-peer-feedback/index.md)

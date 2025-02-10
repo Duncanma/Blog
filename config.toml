@@ -61,6 +61,7 @@ disableHugoGeneratorInject = false
 [outputs]
     home = ["HTML", "RSS", "JSON", "OEMBED", "IFRAME"]
     page = ["HTML", "OEMBED", "IFRAME", "MARKDOWN"]
+    term = ["HTML", "MARKDOWN"]
 
 [blackfriday]
   hrefTargetBlank = false
