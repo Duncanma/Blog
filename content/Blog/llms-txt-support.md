@@ -8,10 +8,10 @@ tags:
  - Coding
  - Hugo
  - Azure
-description: Adding support to Hugo to enable my posts to be served as markdown, making them easier to use with a LLM system.
+description: Learn how to add LLMs.txt and markdown output support to your Hugo site. Make your content AI-friendly with markdown versions, copy buttons, and proper content headers for better LLM ingestion.
 ---
 
-If you’ve been online at all for the past year, you will have been hearing about LLMs (Large Language Models) and AI assistants non-stop. I’m not going to be talking about those systems or products here, but in the end, they are all relying on being able to pull content from the web, your content for example. If you or your company want your content to be accurately ingested by these systems, then one possible solution is to follow the proposal on [the LLMs.txt site](https://llmstxt.org/). This proposal describes how to make your content easier to be consumed by various LLMs, by adding two features to your site.
+If you've been online at all for the past year, you will have been hearing about LLMs (Large Language Models) and AI assistants non-stop. I'm not going to be talking about those systems or products here, but in the end, they are all relying on being able to pull content from the web, your content for example. If you or your company want your content to be accurately ingested by these systems, then one possible solution is to follow the proposal on [the LLMs.txt site](https://llmstxt.org/). This proposal describes how to make your content easier to be consumed by various LLMs, by adding two features to your site.
 
 First, you create a markdown file that describes your site and its content, then make it available at /llms.txt online. This file has a recommended format, detailed in the proposal.
 Second, you add plain text (in markdown format) versions of all your content pages, available with a `.md` extension. In the case of my blog, I added this support for my blog posts, my plain content pages, and my tag pages.
@@ -83,7 +83,7 @@ For my blog posts, and the standalone content pages (such as About), this is han
 {{ .RawContent  }}
 ```
 
-`.RawContent` outputs the source of your page content, which is in markdown, so that’s all there is to it. The single heading above this is to bring in the page title, which in Hugo is in your frontmatter.
+`.RawContent` outputs the source of your page content, which is in markdown, so that's all there is to it. The single heading above this is to bring in the page title, which in Hugo is in your frontmatter.
 
 For the tag pages, this required adding a `list.md` file in my _default layouts folder, but the code was a bit more complex.
 
@@ -108,9 +108,9 @@ Finally, I added a `<link>` element into the `<head>` of my pages to indicate th
 {{ end }}
 ```
 
-## Bonus points, adding a ‘copy as markdown’ action to my pages
+## Bonus points, adding a 'copy as markdown' action to my pages
 
-After I originally read about this idea, and did the steps above, I heard that Open AI [added a ‘Copy Page’ button](https://community.openai.com/t/added-a-copy-page-button-for-docs/1043188) that puts the markdown of the current documentation page into your clipboard. I figured I might as well do the same, so I added a little partial to my pages.
+After I originally read about this idea, and did the steps above, I heard that Open AI [added a 'Copy Page' button](https://community.openai.com/t/added-a-copy-page-button-for-docs/1043188) that puts the markdown of the current documentation page into your clipboard. I figured I might as well do the same, so I added a little partial to my pages.
 
 ```html
 <span class="copyAsMarkdown"><button><svg>…</svg>Copy as Markdown</button></span>
@@ -169,4 +169,4 @@ The way I publish and host my content (in Azure Blob Storage, built and uploaded
 
 ## The end result
 
-With all of these changes done and deployed, my site now [has a llms.txt file](/llms.txt), all of my blog posts are available as markdown (for example: [/blog/homegrown-analytics/index.md](/blog/homegrown-analytics/index.md)), so are my tag pages (another example:[/tags/coding/index.md]( /tags/coding/index.md)), and my posts have a little ‘copy as markdown’ button on the top.
+With all of these changes done and deployed, my site now [has a llms.txt file](/llms.txt), all of my blog posts are available as markdown (for example: [/blog/homegrown-analytics/index.md](/blog/homegrown-analytics/index.md)), so are my tag pages (another example:[/tags/coding/index.md]( /tags/coding/index.md)), and my posts have a little 'copy as markdown' button on the top.
