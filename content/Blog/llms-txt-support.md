@@ -72,7 +72,7 @@ This defines the format, `markdown`, and then we add it to our `[outputs]` secti
     term = ["HTML", "MARKDOWN"]
 ```
 
-> More [details on custom output formats are available in the Hugo documentation](https://gohugo.io/templates/output-formats/).
+> More [details on custom output formats are available in the Hugo documentation](https://gohugo.io/configuration/output-formats/).
 
 Once those configuration options are added, you need to have templates created for each page kind (‘page’ and ‘term’ from above) to tell Hugo how to create these new output files.
 

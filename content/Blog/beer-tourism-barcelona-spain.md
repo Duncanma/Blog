@@ -16,9 +16,7 @@ Years ago I was in Barcelona for a conference, TechEd Europe 2014 I believe, and
 
 ## Cat Bar
 
-This was my favorite find, despite the fact that the staff couldn't answer any questions at all about the beers. Everyone spoke english, but all of my questions about where each beer was from, what was local, etc. just produced confused looks until the owner wandered over and sat down. He filled me in, and recommended the vegan burger, which was great. Really felt like a hidden spot, down a very narrow alley. Sadly very little info on their website, so [you have to go to Facebook](https://www.facebook.com/CatBarCAT).
-
-
+This was my favorite find, despite the fact that the staff couldn't answer any questions at all about the beers. Everyone spoke english, but all of my questions about where each beer was from, what was local, etc. just produced confused looks until the owner wandered over and sat down. He filled me in, and recommended the vegan burger, which was great. Really felt like a hidden spot, down a very narrow alley. Check out [their website with directions and menus](https://catbar.cat/)!
 
 Moritz
 
