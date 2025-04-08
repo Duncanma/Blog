@@ -13,6 +13,7 @@
 {{ if .OutputFormats.Get "MARKDOWN" }}
 <link href="{{ with .OutputFormats.Get "MARKDOWN" }}{{ .Permalink }}{{ end }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
 {{ end }}
+{{ if (.Params.hidden)}}<meta name="robots" content="noindex" />{{ end }}
 {{ if or (eq .Type "tags") (eq .Type "blog")}}<meta name="robots" content="noindex" />{{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 {{ block "title" . }}

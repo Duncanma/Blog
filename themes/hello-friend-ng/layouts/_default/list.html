@@ -6,7 +6,8 @@
             <div class="content">{{ .Content }}</div>
         {{- end }}
 
-        {{- range .Data.Pages.GroupByDate "2006" }}
+        {{- $pages := where .Pages "Params.hidden" "ne" true }}
+        {{- range $pages.GroupByDate "2006" }}
             <div class="posts-group">
                 <div class="post-year">{{ .Key }}</div>
 

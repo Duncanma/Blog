@@ -2,6 +2,7 @@
 date: 2024-07-10T20:52:47-07:00
 title: Homegrown Analytics
 type: posts
+featured: true
 tags:
  - Web Development
  - Coding

@@ -1,6 +1,7 @@
 # {{ .Title }}
 
-{{- range .Data.Pages.GroupByDate "2006" }}
+{{- $pages := where .Pages "Params.hidden" "ne" true }}
+{{- range $pages.GroupByDate "2006" }}
 
 ## {{ .Key }}
 
