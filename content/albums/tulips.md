@@ -5,7 +5,7 @@
     "Photography", "Flowers", "PNW"
   ],
   "Title": "Tulips",
-  "Description": "An early morning set of pictures from [Roozengarde](https://www.tulips.com) just west of Mt. Vernon, Washington.",
+  "Description": "An early morning set of pictures from [Roozengaarde](https://www.tulips.com) just west of Mt. Vernon, Washington.",
   "BaseURL": "https://photos.duncanmackenzie.net/images/tulips",
   "Featured": 1,
   "startDate": "2025-04-15T08:52:27-07:00",
