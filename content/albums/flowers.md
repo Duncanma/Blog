@@ -5,7 +5,7 @@
     "purchase"
   ],
   "Tags": [
-    "Photography"
+    "Photography", "Flowers"
   ],
   "Title": "Flowers",
   "Description": "From various locations in Redmond, WA and San Francisco.",
