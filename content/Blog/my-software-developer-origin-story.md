@@ -24,4 +24,4 @@ I realized that a computer program could really help, and I started writing one 
 
 My parents sat at the computer for hours, trying out different combinations, with no frustration. They were excited and even had feature requests for me (could we see amounts for ages 55 through 65 each time as a list, could we see results assuming a lower or higher rate of return in each run, could you print the results, etc.).
 
-I had created something, a tool, that was useful and continued to be useful for months. It was so clear to me that my couple of hours of work had saved them a huge amount of time, and that was the moment when I realized I wanted to write code for a living. To this day, I find myself most motivated by providing value through software or content directly to real people.
+I had created something, a tool, which was useful and continued to be useful for months. It was so clear to me that my couple of hours of work had saved them a huge amount of time, and that was the moment when I realized I wanted to write code for a living. To this day, I find myself most motivated by providing value through software or content directly to real people.
