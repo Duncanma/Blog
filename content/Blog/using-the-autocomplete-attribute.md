@@ -39,7 +39,7 @@ The Slack dev team has set autocomplete to `off`, which **should** prevent any f
 
 The fix is to use the **right** value for the `autocomplete` attribute though, setting it to `name`, which produces this result:
 
-![Chrome's handy (and correct in this case) name autofill UX](/images/NameAutoFill.png)
+![Chrome's handy (and correct in this case) name autofill UX](/images/YourNameAutoFill.png)
 
 From this HTML (simplified again):
 
