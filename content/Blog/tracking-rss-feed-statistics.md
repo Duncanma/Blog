@@ -2,13 +2,10 @@
 date: 2007-09-05T09:58:00+00:00
 title: Tracking RSS Feed Statistics
 type: posts
-draft: true
 ---
 A few of my friends and co-workers have jumped on the FeedBurner bandwagon, and I've been pretty impressed with [the stats they've been gathering](https://duncanmackenzie.net/blog/cool-gadget-using-sparklines-to-show-your-rss-stats-from-feedburner/). I'm not willing to send my readers off to someone else's service though (even though [there are some reasonably safe ways to do that](https://www.burningdoor.com/eric/archives/001284.html)), so I started to think about how best to gather similar info myself. One idea would be to ship the IIS logs from my site back to my PC on a regular basis and run them through a LogParser script that would figure out all the stats for me... but that seems like a rather manual (or difficult to automate) and data transfer intensive method.
 
 Instead, what I decided to do was to log every feed requests into a table on my SQL Server (actual SQL updates occur at regular intervals, not on every feed request). I log the feed URL being requested, the user agent of the requester, the IP Address of the requester, [the number of subscribers represented by the user agent string (Google's feed reader, amongst others, indicates the # of subscribers in the user agent string)](https://factory-h.com/articles/View.aspx?articleId=27) and the date/time they made the request.
-
-[<img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="83" alt="Feed Reader Stats" src="http://www.duncanmackenzie.net/images/96de7c4d-f772-4143-91b3-ac049a5fdcb0.png" width="350" border="0" />](https://www.duncanmackenzie.net/images/4d36def4-6ccb-423d-b2d8-8a551b85fb4a.png" atomicselection="true" rel="lightbox[519]" title="Feed Reader Stats)
 
 What happens next is currently a manual process, but I'm working on making it automatic...
 

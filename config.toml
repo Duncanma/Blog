@@ -135,15 +135,15 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "/about/"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "blog/"
+    url        = "/blog/"
   [[menu.main]]
     identifier = "albums"
     name       = "Albums"
-    url        = "albums/"
+    url        = "/albums/"
 
 
 [related]
