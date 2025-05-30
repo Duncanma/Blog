@@ -10,6 +10,7 @@ tags:
 images:
  - /images/photo-gallery/flexGallery.png
 description: I wanted to show off my photos, but it meant building a whole new set of pages onto my site
+blueskyPostID: 3kpzulrtxya22
 ---
 I mostly talk about work on this site, but I do have other interests! While I do a few different things, I have one main hobby, and that’s photography. I take courses in it, I spend too much money on it, I travel places with photos in mind, and I’ve ended up with 100s of photos that I really like. So, for years I’ve wanted to post these pictures online (beyond just Instagram) but creating an online photo gallery that I’d be happy with is a bit of work.
 

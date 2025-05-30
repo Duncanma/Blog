@@ -13,6 +13,7 @@ tags:
 images:
 - /images/homegrown/chart.png
 description: I decided to roll my own analytics system, using Azure Functions and CosmosDB, to eventually replace my Google Analytics system.
+blueskyPostID: 3kwy5yefvs22a
 ---
 
 I must start with a quick disclaimer. Replacing the near-universal web analytics with your own is not the right path for *most* people. What I’ve made is nowhere near equivalent, it involves writing my own code, any analysis I want to do is all on me, etc. If you are here because you want to remove GA from your site, you could try one of the more popular alternatives like [Plausible](https://plausible.io) or [Piwik](https://piwik.pro/web-analytics/). Personally, I had looked at Plausible, but $9/mo (which is a completely reasonable price) seemed like a lot for the tiny amount of traffic I get. Ok, so that’s out of the way.

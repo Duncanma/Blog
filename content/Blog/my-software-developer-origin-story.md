@@ -6,6 +6,7 @@ tags:
 - Coding
 - Personal
 description: Creating a tool to help my parents and discovering the joy of creating something useful started me down the path of working in software.
+blueskyPostID: 3lp6gbe2fkk2z
 ---
 Over the years, many people have asked me how I got started into software development and I have told the *same* story every time, but I realized I’ve never written it down. So, for anyone who might find this interesting or useful, and just to put it out into the world, here goes.
 

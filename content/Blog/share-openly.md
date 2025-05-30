@@ -10,6 +10,7 @@ tags:
 images:
  - /images/shareopenly-pick-destination.png
 description: I just learned about Ben Werdmuller's ShareOpenly tool today, and I've already added it to my site.
+blueskyPostID: 3ksai7cfh7c2u
 ---
 
 Just a quick post introducing Ben Werdmuller's ShareOpenly tool, and showing how I added it to my site. I saw [Ben post about this on Bluesky](https://bsky.app/profile/werd.io/post/3ks5cng4bwz2z), read [his great intro article about it](https://werd.io/2024/share-openly), and decided I wanted to add it to my site.

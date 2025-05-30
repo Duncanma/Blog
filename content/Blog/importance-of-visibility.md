@@ -8,6 +8,7 @@ tags:
 - DevTo
 description: Making sure the work you do, and the impact it has, is visible and understandable to others is one of the most useful skills for anyone in the workforce.
 techfeatured: true
+blueskyPostID: 3ka6qhv4rcc2l
 ---
 
 I'm often asked if I have any advice for other software engineers, and

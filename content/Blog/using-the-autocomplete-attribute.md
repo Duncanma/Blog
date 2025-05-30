@@ -6,6 +6,7 @@ tags:
 - Coding
 - Web Development
 description: Using the correct value for the autocomplete attribute will help the browser to provide a helpful experience for your users.
+blueskyPostID: 3lpuo653p722n
 ---
 One of my common past times is viewing the source of web pages using 'Inspect' in the browser. Often I'm doing this to fix a problem, such as removing `readonly` from a field I need to change, deleting an `onpaste` handler to allow me to paste some text in, or even just putting the value I want into `value` to get around odd form restrictions.
 

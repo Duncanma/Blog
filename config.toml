@@ -110,6 +110,10 @@ disableHugoGeneratorInject = false
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
 
+  [params.bluesky]
+    did = "did:plc:dgieuogsdx366uili53hqid2"
+    handle = "duncanmackenzie.net"
+
   # Social icons
   [[params.social]]
     name = "instagram"

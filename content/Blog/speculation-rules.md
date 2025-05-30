@@ -12,6 +12,7 @@ images:
  - /images/speculation-rules/loads.png
 description: Retrieving a page before the user even requests it can make a fast web experience into an instant one, and Chrome's Speculation Rules API makes that possible with no code.
 featured: true
+blueskyPostID: 3l74i6nhjwc2f
 ---
 
 We were brainstorming on performance improvements at work the other day, and I remembered I always planned to add some form of prefetch/prerender to my site. Prefetching is making a network request for a specific URL from the current page, with the idea that if the user visits that URL next, it will already be in their local cache and load faster. Prerendering is the same idea, but taken farther, instead of just loading the URL itself, it loads the URL and renders it, which means loading all the required sub-resources (CSS, JS, images), calculating layout, executing JavaScript, etc. Both are spending some of your user's bandwidth and CPU on a *bet* that it will benefit them later. If your pages are small and load fast, like I feel mine do, the benefit is low, but I still wanted to experiment with the concept.
@@ -165,4 +166,4 @@ I could add a different variation for the homepage, prefetching the top pages in
 
 ## What's left to do?
 
-In my own testing, this all seems to work, but ideally I would add some analytics to track the rate of success for these rules. There are [ways to determine if a page was prerendered using JavaScript](https://developer.chrome.com/docs/web-platform/prerender-pages#detect-prerender-in-javascript) and [headers are also sent with these requests](https://developer.chrome.com/docs/web-platform/prerender-pages#detect-server-side) that would make it possible to track them on the server. I haven't done either of these yet, but I've been considering creating my own analytics tracking and I may add checks for this in at that point. 
+In my own testing, this all seems to work, but ideally I would add some analytics to track the rate of success for these rules. There are [ways to determine if a page was prerendered using JavaScript](https://developer.chrome.com/docs/web-platform/prerender-pages#detect-prerender-in-javascript) and [headers are also sent with these requests](https://developer.chrome.com/docs/web-platform/prerender-pages#detect-server-side) that would make it possible to track them on the server. I haven't done either of these yet, but I've been considering creating my own analytics tracking and I may add checks for this in at that point.

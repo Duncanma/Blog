@@ -9,6 +9,7 @@ tags:
  - Testing
  - DevTo
 featured: true
+blueskyPostID: 3kt6fqxdwek2t
 ---
 
 This last weekend I was visiting my mom up in Canada, and she asked me for the URL to my website because she wanted to see all [my recent photos](/albums/). She brought it up on her laptop, and for the first time in months, I saw my site in ‘light’ mode. And there was a flaw in how some of the text was rendered. I, like many developers, have been only doing the simplest form of testing, which is to view my site in my own primary browser on my own machine. The site switches automatically to light or dark based on the settings of the user’s OS, and **in my case that is always dark mode**. I quickly checked in a fix, after switching my own OS settings to light mode and then going through and testing a few of the pages. Later, I did *more* extensive testing in light mode and found some color contrast issues as well.

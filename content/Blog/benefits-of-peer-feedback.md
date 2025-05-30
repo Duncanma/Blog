@@ -8,6 +8,7 @@ tags:
 - Performance Reviews
 - DevTo
 description: Feedback from another employee can be very helpful for your performance review, but it is most useful if it is written with specific details about your work and it's impact.
+blueskyPostID: 3kmbsao5h5y26
 ---
 
 It was just performance review season at my current job, so I spent a

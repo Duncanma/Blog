@@ -9,6 +9,7 @@ tags:
  - Hugo
  - Azure
 description: Learn how to add LLMs.txt and markdown output support to your Hugo site. Make your content AI-friendly with markdown versions, copy buttons, and proper content headers for better LLM ingestion.
+blueskyPostID: 3li3b4dgzb22d
 ---
 
 If you've been online at all for the past year, you will have been hearing about LLMs (Large Language Models) and AI assistants non-stop. I'm not going to be talking about those systems or products here, but in the end, they are all relying on being able to pull content from the web, your content for example. If you or your company want your content to be accurately ingested by these systems, then one possible solution is to follow the proposal on [the LLMs.txt site](https://llmstxt.org/). This proposal describes how to make your content easier to be consumed by various LLMs, by adding two features to your site.
