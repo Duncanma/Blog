@@ -1,0 +1,25 @@
+{{ $handle := .Site.Params.bluesky.handle }}
+{{ $postID := .Params.blueskyPostID }}
+
+{{ if $handle }}
+    {{ if $postID }}
+<meta data-bsky-post-id="{{ $postID }}"/>
+
+<section class="post__likes hidden" data-bsky-container>
+  <p class="post__likesTitle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1"><title>Bluesky</title><path d="M8 7.2c-.72-1.4-2.7-4.04-4.53-5.33C1.7.63 1.04.84.6 1.04.1 1.27 0 2.05 0 2.51c0 .46.25 3.77.42 4.32.54 1.82 2.47 2.45 4.25 2.25-2.6.38-4.92 1.33-1.88 4.71 3.33 3.46 4.57-.74 5.21-2.87.64 2.13 1.37 6.18 5.16 2.87 2.84-2.87.78-4.33-1.83-4.71 1.78.2 3.71-.43 4.25-2.25.17-.55.42-3.86.42-4.32 0-.46-.09-1.24-.6-1.47-.44-.2-1.11-.42-2.87.83A17.87 17.87 0 0 0 8 7.2Z" /></svg>
+        <span data-bsky-likes-count></span> likes on Bluesky
+  </p>
+  <ul data-bsky-likes class="post__likesList"></ul>
+</section>
+<p><a class="post__likesCta" href="https://bsky.app/profile/{{ $handle }}/post/{{ $postID }}">
+	  Like this post on Bluesky to see your face on this page or comment with your thoughts!
+  </a>
+</p>
+{{ $blueskyScript := resources.Get "js/bluesky.js"}}
+{{ $secureBluesky := $blueskyScript | resources.Fingerprint "sha512"}}
+<script type="text/javascript" src="{{ $secureBluesky.RelPermalink }}" integrity="{{ $secureBluesky.Data.Integrity }}" defer></script>
+    {{ else }}
+            <p>Thoughts on this post? <a href="https://bsky.app/profile/{{ $handle }}">Feel free to reach out on Bluesky!</a></p>
+    {{ end }}
+{{ end }}
