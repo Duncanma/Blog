@@ -6,7 +6,7 @@ tags:
  - Web Development
  - Bluesky
  - Hugo
-description: Using Salma Alam-Naylor's code, I add a feature onto my Hugo site to display Bluesky 'likes' on my blog posts.
+description: Using Salma Alam-Naylor's code, I added a feature onto my Hugo site to display Bluesky 'likes' on my blog posts.
 featured: true
 blueskyPostID: 3lqgifp5sj22s
 ---
