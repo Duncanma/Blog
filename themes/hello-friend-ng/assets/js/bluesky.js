@@ -26,12 +26,13 @@ function drawLikes(likesActors, postLikesCount) {
     const likeEl = document.createElement("li");
     likeEl.classList.add("post__like");
 
-    if (like.actor.avatar !== undefined) {
+    if (like.actor.avatar !== undefined && like.actor.handle !== undefined) {
       likeEl.innerHTML = `
+      <a class="post__like__link" href="https://bsky.app/profile/${like.actor.handle}">
       <img class="post__like__avatar"
         src="${like.actor.avatar.replace("avatar", "avatar_thumbnail")}"
         alt="${like.actor.displayName}" title="${like.actor.displayName}"
-      />`;
+      /></a>`;
     } else {
       likeEl.classList.add("post__like--placeholder");
       likeEl.innerHTML = `
