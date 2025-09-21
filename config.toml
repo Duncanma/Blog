@@ -117,7 +117,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "instagram"
-    url  = "https://www.instagram.com/duncanmackredmond/"
+    url  = "https://www.instagram.com/duncanma_photo"
 
   [[params.social]]
     name = "bluesky"
@@ -145,9 +145,9 @@ disableHugoGeneratorInject = false
     name       = "Blog"
     url        = "/blog/"
   [[menu.main]]
-    identifier = "albums"
-    name       = "Albums"
-    url        = "/albums/"
+    identifier = "prints"
+    name       = "Photo Prints"
+    url        = "https://prints.duncanmackenzie.net/"
 
 
 [related]
