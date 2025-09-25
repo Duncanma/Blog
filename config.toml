@@ -140,14 +140,22 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "/about/"
+    weight     = 1
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/blog/"
+    weight     = 3
   [[menu.main]]
     identifier = "prints"
     name       = "Photo Prints"
     url        = "https://prints.duncanmackenzie.net/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "albums"
+    name       = "Albums"
+    url        = "/albums/"
+    weight     = 4
 
 
 [related]
