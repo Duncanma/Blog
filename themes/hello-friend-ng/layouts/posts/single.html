@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <main class="post">
+    <main class="post h-entry">
         <div class="post-info">
             <p><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>{{ i18n "readingTime" .Page.ReadingTime }}</span>
                 {{ partial "shareOpenly.html" . }}
@@ -7,7 +7,7 @@
             </p>
         </div>
         <article>
-            <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+            <h1 class="post-title p-name"><a href="{{ .Permalink }}" class="u-url">{{ .Title | markdownify }}</a></h1>
 
             {{ partial "toc.html" . }}
 
@@ -15,7 +15,7 @@
                 <img src="/img/{{ . }}" class="post-cover" />
             {{ end }}
 
-            <div class="post-content">
+            <div class="post-content e-content">
                 {{ .Content | partial "add-header-anchors" }}
             </div>
         </article>
@@ -51,6 +51,12 @@
             {{- if .GitInfo }}
                 <p class="gitinfo"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg><a href="{{ .Site.Params.gitUrl -}}{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a> @ {{ if .Site.Params.dateformNum }}{{ dateFormat .Site.Params.dateformNum .GitInfo.AuthorDate.Local }}{{ else }}{{ dateFormat "2006-01-02" .GitInfo.AuthorDate.Local }}{{ end }}</p>
             {{- end }}
+            <time class="dt-published hidden" aria-hidden="true" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"></time>
+            <p class="p-author hidden" aria-hidden="true" >{{ .Site.Params.author.name }}</p>
+            {{- with or .Description .Summary site.Params.description | plainify }}
+            <p class="p-summary hidden" aria-hidden="true">{{ . }}</p>
+            {{- end }}
+
         </div>
 
         {{ if or .NextInSection .PrevInSection }}

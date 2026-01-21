@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <main class="post">
+    <main class="post h-entry">
 
         <div class="post-info">
             {{ if .IsTranslated }}
@@ -12,7 +12,7 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+            <h2 class="post-title p-name"><a href="{{ .Permalink }}" class="u-url" >{{ .Title | markdownify }}</a></h2>
 
             {{- if .Params.toc }}
                 <hr />
@@ -27,7 +27,7 @@
                 <img src="/img/{{ . }}" class="post-cover" />
             {{ end }}
 
-            <div class="post-content">
+            <div class="post-content e-content">
                 {{ .Content }}
             </div>
         </article>
