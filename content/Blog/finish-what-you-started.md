@@ -7,6 +7,7 @@ tags:
 - Engineering Management
 - DevTo
 description: Software development projects can only have an impact if they make it to production, so instead of having forty partially done bits of work, you should always prioritize having something actually done.
+blueskyPostID: 3mdyxibeej22w
 ---
 
 Software development projects can only have an impact if they make it to production, so instead of having forty partially done bits of work, you should always prioritize having something actually done.
