@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="footer__inner">
         <div class="footer__content">
-            <span>&copy; {{ now.Format "2006" }}</span>
+            <span class="footer__copyright">&copy; {{ now.Format "2006" }}</span>
             {{ if .Site.Params.author.name }}
                 <span><a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a></span>
             {{ end }}

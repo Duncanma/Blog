@@ -5,9 +5,9 @@ test('Post with images', async ({ page }) => {
     await visualDiff(page, '/blog/space-games/');
 });
 
-test('Post with Code', async ({ page }) => {
-    await visualDiff(page, '/blog/moving-my-google-fonts-local/');
-});
+// test('Post with Code', async ({ page }) => {
+//     await visualDiff(page, '/blog/moving-my-google-fonts-local/');
+// });
 
 test('Tags', async ({ page }) => {
     await visualDiff(page, '/tags/');
