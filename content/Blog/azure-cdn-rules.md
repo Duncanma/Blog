@@ -66,7 +66,7 @@ In both cases, you are making a tradeoff between performance and time to update 
 The solution to this is to use **versioned file names**, names that change everytime you change the content. Many Hugo themes, including the one I am using take advantage of Hugo's pipes feature to accomplish exactly this. A unique filename is created for the CSS and JavaScript files whenever they change. This markup in the theme
 
 ```html
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify }}
+{{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 ```
 

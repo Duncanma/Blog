@@ -46,7 +46,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
     type="text/css">
 {{ end }}
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+{{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
 
 <!--{{if .IsHome }}
     {{ with resources.Get "css/min.css" | resources.Minify }} <style>{{ .Content | safeCSS }}</style> {{ end }}
