@@ -47,14 +47,19 @@
     type="text/css">
 {{ end }}
 {{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
-
-<!--{{if .IsHome }}
-    {{ with resources.Get "css/min.css" | resources.Minify }} <style>{{ .Content | safeCSS }}</style> {{ end }}
-{{ else }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-{{ end }}
--->
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+{{/* PhotoSwipe: album single pages only (#gallery); CSS matches JS in galleries/lightbox.js */}}
+{{ if and (eq .Section "albums") (eq .Kind "page") }}
+{{ $pswp := resources.Get "scss/photoswipe-only.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $pswp.RelPermalink }}" />
+{{ end }}
+
+{{/* Baguette: post lightbox shortcode; condition mirrors layouts/partials/javascript.html */}}
+{{ if in .Content "lightbox" }}
+{{ $baguette := resources.Get "scss/baguette-only.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $baguette.RelPermalink }}" />
+{{ end }}
 
 {{ range $val := $.Site.Params.customCSS }}
 {{ if gt (len $val) 0 }}

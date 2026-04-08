@@ -1,7 +1,5 @@
 @import "normalize";
 @import "galleries/_styles";
-@import "galleries/photoswipe/photoswipe";
-@import "galleries/photoswipe/photoswipe-dynamic-caption-plugin";
 @import "chroma";
 @import "variables";
 @import "mixins";
@@ -16,7 +14,6 @@
 @import "single";
 @import "footer";
 @import "style";
-@import "baguetteBox";
 @import "search";
 @import "homepage";
 @import "bluesky";
