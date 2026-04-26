@@ -12,3 +12,7 @@ node_modules
 /blob-report/
 /playwright/.cache/
 .DS_Store
+.env
+.env.local
+/album-export/
+/tools/album-creator/album-export/

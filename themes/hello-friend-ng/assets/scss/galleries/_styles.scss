@@ -41,6 +41,16 @@ section.embedded .card {
     font-size: x-small;
     line-height: 1.0;
   }
+
+  .photoLocation {
+    font-size: x-small;
+    line-height: 1.2;
+    margin: 0.35em 0 0;
+  }
+
+  .photoLocationSep {
+    opacity: 0.75;
+  }
 }
 
 main.album {
