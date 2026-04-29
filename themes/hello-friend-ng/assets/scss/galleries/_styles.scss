@@ -107,12 +107,26 @@ body.noJS {
 
 
 
-.gallery-item {
-  max-height: 40vh;
+// Real flex item (not `display: contents` — Safari mishandles contents in flex layouts).
+// Intrinsic width: `aspect-ratio` + fixed height (inline from image W/H) replaces the old
+// `img { min-width: 100% }` flex sizing that only worked when `<a>` was the flex child.
+// Row fill still uses flex-grow like https://css-tricks.com/adaptive-photo-layout-with-flexbox/
+.gallery-slide {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: 40vh;
+  width: auto;
   flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  min-width: 0;
+  max-width: 100%;
+  margin: 0;
   padding: 20px;
+  overflow: hidden;
 }
-//https://css-tricks.com/adaptive-photo-layout-with-flexbox/
+
 div.spacer {
   // There's no science in using "10" here. In all my testing, this delivered the best results.
   flex-grow: 10;
@@ -127,10 +141,80 @@ span.albumDate {
   white-space: nowrap;
 }
 
-.gallery-item img {
-  max-height: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
+.gallery-slide .gallery-item {
+  flex: 1 1 auto;
+  min-height: 0;
+  min-width: 0;
+  display: block;
+  width: 100%;
+  position: relative;
+  cursor: zoom-in;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  & > span.clickToBuy {
+    display: none;
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    padding: 0.5rem 0.5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 0.8rem;
+    font-weight: bold;
+    line-height: 0.575rem;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 1000;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+  }
+}
+
+// Shortcode embed: single `<a class="gallery-item">` with no `.gallery-slide` wrapper.
+.photo-list > .gallery-item {
+  height: 40vh;
+  flex-grow: 1;
+  padding: 20px;
+  margin: 0;
+  min-width: 0;
+  display: block;
+  position: relative;
+  cursor: zoom-in;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  & > span.clickToBuy {
+    display: none;
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    padding: 0.5rem 0.5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 0.8rem;
+    font-weight: bold;
+    line-height: 0.575rem;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 1000;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+  }
 }
 
 
@@ -269,11 +353,11 @@ section.featured .card {
 }
 
 
-body.showBuyButtons .gallery-item span.clickToBuy {
+body.showBuyButtons .gallery-slide .gallery-item span.clickToBuy {
   display: inline;
 }
 
-body.noJS .gallery-item span.clickToBuy {
+body.noJS .gallery-slide .gallery-item span.clickToBuy {
   display: none;
 }
 
@@ -314,30 +398,6 @@ body div.availableForPurchase {
     display: none;
   }
 }
-
-
-.gallery-item {
-  position: relative;
-  cursor: zoom-in;
-  & > span.clickToBuy {
-    display:none;
-    position: absolute;
-    top: 1.5rem;
-    right: 1.5rem;
-    padding: 0.5rem .5rem;
-    background-color: rgba(0, 0, 0, .7);
-    border-radius: .5rem;
-    color: white;
-    font-size: .8rem;
-    font-weight: bold;
-    line-height: .575rem;
-    text-decoration: none;
-    cursor:pointer;
-    z-index: 1000;
-  }
-}
-
-
 section.featured {
   margin: 3rem auto 1rem;
   padding-right: 1.5rem;

@@ -70,14 +70,22 @@ if (gallery) {
     mobileLayoutBreakpoint: 700,
     type: "auto",
     mobileCaptionOverlapRatio: 1,
-    captionContent: '.pswp-caption-content'
+    // Caption is a sibling of `.gallery-item` (not nested) so map links are not `<a>` inside `<a>`.
+    captionContent: (slide) => {
+      const el = slide?.data?.element;
+      if (!el) return "";
+      const slideRoot = el.closest(".gallery-slide");
+      const cap = slideRoot?.querySelector(".pswp-caption-content");
+      return cap ? cap.innerHTML : "";
+    },
   });
 
   lightbox.init();
 
   if (window.location.hash.substring(1).length > 0) {
     const index = parseInt(window.location.hash.substring(1), 10);
-    if (!Number.isNaN(index) && index >= 0 && index < gallery.querySelectorAll("a").length) {
+    const slideCount = gallery.querySelectorAll(".gallery-item").length;
+    if (!Number.isNaN(index) && index >= 0 && index < slideCount) {
       lightbox.loadAndOpen(index, { gallery });
     }
   }

@@ -10,17 +10,22 @@
 {{ end }}
 
 {{ $srcset = trim $srcset ","}}
+<div class="gallery-slide" style="aspect-ratio: {{ $full.Width }} / {{ $full.Height }}">
 <a class="gallery-item" href="{{ $full.Url }}"
   data-pswp-src="{{ $full.Url }}" data-pswp-width="{{ $full.Width }}"
   data-pswp-height="{{ $full.Height }}"
   title="{{ .Title }}" itemscope
   itemtype="https://schema.org/ImageObject"
-  style="aspect-ratio: {{ $full.Width }} / {{ $full.Height }}"
   {{ printf "data-pswp-srcset=%q" $srcset | safeHTMLAttr }}>
   <img loading="lazy"
   width="{{ $full.Width }}" height="{{ $full.Height }}"
   src="{{ $full.Url }}" alt="{{ $alt }}" srcset="{{ $srcset }}"/>
-  <div class="pswp-caption-content">
+  {{- if $image.PaymentLink }}
+  <span class="clickToBuy" data-payment-link="{{ $image.PaymentLink }}">Buy original image</span>
+  {{- end }}
+  <meta itemprop="contentUrl" content="{{ $full.Url }}" />
+</a>
+<div class="pswp-caption-content">
 {{ with .Title }}
 <p class="title">{{ . }}</p>
 {{ end }}
@@ -44,13 +49,18 @@
     {{ with .fStop }}
     <p class="fStop"><em>&#402;</em>/{{ . }}</p>
     {{ end }}
-  </div>
 </div>
-  {{- if $image.PaymentLink }}
-  <span class="clickToBuy" data-payment-link="{{ $image.PaymentLink }}">Buy original image</span>
-  {{- end }}
-  <meta itemprop="contentUrl" content="{{ $full.Url }}" />
-</a>
+    {{- $lat := "" -}}
+    {{- $lon := "" -}}
+    {{- with .Latitude }}{{ $lat = replaceRE `^\s+|\s+$` "" (printf "%v" .) }}{{ end -}}
+    {{- with .Longitude }}{{ $lon = replaceRE `^\s+|\s+$` "" (printf "%v" .) }}{{ end -}}
+    {{- if and $lat $lon }}
+    <p class="photoLocation">
+      <a href="{{ printf "https://www.openstreetmap.org/?mlat=%s&mlon=%s#map=15/%s/%s" $lat $lon $lat $lon | safeURL }}" rel="noopener noreferrer" target="_blank">OpenStreetMap</a><span class="photoLocationSep"> · </span><a href="{{ printf "https://www.google.com/maps?q=%s,%s" $lat $lon | safeURL }}" rel="noopener noreferrer" target="_blank">Google Maps</a>
+    </p>
+    {{- end }}
+</div>
+</div>
 {{- if $image.PaymentLink }}
 <div>
   <a class="noJSclickToBuy" href="{{ $image.PaymentLink }}">Buy original image (above)</a>
