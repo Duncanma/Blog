@@ -80,8 +80,6 @@ disableHugoGeneratorInject = false
 
   homeSubtitle = "Articles about web development, engineering leadership, and some random personal ramblings"
 
-  clarity = "440rce59ji"
-
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/Duncanma/Blog/commit/"
 
@@ -181,6 +179,3 @@ pattern = "2006"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[services.googleAnalytics]
-  id = 'UA-23971530-1'

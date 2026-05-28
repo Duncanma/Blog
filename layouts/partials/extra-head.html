@@ -1,6 +1,8 @@
 {{- $pubUri := site.Params.standard.publicationUri -}}
-{{- if site.Data.standardSite.publicationUri -}}
-  {{- $pubUri = site.Data.standardSite.publicationUri -}}
+{{- with index site.Data "standardSite" -}}
+  {{- with .publicationUri -}}
+    {{- $pubUri = . -}}
+  {{- end -}}
 {{- end -}}
 {{- with $pubUri }}
 <link rel="site.standard.publication" href="{{ . }}" />
