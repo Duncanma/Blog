@@ -1,0 +1,10 @@
+{{- $pubUri := site.Params.standard.publicationUri -}}
+{{- if site.Data.standardSite.publicationUri -}}
+  {{- $pubUri = site.Data.standardSite.publicationUri -}}
+{{- end -}}
+{{- with $pubUri }}
+<link rel="site.standard.publication" href="{{ . }}" />
+{{- end }}
+{{- with .Params.standardDocumentUri }}
+<link rel="site.standard.document" href="{{ . }}" />
+{{- end }}

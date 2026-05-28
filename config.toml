@@ -115,6 +115,10 @@ disableHugoGeneratorInject = false
     did = "did:plc:dgieuogsdx366uili53hqid2"
     handle = "duncanmackenzie.net"
 
+  # Standard.site publication AT-URI (see docs/standard-site-setup.md). Leave empty until the record exists.
+  [params.standard]
+    publicationUri = "at://did:plc:dgieuogsdx366uili53hqid2/site.standard.publication/3mmwz23j6tq22"
+
   # Social icons
   [[params.social]]
     name = "instagram"

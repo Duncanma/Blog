@@ -4,6 +4,8 @@
     "tools/album-creator"
   ],
   "dependencies": {
+    "@atproto/api": "^0.14.12",
+    "gray-matter": "^4.0.3",
     "hugo-extended": "^0.135.0"
   },
   "devDependencies": {
@@ -11,7 +13,9 @@
     "@types/node": "^20.12.12"
   },
   "scripts": {
-    "build": "hugo",
+    "build": "hugo && node scripts/sync-standard-publication-well-known.js",
+    "standard:publication": "node scripts/standard-site/cli.js publication",
+    "standard:document": "node scripts/standard-site/cli.js document",
     "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
     "start": "hugo server --baseURL \"http://localhost:1313\" --disableFastRender",
     "starttest": "hugo server --baseURL \"http://localhost:1313\" -c testcontent --disableFastRender",
