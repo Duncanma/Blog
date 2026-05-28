@@ -55,6 +55,26 @@
     fill: currentColor;
     font-size: 12px;
   }
+
+  .analytics-trend-point {
+    fill: var(--accent);
+    stroke: var(--background);
+    stroke-width: 1.5;
+    cursor: pointer;
+  }
+
+  .analytics-trend-point:hover,
+  .analytics-trend-point:focus,
+  .analytics-trend-point.is-preview,
+  .analytics-trend-point.is-selected {
+    r: 5;
+    stroke-width: 2;
+  }
+}
+
+.analytics-trend-details {
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
 }
 
 .analytics-card table {

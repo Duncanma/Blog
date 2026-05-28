@@ -46,27 +46,107 @@ function buildLinePath(points, width, height, padding) {
     .join(" ");
 }
 
+function buildTrendGeometry(points, width, height, padding) {
+  const max = Math.max(...points.map((p) => p.views), 1);
+  const min = Math.min(...points.map((p) => p.views), 0);
+  const xSpan = Math.max(points.length - 1, 1);
+  const ySpan = Math.max(max - min, 1);
+
+  const plotted = points.map((p, idx) => ({
+    ...p,
+    idx,
+    x: padding + (idx / xSpan) * (width - padding * 2),
+    y: height - padding - ((p.views - min) / ySpan) * (height - padding * 2),
+  }));
+
+  return { plotted, min, max };
+}
+
 function renderTrend(svg, points) {
   const width = 720;
   const height = 240;
   const padding = 20;
   const path = buildLinePath(points, width, height, padding);
+  const details = svg.parentElement.querySelector(".analytics-trend-details");
   if (!path) {
     svg.innerHTML = "";
+    if (details) details.textContent = "No points in this range.";
     return;
   }
 
-  const max = Math.max(...points.map((p) => p.views), 1);
-  const min = Math.min(...points.map((p) => p.views), 0);
+  const { plotted, min, max } = buildTrendGeometry(points, width, height, padding);
+  let selectedIndex = 0;
+  let previewIndex = null;
+
+  const pointMarkup = plotted
+    .map((p) => {
+      const label = `${p.period}: ${p.views} views`;
+      return `<circle class="analytics-trend-point" data-idx="${p.idx}" cx="${p.x.toFixed(2)}" cy="${p.y.toFixed(2)}" r="4" tabindex="0" role="button" aria-label="${label}"><title>${label}</title></circle>`;
+    })
+    .join("");
 
   svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
   svg.innerHTML = `
     <line x1="${padding}" y1="${height - padding}" x2="${width - padding}" y2="${height - padding}" />
     <line x1="${padding}" y1="${padding}" x2="${padding}" y2="${height - padding}" />
     <path d="${path}" />
+    ${pointMarkup}
     <text x="${padding + 4}" y="${padding + 12}">max: ${max}</text>
     <text x="${padding + 4}" y="${height - padding - 6}">min: ${min}</text>
   `;
+
+  const circles = Array.from(svg.querySelectorAll(".analytics-trend-point"));
+
+  function updatePointClasses() {
+    circles.forEach((circle, circleIdx) => {
+      circle.classList.toggle("is-selected", circleIdx === selectedIndex);
+      circle.classList.toggle("is-preview", circleIdx === previewIndex);
+    });
+  }
+
+  function updateDetails() {
+    if (details && plotted[selectedIndex]) {
+      const activeIdx = previewIndex ?? selectedIndex;
+      const active = plotted[activeIdx];
+      const prefix = previewIndex === null ? "Selected" : "Preview";
+      details.textContent = `${prefix}: ${active.period} - ${active.views} views`;
+    }
+  }
+
+  function setSelectedPoint(idx) {
+    selectedIndex = idx;
+    previewIndex = null;
+    updatePointClasses();
+    updateDetails();
+  }
+
+  function setPreviewPoint(idx) {
+    previewIndex = idx;
+    updatePointClasses();
+    updateDetails();
+  }
+
+  function clearPreviewPoint() {
+    previewIndex = null;
+    updatePointClasses();
+    updateDetails();
+  }
+
+  circles.forEach((circle, idx) => {
+    circle.addEventListener("mouseenter", () => setPreviewPoint(idx));
+    circle.addEventListener("mouseleave", () => clearPreviewPoint());
+    circle.addEventListener("focus", () => setPreviewPoint(idx));
+    circle.addEventListener("blur", () => clearPreviewPoint());
+    circle.addEventListener("click", () => setSelectedPoint(idx));
+    circle.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        setSelectedPoint(idx);
+      }
+    });
+  });
+
+  setSelectedPoint(0);
 }
 
 async function fetchStats(baseUrl, endpoint, secret, params = {}) {
@@ -93,6 +173,12 @@ async function runDashboard(root) {
   const status = root.querySelector("#analyticsStatus");
 
   const trendSvg = root.querySelector("#analyticsTrend");
+  let trendDetails = root.querySelector(".analytics-trend-details");
+  if (!trendDetails && trendSvg?.parentElement) {
+    trendDetails = document.createElement("p");
+    trendDetails.className = "analytics-trend-details";
+    trendSvg.parentElement.appendChild(trendDetails);
+  }
   const topPagesBody = root.querySelector("#analyticsTopPages tbody");
   const referrersBody = root.querySelector("#analyticsReferrers tbody");
   const countriesBody = root.querySelector("#analyticsCountries tbody");
