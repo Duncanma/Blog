@@ -101,9 +101,9 @@ Generated markdown is JSON frontmatter in this shape:
 
 ## ID Strategy
 
-`uniqueID` is GalleryMaker-compatible:
+`uniqueID` is derived like GalleryMaker, with the Lightroom **asset id** appended so two different images that share the same filename stem and capture time never collide.
 
-- source string: `"{DateTimeOriginal:u}{file-stem}"` (UTC format)
+- source string: `"{DateTimeOriginal:u}{file-stem}{assetId}"` (UTC format for the date part, as before)
 - hash: `HMAC-MD5(source, HASH_KEY)`
 - default `HASH_KEY`: `hashbrown`
 

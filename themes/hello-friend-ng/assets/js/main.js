@@ -3,3 +3,4 @@
 import "./galleries/lightbox.js";
 import "./galleries/click-to-buy.js";
 import "./copyAsMarkdown.js";
+import "./analytics-dashboard.js";

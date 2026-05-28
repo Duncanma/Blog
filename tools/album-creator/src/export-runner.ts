@@ -199,7 +199,9 @@ async function runDryRun(
     const rowKeywords = filterImportTags(extractKeywordsFromPayload(payload))
     allKeywords.push(...rowKeywords)
     const meta = buildPictureMetadata(row, exif, payload ?? undefined)
-    const sourceId = makeGalleryMakerSourceId(meta.DateTimeOriginal, fileStemFromLabel(row.label))
+    // Append Lightroom asset id so two shots with the same filename + capture time stay distinct.
+    const sourceId =
+      makeGalleryMakerSourceId(meta.DateTimeOriginal, fileStemFromLabel(row.label)) + row.id
     const uniqueID = stableAssetUniqueId(sourceId, hashKey)
     const kw = rowKeywords.length
     const idx = String(n).padStart(indexPad, '0')
@@ -294,7 +296,9 @@ export async function runExport(opts: ExportRunnerOptions): Promise<void> {
       }
     })
 
-    const sourceId = makeGalleryMakerSourceId(meta.DateTimeOriginal, fileStemFromLabel(row.label))
+    // Append Lightroom asset id so two shots with the same filename + capture time stay distinct.
+    const sourceId =
+      makeGalleryMakerSourceId(meta.DateTimeOriginal, fileStemFromLabel(row.label)) + row.id
     const uniqueID = stableAssetUniqueId(sourceId, hashKey)
     const dt = meta.DateTimeOriginal || exif.DateTimeOriginal || captureDateFromPayload(payload)
     const existingPicture = existing.byUniqueId.get(uniqueID)

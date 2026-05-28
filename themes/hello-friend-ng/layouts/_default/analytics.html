@@ -1,0 +1,72 @@
+{{ define "main" }}
+<main class="post analytics-page">
+  <article>
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <section
+      id="analyticsDashboard"
+      class="analytics-dashboard"
+      data-api-base="{{ .Site.Params.analyticsApiBase }}">
+      <div class="analytics-controls">
+        <label for="analyticsSecret">Secret</label>
+        <input id="analyticsSecret" type="password" autocomplete="off" />
+        <label for="analyticsStart">Start</label>
+        <input id="analyticsStart" type="date" />
+        <label for="analyticsEnd">End</label>
+        <input id="analyticsEnd" type="date" />
+        <button id="analyticsLoad" type="button">Load</button>
+      </div>
+      <p id="analyticsStatus" class="analytics-status"></p>
+
+      <section class="analytics-card">
+        <h2>Views by Day</h2>
+        <svg id="analyticsTrend" class="analytics-trend" aria-label="Views by day"></svg>
+      </section>
+
+      <section class="analytics-card analytics-grid">
+        <div>
+          <h2>Top Pages</h2>
+          <table id="analyticsTopPages">
+            <thead><tr><th>Page</th><th>Views</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div>
+          <h2>Referrers</h2>
+          <table id="analyticsReferrers">
+            <thead><tr><th>Source</th><th>Views</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="analytics-card analytics-grid">
+        <div>
+          <h2>Countries</h2>
+          <table id="analyticsCountries">
+            <thead><tr><th>Country</th><th>Views</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div>
+          <h2>Segments</h2>
+          <ul id="analyticsSegmentsSummary"></ul>
+          <h3>Top Browsers</h3>
+          <table id="analyticsBrowsers">
+            <thead><tr><th>Browser</th><th>Views</th></tr></thead>
+            <tbody></tbody>
+          </table>
+          <h3>Top Devices</h3>
+          <table id="analyticsDevices">
+            <thead><tr><th>Device</th><th>Views</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </section>
+  </article>
+</main>
+{{ end }}

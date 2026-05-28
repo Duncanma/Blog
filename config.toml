@@ -102,6 +102,7 @@ disableHugoGeneratorInject = false
   defaultTheme = "dark"
   themeColor = "#252627"
   homegrownAnalytics = "https://functions.duncanmackenzie.net/api/event?code=Z2iNU1ncqSCA9CMwMSVhgQfcQAOuqwtyDkpKKfeqqB0oAzFudj2C3g%3D%3D"
+  analyticsApiBase = "https://functions.duncanmackenzie.net/api/stats"
 
   [params.author]
     name = "Duncan Mackenzie"
