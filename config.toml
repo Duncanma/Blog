@@ -56,6 +56,10 @@ disableHugoGeneratorInject = false
     baseName = "index"
     mediaType = "text/markdown"
     isPlainText = true
+  [outputFormats.browserconfig]
+    mediaType = "application/xml"
+    baseName = "browserconfig"
+    isPlainText = true
 
 
 [outputs]
@@ -179,3 +183,7 @@ pattern = "2006"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params.favicon]
+  mask = "#5FB3C4"          # safari-pinned-tab tint (accent)
+  msapplication = "#1F2023" # Windows tile colour (dark tile)
