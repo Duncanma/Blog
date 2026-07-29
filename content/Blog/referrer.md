@@ -5,7 +5,7 @@ type: posts
 tags:
 - Web Development
 - DevTo
-description: Determining the source of traffic to your pages is often done via the referral information passed in the request, but this information is often unavailable or inaccurate.
+description: People often want to know which site sent a visitor their way, but thanks to browser privacy defaults, referrer info is frequently missing or incomplete.
 ---
 
 Over the years, many people have asked me to give them data on, or act

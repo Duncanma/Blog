@@ -12,6 +12,11 @@
  * also baked into the output filename, so an edited post gets a brand new
  * image URL instead of overwriting a stable one that browsers/CDNs/social
  * previews may already have cached.
+ *
+ * Editing a post or deleting one leaves its old PNG(s) on disk as orphans
+ * (harmless — nothing references them once the manifest moves on) unless
+ * you pass --prune, which deletes any static/og-images/*.png not referenced
+ * by the current manifest: `node scripts/generate-og-images.js --prune`.
  */
 const fs = require("fs");
 const path = require("path");
@@ -32,7 +37,7 @@ const PADDING = 64;
 const IMAGE_PANEL_WIDTH = 400;
 
 // Bump this when the card design changes to force every post to regenerate.
-const TEMPLATE_VERSION = "3";
+const TEMPLATE_VERSION = "4";
 
 const COLORS = {
   background: "#1F2023",
@@ -221,7 +226,7 @@ function buildCard(input) {
             src: imageDataUri,
             width: IMAGE_PANEL_WIDTH,
             height: HEIGHT,
-            style: { objectFit: "contain", width: IMAGE_PANEL_WIDTH, height: HEIGHT },
+            style: { objectFit: "cover", width: IMAGE_PANEL_WIDTH, height: HEIGHT },
           },
         },
       ],
@@ -253,6 +258,7 @@ async function renderCard(vnode, fonts) {
 }
 
 async function main() {
+  const prune = process.argv.slice(2).includes("--prune");
   const fonts = loadFonts();
   fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -312,11 +318,6 @@ async function main() {
       const png = await renderCard(vnode, fonts);
       fs.writeFileSync(outFile, png);
 
-      if (existing && existing.image) {
-        const oldFile = path.join(ROOT, "static", existing.image.replace(/^\//, ""));
-        if (oldFile !== outFile && fs.existsSync(oldFile)) fs.unlinkSync(oldFile);
-      }
-
       manifest[slug] = { hash: hash, image: "/og-images/" + fileName };
       generated++;
     } catch (err) {
@@ -325,10 +326,11 @@ async function main() {
     }
   }
 
+  // Posts that no longer exist (deleted, or now draft/untitled) drop out of
+  // the manifest here, but their PNG is left on disk unless --prune is set —
+  // see the orphan sweep below.
   for (const slug of Object.keys(manifest)) {
     if (!seenSlugs.has(slug)) {
-      const stale = path.join(ROOT, "static", manifest[slug].image.replace(/^\//, ""));
-      if (fs.existsSync(stale)) fs.unlinkSync(stale);
       delete manifest[slug];
     }
   }
@@ -342,7 +344,21 @@ async function main() {
   fs.mkdirSync(path.dirname(MANIFEST_PATH), { recursive: true });
   fs.writeFileSync(MANIFEST_PATH, JSON.stringify(sorted, null, 2) + "\n", "utf8");
 
-  console.log("og-images: " + generated + " generated, " + skipped + " cached, " + errors + " failed (" + files.length + " posts scanned).");
+  const referenced = new Set(Object.values(sorted).map(function (entry) { return path.basename(entry.image); }));
+  const onDisk = fs.readdirSync(OUT_DIR).filter(function (f) { return f.endsWith(".png"); });
+  const orphans = onDisk.filter(function (f) { return !referenced.has(f); });
+
+  if (prune) {
+    orphans.forEach(function (f) { fs.unlinkSync(path.join(OUT_DIR, f)); });
+  }
+
+  let summary = "og-images: " + generated + " generated, " + skipped + " cached, " + errors + " failed (" + files.length + " posts scanned).";
+  if (orphans.length > 0) {
+    summary += prune
+      ? " Pruned " + orphans.length + " orphaned file(s)."
+      : " " + orphans.length + " orphaned file(s) on disk (run with --prune to delete).";
+  }
+  console.log(summary);
   if (errors > 0) process.exitCode = 1;
 }
 

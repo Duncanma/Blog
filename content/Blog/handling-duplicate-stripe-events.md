@@ -8,7 +8,7 @@ tags:
  - Stripe
  - Azure
  - DevTo
-description: I added checks to avoid processing duplicate events in my Stripe webhook handler.
+description: Stripe can send the same webhook event more than once, so I added a CosmosDB check to my order fulfillment code to catch duplicates before customers do.
 ---
 In my recent post, [detailing how I handle order fulfillment for my Stripe integration](/blog/order-fulfillment/), I missed an important part of reacting to Stripe webhooks. The documentation [explains that your endpoint may be called multiple times for a single event](https://docs.stripe.com/webhooks#handle-duplicate-events), but I don't handle that in my code.
 

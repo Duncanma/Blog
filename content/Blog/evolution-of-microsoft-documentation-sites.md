@@ -6,6 +6,7 @@ tags:
  - Microsoft
  - Information Architecture
  - Web Development
+description: A firsthand history of how Microsoft's developer content moved from MSDN and TechNet through docs.microsoft.com to today's Microsoft Learn.
 techfeatured: true
 blueskyPostID: 3jvpuxajixy2k
 ---

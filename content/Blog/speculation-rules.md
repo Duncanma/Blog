@@ -10,7 +10,7 @@ tags:
  - DevTo
 images:
  - /images/speculation-rules/loads.png
-description: Retrieving a page before the user even requests it can make a fast web experience into an instant one, and Chrome's Speculation Rules API makes that possible with no code.
+description: Chrome can fetch and render a page before you click the link. I used the Speculation Rules API to add instant navigation to my site with zero JS.
 featured: true
 blueskyPostID: 3l74i6nhjwc2f
 ---

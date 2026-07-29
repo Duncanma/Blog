@@ -6,7 +6,7 @@ tags:
 - Management
 - Engineering Management
 - DevTo
-description: Making sure the work you do, and the impact it has, is visible and understandable to others is one of the most useful skills for anyone in the workforce.
+description: "The top career advice I give engineers: doing great work isn't enough on its own, you also have to make sure people actually know about it."
 techfeatured: true
 blueskyPostID: 3ka6qhv4rcc2l
 ---

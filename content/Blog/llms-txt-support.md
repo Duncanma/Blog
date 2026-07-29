@@ -8,7 +8,7 @@ tags:
  - Coding
  - Hugo
  - Azure
-description: Learn how to add LLMs.txt and markdown output support to your Hugo site. Make your content AI-friendly with markdown versions, copy buttons, and proper content headers for better LLM ingestion.
+description: I added an llms.txt file, markdown versions of every page, and a 'copy as markdown' button to my Hugo site, so LLMs can actually parse my content correctly.
 blueskyPostID: 3li3b4dgzb22d
 ---
 

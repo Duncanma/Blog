@@ -8,7 +8,7 @@ tags:
 - Web Development
 images:
 - /images/docs/overview.png
-description: It's a big site, with a lot of moving pieces, but I am going to zoom out and try to start at a simplified view and then drill down one step at a time.
+description: A content change triggers a webhook, a DocFX build, a push into our DHS storage system, and then an App Service assembles the page you actually see.
 docsfeatured: true
 ---
 

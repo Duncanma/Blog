@@ -7,7 +7,7 @@ tags:
 - Beer
 images:
 - /images/beer_tourism.jpg
-description: Finding interesting beer while traveling
+description: I like traveling and I like beer, so I hunt down local breweries wherever I go — starting a running list of stops, from Madrid to Shanghai.
 featured: true
 ---
 I like traveling and I like beer.

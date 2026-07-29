@@ -7,7 +7,7 @@ tags:
  - Coding
  - Self-Assessment
  - SEO
-description: A beginner's guide to seo going through a step by step tutorial to assess your own site
+description: Second in my self-assessment series — a step-by-step walkthrough of checking your site's SEO fundamentals using free tools like Google Search Console.
 featured: true
 ---
 

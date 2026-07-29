@@ -6,7 +6,7 @@ tags:
  - Web Development
  - Coding
  - Hugo
-description: By checking the tags collection you can add a conditional bit of content to your post pages in your Hugo template.
+description: How I used a Hugo tag check to promote my newsletter only on web-dev posts — so beer tourism readers won't get an unwanted pitch for web performance content.
 ---
 I recently [launched a newsletter](https://www.getrevue.co/profile/DuncanMackenzie), despite being assured email is dead, and like any good content creator I want to grow my audience.
 

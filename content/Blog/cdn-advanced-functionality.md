@@ -6,7 +6,7 @@ tags:
 - Web Development
 - CDN
 - Performance
-description: The basic functionality of a CDN is to cache and distribute content, but many CDN providers bundle advanced features together with their service
+description: CDNs bundle in a lot more than caching — I dig into web application firewalls, image optimization, and path rewriting to multiple origins.
 draft: false
 techfeatured: false
 ---

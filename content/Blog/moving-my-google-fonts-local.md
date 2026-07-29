@@ -10,7 +10,7 @@ tags:
  - Hugo
 images:
 - /images/performance/Baseline_New_Waterfall.png
-summary: Moving my Google fonts local seemed to be one of the remaining
+description: I tested self-hosting my Google Fonts instead of using Google's CDN, only to discover an unrelated, unused CSS file was the real performance culprit.
 techfeatured: false
 ---
 

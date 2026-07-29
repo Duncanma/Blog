@@ -7,7 +7,7 @@ tags:
 - Engineering Management
 - Performance Reviews
 - DevTo
-description: One of the hardest jobs of a manager is to determine the rewards for your team. As you consider each person's impact and how to distribute rewards, it is helpful to think about the message you are trying to send with these decisions.
+description: Deciding raises and bonuses is one of the hardest parts of managing, whatever number you land on, your team will read it as a message about their year.
 blueskyPostID: 3k7pqxo4as22b
 ---
 

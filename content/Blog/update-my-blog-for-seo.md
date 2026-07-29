@@ -7,7 +7,7 @@ tags:
  - Web Development
  - Coding
  - Hugo
-description: A few small fixes to my blog template to clean up how Google and other crawlers see my content.
+description: Turns out my own meta descriptions weren't showing up in search at all — a theme bug I found (and fixed) while cleaning up noindex tags and my sitemap.
 ---
 In [my recent article on assessing your site for SEO (Search Engine
 Optimization)](/blog/assessing-your-site-for-seo/), I mentioned a few

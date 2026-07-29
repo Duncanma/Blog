@@ -8,7 +8,7 @@ tags:
  - Accessibility
  - Self-Assessment
 featured: true
-description: A guide to the minimum areas you should look to ensure your site is usable by everyone.
+description: "A practical rundown of the four things I check first for accessibility: valid semantic HTML, color contrast, keyboard navigation, and image alt text."
 ---
 
 A little while back I started [a series around assessing your own site](/blog/site-assessments/),

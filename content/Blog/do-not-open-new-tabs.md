@@ -7,7 +7,7 @@ tags:
  - Accessibility
  - DevTo
 techfeatured: true
-description: Every few days someone will suggest we have our links open in a new tab by default, here is why that is a bad idea
+description: There are legit reasons to open a link in a new tab, like not losing your progress after filling in 20 fields of a loan form — but you must warn the user first.
 ---
 
 This seems to come up every few days, so I thought I would put yet

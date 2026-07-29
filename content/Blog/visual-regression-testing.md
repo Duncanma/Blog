@@ -1,7 +1,7 @@
 ---
 date: 2024-05-22T08:14:18-07:00
 title: Visual Regression Testing using Playwright and GitHub Actions
-description: Every update to your site introduces the possibility of introducing an unintended bug, but automated testing can catch what your own checks don't spot.
+description: A site bug my own mom's laptop exposed in light mode taught me I needed real testing, so I set up Playwright screenshot diffs in a GitHub Action.
 type: posts
 tags:
  - Web Development

@@ -6,7 +6,7 @@ tags:
 - Web Development
 - CDN
 - Performance
-description: A common pattern on sites is to use a separate static or cdn domain, but is this a good idea?
+description: "Short answer: no. Splitting assets onto a cdn.* subdomain saves a few cookie bytes but costs you an extra DNS lookup and SSL handshake."
 techfeatured: false
 ---
 Short answer is "No, you shouldn't". You will see this quite often on sites, where the site itself is served at www.mydomain.com, and then static resources (CSS, JS, images, etc.) are served from a secondary domain like cdn.mydomain.com or something similar. The second domain is routed through a CDN, the main domain is not.

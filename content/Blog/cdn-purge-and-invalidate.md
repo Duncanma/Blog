@@ -6,7 +6,7 @@ tags:
 - Web Development
 - CDN
 - Performance
-description: Long cache times are great, but sometimes you need to update content before that time is up, which is where purging and invalidating comes in.
+description: On this very blog, publishing a new post purges every single cached page at the CDN, not just the ones that changed — total overkill, but far simpler.
 ---
 
 ## First, a little background

@@ -9,6 +9,7 @@ tags:
  - Scalability
  - Engineering Management
  - DevTo
+description: Using a fictional vehicle-lookup site as an example, I walk through caching and pre-processing techniques for doing less work per request.
 techfeatured: true
 ---
 One of the keys to scalability in software systems is to reduce the

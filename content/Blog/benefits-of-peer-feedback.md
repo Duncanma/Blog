@@ -7,7 +7,7 @@ tags:
 - Engineering Management
 - Performance Reviews
 - DevTo
-description: Feedback from another employee can be very helpful for your performance review, but it is most useful if it is written with specific details about your work and it's impact.
+description: Peer feedback helps a manager back up your review, but only if it's specific, concrete examples of your work. Vague praise is not helpful.
 blueskyPostID: 3kmbsao5h5y26
 ---
 

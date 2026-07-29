@@ -16,6 +16,7 @@
   },
   "scripts": {
     "og-images": "node scripts/generate-og-images.js",
+    "og-images:prune": "node scripts/generate-og-images.js --prune",
     "build": "npm run og-images && hugo && node scripts/sync-standard-publication-well-known.js",
     "standard:publication": "node scripts/standard-site/cli.js publication",
     "standard:document": "node scripts/standard-site/cli.js document",
@@ -26,5 +27,6 @@
     "update": "playwright test --update-snapshots",
     "album-creator": "npm exec -w album-creator -- album-creator",
     "build:album-creator": "npm run build -w album-creator"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

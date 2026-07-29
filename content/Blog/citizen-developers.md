@@ -7,6 +7,7 @@ tags:
  - Coding
  - Microsoft
  - DevTo
+description: A rocky personal history with 'unofficial' tools at Microsoft, and the framework I now use to evaluate the risk and impact of citizen-developed apps.
 ---
 
 In any organization, users will end up creating their own tools, outside

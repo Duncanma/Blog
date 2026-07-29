@@ -9,7 +9,7 @@ tags:
 - Spain
 images:
 - /images/beer/imperial_stout_sml.jpg
-description: On a recent trip to Spain, I was lucky to find a local craft brewpub
+description: My Madrid trip turned up Cervezas La Cibeles in the minibar fridge, and Brew Wild, a pizza place with 18 beers on tap I ended up visiting twice.
 ---
 My most recent bit of [beer tourism]({{< relref "beer-tourism.md" >}}) happened on a wonderful trip to Spain. While traveling to European countries, I often end up drinking lagers. This is not my regular choice at home, but my travel beer choice system is based on an overall desire to drink a local beer if available and the fact that I **really** prefer beer on tap (or _cerveza de barril_ in spanish).
 

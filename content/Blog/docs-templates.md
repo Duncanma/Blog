@@ -8,7 +8,7 @@ tags:
 - Web Development
 images:
 - /images/docs/templates_chrome.png
-description: Content on Docs goes through a build process, and is then served from our rendering layer. At both stages, templates are used to control the output.
+description: Docs uses two separate template systems — mustache-style at build time for content, and Liquid at request time for the header/footer chrome.
 docsfeatured: true
 ---
 

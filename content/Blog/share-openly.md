@@ -8,8 +8,8 @@ tags:
  - Hugo
  - ShareOpenly
 images:
- - /images/shareopenly-pick-destination.png
-description: I just learned about Ben Werdmuller's ShareOpenly tool today, and I've already added it to my site.
+ - /images/shareopenly-pick-destination400x630.png
+description: Rather than lock share links to one network, ShareOpenly gives readers a picker to send a post to Mastodon, Bluesky, or wherever they hang out.
 blueskyPostID: 3ksai7cfh7c2u
 ---
 
