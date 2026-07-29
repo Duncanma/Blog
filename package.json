@@ -5,20 +5,23 @@
   ],
   "dependencies": {
     "@atproto/api": "^0.14.12",
+    "@resvg/resvg-js": "^2.6.2",
     "gray-matter": "^4.0.3",
-    "hugo-extended": "^0.135.0"
+    "hugo-extended": "^0.135.0",
+    "satori": "^0.29.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.44.1",
     "@types/node": "^20.12.12"
   },
   "scripts": {
-    "build": "hugo && node scripts/sync-standard-publication-well-known.js",
+    "og-images": "node scripts/generate-og-images.js",
+    "build": "npm run og-images && hugo && node scripts/sync-standard-publication-well-known.js",
     "standard:publication": "node scripts/standard-site/cli.js publication",
     "standard:document": "node scripts/standard-site/cli.js document",
-    "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
-    "start": "hugo server --baseURL \"http://localhost:1313\" --disableFastRender",
-    "starttest": "hugo server --baseURL \"http://localhost:1313\" -c testcontent --disableFastRender",
+    "build:preview": "npm run og-images && hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
+    "start": "npm run og-images && hugo server --baseURL \"http://localhost:1313\" --disableFastRender",
+    "starttest": "npm run og-images && hugo server --baseURL \"http://localhost:1313\" -c testcontent --disableFastRender",
     "test": "playwright test",
     "update": "playwright test --update-snapshots",
     "album-creator": "npm exec -w album-creator -- album-creator",

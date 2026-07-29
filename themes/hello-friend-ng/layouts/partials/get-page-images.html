@@ -1,4 +1,12 @@
+{{- /* Prefer a generated og:image (scripts/generate-og-images.js, data/og_images.json) when this page has one. */}}
+{{- $generated := "" }}
+{{- with .File }}
+  {{- $generated = index site.Data.og_images .BaseFileName }}
+{{- end }}
 {{- $imgs := slice }}
+{{- if $generated }}
+  {{- $imgs = $imgs | append (dict "Permalink" ($generated.image | absURL) "RelPermalink" ($generated.image | relURL) "Width" 1200 "Height" 630) }}
+{{- else }}
 {{- if eq .Type "albums" }}
 {{- if .Params.Pictures }}
     {{ $imgPictures := .Params.Pictures }}
@@ -58,5 +66,6 @@
       "Permalink" $img
     ) }}
   {{- end }}
+{{- end }}
 {{- end }}
 {{- return $imgs }}
