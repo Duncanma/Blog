@@ -1,13 +1,16 @@
 ---
-title: "Space Games"
-date: 2019-07-04T18:49:12-08:00
+title: Space Games
+date: 2019-07-05T02:49:12.000Z
 type: posts
 tags:
-- Gaming
-- Elite Dangerous
+  - Gaming
+  - Elite Dangerous
 images:
-- /images/spacegames/MySetup_sml.jpg
-description: In college I wrote my own bot in Pascal that flew my ship and traded cargo while I slept — then a surprise $5/hour fee left me with a $1200 bill.
+  - /images/spacegames/MySetup_sml.jpg
+description: >-
+  In college I wrote my own bot in Pascal that flew my ship and traded cargo
+  while I slept — then a surprise $5/hour fee left me with a $1200 bill.
+standardDocumentUri: 'at://did:plc:dgieuogsdx366uili53hqid2/site.standard.document/3mrviokieui2w'
 ---
 I have played a lot of games over the years, going back to the C64 and our Intellivision, to a huge amount of time spent on the Xbox since it launched, and if you were to ask me what types of games I liked, the answers would really vary. I really enjoy RTS, I've played a lot of first-person shooters, I like 4X strategy games, racing, and even some platformers.
 
