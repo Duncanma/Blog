@@ -1,19 +1,33 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+# Example pipeline for this repo. Sync with your Azure DevOps pipeline if the YAML
+# in ADO differs from this file.
 
 trigger:
-- master
+  - master
 
 pool:
-  vmImage: 'Ubuntu-16.04'
+  vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+  - task: NodeTool@0
+    inputs:
+      versionSpec: "20.x"
+    displayName: Use Node.js
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+  - script: npm ci
+    displayName: npm ci
+
+  - script: npm run build
+    displayName: Hugo build + .well-known sync
+
+  - script: npm test
+    displayName: Playwright tests
+    continueOnError: true
+
+  # Replace with your storage connection / service connection and AzCopy task.
+  # Upload contents of public/ to the $web container (not the public folder itself).
+  #
+  # - script: |
+  #     azcopy copy "$(Build.SourcesDirectory)/public/*" \
+  #       "https://duncanmackenzieblog.blob.core.windows.net/\$web?<SAS>" \
+  #       --recursive
+  #   displayName: Upload to static website ($web)

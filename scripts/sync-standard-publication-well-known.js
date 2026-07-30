@@ -9,8 +9,11 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const configPath = path.join(root, "config.toml");
 const statePath = path.join(root, "data", "standard-site.json");
-const outDir = path.join(root, "public", ".well-known");
-const outFile = path.join(outDir, "site.standard.publication");
+const publicOutDir = path.join(root, "public", ".well-known");
+const publicOutFile = path.join(publicOutDir, "site.standard.publication");
+const staticOutDir = path.join(root, "static", ".well-known");
+const staticOutFile = path.join(staticOutDir, "site.standard.publication");
+const staleWellKnownDir = path.join(root, "public", "well-known");
 
 function readPublicationUri() {
   if (fs.existsSync(statePath)) {
@@ -34,6 +37,17 @@ if (!uri) {
   process.exit(0);
 }
 
-fs.mkdirSync(outDir, { recursive: true });
-fs.writeFileSync(outFile, uri, "utf8");
-console.log(`standard.site: wrote ${path.relative(root, outFile)}`);
+if (fs.existsSync(staleWellKnownDir)) {
+  fs.rmSync(staleWellKnownDir, { recursive: true, force: true });
+  console.log(`standard.site: removed stale ${path.relative(root, staleWellKnownDir)}`);
+}
+
+function writePublicationFile(outFile) {
+  fs.mkdirSync(path.dirname(outFile), { recursive: true });
+  fs.writeFileSync(outFile, uri, "utf8");
+}
+
+writePublicationFile(publicOutFile);
+writePublicationFile(staticOutFile);
+console.log(`standard.site: wrote ${path.relative(root, publicOutFile)}`);
+console.log(`standard.site: wrote ${path.relative(root, staticOutFile)} (copied by Hugo when CI runs hugo only)`);
