@@ -10,3 +10,6 @@
 {{- with .Params.standardDocumentUri }}
 <link rel="site.standard.document" href="{{ . }}" />
 {{- end }}
+{{- with .Params.noindex }}
+<meta name="robots" content="noindex" />
+{{- end }}

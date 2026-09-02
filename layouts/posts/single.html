@@ -1,0 +1,51 @@
+{{ define "main" }}
+    <main class="post h-entry">
+        <div class="post-info">
+            <p><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>{{ i18n "readingTime" .Page.ReadingTime }}</span>
+                {{ partial "shareOpenly.html" . }}
+                {{ partial "copyAsMarkdown.html" . }}
+            </p>
+        </div>
+        <article>
+            <h1 class="post-title p-name"><a href="{{ .Permalink }}" class="u-url">{{ .Title | markdownify }}</a></h1>
+
+            {{ with .Params.historical }}
+            <aside class="admonition note">
+                <div class="admonition-content">This post is from {{ $.Date.Format "January 2006" }} and is kept for historical/nostalgic interest — details, links, and opinions may be out of date.</div>
+            </aside>
+            {{ end }}
+
+            {{ partial "toc.html" . }}
+
+            {{ with .Params.Cover }}
+                <img src="/img/{{ . }}" class="post-cover" />
+            {{ end }}
+
+            <div class="post-content e-content">
+                {{ .Content | partial "add-header-anchors" }}
+            </div>
+        </article>
+        <hr />
+        <div class="feedback">
+            {{ partial "bluesky.html" . }}
+        </div>
+
+        <hr />
+
+        <div class="post-info">
+            {{ partial "post-footer-meta.html" (dict "page" . "embed" false) }}
+        </div>
+
+        {{ partial "section-pagination.html" . }}
+
+        {{ if .Params.comments }}
+           <div id="comments" class="thin">
+                {{- partial "comments.html" . -}}
+           </div>
+        {{ end }}
+
+        {{ if .Site.Params.showRelated }}
+        {{- partial "related.html" . -}}
+        {{end}}
+    </main>
+{{ end }}

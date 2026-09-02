@@ -20,6 +20,7 @@
     "build": "npm run og-images && hugo && node scripts/sync-standard-publication-well-known.js",
     "standard:publication": "node scripts/standard-site/cli.js publication",
     "standard:document": "node scripts/standard-site/cli.js document",
+    "curate": "node scripts/curate-posts.js",
     "build:preview": "npm run og-images && hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
     "start": "npm run og-images && hugo server --baseURL \"http://localhost:1313\" --disableFastRender",
     "starttest": "npm run og-images && hugo server --baseURL \"http://localhost:1313\" -c testcontent --disableFastRender",

@@ -8,6 +8,8 @@
 
 [Standard.site / Bluesky link cards](docs/standard-site-setup.md) — publication verification and per-post document records for enhanced Bluesky previews.
 
+[Content curation](docs/content-curation.md) — noindex/historical/archive frontmatter and `scripts/curate-posts.js` for triaging old posts.
+
 ## og:image generation
 
 Every post gets a custom 1200×630 social preview card, generated at build time by `scripts/generate-og-images.js` using Satori (layout/SVG) and resvg (SVG → PNG).
