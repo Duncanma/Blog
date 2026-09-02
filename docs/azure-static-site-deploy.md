@@ -42,15 +42,17 @@ Do **not** use `hugo` alone unless `static/.well-known/` is committed and up to 
 
 ### Upload to `duncanmackenzieblog` / `$web`
 
-Use AzCopy (or equivalent) on the **`public/`** folder with `--recursive`. Dot-prefixed paths like `.well-known` are included by default.
-
-Example:
+Use AzCopy's **`sync`**, not `copy`, on the **`public/`** folder. Dot-prefixed paths like `.well-known` are included by default.
 
 ```bash
-azcopy copy "./public/*" "https://duncanmackenzieblog.blob.core.windows.net/\$web" --recursive
+azcopy sync "./public" "https://duncanmackenzieblog.blob.core.windows.net/\$web" --recursive --delete-destination=true
 ```
 
-Use the trailing `/*` or `public/.` pattern so contents land at the container root, not under a `public/` prefix.
+**Why `sync` and not `copy`:** `copy` only uploads new/changed files — it never removes a blob from `$web` for a page that's no longer produced by the build. A post that gets `draft: true`'d or moved to `archived-posts/` disappears from `public/` correctly, but under `copy` it silently keeps serving its old content at the live URL forever (confirmed in production: two archived posts were still returning `200` with their pre-archive content, `Last-Modified` weeks stale, after several later deploys had otherwise gone out fine). `sync --delete-destination=true` mirrors `$web` to exactly match `public/`, deleting anything the current build no longer generates.
+
+`sync` takes a plain directory, not a glob — use `"./public"` (no trailing `/*`), unlike the old `copy` example.
+
+The first `sync` run after switching will clean up **any** pre-existing orphaned blobs (old archived/removed posts, the stray `/well-known/` path mentioned below), not just ones from this change — that's expected and desired.
 
 ### Verify after deploy
 
@@ -60,7 +62,7 @@ curl -s https://www.duncanmackenzie.net/.well-known/site.standard.publication
 
 Should print your publication AT-URI only (plain text), not HTML.
 
-If you get HTML, you may be hitting the old `/well-known/` path (no leading dot) from an abandoned Hugo page—delete that blob prefix in storage or rely on the build script removing `public/well-known/` before upload.
+If you get HTML, you may be hitting the old `/well-known/` path (no leading dot) from an abandoned Hugo page. With the `sync --delete-destination=true` upload above, the next deploy removes it automatically; with the old `copy`-based upload you'd need to delete that blob prefix manually.
 
 ### CDN / Front Door
 

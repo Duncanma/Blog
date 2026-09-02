@@ -26,8 +26,15 @@ steps:
   # Replace with your storage connection / service connection and AzCopy task.
   # Upload contents of public/ to the $web container (not the public folder itself).
   #
+  # Use `sync`, not `copy`: `copy` only uploads new/changed files, so a post
+  # that's removed from the build (draft: true, or moved to archived-posts/)
+  # is never deleted from $web -- it stays live at its old URL forever.
+  # `sync` with --delete-destination=true mirrors $web to match public/,
+  # removing anything no longer produced by the build. See
+  # docs/azure-static-site-deploy.md for the incident this fixes.
+  #
   # - script: |
-  #     azcopy copy "$(Build.SourcesDirectory)/public/*" \
+  #     azcopy sync "$(Build.SourcesDirectory)/public" \
   #       "https://duncanmackenzieblog.blob.core.windows.net/\$web?<SAS>" \
-  #       --recursive
-  #   displayName: Upload to static website ($web)
+  #       --recursive --delete-destination=true
+  #   displayName: Sync to static website ($web)
