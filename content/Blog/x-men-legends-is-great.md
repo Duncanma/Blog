@@ -1,7 +1,9 @@
 ---
-date: 2004-10-09T22:22:00+00:00
+date: 2004-10-09T22:22:00.000Z
 title: X-Men Legends is great...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've been playing through x-men legends for the XBox, which has been a lot of fun... kinda like Gauntlet but with the X-Men ... it isn't as much fun right now though, because I went and got stuck 🙂
 

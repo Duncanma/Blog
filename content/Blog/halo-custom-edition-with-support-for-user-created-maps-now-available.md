@@ -1,7 +1,9 @@
 ---
-date: 2004-05-07T10:49:00+00:00
-title: Halo Custom Edition, with support for user-created maps... now available...
+date: 2004-05-07T10:49:00.000Z
+title: 'Halo Custom Edition, with support for user-created maps... now available...'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I heard this was coming in a few weeks, but it is [here now](https://gbxforums.gearboxsoftware.com//showflat.php?Cat=&Board=Halo&Number=181661&page=0&view=collapsed&sb=5&o=&fpart=1)....
 

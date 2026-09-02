@@ -1,7 +1,9 @@
 ---
-date: 2005-11-22T04:01:00+00:00
+date: 2005-11-22T04:01:00.000Z
 title: Waiting for a 360
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Swung by Best Buy in Bellevue today, line stretched out from the store all the way around the parking lot and over to the near by Home Depot... tents, heating lamps, chairs... even hot food being brought in. The guy in the front of the line, who I believe will get his Xbox 360 from Bill Gates, had been waiting since Friday.
 

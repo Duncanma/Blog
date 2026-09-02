@@ -1,7 +1,9 @@
 ---
-date: 2004-06-06T08:42:00+00:00
+date: 2004-06-06T08:42:00.000Z
 title: Whidbey docs up on MSDN's lab servers...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out [this link](https://whidbey.msdn.microsoft.com/library/en-us/dv_vbcn/html/d7e97396-7f42-4873-a81c-4ebcc4b6ca02.asp) to go right to the VB section... lots of great info in there... or check out [the C# section here](https://whidbey.msdn.microsoft.com/library/en-us/dv_cscon/html/9bc638b4-757d-43e6-b87b-65a3fa6b787b.asp).
 

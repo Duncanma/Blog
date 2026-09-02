@@ -1,7 +1,9 @@
 ---
-date: 2004-10-18T19:30:00+00:00
+date: 2004-10-18T19:30:00.000Z
 title: Winners of the Channel 9 "Summer of Express" contest annouced!!!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out [http://channel9.msdn.com/express/](https://channel9.msdn.com/express/) for full details, but here is a quick list of the winners:
 

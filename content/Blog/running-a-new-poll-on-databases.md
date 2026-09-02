@@ -1,7 +1,9 @@
 ---
-date: 2004-09-24T15:37:00+00:00
+date: 2004-09-24T15:37:00.000Z
 title: Running a new poll on databases...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I've put up a new poll on my site:
 

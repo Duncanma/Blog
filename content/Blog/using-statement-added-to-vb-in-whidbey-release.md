@@ -1,7 +1,9 @@
 ---
-date: 2004-06-13T04:40:00+00:00
-title: 'Using statement added to VB in Whidbey release...'
+date: 2004-06-13T04:40:00.000Z
+title: Using statement added to VB in Whidbey release...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Scott Watermasysk blogs about the new 'Using' statement in VB.NET 2005...
 

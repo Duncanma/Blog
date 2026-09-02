@@ -1,7 +1,9 @@
 ---
-date: 2004-01-20T21:48:00+00:00
+date: 2004-01-20T21:48:00.000Z
 title: Short but sweet little example from today's .NET Wire
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I was just reading the latest [dotnetwire](https://www.dotnetwire.com/default.asp) newsletter and this article caught my eye.
 

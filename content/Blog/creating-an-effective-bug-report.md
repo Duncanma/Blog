@@ -1,15 +1,18 @@
 ---
-date: 2021-04-25T14:53:32-07:00
+date: 2021-04-25T21:53:32.000Z
 title: Creating an effective bug report
 type: posts
 tags:
- - Web Development
- - Coding
- - DevTo
+  - Web Development
+  - Coding
+  - DevTo
 techfeatured: true
 images:
-- /images/bernie400x630.jpg
-description: A detailed repro, steps, screenshots, and always a link, gets your bug fixed faster than a vague 'is this broken for anyone else?' message.
+  - /images/bernie400x630.jpg
+description: >-
+  A detailed repro, steps, screenshots, and always a link, gets your bug fixed
+  faster than a vague 'is this broken for anyone else?' message.
+curated: '2026-09-02'
 ---
 
 When I've had to contact a company's technical support through a form, I

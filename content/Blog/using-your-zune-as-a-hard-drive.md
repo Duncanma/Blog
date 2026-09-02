@@ -1,7 +1,9 @@
 ---
-date: 2006-12-11T21:22:00+00:00
+date: 2006-12-11T21:22:00.000Z
 title: Using your Zune as a Hard Drive
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 If you are following Zune news, then I'm sure you've seen [this 'hack' to let you see your Zune as a read-only hard drive](https://www.engadget.com/2006/11/24/zune-usb-drive-hack-splained/).
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-08-29T05:10:00+00:00
+date: 2006-08-29T05:10:00.000Z
 title: Looking forward to PAX 2007!
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 PAX was a blast, I went back for day 2 and spent almost all the day at the exhibition hall... tons of cool demos and people! I was able to stop at the Xbox booth and chat with [Trixie](https://www.xbox.com/en-US/community/personality/trixie/default.htm) (as [Brian mentions here](https://brianjo.spaces.live.com/blog/)), which was great because she is one of those people that I've emailed quite a bit but never met in person.
 

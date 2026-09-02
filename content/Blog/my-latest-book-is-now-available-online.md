@@ -1,7 +1,9 @@
 ---
-date: 2003-11-30T13:41:00+00:00
+date: 2003-11-30T13:41:00.000Z
 title: My latest book is now available online
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Written with the wonderful assistance of [Erik Porter](https://weblogs.asp.net/eporter/), [Joel Semeniuk](https://weblogs.asp.net/jsemeniuk) and [Andy Baron](https://www.mcwtech.com/Consultants.htm#Andy Baron), this book is focused on the move from VB6 to VB.NET... [check it out at Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0672325497/duncanmackenz-20?creative=125581&camp=2321&link_code=as1)
 

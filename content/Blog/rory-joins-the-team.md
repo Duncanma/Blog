@@ -1,7 +1,9 @@
 ---
-date: 2006-10-26T17:07:00+00:00
+date: 2006-10-26T17:07:00.000Z
 title: Rory joins the team...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 If you don't already know Rory, well... keep watching [Channel 9](https://channel9.msdn.com/)... I'm sure you'll be hearing more from him through that venue soon.
 

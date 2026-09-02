@@ -1,7 +1,9 @@
 ---
-date: 2006-11-28T19:45:00+00:00
+date: 2006-11-28T19:45:00.000Z
 title: Microsoft is working at home today!
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Wow, back in Winnipeg this amount of snow wouldn't likely cause much of a slow down... but here... I'm at home and [so are lots of my team mates](https://www.jeffsandquist.com/SnowDay.aspx). Pretty snow though 🙂
 

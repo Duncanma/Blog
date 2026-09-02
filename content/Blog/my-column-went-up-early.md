@@ -1,7 +1,9 @@
 ---
-date: 2003-03-27T12:24:00+00:00
+date: 2003-03-27T12:24:00.000Z
 title: My column went up early...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 It wasn't really supposed to be up until Friday, and I doubt you'll find any links to it anywhere on MSDN until next week, but you lucky readers of my blog can check out the next installment of Coding4Fun on MSDN now...
 

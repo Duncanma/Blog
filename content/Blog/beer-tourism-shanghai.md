@@ -1,14 +1,18 @@
 ---
-date: 2019-08-17T16:11:00-08:00
+date: 2019-08-18T00:11:00.000Z
 title: Craft Beer in Shanghai
 type: posts
 tags:
-- Travel
-- Beer
-- China
+  - Travel
+  - Beer
+  - China
 images:
-- /images/beer/shanghai/HitachinoNest_TwoGlasses_sml.jpg
-description: After 12+ work trips to Shanghai, I've tracked down the city's growing craft beer scene — here's my running, ranked list of favorite spots.
+  - /images/beer/shanghai/HitachinoNest_TwoGlasses_sml.jpg
+description: >-
+  After 12+ work trips to Shanghai, I've tracked down the city's growing craft
+  beer scene — here's my running, ranked list of favorite spots.
+historical: true
+curated: '2026-09-02'
 ---
 I'm a lucky guy, because I **like** to travel, and my job requires at least a bit of it from me every year. I don't travel a lot, at least compared to people who visit customers or give talks for a living, but nearly everything that we make for docs.microsoft.com is built with the help of a group of folks in Shanghai, so I try to travel to visit them in China at least every couple of months. Over a few years, that has added up to 12 or so trips so far. And it is very cool, lots of fun, great food, lots of sightseeing and time spent with an amazing team. For me, it also means another country to try to find some craft beer.
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-08-03T06:01:00+00:00
+date: 2006-08-03T06:01:00.000Z
 title: 'Atari CEO: No PS3 games before 2007 – Joystiq'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I was surprised early to hear that God of War II was a PS2 game... and now [this](https://www.joystiq.com/2006/08/02/atari-ceo-no-atari-ps3-games-before-2007/)? I think it just the price that is scaring developers... scary to develop for a console that **seems** out of the price range of your target audience. I say "seems" because despite my own (biased) negative thoughts about the PS3, I expect it to be a pretty impressive machine... one that quite a few people will pick up. I do agree with other people's predictions that it will lag behind the 360, the $$ will see to that, but I don't think anyone expects it to flop...
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-09-26T17:33:00+00:00
+date: 2006-09-26T17:33:00.000Z
 title: New favorite Xbox desktop wallpaper
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I went over to 360Style.net today to find that it has been totally redesigned... same great content, much easier to find your way around. While I was there I picked up [a new background for my Vista box](https://www.360style.net/wallpapers28.html). The wallpapers that ship with Vista are beautiful, but they can't compare with this...
 

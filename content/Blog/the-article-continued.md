@@ -1,10 +1,12 @@
 ---
-date: 2003-07-31T10:37:00+00:00
+date: 2003-07-31T10:37:00.000Z
 title: The article continued...
 type: posts
 tags:
- - RSS
- - Coding
+  - RSS
+  - Coding
+noindex: true
+curated: '2026-09-02'
 ---
 Continuing along with the rest of the article, I start to layout the basic design of what I am about to build...
 

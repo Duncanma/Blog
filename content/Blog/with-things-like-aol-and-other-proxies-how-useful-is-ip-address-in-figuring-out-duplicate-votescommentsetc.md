@@ -1,7 +1,11 @@
 ---
-date: 2004-07-28T03:38:00+00:00
-title: With things like AOL and other proxies... how useful is IP Address in figuring out duplicate votes/comments/etc... ?
+date: 2004-07-28T03:38:00.000Z
+title: >-
+  With things like AOL and other proxies... how useful is IP Address in figuring
+  out duplicate votes/comments/etc... ?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'm playing around with my voting control and I was thinking of (in addition to a cookie based check) querying to see how recently this IP address had tried voting and if it was within 'x' seconds, rejecting the vote...
 

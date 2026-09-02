@@ -1,7 +1,9 @@
 ---
-date: 2005-01-20T09:28:00+00:00
+date: 2005-01-20T09:28:00.000Z
 title: Added support for the rel="nofollow" attribute to my .Text installation...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Google and various blog software vendors recently announced a method to deter comment spam](https://www.google.com/googleblog/2005/01/preventing-comment-spam.html) by reducing its benefit to the spammer... it sounds like a pretty good idea, so I updated my installation of .Text to use this new attribute in the comment section by adding just a single line within comments.cs: namelink.Attributes["rel"] = "nofollow"; ... now, let's just hope it works 😉
 

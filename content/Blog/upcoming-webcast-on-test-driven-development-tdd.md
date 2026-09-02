@@ -1,7 +1,9 @@
 ---
-date: 2004-04-05T21:24:00+00:00
+date: 2004-04-05T21:24:00.000Z
 title: Upcoming webcast on Test Driven Development (TDD)
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [ <b>Test Driven Development as a Practice – Level 400</b> ](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032247637&Culture=en-US)
 

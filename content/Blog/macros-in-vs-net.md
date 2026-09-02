@@ -1,7 +1,9 @@
 ---
-date: 2003-03-22T11:56:00+00:00
+date: 2003-03-22T11:56:00.000Z
 title: Macros in VS.NET
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I have to admit I haven't taken advantage of enough of VS.NET's capabilities... the ability to write macros alone should have resulted in a ton of useful little routines, but I have only written a few. One of the ones I use most often converts between a list of my internal member variables in a class...
 

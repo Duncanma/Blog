@@ -1,7 +1,9 @@
 ---
-date: 2003-11-24T12:16:00+00:00
+date: 2003-11-24T12:16:00.000Z
 title: C# Programmable Calculator
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 If you were a big fan of programmable calculators in University (or highschool, I guess it depends on how much $$ you were willing to spend on a calculator back then) then you should like this;
 

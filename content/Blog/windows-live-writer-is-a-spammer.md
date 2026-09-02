@@ -1,7 +1,9 @@
 ---
-date: 2006-09-11T19:16:00+00:00
+date: 2006-09-11T19:16:00.000Z
 title: Windows Live Writer is a spammer!!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I think we have a real design flaw here... one of those 'neat ideas on your dev box' that maybe shouldn't have really been implemented.
 

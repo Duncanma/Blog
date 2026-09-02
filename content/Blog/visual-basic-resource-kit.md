@@ -1,7 +1,9 @@
 ---
-date: 2003-10-02T00:23:00+00:00
+date: 2003-10-02T00:23:00.000Z
 title: Visual Basic Resource Kit
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 The download isn't up yet, it takes some time to sign and virus scan an entire CD packaged up as a zip, but the site that details what is included is there!
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-07-02T20:39:00+00:00
+date: 2004-07-02T20:39:00.000Z
 title: Webcast today on the new features of VB 2005...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 In case you didn't notice this on the /vbasic home page...
 

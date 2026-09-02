@@ -1,7 +1,9 @@
 ---
-date: 2004-03-13T01:51:00+00:00
+date: 2004-03-13T01:51:00.000Z
 title: hey... want to come work at MSDN?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Turns out we (MSDN) are looking for a few good testers to come and work with us in Redmond... if you are interested in a position, and the following job description (which you may have also seen on [Laura](https://blogs.msdn.com/lauraj/archive/2004/03/12/88709.aspx) or [Kent's](https://weblogs.asp.net/ksharkey/archive/2004/03/12/88788.aspx) blog...) is appealing, let us know via [this link](https://www.microsoft.com/careers/search/details.aspx?JobID=aacc453a-e5a2-48fe-b25b-d82ec1c8bd30).
 

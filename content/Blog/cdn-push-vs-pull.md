@@ -1,12 +1,15 @@
 ---
-date: 2020-05-16T15:22:00-08:00
+date: 2020-05-16T23:22:00.000Z
 title: Pushing to the CDN
 type: posts
 tags:
-- Web Development
-- CDN
-description: Many folks I work with have made comments about pushing content to a CDN, which isn't really how it works...
+  - Web Development
+  - CDN
+description: >-
+  Many folks I work with have made comments about pushing content to a CDN,
+  which isn't really how it works...
 techfeatured: false
+curated: '2026-09-02'
 ---
 > This post is one of a series about CDNs, starting with [an overview of what they are and how they work]({{< relref "overview-of-cdn.md" >}}).
 

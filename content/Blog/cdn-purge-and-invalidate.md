@@ -1,12 +1,15 @@
 ---
-date: 2020-03-08T19:00:00-08:00
+date: 2020-03-09T03:00:00.000Z
 title: What does it mean to purge content from a CDN?
 type: posts
 tags:
-- Web Development
-- CDN
-- Performance
-description: On this very blog, publishing a new post purges every single cached page at the CDN, not just the ones that changed — total overkill, but far simpler.
+  - Web Development
+  - CDN
+  - Performance
+description: >-
+  On this very blog, publishing a new post purges every single cached page at
+  the CDN, not just the ones that changed — total overkill, but far simpler.
+curated: '2026-09-02'
 ---
 
 ## First, a little background

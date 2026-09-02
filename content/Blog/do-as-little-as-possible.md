@@ -1,16 +1,19 @@
 ---
-date: 2021-05-06T21:04:51-07:00
+date: 2021-05-07T04:04:51.000Z
 title: Do as little work as you can
 type: posts
 tags:
- - Web Development
- - Coding
- - Performance
- - Scalability
- - Engineering Management
- - DevTo
-description: Using a fictional vehicle-lookup site as an example, I walk through caching and pre-processing techniques for doing less work per request.
+  - Web Development
+  - Coding
+  - Performance
+  - Scalability
+  - Engineering Management
+  - DevTo
+description: >-
+  Using a fictional vehicle-lookup site as an example, I walk through caching
+  and pre-processing techniques for doing less work per request.
 techfeatured: true
+curated: '2026-09-02'
 ---
 One of the keys to scalability in software systems is to reduce the
 amount of work you do per action. In a website, think of this as the

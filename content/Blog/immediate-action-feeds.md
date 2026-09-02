@@ -1,7 +1,9 @@
 ---
-date: 2005-12-17T10:27:00+00:00
+date: 2005-12-17T10:27:00.000Z
 title: Immediate Action Feeds
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Kent](https://www.acmebinary.com/blogs/kent) pointed me to [this article on xml.com](https://www.xml.com/pub/a/2005/12/14/putting-rss-to-work-immediate-action-feeds.html), talking about the benefits of having direct actions available as links in your feeds. This is a good idea, but it is a good idea for any HTML content. If you are going to have a link at the bottom of a MSDN page saying "give us feedback", it would be best to either make sure that link takes the user directly to a form to enter feedback or instead to let them enter their feedback right there on the page. Good stuff all around, but in the context of feeds I have a problem with the way it is implemented.
 

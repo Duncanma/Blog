@@ -1,7 +1,9 @@
 ---
-date: 2004-07-20T19:38:00+00:00
+date: 2004-07-20T19:38:00.000Z
 title: We have a bit of a cluster in my poll results...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'm running a poll on <http://www.duncanmackenzie.net> to see what topics I should write about next in [my Coding 4 Fun column](https://msdn.microsoft.com/vbasic/using/columns/code4fun)... There are 7 choices in total, but 3 are getting the lion's share of the votes...
 

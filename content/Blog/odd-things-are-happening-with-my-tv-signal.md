@@ -1,7 +1,9 @@
 ---
-date: 2005-03-05T05:11:00+00:00
+date: 2005-03-05T05:11:00.000Z
 title: Odd things are happening with my TV signal...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've recently unhooked my Tivo... I picked up a Media Center Extender (the HP one) and that was the final step to moving all of our television watching to MCE 2005. We love it and we record tons of shows. Extender works wonderfully, better than the XBox extender because there is no stupid DVD to put in to watch TV and it is a lot quieter.
 

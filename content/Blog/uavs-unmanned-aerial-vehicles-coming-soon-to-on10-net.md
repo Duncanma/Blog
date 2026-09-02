@@ -1,7 +1,9 @@
 ---
-date: 2006-07-17T18:37:00+00:00
+date: 2006-07-17T18:37:00.000Z
 title: UAVs (Unmanned Aerial Vehicles) coming soon to on10.net
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [
 

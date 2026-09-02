@@ -1,7 +1,9 @@
 ---
-date: 2003-03-08T11:33:00+00:00
+date: 2003-03-08T11:33:00.000Z
 title: Another little code snippet
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Whenever I have to code a "real" project, I end up building a bunch of components to deal with [anything that seems likely to reoccur](https://dotnetweblogs.com/duncanma/posts/3242.aspx). Sometimes the class or Windows Forms control I've created never gets used again, but often I end up using them in a whole bunch of additional apps. Anyway, I think I'll post some of these little bits of development work to my blog when it seems useful enough, and perhaps other developers will be able to find this code when they are looking for some help.
 

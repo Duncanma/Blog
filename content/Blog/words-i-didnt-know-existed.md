@@ -1,7 +1,9 @@
 ---
-date: 2003-05-16T01:13:00+00:00
+date: 2003-05-16T01:13:00.000Z
 title: Words I didn't know existed...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 After going to **the movie** this morning (movies in the morning just aren't natural, by the way) with Kent, I was reading some reviews of Matrix 2 and I came upon [a word](https://www.dictionary.com/browse/callipygian)that had me visiting [www.dictionary.com](https://www.dictionary.com/) moments later.
 

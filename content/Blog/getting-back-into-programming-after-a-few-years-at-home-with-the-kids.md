@@ -1,7 +1,9 @@
 ---
-date: 2005-08-19T06:33:00+00:00
+date: 2005-08-19T06:33:00.000Z
 title: Getting back into programming after a few years at home with the kids...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 A friend of mine, through my wife, has been a stay-at-home mom for the past few years and is trying to get back into the swing of computer programming. It doesn't take long to get out of date in the computer industry, so I can understand her desire to flex her _coding muscles_ a bit. Although she could just go back to what she knew before, she has decided to try learning something that is completely new, which I think is a great way to go. Personally I might have suggested C# to someone with her background (C, C++, Assembly), but perhaps I'm biased 🙂 ... and I have to admit that her decision to go with Ruby seems pretty cool.
 

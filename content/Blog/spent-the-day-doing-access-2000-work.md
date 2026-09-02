@@ -1,7 +1,9 @@
 ---
-date: 2004-09-18T08:42:00+00:00
+date: 2004-09-18T08:42:00.000Z
 title: Spent the day doing Access 2000 work...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 As part of the United Way's Day of Caring, I went into Seattle today and did some work for a non-profit counseling center... specifically creating an Access system for them.... a few tables, 3 forms, and a bunch of analysis queries and reports all around stats...
 

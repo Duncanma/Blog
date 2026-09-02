@@ -1,7 +1,9 @@
 ---
-date: 2004-02-21T10:48:00+00:00
+date: 2004-02-21T10:48:00.000Z
 title: Oh geez... now I'm all hot and bothered
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Writing [my last post](https://weblogs.asp.net/duncanma/archive/2004/02/20/77513.aspx) started me thinking about the **C64**... and I found [this page](https://uk.geocities.com/magoos_universe/64_intro.htm) detailing software releases over the years the C64 was hot (really, it was...)
 

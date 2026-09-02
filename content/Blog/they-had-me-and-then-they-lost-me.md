@@ -1,7 +1,9 @@
 ---
-date: 2003-09-18T21:18:00+00:00
+date: 2003-09-18T21:18:00.000Z
 title: They had me... and then... they lost me
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I don't know if it is just me, but there are some times when a new product comes out and they have me from the moment I see the ad; the price is right, the features are exactly what I am looking for, etc...
 

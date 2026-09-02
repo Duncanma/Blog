@@ -1,7 +1,9 @@
 ---
-date: 2004-08-13T00:28:00+00:00
+date: 2004-08-13T00:28:00.000Z
 title: C# 2005 and C# Express Content Up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Just up...
 

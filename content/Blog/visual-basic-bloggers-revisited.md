@@ -1,7 +1,9 @@
 ---
-date: 2003-07-15T01:34:00+00:00
+date: 2003-07-15T01:34:00.000Z
 title: Visual Basic Bloggers Revisited
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 "anon" (why not leave a name, it is much more fun) posted a comment in response to [my previous entry](https://weblogs.asp.net/duncanma/posts/10050.aspx), asking why am I including Brad Abrams and Chris Brumme... as they are not VB-specific...
 

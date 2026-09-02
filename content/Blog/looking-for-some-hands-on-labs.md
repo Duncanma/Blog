@@ -1,7 +1,9 @@
 ---
-date: 2003-11-18T00:51:00+00:00
+date: 2003-11-18T00:51:00.000Z
 title: Looking for some Hands On Labs?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Labs, Labs, get your labs here...
 

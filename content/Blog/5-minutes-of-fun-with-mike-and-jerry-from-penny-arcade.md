@@ -1,7 +1,9 @@
 ---
-date: 2006-08-23T08:38:00+00:00
+date: 2006-08-23T08:38:00.000Z
 title: 5 minutes of fun with Mike and Jerry from Penny Arcade
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [![On10.net interview with Penny Arcade](https://download.microsoft.com/download/a/c/0/ac03b515-a6db-4712-9fcb-cd41b3d7fd0e/PennyArcade_small_on10.jpg)](https://www.on10.net/Blogs/TheShow/5132/)
 

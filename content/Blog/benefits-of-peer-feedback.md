@@ -1,14 +1,17 @@
 ---
-date: 2024-02-25T16:03:11-08:00
+date: 2024-02-26T00:03:11.000Z
 title: The Benefits of Peer Feedback
 type: posts
 tags:
-- Management
-- Engineering Management
-- Performance Reviews
-- DevTo
-description: Peer feedback helps a manager back up your review, but only if it's specific, concrete examples of your work. Vague praise is not helpful.
+  - Management
+  - Engineering Management
+  - Performance Reviews
+  - DevTo
+description: >-
+  Peer feedback helps a manager back up your review, but only if it's specific,
+  concrete examples of your work. Vague praise is not helpful.
 blueskyPostID: 3kmbsao5h5y26
+curated: '2026-09-02'
 ---
 
 It was just performance review season at my current job, so I spent a

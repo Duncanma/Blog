@@ -1,7 +1,9 @@
 ---
-date: 2004-03-17T11:38:00+00:00
+date: 2004-03-17T11:38:00.000Z
 title: Two new additions to my blog home page...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 You may never see the actual web interface to my blog, but if you do you'll see two new graphics along the left-hand side...
 

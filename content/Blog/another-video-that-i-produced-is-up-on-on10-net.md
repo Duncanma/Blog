@@ -1,10 +1,12 @@
 ---
-date: 2006-06-30T20:46:00+00:00
+date: 2006-06-30T20:46:00.000Z
 title: Another video that I... "produced" ... is up on on10.net
 type: posts
 tags:
- - Xbox
- - on10
+  - Xbox
+  - on10
+historical: true
+curated: '2026-09-02'
 ---
 Sometimes I don't like being just the guy behind the scenes 🙂
 

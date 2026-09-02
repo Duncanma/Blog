@@ -1,0 +1,20 @@
+---
+date: 2006-12-01T02:18:00.000Z
+title: Two new wallpapers up on 360Style.net
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+Both are my style... but I had to go with the Star Trek Legacy one for now...
+
+> **[Halo 3 & Star Trek Legacy Wallpapers Added !](https://www.360style.net/news54.html)**
+>
+> Time to switch up your wallpaper, choose your sci-fi poison.
+> Halo 3 vs Star Trek Legacy !!
+> (Both available in resolutions up to 1600&#215;1200)
+>
+> Halo 3
+> [![](https://www.360style.net/wallpapers/28/thumb_12.jpg)](https://www.360style.net/wallpapers28.html)
+> Star Trek: Legacy
+> [![](https://www.360style.net/wallpapers/199/thumb_1.jpg)](https://www.360style.net/wallpapers199.htm)

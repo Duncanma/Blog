@@ -1,7 +1,9 @@
 ---
-date: 2003-11-11T11:13:00+00:00
+date: 2003-11-11T11:13:00.000Z
 title: ClickOnce and "locked down" systems
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Ron Krauter posted this comment to [one of my earlier posts](https://weblogs.asp.net/duncanma/posts/34182.aspx);
 

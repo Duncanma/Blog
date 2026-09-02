@@ -1,7 +1,9 @@
 ---
-date: 2005-01-06T17:19:00+00:00
+date: 2005-01-06T17:19:00.000Z
 title: EndIf or End If?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 The recent announcements around [Visual Fox Pro 9.0](https://msdn.microsoft.com/vfoxpro/productinfo/) have brought up a bunch of memories, and have me tempted to install VFP for the first time in years...
 

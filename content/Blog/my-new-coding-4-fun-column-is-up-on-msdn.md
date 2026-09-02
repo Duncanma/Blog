@@ -1,7 +1,9 @@
 ---
-date: 2004-07-01T01:16:00+00:00
+date: 2004-07-01T01:16:00.000Z
 title: My new Coding 4 Fun Column is up on MSDN...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-06-26T03:06:00+00:00
+date: 2004-06-26T03:06:00.000Z
 title: New Community Page for your viewing pleasure...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 For various reasons, I'm just buried under work these days... but I still managed to revamp [the /vbasic/community area of the VB developer center](https://msdn.microsoft.com/vbasic/community)... check it out and let me know what you think...
 

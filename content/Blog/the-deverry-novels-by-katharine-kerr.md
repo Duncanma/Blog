@@ -1,7 +1,9 @@
 ---
-date: 2006-10-16T09:49:00+00:00
+date: 2006-10-16T09:49:00.000Z
 title: The Deverry Novels by Katharine Kerr
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've recently begun re-reading [the Deverry novels](https://en.wikipedia.org/wiki/Katharine_Kerr); I just went through [Daggerspell](https://www.amazon.com/gp/product/0553565214?ie=UTF8&tag=duncanmackenz-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553565214)<img style="border-right: medium none; border-top: medium none; margin: 0px; border-left: medium none; border-bottom: medium none" height="1" alt="" src="http://www.assoc-amazon.com/e/ir?t=duncanmackenz-20&l=as2&o=1&a=0553565214" width="1" border="0" />, [Darkspell](https://www.amazon.com/gp/product/0553568884?ie=UTF8&tag=duncanmackenz-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553568884) <img style="border-right: medium none; border-top: medium none; margin: 0px; border-left: medium none; border-bottom: medium none" height="1" alt="" src="http://www.assoc-amazon.com/e/ir?t=duncanmackenz-20&l=as2&o=1&a=0553568884" width="1" border="0" />and I'm onto [The Bristling Wood](https://www.amazon.com/gp/product/0553285815?ie=UTF8&tag=duncanmackenz-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553285815) <img style="border-right: medium none; border-top: medium none; margin: 0px; border-left: medium none; border-bottom: medium none" height="1" alt="" src="http://www.assoc-amazon.com/e/ir?t=duncanmackenz-20&l=as2&o=1&a=0553285815" width="1" border="0" />(basically 'Act 1' as the author has described the books as being the various parts of a long play). This is an excellent series, but one that I found quite by accident.
 

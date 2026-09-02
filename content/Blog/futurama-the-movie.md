@@ -1,7 +1,9 @@
 ---
-date: 2007-12-14T11:55:00+00:00
+date: 2007-12-14T11:55:00.000Z
 title: Futurama the movie...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Just added this to my queue at Blockbuster:
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-03-07T11:06:00+00:00
+date: 2003-03-07T11:06:00.000Z
 title: Another MSDN TV episode!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Boy these are going up fast... 
 

@@ -1,7 +1,9 @@
 ---
-date: 2005-02-25T08:49:00+00:00
+date: 2005-02-25T08:49:00.000Z
 title: Scott Swigart responds to Richard Grimes
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Richard Grimes posted [some fairly negative thoughts](https://www.ddj.com/documents/s=9211/ddj050201dnn/) around .NET and VB.NET specifically, comments that Scott decided to reply to with [his own post](https://swigartconsulting.blogs.com/tech_blender/2005/02/grumpy_grimes.html).
 

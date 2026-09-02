@@ -1,7 +1,9 @@
 ---
-date: 2003-09-29T23:53:00+00:00
+date: 2003-09-29T23:53:00.000Z
 title: Single vs. Multi-File
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Wow! Thanks for all the comments (you can stop now), I think I have a pretty good idea what you folks think.
 

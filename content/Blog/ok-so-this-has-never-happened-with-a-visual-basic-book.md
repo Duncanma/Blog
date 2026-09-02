@@ -1,7 +1,9 @@
 ---
-date: 2006-04-15T05:11:00+00:00
-title: Ok, so *this* has never happened with a Visual Basic book...
+date: 2006-04-15T05:11:00.000Z
+title: 'Ok, so *this* has never happened with a Visual Basic book...'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [ <img src="http://gadgetmodels.i4u.com/gallery/April_2006/xbox_360_model_1.jpg" height="168" width="120" align="left" /> ](https://gadgetmodels.i4u.com/gadget_photo_model_April_20060.html)I've remarked to a few people that writing a more 'consumer' focused book has been quite different from my usual area of writing (covering programming topics mostly), but [this takes the cake](https://spaces.msn.com/brianjo/blog/cns!57C723EC58B8F3A3!964.entry?_c11_blogpart_blogpart=blogview&#038;_c=blogpart#permalink).
 

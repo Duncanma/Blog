@@ -1,7 +1,9 @@
 ---
-date: 2004-03-16T11:15:00+00:00
+date: 2004-03-16T11:15:00.000Z
 title: Interested in learning more about Visual Studio Tools for Office?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Over in the Office side of the world, a set of 6 labs have been released, focused on learning how to use VB.NET and C# to create Office solutions with Office 2003 and Visual Studio Tools for Office... cool stuff if Office development is your thing (and it certainly is [mine](https://www.duncanmackenzie.net/books/))...
 

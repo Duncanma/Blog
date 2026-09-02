@@ -1,7 +1,9 @@
 ---
-date: 2004-07-23T23:16:00+00:00
+date: 2004-07-23T23:16:00.000Z
 title: ReSharper 1.0 Released...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 From their site...
 

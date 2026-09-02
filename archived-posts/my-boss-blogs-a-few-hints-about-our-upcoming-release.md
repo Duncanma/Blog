@@ -1,0 +1,11 @@
+---
+date: 2006-03-07T21:36:00.000Z
+title: My boss blogs a few hints about our upcoming release...
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+We've put up [some fun short videos](https://www.on10.net), but the real site is coming next week... which will be nice, I'll get to start talking about work on my blog again 🙂
+
+More in Jeff's post, [here](https://www.jeffsandquist.com/MakingAListCheckingIt10Times.aspx)...

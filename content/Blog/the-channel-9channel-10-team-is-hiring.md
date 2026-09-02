@@ -1,7 +1,9 @@
 ---
-date: 2007-06-28T19:16:00+00:00
+date: 2007-06-28T19:16:00.000Z
 title: The Channel 9/Channel 10 team is hiring
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hey folks, I work as the dev lead for [Channel 9](https://channel9.msdn.com/), [Channel 10](https://on10.net/), [Mix Online](https://www.visitmix.com/) and [other sites](https://mscommunities.com/). We build community sites for Microsoft using video, audio and text blogging and we build them using the latest .NET technologies. If you are into web development, if you have a passion for design and user experience, and if you really rock at AJAX, Javascript, CSS, C# and ASP.NET .... then this is the job for you 🙂
 

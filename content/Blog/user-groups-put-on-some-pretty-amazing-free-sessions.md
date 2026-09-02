@@ -1,7 +1,9 @@
 ---
-date: 2003-11-11T11:27:00+00:00
+date: 2003-11-11T11:27:00.000Z
 title: User Groups put on some pretty amazing FREE sessions
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Cory Smith posted](https://addressof.com/blog/posts/272.aspx) about an upcoming session at the [Fort Worth .NET Users Group](https://www.fwdnug.org/), [G. Andrew Duthie talking about ASP.NET (November 18th)](https://weblogs.asp.net/gad/posts/36737.aspx)... this sounds to me like a PDC-quality session, for free and with a lot more time for audience interaction.
 

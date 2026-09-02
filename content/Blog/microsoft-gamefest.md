@@ -1,7 +1,9 @@
 ---
-date: 2006-08-03T17:34:00+00:00
+date: 2006-08-03T17:34:00.000Z
 title: Microsoft Gamefest
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Met with Dave Mitchell from the Xbox team today to talk about [Microsoft Gamefest](https://www.microsoftgamefest.com). If you are going, drop me a line... I'll be there with a camera along with one or two other folks from [on10.net](https://on10.net).
 

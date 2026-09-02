@@ -1,7 +1,9 @@
 ---
-date: 2003-03-14T08:43:00+00:00
+date: 2003-03-14T08:43:00.000Z
 title: Why C# indeed
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Early and Adopter seem to have just noticed my blog;
 

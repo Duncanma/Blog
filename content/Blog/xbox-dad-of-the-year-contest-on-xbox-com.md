@@ -1,7 +1,9 @@
 ---
-date: 2007-05-29T19:53:00+00:00
+date: 2007-05-29T19:53:00.000Z
 title: Xbox Dad of the Year contest on Xbox.com
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hey kids... if you have a gaming dad, then get going on those essays... and Dads, if you are reading this... you might want to just start hinting and sending this link to your kids!
 

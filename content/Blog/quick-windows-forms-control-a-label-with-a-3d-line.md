@@ -1,9 +1,11 @@
 ---
-date: 2005-04-14T16:00:00+00:00
+date: 2005-04-14T16:00:00.000Z
 title: Quick Windows Forms Control... a Label with a 3D Line...
 type: posts
 tags:
- - Coding
+  - Coding
+historical: true
+curated: '2026-09-02'
 ---
 I was mocking up a UI yesterday, and I wanted to produce an interface that looked like Front Page's "New from Template" dialog...
 

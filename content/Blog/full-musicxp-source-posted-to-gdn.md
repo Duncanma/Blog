@@ -1,7 +1,9 @@
 ---
-date: 2003-04-08T01:10:00+00:00
+date: 2003-04-08T01:10:00.000Z
 title: Full MusicXP Source Posted to GDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 The full source for the
 

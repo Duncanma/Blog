@@ -1,7 +1,9 @@
 ---
-date: 2003-11-19T11:58:00+00:00
+date: 2003-11-19T11:58:00.000Z
 title: Looking for a "Photo Blog"
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I recently acquired a digital camera so I started thinking about a photo blog... something my family out in Winnipeg could subscribe to. A colleague, who has a camera phone, suggested textamerica, which seemed quite happy to accept my registration but I didn't go through with the sign up because it seemed that they only intended camera **phone** users on their site, and I didn't want to mess with their system...
 

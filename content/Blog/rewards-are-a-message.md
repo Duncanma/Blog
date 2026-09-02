@@ -1,14 +1,17 @@
 ---
-date: 2023-09-18T17:40:16-07:00
+date: 2023-09-19T00:40:16.000Z
 title: Rewards are a message
 type: posts
 tags:
-- Management
-- Engineering Management
-- Performance Reviews
-- DevTo
-description: Deciding raises and bonuses is one of the hardest parts of managing, whatever number you land on, your team will read it as a message about their year.
+  - Management
+  - Engineering Management
+  - Performance Reviews
+  - DevTo
+description: >-
+  Deciding raises and bonuses is one of the hardest parts of managing, whatever
+  number you land on, your team will read it as a message about their year.
 blueskyPostID: 3k7pqxo4as22b
+curated: '2026-09-02'
 ---
 
 I was a manager at Microsoft for about 18 years and for quite a bit of it I was a 'manager of managers', which means I often spent time working with my team on how to properly handle annual rewards. I'm no longer at Microsoft, but I drafted this up back in 2021, so I thought I would try to finish it and get it live.

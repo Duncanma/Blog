@@ -1,7 +1,9 @@
 ---
-date: 2004-07-08T12:07:00+00:00
+date: 2004-07-08T12:07:00.000Z
 title: Get a listing of all the upcoming VB Chats
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

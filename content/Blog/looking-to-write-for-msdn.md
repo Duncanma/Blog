@@ -1,7 +1,9 @@
 ---
-date: 2004-03-04T21:47:00+00:00
+date: 2004-03-04T21:47:00.000Z
 title: Looking to write for MSDN?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Someone recently asked me for our template, style guidelines and other details about writing for MSDN. I wanted to find the public page about this, so I dug around for what seemed like ages and **couldn't find anything** even though I knew this was up on MSDN somewhere.
 

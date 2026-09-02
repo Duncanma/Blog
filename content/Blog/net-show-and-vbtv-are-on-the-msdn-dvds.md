@@ -1,7 +1,9 @@
 ---
-date: 2003-05-22T20:43:00+00:00
+date: 2003-05-22T20:43:00.000Z
 title: .NET Show and VBTV are on the MSDN DVDs!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 This might be common knowledge, but when [Darren](https://dotnetweblogs.com/dneimke/posts/7141.aspx) was in town he mentioned that downloading our multi-media presentations like [VBTV](https://msdn.microsoft.com/vbtv/) and [the .NET Show](https://msdn.microsoft.com/theshow/) was too expensive from Australia due to the price of bandwidth... I had hoped to burn some to disc while he was here, but I forgot 🙁 Turns out they are on the DVD editions of the MSDN library subscription though;
 

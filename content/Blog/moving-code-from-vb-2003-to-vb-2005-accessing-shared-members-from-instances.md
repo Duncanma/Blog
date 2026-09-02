@@ -1,7 +1,11 @@
 ---
-date: 2005-03-28T06:01:00+00:00
-title: Moving code from VB 2003 to VB 2005... Accessing Shared members from Instances...
+date: 2005-03-28T06:01:00.000Z
+title: >-
+  Moving code from VB 2003 to VB 2005... Accessing Shared members from
+  Instances...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Lately I've been luckily enough to be able to reuse several bits of code I've written in Visual Basic 2002 and 2003, namely code from a few of my earlier MSDN articles ([Design Surface](https://www.duncanmackenzie.net/pull.aspx?pageToPull=http://msdn.microsoft.com/library/?url=/library/en-us/dndotnet/html/designsurface.asp) and [the Control series](https://www.duncanmackenzie.net/pull.aspx?pageToPull=http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/custcntrlsampover.asp)). Since I was planning to make a few changes, I pulled these projects into Visual Basic 2005 Beta 1 (instead of just referencing the already existing assemblies created with the .NET Framework 1.0/1.1). I also was in the midst of writing a new control for an upcoming MSDN magazine article, that I was also planning to use in my 'real' work, so I pulled the finished code (written in VB.NET 2003) into VB 2005... In every case, every single thing worked fine without any changes except for the same reoccuring issue;
 

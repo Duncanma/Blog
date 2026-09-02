@@ -1,7 +1,9 @@
 ---
-date: 2003-10-27T22:11:00+00:00
+date: 2003-10-27T22:11:00.000Z
 title: Keynote Fun
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Well, those demos have certainly floored me... but I must say I'm torn.
 

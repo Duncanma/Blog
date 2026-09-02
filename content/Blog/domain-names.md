@@ -1,13 +1,16 @@
 ---
-date: 2021-08-31T11:57:56-08:00
+date: 2021-08-31T19:57:56.000Z
 title: Don't Mess Around With Your Domain!
 type: posts
 tags:
- - Web Development
- - Security
- - Information Architecture
+  - Web Development
+  - Security
+  - Information Architecture
 techfeatured: true
-description: If your company has a core domain, leverage it for all your sites, instead of making new ones.
+description: >-
+  If your company has a core domain, leverage it for all your sites, instead of
+  making new ones.
+curated: '2026-09-02'
 ---
 
 If you are an established company or organization, you probably have a primary domain. Microsoft has 'microsoft.com' for example, Washington state has wa.gov, and the UK government has gov.uk. There is both a perceived and real value to these domains, and any domains that leverage that value can be inherently trusted. A random third-party can’t create a new foo.gov.uk site, only the owners of the main domain can do that.

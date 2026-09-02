@@ -1,7 +1,9 @@
 ---
-date: 2004-02-27T10:40:00+00:00
+date: 2004-02-27T10:40:00.000Z
 title: Tonight's best posts...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Forgive me in advance... I'm not posting about .NET, in fact I'm not going to say much at all except to post to two great posts
 

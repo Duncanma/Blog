@@ -1,7 +1,9 @@
 ---
-date: 2007-04-26T19:38:00+00:00
+date: 2007-04-26T19:38:00.000Z
 title: Looking for a good WMA to MP3 conversion utility
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
   * for use on non-DRM'd files (one that can do both is fine... it just isn't what I'm going to use it for)
   * must transfer meta data correctly (ID3 tags)

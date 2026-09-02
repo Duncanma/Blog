@@ -1,7 +1,9 @@
 ---
-date: 2004-08-10T11:16:00+00:00
+date: 2004-08-10T11:16:00.000Z
 title: The Updater Application Block... various additions...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 One of the nice things about [the Updater Application Block](https://www.gotdotnet.com/Community/Workspaces/workspace.aspx?id=83c68646-befb-4586-ba9f-fdf1301902f5) is that it was written to be quite extensible... I saw [a post today](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=251828&Page=1#252347) where SamSantiago mentioned [he had created a custom class](https://www.softitechture.com/discussions/) to delete all those old versions on your machine whenever you do an update.... very cool, I'll be trying that out right away...
 

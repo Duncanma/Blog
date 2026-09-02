@@ -1,7 +1,9 @@
 ---
-date: 2004-05-28T22:26:00+00:00
+date: 2004-05-28T22:26:00.000Z
 title: Visual Basic at the Movies now available for download...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [<img src="http://msdn.microsoft.com/nodehomes/graphics/140x100/VBMovies.jpg" alt="VB at the Movies" width="140" height="100" border="0" />](https://msdn.microsoft.com/vbasic/atthemovies/download/)
 

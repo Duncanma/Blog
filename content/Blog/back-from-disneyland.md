@@ -1,7 +1,9 @@
 ---
-date: 2004-04-04T13:00:00+00:00
+date: 2004-04-04T13:00:00.000Z
 title: Back from Disneyland...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Very little to say... I had a great time (and maybe I'll talk about that later, but it is pretty far off-topic from my normal 'content'), but now I have hundreds of emails to dig through... most of them have resolved themselves (they emailed me... Exchange bounced an Out-Of-Office back to them... they dealt with it on their own) but sadly when the problem goes away the email doesn't (wouldn't it be cool if it did?), so I have to look through them and make sure I haven't missed any outstanding tasks or questions 🙁
 

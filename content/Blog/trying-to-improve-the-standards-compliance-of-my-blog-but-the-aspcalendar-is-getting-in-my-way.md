@@ -1,7 +1,11 @@
 ---
-date: 2005-12-05T07:58:00+00:00
-title: Trying to improve the standards compliance of my blog, but the asp:Calendar is getting in my way!
+date: 2005-12-05T07:58:00.000Z
+title: >-
+  Trying to improve the standards compliance of my blog, but the asp:Calendar is
+  getting in my way!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I've been trying to fix some XHTML issues on my blog, but two pieces of technology are thwarting my plans.... first, there is the text editor in .Text (FreeTextBox) which appears to be making the first anchor or image tag in the post uppercase, even though I have its XHTML support enabled... (so my first link is <A href=....>, instead of <a href=...>) and the second is the ASP.NET Calendar (1.1 framework version).
 

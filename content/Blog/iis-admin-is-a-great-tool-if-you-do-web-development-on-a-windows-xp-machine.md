@@ -1,7 +1,9 @@
 ---
-date: 2006-01-20T07:49:00+00:00
+date: 2006-01-20T07:49:00.000Z
 title: IIS Admin is a great tool if you do web development on a Windows XP machine
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I run Windows Server 2003 as my dev server at work, so I'm used to having the ability to run multiple web sites (main branch on 80, debug build on 88, another project on 8080, etc... ) in fact, I'm not just used to it... I'm spoiled by it. I don't like developing or debugging in a vroot, when I know the final app will be living at the root. I don't like using Cassini if the final app will be running in IIS (they are different in many important ways, such as the file types that end up going through the ASP.NET handlers). So, when it is time to do dev work on my own projects ([this blog](https://blogs.duncanmackenzie.net/duncanma/), [my main site](https://www.duncanmackenzie.net/), [my new book site](https://www.xbox4dummies.com), my work on [the SubText project](https://sourceforge.net/projects/subtext), etc.), I really really want to have each of them up as their own site. In some cases, this is critical, such as when I recently was working on moving my main site and my new book site up to the 2.0 version of the Framework, but my blog has to stay on 1.1 (for now). In that case, trying to shuffle around vroots and settings to simulate the production environment would be very difficult.
 

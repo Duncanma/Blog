@@ -1,7 +1,9 @@
 ---
-date: 2006-07-06T20:55:00+00:00
+date: 2006-07-06T20:55:00.000Z
 title: Just a small frame capture from my interview with Ed from GeekTragedy
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [
 

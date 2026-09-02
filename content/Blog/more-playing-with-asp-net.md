@@ -1,9 +1,11 @@
 ---
-date: 2004-06-12T10:58:00+00:00
+date: 2004-06-12T10:58:00.000Z
 title: More playing with ASP.NET
 type: posts
 tags:
- - Coding
+  - Coding
+historical: true
+curated: '2026-09-02'
 ---
 As with my earlier messing around with a poll, I took a concept from the [www.asp.net](https://www.asp.net/) site today and made my own "CheckDotNet.aspx" page. The one on [www.asp.net](https://www.asp.net/) only checks for the .NET Framework 1.0 or better, so I modified the logic to detect 1.1 and 1.0 as two distinct cases... recommending an upgrade for no framework or 1.0, and returning "Framework Found" if you have 1.1 already.
 

@@ -1,7 +1,11 @@
 ---
-date: 2005-12-17T09:31:00+00:00
-title: I'm making a change... (a rambling post that contains some nuggets of information)
+date: 2005-12-17T09:31:00.000Z
+title: >-
+  I'm making a change... (a rambling post that contains some nuggets of
+  information)
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've recently accepted a job with the [Channel 9 team](https://channel9.msdn.com/about.aspx) (working for [Jeff](https://www.jeffsandquist.com/) and working with [Adam](https://www.adamkinney.com), [Erik](https://weblogs.asp.net/eporter/), [Robert](https://scobleizer.wordpress.com/), and [Charles](https://carmine.blogs.com/kernel/)), and ... because I'm mostly a one-job kind of guy, that means I have to stop working at MSDN. So, come January 16th, I'll be over in a new office at Channel 9, probably not coding anything yet as it always take a few days to get ramped up, connected to the right source trees, etc...
 

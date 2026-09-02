@@ -1,12 +1,15 @@
 ---
-date: 2025-05-14T13:52:06-07:00
+date: 2025-05-14T20:52:06.000Z
 title: My software developer origin story
 type: posts
 tags:
-- Coding
-- Personal
-description: Writing a BASIC retirement calculator for my parents on our Commodore 64 back in the 1980s is the moment I realized I wanted to write software for a living.
+  - Coding
+  - Personal
+description: >-
+  Writing a BASIC retirement calculator for my parents on our Commodore 64 back
+  in the 1980s is the moment I realized I wanted to write software for a living.
 blueskyPostID: 3lp6gbe2fkk2z
+curated: '2026-09-02'
 ---
 Over the years, many people have asked me how I got started into software development and I have told the *same* story every time, but I realized I’ve never written it down. So, for anyone who might find this interesting or useful, and just to put it out into the world, here goes.
 

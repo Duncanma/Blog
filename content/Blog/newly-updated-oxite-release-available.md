@@ -1,12 +1,14 @@
 ---
-date: 2009-02-16T16:55:02+00:00
+date: 2009-02-16T16:55:02.000Z
 title: Newly updated Oxite release available
 type: posts
 tags:
- - CMS
- - Oxite
- - Blogging
- - Microsoft
+  - CMS
+  - Oxite
+  - Blogging
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 [Erik](https://erikporter.com/) pushed out [a new release to Oxite](https://www.codeplex.com/oxite/Release/ProjectReleases.aspx?ReleaseId=23315) today, the first since January 5th. This release is an important one, because it reflects a great deal of changes made in response to internal and external feedback about our initial release.
 

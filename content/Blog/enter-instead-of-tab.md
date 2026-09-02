@@ -1,7 +1,8 @@
 ---
-date: 2004-12-13T19:07:00+00:00
+date: 2004-12-13T19:07:00.000Z
 title: Enter Instead of Tab
 type: posts
+curated: '2026-09-02'
 ---
 I received another interesting, and common, question today about using Enter instead of (or in addition to) the Tab key to move the focus between fields on a form. Well, that isn't too hard to accomplish, but it can get tricky once you consider all the different situations...
 

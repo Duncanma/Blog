@@ -1,7 +1,9 @@
 ---
-date: 2006-05-11T08:14:00+00:00
+date: 2006-05-11T08:14:00.000Z
 title: CalCars covered on on10.net
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 This is one of the cooler bits we've run on 10 so far;
 

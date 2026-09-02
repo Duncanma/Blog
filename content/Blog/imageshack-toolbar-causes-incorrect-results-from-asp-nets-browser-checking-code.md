@@ -1,7 +1,11 @@
 ---
-date: 2008-01-10T12:09:00+00:00
-title: ImageShack Toolbar causes incorrect results from ASP.NET's browser checking code
+date: 2008-01-10T12:09:00.000Z
+title: >-
+  ImageShack Toolbar causes incorrect results from ASP.NET's browser checking
+  code
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 We recently updated a few of our web sites with code that would provide a 'nicer' experience for browsers that were not compatible with the ASP.NET ATLAS (AJAX) scripts we were using. For some reason though, a few users who were running a fully compatible browser (Firefox 2.0.0.*), were seeing the no-script experience. We were puzzled, but one of the users figured out that their ImageShack toolbar might be causing the problem. Sure enough, after I installed that same toolbar myself I was able to test and confirm that it truly is causing the confusion.
 

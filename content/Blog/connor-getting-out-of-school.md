@@ -1,8 +1,10 @@
 ---
-date: 2006-10-11T22:16:00+00:00
+date: 2006-10-11T22:16:00.000Z
 title: Connor Getting Out Of School
 type: posts
 hidden: true
+noindex: true
+curated: '2026-09-02'
 ---
 <embed name="msn_soapbox" pluginspage="http://macromedia.com/go/getflashplayer" src="http://soapbox.msn.com/flash/soapbox1_1.swf" width="412" height="362" type="application/x-shockwave-flash" flashvars="c=v&v=ae13d47c-bc1c-4e4e-9ccd-d2a9470305a5" wmode="transparent" quality="high">
 </embed>

@@ -1,11 +1,15 @@
 ---
-date: 2005-11-02T07:56:00+00:00
-title: RSS feed authoring for those without blog software or an enjoyment of typing angle brackets
+date: 2005-11-02T07:56:00.000Z
+title: >-
+  RSS feed authoring for those without blog software or an enjoyment of typing
+  angle brackets
 type: posts
 tags:
- - RSS
- - Coding
- - Microsoft
+  - RSS
+  - Coding
+  - Microsoft
+historical: true
+curated: '2026-09-02'
 ---
 Blogs and blogging software seem to be everywhere these days, and RSS has been a top buzzword for quite some time, everyone and their dog wants to take advantage of this new trend and technology. The problem is, it isn't a simple process to create and maintain a valid RSS file. If you aren't willing to run a complete blogging system or if you aren't capable of hand-editing XML, then you don't have a lot of options. For most of the folks that will read this blog entry, you probably don't have this problem, producing RSS 2.0 wouldn't be much of an issue for a developer, but there are times when we want less technical folks to be able to author their own feeds without any assistance. At MSDN we started thinking about this very problem ourselves recently when we decided that, in addition to [all the feeds that come out of our content systems](https://msdn.microsoft.com/aboutmsdn/rss), there was a need to create some small feeds that didn't necessarily fit into our larger content systems. Handing off the task of feed creation to notepad or Front Page wasn't an appealing thought and that path would probably result in a lot of xml editing errors and invalid feeds.
 

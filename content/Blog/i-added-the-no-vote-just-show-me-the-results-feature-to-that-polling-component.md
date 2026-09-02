@@ -1,7 +1,11 @@
 ---
-date: 2004-06-09T03:11:00+00:00
-title: I added the "no vote, just show me the results" feature to that polling component...
+date: 2004-06-09T03:11:00.000Z
+title: >-
+  I added the "no vote, just show me the results" feature to that polling
+  component...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 It appears to work fine... assuming you haven't voted from the machine you are currently on, you should be able to see the new button (and try it out) at <http://www.duncanmackenzie.net>
 

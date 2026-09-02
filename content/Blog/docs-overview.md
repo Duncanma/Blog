@@ -1,13 +1,18 @@
 ---
-date: 2020-05-19T09:25:00-08:00
+date: 2020-05-19T17:25:00.000Z
 title: An overview of Docs.Microsoft.com
 type: posts
 tags:
-- Docs
-- Microsoft
-- Web Development
-description: Docs.microsoft.com replaced MSDN and TechNet in 2016 as Microsoft's single home for technical docs — first post in a series on how the whole system works.
+  - Docs
+  - Microsoft
+  - Web Development
+description: >-
+  Docs.microsoft.com replaced MSDN and TechNet in 2016 as Microsoft's single
+  home for technical docs — first post in a series on how the whole system
+  works.
 docsfeatured: true
+historical: true
+curated: '2026-09-02'
 ---
 Up until just a couple of years ago, Microsoft had two main technical documentation sites, MSDN and TechNet, and a ton of product-specific ones. Despite some of the issues that now existed with MSDN, one of its strengths had been that a high percentage of the documentation a developer would need to work with Microsoft products was all available in a single place, with a consistent user experience. Docs was built to bring us back to that idea, but also to take it further, getting rid of the somewhat artificial distinction between developer content (MSDN) and IT Pro content (TechNet). In my own career, while I'm officially a developer, I've often been involved in system management, deployment, scripting and many other topics that were traditionally documented on TechNet. So, at least for technical content, we would move to a world where we had only **one system and one destination**, [docs.microsoft.com](https://docs.microsoft.com). [Our official launch post is up on the Docs blog](https://docs.microsoft.com/teamblog/introducing-docs-microsoft-com) with some more background and lots of images!
 

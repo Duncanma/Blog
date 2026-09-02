@@ -1,16 +1,19 @@
 ---
-date: 2024-05-05T12:38:55-07:00
+date: 2024-05-05T19:38:55.000Z
 title: Order fulfillment with Azure Functions and Stripe
 type: posts
 tags:
- - Web Development
- - Coding
- - Stripe
- - Photography
- - Azure
+  - Web Development
+  - Coding
+  - Stripe
+  - Photography
+  - Azure
 images:
- - /images/photo-gallery/azure-function-diagram.png
-description: As the final step in my series on adding photo galleries to my site, I explain how I use Azure Functions to process incoming orders.
+  - /images/photo-gallery/azure-function-diagram.png
+description: >-
+  As the final step in my series on adding photo galleries to my site, I explain
+  how I use Azure Functions to process incoming orders.
+curated: '2026-09-02'
 ---
 
 In the previous articles in this series, I covered how I [added photo galleries to my site](/blog/adding-photo-galleries/), and then [how I enabled a feature to buy the original digital photo](/blog/adding-e-commerce-to-my-galleries/). The last piece (for now at least) is how I automate delivery of those high-resolution images, so that everything *should* just happen without any manual steps.

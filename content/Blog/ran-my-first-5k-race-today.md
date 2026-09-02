@@ -1,7 +1,9 @@
 ---
-date: 2007-02-12T10:10:00+00:00
+date: 2007-02-12T10:10:00.000Z
 title: Ran my first 5K race today...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Back in the summer I jumped back into fitness by signing up for the 20/20 program at the Pro Club. 20/20 is a serious weight loss program that involves both diet change (I'd characterize it as South Beach in style) and five workouts a week (including three with a personal trainer). Well, it has been quite successful so far, bringing my weight down from around 189 to about 160 over the past 5 months, and it has had the side affect of getting me back into running.
 

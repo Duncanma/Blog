@@ -1,7 +1,9 @@
 ---
-date: 2003-05-13T11:04:00+00:00
+date: 2003-05-13T11:04:00.000Z
 title: Releasing binaries for my samples
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Since starting my [column](https://msdn.microsoft.com/columns/codefun.asp), I've received quite a few requests for "just the install" from people who read the article, liked the app I built, but don't have any interest in the code... they just want to run the app!
 

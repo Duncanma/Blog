@@ -1,18 +1,21 @@
 ---
-date: 2024-05-17T12:31:10-07:00
+date: 2024-05-17T19:31:10.000Z
 title: Adding prefetch and prerender using the Speculation Rules API
 type: posts
 tags:
- - Web Development
- - Coding
- - Hugo
- - Performance
- - DevTo
+  - Web Development
+  - Coding
+  - Hugo
+  - Performance
+  - DevTo
 images:
- - /images/speculation-rules/loads.png
-description: Chrome can fetch and render a page before you click the link. I used the Speculation Rules API to add instant navigation to my site with zero JS.
+  - /images/speculation-rules/loads.png
+description: >-
+  Chrome can fetch and render a page before you click the link. I used the
+  Speculation Rules API to add instant navigation to my site with zero JS.
 featured: true
 blueskyPostID: 3l74i6nhjwc2f
+curated: '2026-09-02'
 ---
 
 We were brainstorming on performance improvements at work the other day, and I remembered I always planned to add some form of prefetch/prerender to my site. Prefetching is making a network request for a specific URL from the current page, with the idea that if the user visits that URL next, it will already be in their local cache and load faster. Prerendering is the same idea, but taken farther, instead of just loading the URL itself, it loads the URL and renders it, which means loading all the required sub-resources (CSS, JS, images), calculating layout, executing JavaScript, etc. Both are spending some of your user's bandwidth and CPU on a *bet* that it will benefit them later. If your pages are small and load fast, like I feel mine do, the benefit is low, but I still wanted to experiment with the concept.

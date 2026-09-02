@@ -1,7 +1,9 @@
 ---
-date: 2003-10-14T09:55:00+00:00
+date: 2003-10-14T09:55:00.000Z
 title: Visual Studio .NET Bootstrapper Plug-In
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 The VS team has produced a 'preview' version of a new plug-in...
 

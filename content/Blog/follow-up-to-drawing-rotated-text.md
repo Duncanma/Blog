@@ -1,9 +1,11 @@
 ---
-date: 2004-12-09T18:05:00+00:00
+date: 2004-12-09T18:05:00.000Z
 title: Follow up to 'drawing rotated text'
 type: posts
 tags:
- - Coding
+  - Coding
+historical: true
+curated: '2026-09-02'
 ---
 The same programmer who asked for [an example of rotated text](https://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx) is back with another interesting request; how to partially fill a circle from the bottom up
 as if it was a glass that you've poured water into... so here goes (this is only a snippet of the code, see [the original post ](https://blogs.duncanmackenzie.net/duncanma/archive/2004/12/02/913.aspx)for the rest);

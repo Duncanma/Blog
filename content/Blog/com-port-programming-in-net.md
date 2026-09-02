@@ -1,6 +1,8 @@
 ---
-date: 2003-10-27T02:56:00+00:00
+date: 2003-10-27T02:56:00.000Z
 title: COM Port Programming in .NET
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Just noticed a post by Chris Johnson, [http://weblogs.asp.net/cjohnson/posts/27887.aspx](https://weblogs.asp.net/cjohnson/posts/27887.aspx) about serial port programming in .NET, he detailed the general lack of options, but I thought I should chime in.... If you get the [Visual Basic Resource Kit,](https://msdn.microsoft.com/vbasic/vbrkit) it includes a free control from Sax that provides an easy way to do serial port work using .NET...

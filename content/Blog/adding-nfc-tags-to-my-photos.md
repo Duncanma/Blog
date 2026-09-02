@@ -1,13 +1,16 @@
 ---
-date: 2022-11-28T14:39:41-08:00
+date: 2022-11-28T22:39:41.000Z
 title: Adding NFC tags to my photos
 type: posts
 tags:
-- Photography
-- Hugo
-- NFC
-- Home Automation
-description: A not super useful experiment to add NFC tags to the various photos around home.
+  - Photography
+  - Hugo
+  - NFC
+  - Home Automation
+description: >-
+  A not super useful experiment to add NFC tags to the various photos around
+  home.
+curated: '2026-09-02'
 ---
 
 I like to take pictures, way too many pictures, and I love putting them up as part of our home decor. Most of my favorite images come from our various trips to interesting places, and even when the picture is mostly focused on a family member it was probably taken somewhere interesting.

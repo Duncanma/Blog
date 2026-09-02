@@ -1,7 +1,9 @@
 ---
-date: 2003-05-11T10:18:00+00:00
+date: 2003-05-11T10:18:00.000Z
 title: Word Automation from C# vs. VB.NET
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I recently received a question about doing some Word automation using .NET, and I saw an interesting little difference between the C# and VB.NET calling into the Interop Assembly for certain properties/methods...
 

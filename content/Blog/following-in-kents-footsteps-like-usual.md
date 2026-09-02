@@ -1,7 +1,9 @@
 ---
-date: 2005-10-15T18:44:00+00:00
-title: Following in Kent's footsteps, like usual :)
+date: 2005-10-15T18:44:00.000Z
+title: 'Following in Kent''s footsteps, like usual :)'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Kent's flair](https://www.acmebinary.com/blogs/kent/archive/2005/10/07/273.aspx) was cool... so I made my own, using his code of course, but targetting whatever feed you want... check out the source of this image and I'm sure you can figure out how to change the feed it is pointing to...
 

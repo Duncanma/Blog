@@ -1,7 +1,9 @@
 ---
-date: 2006-07-18T07:00:00+00:00
+date: 2006-07-18T07:00:00.000Z
 title: Yahoo now has a video site... called "The 9"
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Now, I'm not saying they are copying [anything](https://on10.net) [we are doing](https://channel9.msdn.com), and I get where the "9" comes from (they show 9 videos a week), but still... it is hard to not to wonder why they ended up with a name like that for their site...
 

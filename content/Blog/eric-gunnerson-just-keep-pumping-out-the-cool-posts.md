@@ -1,7 +1,9 @@
 ---
-date: 2004-03-17T10:53:00+00:00
+date: 2004-03-17T10:53:00.000Z
 title: Eric Gunnerson just keep pumping out the cool posts...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 If you follow [Eric's blog](https://blogs.msdn.com/ericgu) (and if you are into C#, you should) then you'll have already seen these... but if you haven't then let these three posts be just a taste of what is available [over there](https://blogs.msdn.com/ericgu);
 

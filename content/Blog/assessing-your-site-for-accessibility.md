@@ -1,14 +1,17 @@
 ---
-date: 2021-04-06T22:08:29-07:00
+date: 2021-04-07T05:08:29.000Z
 title: Assessing your site for Accessibility
 type: posts
 tags:
- - Web Development
- - Coding
- - Accessibility
- - Self-Assessment
+  - Web Development
+  - Coding
+  - Accessibility
+  - Self-Assessment
 featured: true
-description: "A practical rundown of the four things I check first for accessibility: valid semantic HTML, color contrast, keyboard navigation, and image alt text."
+description: >-
+  A practical rundown of the four things I check first for accessibility: valid
+  semantic HTML, color contrast, keyboard navigation, and image alt text.
+curated: '2026-09-02'
 ---
 
 A little while back I started [a series around assessing your own site](/blog/site-assessments/),

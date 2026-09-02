@@ -1,15 +1,19 @@
 ---
-date: 2020-09-16T14:00:00-08:00
+date: 2020-09-16T22:00:00.000Z
 title: Templates used when building and rendering docs.microsoft.com
 type: posts
 tags:
-- Docs
-- Microsoft
-- Web Development
+  - Docs
+  - Microsoft
+  - Web Development
 images:
-- /images/docs/templates_chrome.png
-description: Docs uses two separate template systems — mustache-style at build time for content, and Liquid at request time for the header/footer chrome.
+  - /images/docs/templates_chrome.png
+description: >-
+  Docs uses two separate template systems — mustache-style at build time for
+  content, and Liquid at request time for the header/footer chrome.
 docsfeatured: true
+historical: true
+curated: '2026-09-02'
 ---
 
 Content on Docs goes through a build process, and is then served from our rendering layer. At both stages, templates are used to control the output.

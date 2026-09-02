@@ -1,7 +1,9 @@
 ---
-date: 2003-04-06T10:57:00+00:00
+date: 2003-04-06T10:57:00.000Z
 title: A little 'bit' more on Int32 vs Integer
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Darren's](https://dotnetweblogs.com/DNeimke) comments on [my previous post:](https://dotnetweblogs.com/duncanma/Posts/4921.aspx)
 

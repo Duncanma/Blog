@@ -1,7 +1,9 @@
 ---
-date: 2003-03-04T23:23:00+00:00
+date: 2003-03-04T23:23:00.000Z
 title: Coding and Going to the Grocery Store
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Greg Robinson's [comments](https://dotnetweblogs.com/grobinson/posts/3388.aspx) today were quite timely, I had been thinking much the same thing myself... Often, and I find it happens more and more these days, I will go to find something on the Internet, or buy something at the grocery store, and I end up doing everything but the task I intended to accomplish. This appears to be normal human behaviour, but it can be quite disturbing if you are short on time and have a lot of things that need to get done. As [Darren](https://dotnetweblogs.com/DNeimke) comments on Greg's post, a to-do list appears to be the only way to keep yourself focused. In coding this is extremely important, so I use bug-tracking software to track new features and bug fixes together with some priority info... otherwise I would code for a few days and never get any closer to shipping out my application.
 

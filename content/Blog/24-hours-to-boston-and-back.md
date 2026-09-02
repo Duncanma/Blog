@@ -1,11 +1,13 @@
 ---
-date: 2006-11-03T22:49:00+00:00
+date: 2006-11-03T22:49:00.000Z
 title: 24 Hours to Boston and Back
 type: posts
 tags:
- - Xbox
- - on10
- - Star Trek
+  - Xbox
+  - on10
+  - Star Trek
+historical: true
+curated: '2026-09-02'
 ---
 ![StarTrek Legacy](/images/lg_sov-sm.gif)
 Last night I jumped on a flight at around 11pm in Seattle and flew to Boston, getting in around 7am, then I drove up to the offices of Mad Doc software... makers of quite a few cool games, including Empire Earth II, Star Trek Armada II and now Star Trek: Legacy for the Xbox 360 (and for the PC). Interview is all done now and I'm on my way back, with a ton of great footage for the on10.net crowd 🙂

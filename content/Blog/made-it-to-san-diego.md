@@ -1,7 +1,9 @@
 ---
-date: 2004-05-23T10:34:00+00:00
+date: 2004-05-23T10:34:00.000Z
 title: Made it to San Diego...
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 I flew down to TechEd today, and I made it to the Marriott without any incidents... and I have my first 'Cabana' session tomorrow at 8:30 am... This means I'll be hanging out in the convention center, in the 'Cabana' area, in case anyone wants to drop by and chat about VB... there will be someone there for all the major technology areas pretty much all the time throughout the week. I've got quite a few shifts scheduled, which means that the Cabanas will be the best place to find me at almost anytime during the event...
 

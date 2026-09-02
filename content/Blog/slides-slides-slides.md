@@ -1,7 +1,9 @@
 ---
-date: 2003-11-13T10:05:00+00:00
-title: Slides, Slides, Slides
+date: 2003-11-13T10:05:00.000Z
+title: 'Slides, Slides, Slides'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I updated a ton of sessions on [the PDC site](https://msdn.microsoft.com/events/pdc/agendaandsessions/sessions/default.aspx) today, many (yep, I'm being vague... I don't have the details with me at the moment) sessions that didn't have slides do now.
 

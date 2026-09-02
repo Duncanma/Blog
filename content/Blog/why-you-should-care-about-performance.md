@@ -1,17 +1,20 @@
 ---
-date: 2021-01-18T16:37:00-08:00
+date: 2021-01-19T00:37:00.000Z
 title: Why you should care about the performance of your site
 type: posts
 tags:
- - Web Development
- - Coding
- - Performance
- - Software Management
- - DevTo
+  - Web Development
+  - Coding
+  - Performance
+  - Software Management
+  - DevTo
 images:
-- /images/performance/search-console-web-vitals.png
-description: "There are three real reasons: revenue and conversion, Google's new ranking signal, and quietly excluding users on slow connections or old phones."
+  - /images/performance/search-console-web-vitals.png
+description: >-
+  There are three real reasons: revenue and conversion, Google's new ranking
+  signal, and quietly excluding users on slow connections or old phones.
 featured: true
+curated: '2026-09-02'
 ---
 We often talk about assessing and improving the performance (speed) of a web page or a site, but why does this matter to you as the site owner? Developers run their sites
 through pagespeed tests and talk about lighthouse scores, but does the load time (and other metrics) of your site actually impact your business?

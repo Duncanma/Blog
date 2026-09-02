@@ -1,7 +1,9 @@
 ---
-date: 2003-06-22T17:59:00+00:00
-title: Multiple Methods for Auto-Updating, which to choose?
+date: 2003-06-22T17:59:00.000Z
+title: 'Multiple Methods for Auto-Updating, which to choose?'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 My last two posts mentioned two different ways of achieving similar results; deploying and updating an application over the Internet. Not suprisingly, I received a comment asking how do you determine which of the two methods to use, a very good question which I will try to answer here.
 

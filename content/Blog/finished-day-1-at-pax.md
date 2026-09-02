@@ -1,7 +1,9 @@
 ---
-date: 2006-08-26T08:54:00+00:00
+date: 2006-08-26T08:54:00.000Z
 title: Finished Day 1 at PAX
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 So I've been wanting to go to [PAX](https://www.pennyarcadeexpo.com) since it started a couple of years ago, and every time it has come around I've been out of town... until now... and, by some interesting twist of fate, I know [have a job that actually required me to attend](https://www.on10.net/Blogs/TheShow/5132/) 🙂
 

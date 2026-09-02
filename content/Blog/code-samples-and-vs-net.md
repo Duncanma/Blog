@@ -1,7 +1,9 @@
 ---
-date: 2003-03-02T13:55:00+00:00
+date: 2003-03-02T13:55:00.000Z
 title: Code Samples and VS.NET
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [
 

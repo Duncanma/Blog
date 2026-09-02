@@ -1,7 +1,9 @@
 ---
-date: 2003-05-01T20:50:00+00:00
+date: 2003-05-01T20:50:00.000Z
 title: My Column Is Up!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <font face="Verdana" color="teal">My new column ([Want to know what I am listening to](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10))) is up on MSDN: [https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10)](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/ms973230(v=msdn.10))
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-02-05T23:51:00+00:00
-title: Ok, this is a spam generator... but you could win a Tablet PC!! :)
+date: 2004-02-05T23:51:00.000Z
+title: 'Ok, this is a spam generator... but you could win a Tablet PC!! :)'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'm a bit reluctant to post this, and I'm sorry in advance to all of your friends, but you should think about your own best interest here (you could win a Tablet PC!!).
 

@@ -1,11 +1,13 @@
 ---
-date: 2007-09-04T08:11:00+00:00
+date: 2007-09-04T08:11:00.000Z
 title: Added Silverlight Streaming support to Channel 9's forums
 type: posts
 tags:
- - Channel9
- - Silverlight
- - Microsoft
+  - Channel9
+  - Silverlight
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 Continuing on in the same pattern as my last post, [adding Soapbox support to C9's forums](https://www.duncanmackenzie.net/blog/added-support-for-soapbox-videos-on-channel-9/), [Adam Kinney](https://www.adamkinney.com) bugged me a bit and I went ahead and added support for [Silverlight Streaming](https://blogs.msdn.com/cheller/archive/2007/07/30/silverlight-streaming-new-iframe-based-invocation-mechanism.aspx) as well.
 

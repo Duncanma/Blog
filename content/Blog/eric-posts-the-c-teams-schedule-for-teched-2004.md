@@ -1,7 +1,9 @@
 ---
-date: 2004-05-14T11:41:00+00:00
+date: 2004-05-14T11:41:00.000Z
 title: Eric posts the C# Team's schedule for TechEd 2004
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out the full post for info on Eric's talk in particular...
 

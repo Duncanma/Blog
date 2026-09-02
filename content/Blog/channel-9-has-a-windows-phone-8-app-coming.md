@@ -1,11 +1,13 @@
 ---
-date: 2013-08-07T06:22:38+00:00
+date: 2013-08-07T06:22:38.000Z
 title: Channel 9 has a Windows Phone 8 app coming...
 type: posts
 tags:
- - Channel9
- - Windows Phone
- - Microsoft
+  - Channel9
+  - Windows Phone
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 {{% note %}}
 Since I wrote this post, the Channel 9 apps across UWP, XBox, iOS and Android have all been retired

@@ -1,7 +1,8 @@
 ---
-date: 2003-06-18T10:11:00+00:00
+date: 2003-06-18T10:11:00.000Z
 title: Punitive User Interfaces
 type: posts
+curated: '2026-09-02'
 ---
 I'm sure [Alan Cooper](https://www.cooper.com/) has a better name for it, but [this thread](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=112688&Page=1#112745) on [GDN](https://www.gotdotnet.com) caught my eye today;
 

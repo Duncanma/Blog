@@ -1,7 +1,9 @@
 ---
-date: 2011-07-18T14:03:30+00:00
+date: 2011-07-18T14:03:30.000Z
 title: Word 2000 VBA (Wrox) Source Code
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 {{% note %}}
 Ok, so now this link is also broken. I'm trying to track down the original source **but** it is getting pretty out of date. I'm interested in revisiting this project at some point, rebuilding the book using current tech, but it is difficult to say when that could ever happen. If you are still looking for this code, you can reach out to me (duncanma@microsoft.com), and hopefully I'll be able to point you to a better/newer resource for your question.

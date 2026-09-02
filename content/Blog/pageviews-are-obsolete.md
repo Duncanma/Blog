@@ -1,7 +1,8 @@
 ---
-date: 2006-09-11T19:10:00+00:00
+date: 2006-09-11T19:10:00.000Z
 title: Pageviews are Obsolete
 type: posts
+curated: '2026-09-02'
 ---
 For quite some time I've thought Pageviews were a mostly useless number to be tracking for any web site. This was very clear at [MSDN](https://msdn.microsoft.com), where such stats are tracked very carefully... spreadsheets are created... charts are made... and yet, none of us really believed in the Pageview #s. Instead we used to focus more on unique visitors or an odd calculated value we called unique page views (not everyone's definition of that # is the same, but suffice it to say that is an attempt to more accurately represent real site visits by real people).
 

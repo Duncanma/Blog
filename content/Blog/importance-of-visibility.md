@@ -1,14 +1,17 @@
 ---
-date: 2023-09-24T17:10:16-07:00
-title: The importance of visibility to individuals, teams, and companies
+date: 2023-09-25T00:10:16.000Z
+title: 'The importance of visibility to individuals, teams, and companies'
 type: posts
 tags:
-- Management
-- Engineering Management
-- DevTo
-description: "The top career advice I give engineers: doing great work isn't enough on its own, you also have to make sure people actually know about it."
+  - Management
+  - Engineering Management
+  - DevTo
+description: >-
+  The top career advice I give engineers: doing great work isn't enough on its
+  own, you also have to make sure people actually know about it.
 techfeatured: true
 blueskyPostID: 3ka6qhv4rcc2l
+curated: '2026-09-02'
 ---
 
 I'm often asked if I have any advice for other software engineers, and

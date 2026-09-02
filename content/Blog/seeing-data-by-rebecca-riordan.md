@@ -1,7 +1,9 @@
 ---
-date: 2004-09-07T05:25:00+00:00
+date: 2004-09-07T05:25:00.000Z
 title: Seeing Data by Rebecca Riordan...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Shawn](https://weblogs.asp.net/shawnmor/archive/2004/09/06/226224.aspx), my boss, recommends [this AW book by Rebecca Riordan](https://www.amazon.com/exec/obidos/ASIN/0321205618/duncanmackenz-20?creative=125581&#038;camp=2321&#038;link_code=as1), which is one of the few .NET books I've found time to read lately, and I have to agree... I have doubts on whether or not it will sell as many copies as it should, as people seem to cluster around very focused books even when **this book is exactly what they need**, but it certainly deserves to be successful.
 

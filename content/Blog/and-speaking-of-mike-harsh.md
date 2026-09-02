@@ -1,7 +1,9 @@
 ---
-date: 2003-03-19T11:44:00+00:00
+date: 2003-03-19T11:44:00.000Z
 title: And speaking of Mike Harsh...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 It seems he managed to get his cool shaped control library
 

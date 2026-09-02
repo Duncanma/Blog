@@ -1,18 +1,23 @@
 ---
-title: "Celebrating the 'Craft' in our Engineering work"
-date: 2020-03-02T09:30:00-08:00
+title: Celebrating the 'Craft' in our Engineering work
+date: 2020-03-02T17:30:00.000Z
 type: posts
 tags:
- - Docs
- - Microsoft
- - Performance
- - Team
- - Software Management
- - Engineering Management
+  - Docs
+  - Microsoft
+  - Performance
+  - Team
+  - Software Management
+  - Engineering Management
 images:
-- /images/craft/speedcurve_before_after.png
-description: When a new page shipped slower than the one it replaced, the team diagnosed and fixed it within hours — proof that fast iteration is real engineering craft.
+  - /images/craft/speedcurve_before_after.png
+description: >-
+  When a new page shipped slower than the one it replaced, the team diagnosed
+  and fixed it within hours — proof that fast iteration is real engineering
+  craft.
 docsfeatured: true
+historical: true
+curated: '2026-09-02'
 ---
 Recently I watched the team go through a launch, and then do some quick investigation and iteration. This exercise really brought to mind [Jeff’s](https://twitter.com/jeffsand) comments at an internal team event that we are all _masters of our craft_. I liked the sound of that phrase, and I see it in a lot of what we do… including this one example.
 

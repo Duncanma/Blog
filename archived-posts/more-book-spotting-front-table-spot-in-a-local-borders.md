@@ -1,0 +1,11 @@
+---
+date: 2006-02-10T04:46:00.000Z
+title: More book spotting... front table spot in a local Borders...
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+[From Brian's blog](https://spaces.msn.com/brianjo/Blog/cns!57C723EC58B8F3A3!534.entry) (via his wife)
+
+![](https://static.flickr.com/19/97669944_2a4c8a6018_m.jpg)

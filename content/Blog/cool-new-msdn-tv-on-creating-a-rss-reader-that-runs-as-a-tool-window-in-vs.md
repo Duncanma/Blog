@@ -1,7 +1,9 @@
 ---
-date: 2004-07-02T10:31:00+00:00
+date: 2004-07-02T10:31:00.000Z
 title: Cool new MSDN TV (on creating a RSS reader that runs as a tool window in VS)
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">

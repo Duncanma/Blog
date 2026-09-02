@@ -1,11 +1,14 @@
 ---
-date: 2021-07-10T12:25:00-08:00
+date: 2021-07-10T20:25:00.000Z
 title: Don't depend on Referrer info
 type: posts
 tags:
-- Web Development
-- DevTo
-description: People often want to know which site sent a visitor their way, but thanks to browser privacy defaults, referrer info is frequently missing or incomplete.
+  - Web Development
+  - DevTo
+description: >-
+  People often want to know which site sent a visitor their way, but thanks to
+  browser privacy defaults, referrer info is frequently missing or incomplete.
+curated: '2026-09-02'
 ---
 
 Over the years, many people have asked me to give them data on, or act

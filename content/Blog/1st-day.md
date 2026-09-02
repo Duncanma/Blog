@@ -1,7 +1,9 @@
 ---
-date: 2003-06-01T23:57:00+00:00
+date: 2003-06-01T23:57:00.000Z
 title: 1st Day
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Woo Hoo, I got a bag when I registered! Lately, I haven't been getting them, something about the "staff" on my registration at all of these things... so my laptop bag closet was getting a little empty. I give these great bags away to my friends and family, there are just too many for one person, which is why you might see my mother roaming around with a TechEd bag, or see my wife at the park with my son and a nice VSLive "tote"!
 

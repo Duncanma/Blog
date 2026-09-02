@@ -1,7 +1,9 @@
 ---
-date: 2003-09-15T11:55:00+00:00
+date: 2003-09-15T11:55:00.000Z
 title: Getting slightly caught up...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Well, I haven't produced anything of staggering brillance tonight, but I'm a little less behind on some of my writing obligations (now those SAMS editors will stop posting my picture in the coffee room with nasty words beneath it)... still behind on 3 or 4 other projects, but progress is progress... I'm not going to complain!
 

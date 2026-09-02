@@ -1,7 +1,9 @@
 ---
-date: 2006-01-10T15:51:00+00:00
+date: 2006-01-10T15:51:00.000Z
 title: Term Extraction
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I was playing around with Yahoo's term extraction service, as a possible path to tagging (this is the same service used behind [TagCloud.com](https://www.tagcloud.com), for example), and I created this C# class libary with a sample app written in Windows Forms.
 

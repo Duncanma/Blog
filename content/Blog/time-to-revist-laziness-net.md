@@ -1,7 +1,9 @@
 ---
-date: 2004-09-06T23:47:00+00:00
+date: 2004-09-06T23:47:00.000Z
 title: Time to revist "laziness.net"
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [I created a Pocket PC remote for Windows Media Player](https://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx?pull=/library/en-us/dncodefun/html/code4fun06272003.asp), but I only had speakers right next to [the music system](https://www.duncanmackenzie.net/musicxp)... so the remote wasn't all that useful... but I just picked up this wireless speaker;
 

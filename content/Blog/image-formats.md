@@ -1,15 +1,18 @@
 ---
-date: 2021-06-13T11:53:26-07:00
+date: 2021-06-13T18:53:26.000Z
 title: Updating my blog to support multiple image formats
 type: posts
 tags:
- - Web Development
- - Coding
- - Performance
- - Images
- - Hugo
-description: "Adding AVIF and WebP support was the goal, but a side effect stole the show: explicit width/height attributes dropped a page's CLS score from .035 to 0."
+  - Web Development
+  - Coding
+  - Performance
+  - Images
+  - Hugo
+description: >-
+  Adding AVIF and WebP support was the goal, but a side effect stole the show:
+  explicit width/height attributes dropped a page's CLS score from .035 to 0.
 featured: true
+curated: '2026-09-02'
 ---
 The existence of new image formats that offer better quality at smaller file sizes is not a new occurrence. [WebP](https://developers.google.com/speed/webp/) has been around for around a decade, [AVIFs](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF)) are becoming more widely supported, and now [JPEG XL](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs) is here; continuing to only offer JPEG and PNG images is missing out on some serious file size savings.
 

@@ -1,12 +1,14 @@
 ---
-date: 2004-11-23T06:31:00+00:00
+date: 2004-11-23T06:31:00.000Z
 title: Halo 2 Stats via RSS... an interesting idea that I think could be improved
 type: posts
 tags:
- - Halo
- - Gaming
- - Xbox
- - RSS
+  - Halo
+  - Gaming
+  - Xbox
+  - RSS
+historical: true
+curated: '2026-09-02'
 ---
 I like that Bungie is exposing your stats as RSS ([see mine here](https://www.duncanmackenzie.net/halo2.aspx)), but it would be cooler if they had added some additional elements and attributes to the feed to describe the games in a more usable format, rather than just in HTML... instead of;
 

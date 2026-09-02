@@ -1,11 +1,13 @@
 ---
-date: 2006-02-06T19:18:00+00:00
+date: 2006-02-06T19:18:00.000Z
 title: Book is making its way to local stores...
 type: posts
 tags:
- - Xbox
- - Writing
- - Books
+  - Xbox
+  - Writing
+  - Books
+noindex: true
+curated: '2026-09-02'
 ---
 
 ![Bookspotting](/images/bookspotting.jpg)

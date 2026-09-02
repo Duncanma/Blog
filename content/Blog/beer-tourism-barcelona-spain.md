@@ -1,16 +1,20 @@
 ---
-date: 2019-11-05T17:58:00-08:00
+date: 2019-11-06T01:58:00.000Z
 title: Barcelona Beer Tourism
 type: posts
 tags:
-- Travel
-- Beer
-- Barcelona
-- Spain
+  - Travel
+  - Beer
+  - Barcelona
+  - Spain
 images:
-- /images/beer/imperial_stout_sml.jpg
-description: A few years ago I had my first european craft beer experience, at a cool little craft beer place in Barcelona
+  - /images/beer/imperial_stout_sml.jpg
+description: >-
+  A few years ago I had my first european craft beer experience, at a cool
+  little craft beer place in Barcelona
 draft: true
+historical: true
+curated: '2026-09-02'
 ---
 Years ago I was in Barcelona for a conference, TechEd Europe 2014 I believe, and it was one of the first times I decided to try and find some craft beer in Europe. Luckily a few web searches came back with two spots, the Cat Bar and Ale&Hop. Over the past 5 years though, the number of places you can go has really blown up, so if you are heading there now I would check out a [more up-to-date guide to Craft Beer in Barcelona](https://www.barcelonafoodexperience.com/blog/best-craft-beer-barcelona).
 

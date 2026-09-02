@@ -1,7 +1,9 @@
 ---
-date: 2003-03-25T12:22:00+00:00
+date: 2003-03-25T12:22:00.000Z
 title: First day and he has figured it out already....
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Kent's first day with my group (to avoid confusion: "my group" means the group I belong to, I don't manage anyone...) and he has already realized the truth about us.
 

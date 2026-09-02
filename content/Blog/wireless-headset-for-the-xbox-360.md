@@ -1,7 +1,9 @@
 ---
-date: 2006-10-25T20:15:00+00:00
+date: 2006-10-25T20:15:00.000Z
 title: Wireless Headset for the Xbox 360
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Jesse](https://www.osakasteve.com) and I headed over to the Xbox buildings and interviewed Deb Louis about the new [Xbox 360 Wireless Headset](https://www.amazon.com/gp/product/B000HZFCZQ?ie=UTF8&tag=duncanmackenz-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000HZFCZQ)<img style="margin: 0px; border-top-style: none! important; border-right-style: none! important; border-left-style: none! important; border-bottom-style: none! important" height="1" alt="" src="http://www.assoc-amazon.com/e/ir?t=duncanmackenz-20&l=as2&o=1&a=B000HZFCZQ" width="1" border="0" />... video coming soon! In the meantime, here are some frame captures for your enjoyment 🙂
 

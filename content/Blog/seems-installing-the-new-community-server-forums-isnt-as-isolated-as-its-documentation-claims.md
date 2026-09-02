@@ -1,7 +1,11 @@
 ---
-date: 2004-09-01T10:25:00+00:00
-title: Seems installing the new Community Server Forums isn't as 'isolated' as its documentation claims...
+date: 2004-09-01T10:25:00.000Z
+title: >-
+  Seems installing the new Community Server Forums isn't as 'isolated' as its
+  documentation claims...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Ok, so any action you take against your database is your own responsibility... so this is my fault, but I'm still _miffed_.
 

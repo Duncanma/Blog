@@ -1,6 +1,8 @@
 ---
-date: 2007-05-11T23:16:00+00:00
+date: 2007-05-11T23:16:00.000Z
 title: Bungie.net showing Halo 3 stats along with Halo 2
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [My profile page](https://www.bungie.net/Account/profile.aspx?uid=2379002)... not sure if you can find out, but I've lost the last 3 games of Halo 3...

@@ -1,7 +1,9 @@
 ---
-date: 2004-04-07T20:22:00+00:00
+date: 2004-04-07T20:22:00.000Z
 title: Real-Time Syntax highlighting for HTML...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Bah... I've been digging around the web for a couple of days now, and I'm getting frustrated, so I thought I would share my pain with you
 

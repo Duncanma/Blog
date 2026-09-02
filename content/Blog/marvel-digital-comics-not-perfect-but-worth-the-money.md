@@ -1,11 +1,13 @@
 ---
-date: 2008-06-21T18:38:00+00:00
-title: Marvel Digital Comics, not perfect, but worth the money!
+date: 2008-06-21T18:38:00.000Z
+title: 'Marvel Digital Comics, not perfect, but worth the money!'
 type: posts
 tags:
- - Comics
- - Reading
- - Marvel
+  - Comics
+  - Reading
+  - Marvel
+historical: true
+curated: '2026-09-02'
 ---
 A month or so ago, I went looking to see if there was any way to read back issues of Marvel Comics online… and discovered [a complete site around providing exactly that service](https://www.marvel.com/comics/unlimited). With a subscription to the digital comics section, you can view any issue of any series that is available on their online catalog; I sat down a couple of nights ago and read through issues 1 to 100 of Ultimate Spiderman for example.
 

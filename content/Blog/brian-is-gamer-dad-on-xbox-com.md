@@ -1,9 +1,11 @@
 ---
-date: 2006-10-17T18:13:00+00:00
+date: 2006-10-17T18:13:00.000Z
 title: Brian is "Gamer Dad" on Xbox.com
 type: posts
 tags:
- - Xbox
+  - Xbox
+noindex: true
+curated: '2026-09-02'
 ---
 My buddy (and co-author on Xbox 360 For Dummies) Brian Johnson has started a new column on Xbox.com aimed at parents ... parents who game with their kids... parents whose kids play games... and even just parents who play games (gaming is different for folks who have kids in the house!).
 

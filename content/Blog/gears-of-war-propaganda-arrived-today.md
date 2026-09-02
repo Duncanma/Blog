@@ -1,7 +1,9 @@
 ---
-date: 2006-10-10T18:16:00+00:00
+date: 2006-10-10T18:16:00.000Z
 title: Gears of War Propaganda arrived today
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I loved this email from Xbox Live today:
 

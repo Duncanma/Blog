@@ -1,7 +1,9 @@
 ---
-date: 2004-06-21T10:20:00+00:00
+date: 2004-06-21T10:20:00.000Z
 title: Just saw a concert... already have the live CD...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 It is like bootleg concert recordings but the quality is better and I had to pay for it 🙂
 

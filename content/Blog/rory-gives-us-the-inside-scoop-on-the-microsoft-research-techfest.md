@@ -1,7 +1,9 @@
 ---
-date: 2007-03-06T22:54:00+00:00
+date: 2007-03-06T22:54:00.000Z
 title: Rory gives us the inside scoop on the Microsoft Research TechFest
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 > [Microsoft Research TechFest – Intro, DynaVis, and FastDash](https://channel9.msdn.com/ShowPost.aspx?PostID=288554)
 >

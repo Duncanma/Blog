@@ -1,7 +1,9 @@
 ---
-date: 2007-10-24T21:39:00+00:00
+date: 2007-10-24T21:39:00.000Z
 title: Custom Armor Configurations in Halo 3
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 In Halo 3 multi-player you can customize your SPARTAN or Elite's armor, with different variations unlocked by various achievements/activities in game (including one that can only be unlocked by being a Bungie employee). [You can find out more about the different variations here](https://halo.wikia.com/wiki/Armor_Permutations), but it turns out that [your profile on Bungie.net](https://www.bungie.net/Stats/Halo3/Default.aspx?player=Festive%20Turkey) knows what choices you've made and displays your current armor configuration on the web site.
 

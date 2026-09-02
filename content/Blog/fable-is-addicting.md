@@ -1,7 +1,9 @@
 ---
-date: 2004-09-30T07:37:00+00:00
+date: 2004-09-30T07:37:00.000Z
 title: Fable is addicting...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Yesterday I started up my first [Fable](https://www.xbox.com/fable) game, 3 hours of my life lost already. Lots of fun though.
 

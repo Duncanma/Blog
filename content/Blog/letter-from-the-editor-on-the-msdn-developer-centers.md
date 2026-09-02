@@ -1,7 +1,9 @@
 ---
-date: 2003-07-23T09:52:00+00:00
+date: 2003-07-23T09:52:00.000Z
 title: '"Letter from the Editor" on the MSDN Developer Centers'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hey folks, I'm not sure if you've seen this section of the new MSDN Developer Centers (<http://msdn.microsoft.com/vbasic/letters>). It is a place where the appropriate MSDN Content Strategist (me for VB, [Kent](https://msdn.microsoft.com/asp.net/letters) for ASP.NET, etc...) gives a little blurb about the content on the site for that period of time... it is a bit bloggish in nature in fact, but with a bit more editorial polish...
 

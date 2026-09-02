@@ -1,7 +1,9 @@
 ---
-date: 2003-12-12T03:53:00+00:00
+date: 2003-12-12T03:53:00.000Z
 title: New Coding 4 Fun Column up on MSDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 The latest 'issue' of my Coding 4 Fun column has been published to MSDN;
 

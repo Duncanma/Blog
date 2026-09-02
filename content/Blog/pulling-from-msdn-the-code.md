@@ -1,7 +1,9 @@
 ---
-date: 2005-03-22T08:26:00+00:00
+date: 2005-03-22T08:26:00.000Z
 title: Pulling from MSDN... the code...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 (see [this post](https://blogs.duncanmackenzie.net/duncanma/archive/2005/03/19/1243.aspx) for an introduction to this topic...)
 

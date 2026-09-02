@@ -1,7 +1,9 @@
 ---
-date: 2003-05-01T11:29:00+00:00
+date: 2003-05-01T11:29:00.000Z
 title: Leaving Las Vegas
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Tomorrow is my last day here in Vegas, the N+I conference is wrapping up and I'm going to be heading home to Redmond. Overall it was an interesting experience, I've never attended a non-developer focused conference before and it was quite a different type of crowd then I'm used to. The questions at the VS.NET 2003 booth were mostly "What is .... _Visual_ Studio... ?" I'm pretty sure some of the folks who came up to me thought it was some form of graphics editing suite, due to the Visual part of the name. Over the course of the day there were certainly lots of developer questions (some of which were quite in-depth), I just wasn't used to so many non-developers wanting me to explain VS to them...
 

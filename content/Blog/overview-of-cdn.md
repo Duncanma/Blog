@@ -1,15 +1,18 @@
 ---
-date: 2020-02-26T22:25:00-08:00
-title: What is a CDN, how does it work, and should you use one?
+date: 2020-02-27T06:25:00.000Z
+title: 'What is a CDN, how does it work, and should you use one?'
 type: posts
 tags:
-- Web Development
-- CDN
-- Performance
+  - Web Development
+  - CDN
+  - Performance
 images:
-- /images/cdn/without-cdn.png
-description: A page that took 983ms to reach from Frankfurt dropped to 299ms once I put a CDN in front of it — here's what's actually happening behind that.
+  - /images/cdn/without-cdn.png
+description: >-
+  A page that took 983ms to reach from Frankfurt dropped to 299ms once I put a
+  CDN in front of it — here's what's actually happening behind that.
 techfeatured: true
+curated: '2026-09-02'
 ---
 I've been working on websites at my day job and on my own for many years now, and in that time I have ended up explaining CDNs (Content Delivery Networks) to a lot of people. I think most people have some idea of what they are (and many probably know them really well), but for anyone who doesn't, or who might want a tiny refresher, I thought I would go through what they are, how they work and how to decide if they would work for your situation.
 

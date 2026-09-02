@@ -1,9 +1,11 @@
 ---
-date: 2005-06-27T07:29:00+00:00
+date: 2005-06-27T07:29:00.000Z
 title: Berry picking....
 type: posts
 tags:
- - personal
+  - personal
+historical: true
+curated: '2026-09-02'
 ---
 It was a very enjoyable summer weekend for our little family, including a trip today to pick raspberries (tons of fun, easy to pick...) and strawberries (very tasty... but much less enjoyable to be squatting down in the tiny little space between the rows trying to dig through the little bushes looking for ripe strawberries...) out at a local place called [Remlinger Farms](https://www.RemlingerFarms.com).
 

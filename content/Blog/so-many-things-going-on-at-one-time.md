@@ -1,7 +1,9 @@
 ---
-date: 2003-10-10T07:34:00+00:00
+date: 2003-10-10T07:34:00.000Z
 title: So many things going on at one time
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 It has been one of those days... so much content being worked on, almost none of it visible on MSDN yet... but it is coming!
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-07-29T01:20:00+00:00
+date: 2004-07-29T01:20:00.000Z
 title: New Coding 4 Fun Article up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Add a Quick Poll to Your Web Site](https://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx?pull=/library/en-us/dncodefun/html/code4fun08032004.asp)
 

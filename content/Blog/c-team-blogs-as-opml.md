@@ -1,10 +1,12 @@
 ---
-date: 2004-03-09T11:15:00+00:00
+date: 2004-03-09T11:15:00.000Z
 title: C# Team Blogs as OPML
 type: posts
 tags:
- - RSS
- - Microsoft
+  - RSS
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 [Gus Perez](https://blogs.msdn.com/gusperez/) has been maintaining [an up-to-date list of C# team blogs](https://blogs.msdn.com/gusperez/archive/2004/03/07/85698.aspx), but after carefully duplicating his categorization in [SharpReader](https://www.sharpreader.net), I thought I would try putting it up as an OPML file...
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-02-27T03:04:00+00:00
+date: 2003-02-27T03:04:00.000Z
 title: Interesting phrase...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Just heard an advertisement on the radio for the [Foo Fighters ](https://www.foofighters.com)and it contained this quote "The world's best American rock band..."</span>
 

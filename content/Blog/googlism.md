@@ -1,7 +1,9 @@
 ---
-date: 2003-02-27T04:21:00+00:00
+date: 2003-02-27T04:21:00.000Z
 title: Googlism
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 This isn't all that new, but I hadn't [tried it on myself](https://www.googlism.com/index.htm?ism=Duncan+Mackenzie&type=1) before;
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-08-12T12:43:00+00:00
+date: 2004-08-12T12:43:00.000Z
 title: Another article preview up... this one is a content rotator for ASP.NET
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 As I discussed in [an earlier post](https://weblogs.asp.net/duncanma/archive/2004/08/05/209654.aspx), I wanted to know if people found preview articles useful... and at least a few people said they did, so here is another one....
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-03-12T21:09:00+00:00
-title: IsNumeric, Microsoft.VisualBasic.dll, etc.
+date: 2003-03-12T21:09:00.000Z
+title: 'IsNumeric, Microsoft.VisualBasic.dll, etc.'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Sean and Scott's
 

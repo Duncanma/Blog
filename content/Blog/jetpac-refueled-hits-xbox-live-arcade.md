@@ -1,7 +1,9 @@
 ---
-date: 2007-03-23T18:55:00+00:00
+date: 2007-03-23T18:55:00.000Z
 title: Jetpac Refueled hits Xbox Live Arcade
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 On Wednesday, a new [Xbox Live Arcade game](https://www.xbox.com/en-US/games/livearcadexbox360/default.htm) from Rare will be hitting the Marketplace... Jetpac Refueled. I have to say, from the moment we started shipping retro games onto the Xbox 360, this is what I've been waiting for.
 

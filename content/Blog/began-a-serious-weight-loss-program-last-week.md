@@ -1,7 +1,9 @@
 ---
-date: 2006-10-02T19:20:00+00:00
+date: 2006-10-02T19:20:00.000Z
 title: Began a serious weight-loss program last week
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've [talked about losing weight before](https://www.duncanmackenzie.net/blog/Feeling-like-it-is-time-to-get-rid-of-the-flab/), and I managed to lose a fair bit via the South Beach diet about a year and a half ago, but my weight recently started creeping up again and I decided to do something 'big' to get on the right track (which is something I've [considered before](https://www.duncanmackenzie.net/blog/Back-in-Redmond/)). So, on Tuesday of last week I had my official first appointment with a dietitian as part of the 20/20 program at the Pro Club, which included a weigh-in 🙂 .
 

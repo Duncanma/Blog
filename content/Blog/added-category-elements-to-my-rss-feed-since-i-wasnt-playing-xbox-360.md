@@ -1,12 +1,14 @@
 ---
-date: 2005-11-26T11:03:00+00:00
-title: Added category elements to my RSS feed, since I wasn't playing Xbox 360
+date: 2005-11-26T11:03:00.000Z
+title: 'Added category elements to my RSS feed, since I wasn''t playing Xbox 360'
 type: posts
 tags:
- - Blogging
- - Web Development
- - RSS
- - CMS
+  - Blogging
+  - Web Development
+  - RSS
+  - CMS
+historical: true
+curated: '2026-09-02'
 ---
 About a year or so back I added `<category>` elements to the MSDN RSS feeds, which seemed like an obvious addition, but it wasn't until recently that I noticed that my own feeds (coming out of my .Text 0.95 based blogging engine) didn't have categories specified in them at all. Not in [the main feed](https://blogs.duncanmackenzie.net/MainFeed.aspx) or in the [per-blog feeds](https://blogs.duncanmackenzie.net/duncanma/rss.aspx)...
 

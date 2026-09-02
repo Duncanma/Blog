@@ -1,7 +1,9 @@
 ---
-date: 2003-05-11T09:17:00+00:00
+date: 2003-05-11T09:17:00.000Z
 title: Very confusing discussions...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Some](https://dotnetweblogs.com/rosherove/posts/6550.aspx) [folks](https://www.dotnetweblogs.com/datagridgirl/posts/6821.aspx) have been discussing [the idea of paying for technical work](https://chris.pirillo.com/archives/2003_05.html#000929)... well, they are actually talking about paying for technical work done over email... but what is the difference?
 

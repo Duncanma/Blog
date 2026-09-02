@@ -1,7 +1,9 @@
 ---
-date: 2007-05-11T19:58:00+00:00
+date: 2007-05-11T19:58:00.000Z
 title: Connect your Xbox 360 Gamertag to Twitter
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 **UPDATE: I've [updated this application](https://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/) since the original version, addressing most of the 'known issues' listed below**
 

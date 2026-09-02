@@ -1,7 +1,9 @@
 ---
-date: 2005-10-20T18:03:00+00:00
-title: Ok, so I'm doing work for Murach's marketing dept... but it is free content!
+date: 2005-10-20T18:03:00.000Z
+title: 'Ok, so I''m doing work for Murach''s marketing dept... but it is free content!'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Free chapter on master pages from new ASP.NET 2.0 upgrade guide
 

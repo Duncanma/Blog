@@ -1,13 +1,16 @@
 ---
-date: 2021-03-14T09:31:30-07:00
+date: 2021-03-14T16:31:30.000Z
 title: Updating my blog for SEO
 type: posts
 tags:
- - SEO
- - Web Development
- - Coding
- - Hugo
-description: Turns out my own meta descriptions weren't showing up in search at all — a theme bug I found (and fixed) while cleaning up noindex tags and my sitemap.
+  - SEO
+  - Web Development
+  - Coding
+  - Hugo
+description: >-
+  Turns out my own meta descriptions weren't showing up in search at all — a
+  theme bug I found (and fixed) while cleaning up noindex tags and my sitemap.
+curated: '2026-09-02'
 ---
 In [my recent article on assessing your site for SEO (Search Engine
 Optimization)](/blog/assessing-your-site-for-seo/), I mentioned a few

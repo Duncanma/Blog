@@ -1,7 +1,9 @@
 ---
-date: 2004-08-06T09:23:00+00:00
+date: 2004-08-06T09:23:00.000Z
 title: Previews of articles...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 A couple of weeks ago I posted [my "Quick Poll" Coding 4 Fun column](https://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dncodefun/html/code4fun08032004.asp) in its unedited form... was that useful?
 

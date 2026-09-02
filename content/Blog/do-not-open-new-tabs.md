@@ -1,13 +1,17 @@
 ---
-date: 2021-02-02T16:30:06-08:00
+date: 2021-02-03T00:30:06.000Z
 title: Don't code links to open in a new tab or window.
 type: posts
 tags:
- - Web Development
- - Accessibility
- - DevTo
+  - Web Development
+  - Accessibility
+  - DevTo
 techfeatured: true
-description: There are legit reasons to open a link in a new tab, like not losing your progress after filling in 20 fields of a loan form — but you must warn the user first.
+description: >-
+  There are legit reasons to open a link in a new tab, like not losing your
+  progress after filling in 20 fields of a loan form — but you must warn the
+  user first.
+curated: '2026-09-02'
 ---
 
 This seems to come up every few days, so I thought I would put yet

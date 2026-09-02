@@ -1,13 +1,17 @@
 ---
-date: 2020-05-17T16:22:00-08:00
+date: 2020-05-18T00:22:00.000Z
 title: How locale detection and fallback works on Docs
 type: posts
 tags:
-- Docs
-- Microsoft
-- Localization
-description: Docs.microsoft.com serves many languages — here's how requests without a locale in the URL get redirected through discovery and fallback.
+  - Docs
+  - Microsoft
+  - Localization
+description: >-
+  Docs.microsoft.com serves many languages — here's how requests without a
+  locale in the URL get redirected through discovery and fallback.
 docsfeatured: false
+historical: true
+curated: '2026-09-02'
 ---
 A few explanations first:
 

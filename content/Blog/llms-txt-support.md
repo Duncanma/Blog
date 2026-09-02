@@ -1,15 +1,19 @@
 ---
-date: 2025-02-09T17:43:45-08:00
+date: 2025-02-10T01:43:45.000Z
 title: Adding llms.txt & markdown output to your Hugo site
 type: posts
 featured: true
 tags:
- - Web Development
- - Coding
- - Hugo
- - Azure
-description: I added an llms.txt file, markdown versions of every page, and a 'copy as markdown' button to my Hugo site, so LLMs can actually parse my content correctly.
+  - Web Development
+  - Coding
+  - Hugo
+  - Azure
+description: >-
+  I added an llms.txt file, markdown versions of every page, and a 'copy as
+  markdown' button to my Hugo site, so LLMs can actually parse my content
+  correctly.
 blueskyPostID: 3li3b4dgzb22d
+curated: '2026-09-02'
 ---
 
 If you've been online at all for the past year, you will have been hearing about LLMs (Large Language Models) and AI assistants non-stop. I'm not going to be talking about those systems or products here, but in the end, they are all relying on being able to pull content from the web, your content for example. If you or your company want your content to be accurately ingested by these systems, then one possible solution is to follow the proposal on [the LLMs.txt site](https://llmstxt.org/). This proposal describes how to make your content easier to be consumed by various LLMs, by adding two features to your site.

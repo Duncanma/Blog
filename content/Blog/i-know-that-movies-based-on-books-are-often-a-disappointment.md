@@ -1,7 +1,9 @@
 ---
-date: 2004-04-29T18:36:00+00:00
+date: 2004-04-29T18:36:00.000Z
 title: I know that movies based on books are often a disappointment...
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 In many ways, I'm ok with that; it isn't like they took away the book when they made the movie...
 

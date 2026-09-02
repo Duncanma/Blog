@@ -1,7 +1,9 @@
 ---
-date: 2004-06-16T00:55:00+00:00
+date: 2004-06-16T00:55:00.000Z
 title: I just like to make things complicated...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 When I started out to build a voting control, I drew up a set of requirements that led to a 5+ table system... some form of UI for creating/editing polls... plus the control itself. Then, when I had SQL running behind my web site, I wanted something up fast.... so I just grabbed a simple voting control from [www.asp.net](https://www.asp.net/) (by Rob Howard). The simplicity of this control (and its database structure) is a big plus, especially for me ... it is a great place to start to play around with ASP.NET.
 

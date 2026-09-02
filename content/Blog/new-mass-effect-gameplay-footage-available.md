@@ -1,7 +1,9 @@
 ---
-date: 2006-09-14T17:15:00+00:00
+date: 2006-09-14T17:15:00.000Z
 title: New Mass Effect gameplay footage available
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 (also available via the Xbox Live marketplace on your 360)
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-02-21T10:34:00+00:00
+date: 2004-02-21T10:34:00.000Z
 title: Broderbund Software... and C#
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 This is so cool, even if you might take it as mostly marketing (sorry in advance)...
 

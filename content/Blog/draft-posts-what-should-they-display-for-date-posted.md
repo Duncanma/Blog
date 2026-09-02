@@ -1,7 +1,8 @@
 ---
-date: 2004-06-08T07:42:00+00:00
+date: 2004-06-08T07:42:00.000Z
 title: Draft posts... what should they display for 'date posted'?
 type: posts
+curated: '2026-09-01'
 ---
 I've been using unpublished posts as a way to create planned blog posts for later... then, when I have a chance I go back and finish them up and mark them as 'Published'... but I just noticed that when I do that, the published date is the date on which I originally created the unpublished post. I can certainly understand why that is, but I'm curious as what everyone else expects?
 

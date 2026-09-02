@@ -1,9 +1,11 @@
 ---
-date: 2008-06-08T00:31:00+00:00
-title: At home, recovering from surgery
+date: 2008-06-08T00:31:00.000Z
+title: 'At home, recovering from surgery'
 type: posts
 tags:
- - Personal
+  - Personal
+historical: true
+curated: '2026-09-02'
 ---
 It has been a crazy past few months for my health, or at least the appearance of my health.
 

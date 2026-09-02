@@ -1,14 +1,17 @@
 ---
-date: 2025-05-30T17:16:39-07:00
+date: 2025-05-31T00:16:39.000Z
 title: Adding Bluesky likes to my Hugo based blog posts
 type: posts
 tags:
- - Web Development
- - Bluesky
- - Hugo
-description: Using Salma Alam-Naylor's code, I added a feature onto my Hugo site to display Bluesky 'likes' on my blog posts.
+  - Web Development
+  - Bluesky
+  - Hugo
+description: >-
+  Using Salma Alam-Naylor's code, I added a feature onto my Hugo site to display
+  Bluesky 'likes' on my blog posts.
 featured: true
 blueskyPostID: 3lqgifp5sj22s
+curated: '2026-09-02'
 ---
 
 I read [Salma Alam-Naylor’s post about how she added a cool feature to her blog posts]( https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/) and decided to replicate it exactly onto my Hugo site. This feature displays a list of Bluesky accounts that liked a specific post (her public post linking to the article), right on the page.

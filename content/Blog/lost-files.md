@@ -1,7 +1,9 @@
 ---
-date: 2003-11-11T21:57:00+00:00
+date: 2003-11-11T21:57:00.000Z
 title: Lost Files
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Julia appears to have lost something](https://weblogs.asp.net/jlerman/posts/36951.aspx)
 

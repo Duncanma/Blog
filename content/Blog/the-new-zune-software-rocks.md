@@ -1,7 +1,9 @@
 ---
-date: 2007-11-19T08:31:00+00:00
+date: 2007-11-19T08:31:00.000Z
 title: The new Zune software rocks!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Great UI, podcast support, music video downloads... and a firmware that works on my 'original' Zune.
 

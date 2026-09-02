@@ -1,7 +1,9 @@
 ---
-date: 2004-05-18T09:29:00+00:00
+date: 2004-05-18T09:29:00.000Z
 title: 101 VB.NET 2003 Videos Released onto MSDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Recently we launched [a series of videos about VB.NET onto the Visual Basic Developer Center](https://msdn.microsoft.com/vbasic/atthemovies), releasing them only a few at a time... but now we've finished that process and all 101 of the videos are available on the site.
 

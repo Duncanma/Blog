@@ -1,7 +1,9 @@
 ---
-date: 2007-06-25T22:50:00+00:00
+date: 2007-06-25T22:50:00.000Z
 title: Ratatouille preview article up on Xbox.com
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [My latest kid-focused game article, which happens to be yet another movie tie-in, is about the upcoming Pixar film Ratatouille](https://www.xbox.com/en-US/community/personality/xboxdad/2007/0620-ratatouille.htm). Cool game, very nice looking... and it has entire missions around making recipes by spilling ingredients... just like how I cook at home!
 

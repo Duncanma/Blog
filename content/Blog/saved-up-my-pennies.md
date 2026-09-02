@@ -1,7 +1,9 @@
 ---
-date: 2005-10-12T05:08:00+00:00
+date: 2005-10-12T05:08:00.000Z
 title: Saved up my pennies...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 ![](https://www.xbox.com/NR/rdonlyres/4CDF4F45-8710-45DE-B40E-FC016CD2EF3D/0/logoxbox360.jpg)
 

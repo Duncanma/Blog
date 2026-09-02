@@ -1,16 +1,19 @@
 ---
-date: 2024-05-11T13:25:44-07:00
+date: 2024-05-11T20:25:44.000Z
 title: Adding sharing to my posts via ShareOpenly
 type: posts
 tags:
- - Web Development
- - Coding
- - Hugo
- - ShareOpenly
+  - Web Development
+  - Coding
+  - Hugo
+  - ShareOpenly
 images:
- - /images/shareopenly-pick-destination400x630.png
-description: Rather than lock share links to one network, ShareOpenly gives readers a picker to send a post to Mastodon, Bluesky, or wherever they hang out.
+  - /images/shareopenly-pick-destination400x630.png
+description: >-
+  Rather than lock share links to one network, ShareOpenly gives readers a
+  picker to send a post to Mastodon, Bluesky, or wherever they hang out.
 blueskyPostID: 3ksai7cfh7c2u
+curated: '2026-09-02'
 ---
 
 Just a quick post introducing Ben Werdmuller's ShareOpenly tool, and showing how I added it to my site. I saw [Ben post about this on Bluesky](https://bsky.app/profile/werd.io/post/3ks5cng4bwz2z), read [his great intro article about it](https://werd.io/2024/share-openly), and decided I wanted to add it to my site.

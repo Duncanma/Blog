@@ -1,7 +1,9 @@
 ---
-date: 2007-04-26T21:56:00+00:00
+date: 2007-04-26T21:56:00.000Z
 title: Next Xbox Dad column (TMNT coverage) is up
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 My 2nd column is up on Xbox.com, [covering the recent Teenage Mutant Ninja Turtles game](https://www.xbox.com/en-US/community/personality/xboxdad/20070426-tmnt.htm).
 

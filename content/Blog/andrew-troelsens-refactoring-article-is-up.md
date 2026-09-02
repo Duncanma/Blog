@@ -1,7 +1,9 @@
 ---
-date: 2004-07-10T10:03:00+00:00
+date: 2004-07-10T10:03:00.000Z
 title: Andrew Troelsen's Refactoring Article is up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

@@ -1,7 +1,9 @@
 ---
-date: 2005-12-04T10:09:00+00:00
-title: Finished "Knife of Dreams", with a bit of sadness as usual
+date: 2005-12-04T10:09:00.000Z
+title: 'Finished "Knife of Dreams", with a bit of sadness as usual'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Don't misunderstand, I enjoyed [the book](https://blogs.duncanmackenzie.net/duncanma/archive/2005/10/26/3118.aspx)... but just like watching an episode of your favorite TV show and knowing that it will be another week until you can see another (or watching the Pegasus episode of Battlestar Galactica, knowing that it will be **months** before you see the conclusion of that story), I'm always sad to see it end.[<img alt="Link to info about the book Knife of Time" src="http://images.amazon.com/images/P/0312873077.01._AA_SCMZZZZZZZ_.jpg" align="left" border="0" />](https://www.amazon.com/exec/obidos/redirect?path=ASIN/0312873077&link_code=as2&camp=1789&tag=duncanmackenz-20&creative=9325)
 

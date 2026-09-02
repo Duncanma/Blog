@@ -1,7 +1,11 @@
 ---
-date: 2005-04-12T16:14:00+00:00
-title: Windows Media Player and Visual Studio .NET.... anyone else notice any interaction?
+date: 2005-04-12T16:14:00.000Z
+title: >-
+  Windows Media Player and Visual Studio .NET.... anyone else notice any
+  interaction?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Ok, this may seem really odd, but I swear it happened to me... 🙂
 

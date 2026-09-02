@@ -1,7 +1,9 @@
 ---
-date: 2006-07-14T22:09:00+00:00
+date: 2006-07-14T22:09:00.000Z
 title: LCD Screen plus TabletPC == electronic menu
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Spotted today at lunch...
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-10-31T11:54:00+00:00
+date: 2006-10-31T11:54:00.000Z
 title: Xbox 360 Wireless Headset video up
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 As [I mentioned before](https://www.duncanmackenzie.net/blog/wireless-headset-for-the-xbox-360/), I had a chance to chat with the PM for the [Xbox 360 Wireless Headset](https://www.amazon.com/gp/product/B000HZFCZQ?ie=UTF8&tag=duncanmackenz-20&link_code=as3&camp=211189&creative=373489&creativeASIN=B000HZFCZQ) and now [that interview is up on on10.net](https://on10.net/Blogs/duncan/xbox-360-wireless-headset/).
 

@@ -1,7 +1,9 @@
 ---
-date: 2007-06-05T22:07:00+00:00
-title: Yet another Xbox Dad article up, this one on games for the K-6 crowd
+date: 2007-06-05T22:07:00.000Z
+title: 'Yet another Xbox Dad article up, this one on games for the K-6 crowd'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <a title="Xbox Dad" href="http://www.xbox.com/en-US/community/personality/xboxdad/2007/0605-gamingk6.htm">Family Gaming with the K-6 Crowd</a>
 

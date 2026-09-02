@@ -1,7 +1,9 @@
 ---
-date: 2005-02-21T22:24:00+00:00
+date: 2005-02-21T22:24:00.000Z
 title: Update 1 for the XBox Media Center Extender..
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I saw a newsgroup post (by Todd Bowra) that an update was available for my XBox media center extender, but I can't find anything about this on any of the media center sites on [http://www.microsoft.com](https://www.microsoft.com) or xbox.com, so I thought I would spread the word via my blog 🙂
 

@@ -1,7 +1,9 @@
 ---
-date: 2005-02-23T17:40:00+00:00
+date: 2005-02-23T17:40:00.000Z
 title: New VB Content Strategist has started...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 A while ago I moved out of the Content Strategist role and over onto the development team at MSDN, but until this week my position had remained empty! Well, the wait is over, Brad McCabe has joined the illustrious content strategist team at MSDN. No 'official' link to point you to yet, but I'm sure a blog will follow soon!
 

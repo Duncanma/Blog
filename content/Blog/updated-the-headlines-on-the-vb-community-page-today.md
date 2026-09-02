@@ -1,7 +1,9 @@
 ---
-date: 2004-08-03T00:58:00+00:00
+date: 2004-08-03T00:58:00.000Z
 title: Updated the headlines on the VB Community page today...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <http://msdn.microsoft.com/vbasic/community>
 

@@ -1,7 +1,9 @@
 ---
-date: 2007-05-27T09:50:00+00:00
+date: 2007-05-27T09:50:00.000Z
 title: Using the Xbox to Twitter app? Please update your client....
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Ok, ok.... so I should have built-in an auto-update, ClickOnce would have been easy enough.... but anyway.... I've added many features to the [Xbox to Twitter application](https://www.duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/), including support for only updating when the title being played changes, not showing popups and even a preview of what your twitter updates will look like once they are combined with your template.
 

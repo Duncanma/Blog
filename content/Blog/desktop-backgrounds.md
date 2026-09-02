@@ -1,7 +1,9 @@
 ---
-date: 2003-11-19T01:25:00+00:00
+date: 2003-11-19T01:25:00.000Z
 title: Desktop Backgrounds
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'm always looking for nice desktop backgrounds that are tasteful enough to display at work and searching on google (on this particular topic) just doesn't find that many high-quality sites, so I thought I'd post a few of my recent finds;
 

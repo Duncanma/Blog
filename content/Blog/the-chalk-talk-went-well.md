@@ -1,7 +1,9 @@
 ---
-date: 2004-05-28T03:49:00+00:00
+date: 2004-05-28T03:49:00.000Z
 title: The 'Chalk Talk' went well....
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [ <img src="http://www.duncanmackenzie.net/images/anderschalktalk_thumb.jpg" border="0" /> ](https://www.duncanmackenzie.net/images/anderschalktalk.jpg" rel="lightbox[115]" title="The 'Chalk Talk' went well....)
 

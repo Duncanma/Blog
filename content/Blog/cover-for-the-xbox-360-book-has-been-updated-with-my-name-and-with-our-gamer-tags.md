@@ -1,10 +1,14 @@
 ---
-date: 2005-11-19T07:25:00+00:00
-title: Cover for the Xbox 360 book has been updated with my name and with our gamer tags ...
+date: 2005-11-19T07:25:00.000Z
+title: >-
+  Cover for the Xbox 360 book has been updated with my name and with our gamer
+  tags ...
 type: posts
 tags:
- - Writing
- - Xbox
+  - Writing
+  - Xbox
+noindex: true
+curated: '2026-09-02'
 ---
 ![Book Cover, Xbox 360 for Dummies](/images/BookCover.jpg)
 

@@ -1,0 +1,15 @@
+---
+date: 2004-04-08T01:11:00.000Z
+title: Part 6 of Scott Mitchell's series on Data Structures is now live...
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+Check it out [here](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)
+
+> **[Part 6: Efficiently Representing Sets](https://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/datastructures_guide6.asp)**
+
+> Scott Mitchell
+
+> **Summary:** Scott Mitchell discusses data structures for implementing general and disjoint sets. A set is an unordered collection of unique items that can be enumerated and compared to other sets in a variety of ways.

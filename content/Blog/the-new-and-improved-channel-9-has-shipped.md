@@ -1,10 +1,12 @@
 ---
-date: 2008-06-12T06:27:00+00:00
+date: 2008-06-12T06:27:00.000Z
 title: The new and improved Channel 9 has shipped!
 type: posts
 tags:
- - Channel9
- - Microsoft
+  - Channel9
+  - Microsoft
+historical: true
+curated: '2026-09-02'
 ---
 When I joined my current team, it was called the [Channel 9](https://channel9.msdn.com) dev team, because Channel 9 was the big site that they had built and was the center of all of their efforts. You certainly wouldn’t have known that from how we spent the last two years though 🙂
 

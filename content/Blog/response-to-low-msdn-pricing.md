@@ -1,7 +1,9 @@
 ---
-date: 2003-05-21T02:03:00+00:00
+date: 2003-05-21T02:03:00.000Z
 title: Response to low MSDN pricing
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <font face="Verdana,Arial,Helvetica,sans-serif" color="#008080">DonXML was [discussing the various prices he has seen on the web for MSDN subscriptions](https://dotnetweblogs.com/donxml/posts/7289.aspx), and being from [MSDN](https://msdn.microsoft.com/vbasic) I was a little curious. I asked around, and it turns out we have a canned response to this question that you might find helpful (or not).
 

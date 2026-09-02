@@ -1,7 +1,9 @@
 ---
-date: 2005-03-26T10:25:00+00:00
+date: 2005-03-26T10:25:00.000Z
 title: Caterpillars.... yum...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 ![Caterpillar Snacks](/images/DSC01756.JPG)
 The theme at my son's preschool last week was Caterpillars, and it also happened to be his turn to bring the snack (the kids rotate through this task, bring snacks/juice for 16 people)... so my wife went all-out and baked these breadstick-larva creations...

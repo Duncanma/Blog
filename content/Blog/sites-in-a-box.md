@@ -1,7 +1,9 @@
 ---
-date: 2003-03-18T12:31:00+00:00
+date: 2003-03-18T12:31:00.000Z
 title: Sites in a box
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I just read up a bit on the
 

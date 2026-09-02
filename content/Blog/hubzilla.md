@@ -1,7 +1,9 @@
 ---
-date: 2003-03-01T09:33:00+00:00
+date: 2003-03-01T09:33:00.000Z
 title: Hubzilla
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I only have one firewire device, my camcorder, and 2 ports on my machine... but I think I should get [this](https://www.thinkgeek.com/cubegoodies/toys/5b55/) anyway... the eyes light-up when it is connected to your 1394 port!
 

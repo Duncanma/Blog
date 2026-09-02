@@ -1,7 +1,9 @@
 ---
-date: 2003-10-28T22:01:00+00:00
+date: 2003-10-28T22:01:00.000Z
 title: Reading Blogs...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I've been catching up on a few blogs, now that I've **finally** managed to get connected 🙂 ...
 

@@ -1,7 +1,9 @@
 ---
-date: 2005-06-12T06:31:00+00:00
+date: 2005-06-12T06:31:00.000Z
 title: Remembering one of my favorite books from my youth...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 <img src="http://syndetics.com/index.aspx?isbn=079222731X%20(reg.)/SC.GIF&#038;client=kclsp&#038;type=hwk" align="right" alt="Our Universe" width="94" height="94" border="0" />My wife commented tonight that my son (4) was going on at length about which planet was where in the solar system and how if you lived right next to the sun it would be too hot to live, etc... and suggested we get him some books on the planets from the library. This got me to thinking about a book that I used to spend hours and hours reading, I probably read it through cover-to-cover over a hundred times over the years... and a few searches later I found the title and author, Roy A. Gallant, "[Our Universe](https://www.amazon.com/exec/obidos/ASIN/0870443569/duncanmackenz-20)"... but it wasn't until I found a picture of the book's cover that I was sure it was the same one.
 

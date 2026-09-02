@@ -1,7 +1,9 @@
 ---
-date: 2006-09-28T08:10:00+00:00
+date: 2006-09-28T08:10:00.000Z
 title: Some of the 10 crew is going to see MC Chris tomorrow night
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 He's [performing in Seattle](https://elcorazonseattle.com/cgi-bin/showinfo.cgi), so we're going to head down with our cameras and see what we can get on tape (or disk in the case of our newest camera).
 

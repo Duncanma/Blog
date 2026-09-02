@@ -1,7 +1,9 @@
 ---
-date: 2004-01-03T07:55:00+00:00
+date: 2004-01-03T07:55:00.000Z
 title: Digital Media and Media Center Topics
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'm getting back into [my column](https://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx) writing, and I'm looking for topic suggestions... I actually have a long list of ideas already, but I'm always interested in hearing what you folks want to read about!
 

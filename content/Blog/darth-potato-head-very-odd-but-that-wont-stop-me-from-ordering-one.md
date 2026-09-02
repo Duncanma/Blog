@@ -1,7 +1,9 @@
 ---
-date: 2005-01-23T08:18:00+00:00
-title: Darth Potato Head... very odd.. but that won't stop me from ordering one :)
+date: 2005-01-23T08:18:00.000Z
+title: 'Darth Potato Head... very odd.. but that won''t stop me from ordering one :)'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Darth Potato Head](https://rcm-images.amazon.com/images/P/B00061I4U6.01._TZZZZZZZ_)
 

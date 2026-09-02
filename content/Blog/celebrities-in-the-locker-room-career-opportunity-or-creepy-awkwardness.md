@@ -1,7 +1,9 @@
 ---
-date: 2004-06-09T10:37:00+00:00
+date: 2004-06-09T10:37:00.000Z
 title: Celebrities in the locker room... career opportunity or creepy awkwardness?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 As other people have probably mentioned here and there, there is a very nice health club near Microsoft and a membership to that club is one of the options in our benefits plan. Therefore, it isn't all that surprising that most of the folks in the gym at any particular time are Microsoft employees. This can lead to an interesting occurance that has left me wondering (on more than one occasion), what is the 'right' thing to do in this situation?
 

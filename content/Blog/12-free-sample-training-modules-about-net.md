@@ -1,7 +1,9 @@
 ---
-date: 2004-02-20T21:58:00+00:00
+date: 2004-02-20T21:58:00.000Z
 title: 12 free sample training modules about .NET
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Free sample modules available from the following training courses...
 

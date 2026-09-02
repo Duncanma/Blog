@@ -1,10 +1,12 @@
 ---
-date: 2007-11-21T22:16:00+00:00
-title: More Xbox Dad articles, Viva Piñata Party Animals and Xbox Live
+date: 2007-11-21T22:16:00.000Z
+title: 'More Xbox Dad articles, Viva Piñata Party Animals and Xbox Live'
 type: posts
 tags:
- - Xbox
- - Xbox Dad
+  - Xbox
+  - Xbox Dad
+noindex: true
+curated: '2026-09-02'
 ---
 I've obviously been busy, I never even posted a link to these articles here... I've written two new Xbox Dad article in the past few weeks, [one all about Xbox Live](https://www.xbox.com/en-US/community/events/liveis5ive/xboxdad.htm) (to coincide with the [Xbox Live is Five](https://www.xbox.com/en-US/community/events/liveis5ive) event going on) and [one that I wrote this week about Viva Piñata Party Animals](https://www.xbox.com/en-US/community/personality/xboxdad/2007/1121-vivapartyanimals.htm).
 

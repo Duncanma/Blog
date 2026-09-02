@@ -1,7 +1,9 @@
 ---
-date: 2004-04-19T17:53:00+00:00
+date: 2004-04-19T17:53:00.000Z
 title: Upcoming Visual Basic .NET Chats
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out <http://msdn.microsoft.com/chats> for a full listing of upcoming chats, but here are a couple of VB ones that you might be interested in...
 

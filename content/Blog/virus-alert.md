@@ -1,7 +1,9 @@
 ---
-date: 2004-01-28T00:20:00+00:00
+date: 2004-01-28T00:20:00.000Z
 title: Virus Alert
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Ok, you are going to see this a lot today, but my posts go onto the C# and VB home pages, so here goes;
 

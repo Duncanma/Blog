@@ -1,7 +1,9 @@
 ---
-date: 2004-09-20T16:31:00+00:00
+date: 2004-09-20T16:31:00.000Z
 title: Good Guys and Bad Guys
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Everything comes down to that one of those two groups to my son, and he seems to really like that idea (wouldn't we all like the world to be that clearly defined). Today he is a bit sick and my wife sent me this message;
 

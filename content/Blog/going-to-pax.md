@@ -1,7 +1,9 @@
 ---
-date: 2006-08-24T21:28:00+00:00
+date: 2006-08-24T21:28:00.000Z
 title: Going to PAX?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I'll be hanging around outside a bit tonight, to check on any folks who are that excited to be there already, and I'll be around after 2pm tomorrow... a lot of Saturday... some of Sunday... in general, I'll be there 🙂
 

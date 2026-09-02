@@ -1,7 +1,9 @@
 ---
-date: 2006-07-13T08:31:00+00:00
+date: 2006-07-13T08:31:00.000Z
 title: Into comics but also like books with more words?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I'm a big comic book fan, or at least I was. Now I generally pick up a graphic novel or a compilation every once in awhile (just read this and this, great writing and visuals) mostly Marvel although the Watchmen and some of the Dark Knight stuff can't be passed up... Recently though, my wife read a book and strongly recommended it to me: [The Amazing Adventures of Kavalier & Clay](https://www.amazon.com/exec/obidos/ASIN/0312282990/duncanmackenz-20?creative=0&#038;camp=0&#038;adid=0KVC8QVCMVYCQ77JCQ76&#038;link_code=as1) by Michael Chabon (also the author of Wonder Boys, Summerland and more)
 

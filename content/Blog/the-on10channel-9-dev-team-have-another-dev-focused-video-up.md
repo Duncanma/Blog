@@ -1,7 +1,9 @@
 ---
-date: 2006-08-16T18:38:00+00:00
+date: 2006-08-16T18:38:00.000Z
 title: The on10/Channel 9 Dev team have another dev focused video up
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I even got to be the 'preview' image! [Check this out](https://channel9.msdn.com/showpost.aspx?postid=226369) to hear a bit more about our design and implementation of on10.net, and for some more info on our plans around on10.net going forward and for moving Channel 9 on to this new code base.
 

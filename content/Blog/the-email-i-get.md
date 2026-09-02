@@ -1,9 +1,10 @@
 ---
-date: 2004-08-23T11:53:00+00:00
+date: 2004-08-23T11:53:00.000Z
 title: The email I get...
 type: posts
 tags:
- - Coding
+  - Coding
+curated: '2026-09-02'
 ---
 Every day I get from 1 to 10 emails asking me various VB questions... some I answer by pointing to a link, some by providing code, and sometimes I just point people to the newsgroups or forums that exist for this type of question... but this time I thought I'd just post the question and answer into my blog ...
 

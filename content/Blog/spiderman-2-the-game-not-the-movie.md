@@ -1,7 +1,9 @@
 ---
-date: 2004-06-30T20:00:00+00:00
-title: Spiderman 2... the game, not the movie...
+date: 2004-06-30T20:00:00.000Z
+title: 'Spiderman 2... the game, not the movie...'
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 I had been planning to go to Spiderman 2 last night at 12:01 am... but I decided to skip it instead... so I went out during the day and spent my Father's Day gift (a gift certificate for Best Buy... my wife made a great choice) on [a wireless xbox controller](https://www.logitech.com/index.cfm/products/details/US/EN,CRID=1581,CONTENTID=6110) from Logitech and the new [Spiderman 2 game](https://www.xbox.com/en-us/spiderman2/bethehero.htm).
 

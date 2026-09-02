@@ -1,7 +1,9 @@
 ---
-date: 2003-03-18T12:24:00+00:00
+date: 2003-03-18T12:24:00.000Z
 title: Joel's here!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [
 

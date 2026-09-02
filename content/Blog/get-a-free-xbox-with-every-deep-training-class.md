@@ -1,7 +1,9 @@
 ---
-date: 2004-01-14T23:10:00+00:00
+date: 2004-01-14T23:10:00.000Z
 title: Get a Free Xbox with Every Deep Training Class
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I just saw this in a recent MSDN flash and thought it was worth mentioning...
 

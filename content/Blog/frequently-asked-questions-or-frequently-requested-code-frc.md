@@ -1,7 +1,9 @@
 ---
-date: 2004-03-04T10:53:00+00:00
-title: Frequently Asked Questions, or Frequently Requested Code (FRC?)
+date: 2004-03-04T10:53:00.000Z
+title: 'Frequently Asked Questions, or Frequently Requested Code (FRC?)'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hey folks.... I've been thinking (dangerous, I know) and I've decided that you need to see **more code**. This might mean more code in this blog, more on [the site](https://msdn.microsoft.com/vbasic), more pointed to that lives on [other sites](https://www.codeproject.com).... whatever, just more code in the end. I'm looking for topics though, what do you see as the most common topics that need code snippets? What comes up again and again when you are on the newsgroups and on the web forums out there?
 

@@ -1,7 +1,9 @@
 ---
-date: 2007-03-07T19:06:00+00:00
+date: 2007-03-07T19:06:00.000Z
 title: Capturing 360 video with AV input to a DV camera
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I captured some footage of [Viva Piñata](https://on10.net/Blogs/erik/viva-pinata-help-cheats-info-wiki/) to test the quality of capturing the analog video out from the 360 into a miniDV camera... worked out pretty good I think.
 

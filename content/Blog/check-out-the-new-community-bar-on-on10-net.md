@@ -1,7 +1,9 @@
 ---
-date: 2006-11-29T10:15:00+00:00
+date: 2006-11-29T10:15:00.000Z
 title: Check out the new Community Bar on on10.net
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 One of my jobs over the past couple of weeks has been to build a javascript based 'toolbar' that could run across the top of on10.net and show folks headlines aggregated from a variety of Microsoft Community sites. So, along with a bunch of help from [Adam](https://www.adamkinney.com) and [Erik](https://weblogs.asp.net/eporter/), I managed to get it finished and deployed today. [You can see it on top of the page on 10](https://on10.net)
 

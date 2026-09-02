@@ -1,7 +1,9 @@
 ---
-date: 2004-10-14T07:55:00+00:00
+date: 2004-10-14T07:55:00.000Z
 title: I'm leaving the MSDN Content Team...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Recently I transitioned the C# Content Strategist role over to [Frank Redmond](https://blogs.msdn.com/frankred), but that was only the first of several changes for me at MSDN. Today, [my boss made the rest of the changes public](https://weblogs.asp.net/mpowell/archive/2004/10/13/241982.aspx), so now I can talk about it 🙂
 

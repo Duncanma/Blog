@@ -1,11 +1,13 @@
 ---
-date: 2003-08-12T11:20:00+00:00
+date: 2003-08-12T11:20:00.000Z
 title: Finally got back to the article
 type: posts
 tags:
- - RSS
- - Coding
- - Microsoft
+  - RSS
+  - Coding
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 Thanks to everyone who emailed me and offered to help... but the problem was time, not technical... despite my joke about working on the cool stuff first, a ton of high-priority stuff has made me weeks late on my article!
 

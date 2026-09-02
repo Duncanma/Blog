@@ -1,7 +1,9 @@
 ---
-date: 2005-10-26T04:57:00+00:00
+date: 2005-10-26T04:57:00.000Z
 title: Have you heard about SoloSub?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I was considering adding one (or more) of the many aggregator-buttons (subscribe to this feed in newsgator, add this feed to your MSN start page, etc.) when I found this, one button that handles all of the most popular aggregators through a single link.
 

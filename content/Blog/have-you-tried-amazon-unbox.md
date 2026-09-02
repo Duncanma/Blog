@@ -1,7 +1,9 @@
 ---
-date: 2007-03-21T18:48:00+00:00
+date: 2007-03-21T18:48:00.000Z
 title: Have you tried Amazon Unbox?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I was interested, and I guess I still am, but I'm not sure yet...
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-07-15T23:22:00+00:00
+date: 2004-07-15T23:22:00.000Z
 title: Cool Quote from the "My" chat going on right now...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <dir>
    <font size="2">

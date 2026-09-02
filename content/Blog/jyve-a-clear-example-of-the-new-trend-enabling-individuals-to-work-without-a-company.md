@@ -1,7 +1,11 @@
 ---
-date: 2006-06-12T02:06:00+00:00
-title: Jyve, a clear example of the new trend enabling individuals to work without a company
+date: 2006-06-12T02:06:00.000Z
+title: >-
+  Jyve, a clear example of the new trend enabling individuals to work without a
+  company
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've been thinking lately that blogging, podcasting and video blogging (vlogging?) show how individuals are able to create content so easily that the wave of independent content producers are sometimes more powerful than the large organizations they are competing with. This is not a new thought, but what I saw today certainly made me think it again.
 

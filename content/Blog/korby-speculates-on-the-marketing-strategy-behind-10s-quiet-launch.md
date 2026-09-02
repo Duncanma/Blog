@@ -1,7 +1,9 @@
 ---
-date: 2006-04-01T05:50:00+00:00
+date: 2006-04-01T05:50:00.000Z
 title: Korby speculates on the marketing strategy behind 10's quiet launch
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Personally, I always hated it when people in various product groups at Microsoft would ask me to blog about a specific launch or event... because if I decided to do it, my blog post would go up into a sea of similar posts all appearing within a few hours of each other on blogs.msdn.com. How does that make you, the reader, feel? Like you are having information pushed at you through a channel that is normally about technical matters. Now, if one blogger does that, that seems fine... they are involved in the product or event and they are excited about it... why shouldn't they blog about it? But when 50 people do it, you can expect that someone behind the scenes decided that the power of blogs was too cheap and easy not to try and use it to promote their wares.
 

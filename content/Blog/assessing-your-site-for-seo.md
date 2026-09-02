@@ -1,14 +1,17 @@
 ---
-date: 2021-02-03T16:57:56-08:00
+date: 2021-02-04T00:57:56.000Z
 title: Assessing your site for Search Engine Optimization (SEO)
 type: posts
 tags:
- - Web Development
- - Coding
- - Self-Assessment
- - SEO
-description: Second in my self-assessment series — a step-by-step walkthrough of checking your site's SEO fundamentals using free tools like Google Search Console.
+  - Web Development
+  - Coding
+  - Self-Assessment
+  - SEO
+description: >-
+  Second in my self-assessment series — a step-by-step walkthrough of checking
+  your site's SEO fundamentals using free tools like Google Search Console.
 featured: true
+curated: '2026-09-02'
 ---
 
 I mentioned in another post that I'm open to doing site assessments for

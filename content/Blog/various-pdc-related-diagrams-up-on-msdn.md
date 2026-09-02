@@ -1,7 +1,9 @@
 ---
-date: 2003-11-06T12:56:00+00:00
+date: 2003-11-06T12:56:00.000Z
 title: Various PDC Related Diagrams Up on MSDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Brad Abrams already mentioned these, but we are going to be linking to them from MSDN soon so I thought I would give out the microsoft.com URLs for these 2 images (one in jpg and PDF format);
 

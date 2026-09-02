@@ -1,7 +1,9 @@
 ---
-date: 2006-09-12T23:22:00+00:00
+date: 2006-09-12T23:22:00.000Z
 title: YouTube-ish site from MSN up in beta
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 As someone who works on [a video based Microsoft site](https://on10.net), you'd think I would have already found this... but I had no idea it was out... description from the site itself:
 

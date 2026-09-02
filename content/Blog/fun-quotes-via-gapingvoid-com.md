@@ -1,7 +1,9 @@
 ---
-date: 2005-02-02T17:00:00+00:00
+date: 2005-02-02T17:00:00.000Z
 title: Fun quotes via GapingVoid.com
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 In the comments of [this post](https://www.gapingvoid.com/Moveable_Type/archives/001304.html);
 

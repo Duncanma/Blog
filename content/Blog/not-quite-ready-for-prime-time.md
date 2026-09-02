@@ -1,7 +1,9 @@
 ---
-date: 2003-03-13T22:16:00+00:00
+date: 2003-03-13T22:16:00.000Z
 title: Not quite ready for prime-time
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I have a lot of code hanging around, and the techniques in that code would likely help people who are getting started with .NET, but I haven't had to time to "polish" it up for public release... 
 

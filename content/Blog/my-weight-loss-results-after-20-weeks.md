@@ -1,7 +1,9 @@
 ---
-date: 2007-03-28T11:44:00+00:00
+date: 2007-03-28T11:44:00.000Z
 title: My weight loss results after 20 weeks
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 In September of last year I signed up for [the 20/20 program at the Pro Club](https://www.proclub.com/Home/MedicalWellness/2020Lifestyles/tabid/488/Default.aspx), a 25 week weight-loss program that includes personal training, dietitian appointments and even group therapy (yay!). Well, I'm pretty much wrapped up on the program, and a few weeks ago they had me in to take measurements and a photo... they took a photo at the beginning as well, so we end up with the classic before and after comparision.
 

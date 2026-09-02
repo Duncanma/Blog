@@ -1,7 +1,9 @@
 ---
-date: 2004-05-13T11:55:00+00:00
+date: 2004-05-13T11:55:00.000Z
 title: Enabling/Disabling AutoRun from your .NET application...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I answer quite a few questions on the forums on [GotDotNet](https://www.gotdotnet.com/), and sometimes those answers are interesting enough (in my opinion) to be exposed to a larger audience.... Coding [this particular one](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=220170&Page=1#222216) caused [Brian Johnson](https://blogs.msdn.com/brianjo) to say... "cool", so it seems worth posting about here 🙂
 

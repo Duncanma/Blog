@@ -1,12 +1,15 @@
 ---
-date: 2023-12-09T10:44:59-08:00
+date: 2023-12-09T18:44:59.000Z
 title: You probably don't need nofollow
 type: posts
 tags:
-- SEO
-- Web Development
-description: Web pages often add noindex,nofollow when they just meant noindex. Using nofollow incorrectly could prevent proper discovery of your pages by crawlers.
+  - SEO
+  - Web Development
+description: >-
+  Web pages often add noindex,nofollow when they just meant noindex. Using
+  nofollow incorrectly could prevent proper discovery of your pages by crawlers.
 featured: true
+curated: '2026-09-02'
 ---
 
 The quick summary of this guidance is, don’t use `noindex,nofollow` when you just mean `noindex`.

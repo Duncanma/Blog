@@ -1,7 +1,9 @@
 ---
-date: 2003-11-22T01:50:00+00:00
+date: 2003-11-22T01:50:00.000Z
 title: Hands On Labs
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Puppy Luppy just commented:
 

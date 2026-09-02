@@ -1,6 +1,8 @@
 ---
-date: 2004-02-19T20:42:00+00:00
-title: Joel's doing a webcast (well, 2 actually)
+date: 2004-02-19T20:42:00.000Z
+title: 'Joel''s doing a webcast (well, 2 actually)'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Joel Semeniuk](https://weblogs.asp.net/Jsemeniuk/), (my former roommate, co-founder of my first software development company, and now a co-founder of [Imaginets](https://www.Imaginets.com)), is doing [a security webcast for MSDN](https://msdn.microsoft.com/security/understanding/webcasts/)... something about 'threat modeling' or 'model threatening', I'm really not sure which, but I'm sure it will be entertaining either way.

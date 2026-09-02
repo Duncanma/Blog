@@ -1,7 +1,9 @@
 ---
-date: 2003-10-27T19:48:00+00:00
+date: 2003-10-27T19:48:00.000Z
 title: Happy to be in LA
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Arrived last night, which is sooner than some will be showing up, after flying to Palm Springs and driving up... which worked out quite well. A few moments after arriving, and getting hooked up to the Internet... I put up [this letter](https://msdn.microsoft.com/events/pdc/letter.aspx) onto the PDC site, just giving a few helpful bits of info for those of you who arrived late or still haven't arrived.
 

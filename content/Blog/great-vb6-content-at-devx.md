@@ -1,7 +1,9 @@
 ---
-date: 2004-04-06T12:19:00+00:00
+date: 2004-04-06T12:19:00.000Z
 title: Great VB6 content at DevX
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I was browsing DevX's Visual Basic Zone (<http://www.devx.com/vb>) and I found so much great stuff I just thought I'd better point out a couple of useful items;
 

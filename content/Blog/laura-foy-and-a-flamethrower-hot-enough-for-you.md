@@ -1,7 +1,9 @@
 ---
-date: 2006-04-24T10:04:00+00:00
+date: 2006-04-24T10:04:00.000Z
 title: Laura Foy and a Flamethrower .... hot enough for you?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 So I'm back from the San Francisco area, and I'm while I'm too tired to give you all the details right now, here's a sneak peak of some of the things you'll be seeing on 10 in the near future:
 

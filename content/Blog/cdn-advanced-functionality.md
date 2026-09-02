@@ -1,14 +1,17 @@
 ---
-date: 2020-03-17T17:00:00-08:00
-title: Beyond content caching and distribution, what else can a CDN do?
+date: 2020-03-18T01:00:00.000Z
+title: 'Beyond content caching and distribution, what else can a CDN do?'
 type: posts
 tags:
-- Web Development
-- CDN
-- Performance
-description: CDNs bundle in a lot more than caching — I dig into web application firewalls, image optimization, and path rewriting to multiple origins.
+  - Web Development
+  - CDN
+  - Performance
+description: >-
+  CDNs bundle in a lot more than caching — I dig into web application firewalls,
+  image optimization, and path rewriting to multiple origins.
 draft: false
 techfeatured: false
+curated: '2026-09-02'
 ---
 The core purpose of a content distribution network (CDN), is to provide your users with endpoints to hit all over the world instead of having everyone go all the way back to your origin server. Caching is a core part of that, to bring some of your content closer to the user as well as the server they connect to. If you've looked into CDNs though, or tried to compare various companies, you will see they offer a lot of 'extras' on top of the basic functionality.
 

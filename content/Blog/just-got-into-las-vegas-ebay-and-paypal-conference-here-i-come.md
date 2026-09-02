@@ -1,7 +1,9 @@
 ---
-date: 2006-06-11T02:14:00+00:00
-title: Just got into Las Vegas, eBay and PayPal conference here I come...
+date: 2006-06-11T02:14:00.000Z
+title: 'Just got into Las Vegas, eBay and PayPal conference here I come...'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I just got to my hotel (the Aladdin) here in Vegas; ready to roam around the conferences looking for folks to film for [Channel 9](https://channel9.msdn.com) (or [10](https://on10.net), if the topic fits). Hmm... Vegas and a video camera... could be trouble. 🙂
 

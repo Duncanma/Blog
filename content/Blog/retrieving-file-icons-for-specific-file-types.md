@@ -1,7 +1,9 @@
 ---
-date: 2003-07-03T02:02:00+00:00
+date: 2003-07-03T02:02:00.000Z
 title: Retrieving File Icons for specific file types
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I just uploaded a new sample to microsoft.com, pulling some useful code out of another MSDN sample that was so unrelated that I figured that this little bit of interesting code would never be found. This code sample shows how to retrieve the icon for any given file type and it does it through a pretty cool component that exposes 2 ImageLists to make it easy to use with a ListView or TreeView.
 

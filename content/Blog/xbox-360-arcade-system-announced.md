@@ -1,7 +1,9 @@
 ---
-date: 2007-10-23T12:24:00+00:00
+date: 2007-10-23T12:24:00.000Z
 title: Xbox 360 Arcade System announced
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [<img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" alt="packagearcadeConsole" src="http://www.duncanmackenzie.net/images/49160dd7-1015-441e-9906-2f54d28f38b3.jpg" align="right" border="0" />](https://www.duncanmackenzie.net/images/78f67f60-8352-4d8c-9241-7a7a01161d22.jpg" atomicselection="true" rel="lightbox[516]" title="packagearcadeConsole) For the price of $280, you can now get a new edition of the Xbox 360 console. This one is similar to the original core system, but with HDMI output, a 256mb memory card (so you can play and save your games right out of the box), a wireless controller, and five full arcade games. Perfect if you are more of a casual gamer or if:
 

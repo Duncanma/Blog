@@ -1,11 +1,15 @@
 ---
-date: 2004-09-27T06:19:00+00:00
-title: I've been working on a new RSS generation system for MSDN for the past little while
+date: 2004-09-27T06:19:00.000Z
+title: >-
+  I've been working on a new RSS generation system for MSDN for the past little
+  while
 type: posts
 tags:
- - RSS
- - Coding
- - Microsoft
+  - RSS
+  - Coding
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 ... and it is almost ready to ship....
 

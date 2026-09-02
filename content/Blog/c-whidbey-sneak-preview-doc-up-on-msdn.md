@@ -1,7 +1,9 @@
 ---
-date: 2003-11-21T02:33:00+00:00
+date: 2003-11-21T02:33:00.000Z
 title: C# Whidbey Sneak Preview doc up on MSDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 This document provides an overview of the new features available for C# developers in Visual Studio "Whidbey".
 

@@ -1,7 +1,9 @@
 ---
-date: 2005-04-07T15:34:00+00:00
+date: 2005-04-07T15:34:00.000Z
 title: VB6 Resource Center is up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <http://msdn.microsoft.com/vbrun>
 

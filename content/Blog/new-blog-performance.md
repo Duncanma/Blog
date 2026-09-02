@@ -1,15 +1,19 @@
 ---
 title: New Blog Performance
-date: 2019-04-27T17:26:38-07:00
+date: 2019-04-28T00:26:38.000Z
 type: posts
 tags:
- - Blogging
- - Coding
- - Performance
- - Hugo
+  - Blogging
+  - Coding
+  - Performance
+  - Hugo
 images:
-- /images/performance/Baseline_New_Waterfall.png
-description: I compared WebPageTest results for my old WordPress site vs. the new static Hugo build, then iterated on fonts and JavaScript to make it faster.
+  - /images/performance/Baseline_New_Waterfall.png
+description: >-
+  I compared WebPageTest results for my old WordPress site vs. the new static
+  Hugo build, then iterated on fonts and JavaScript to make it faster.
+historical: true
+curated: '2026-09-02'
 ---
 Moving over to a new blog engine ([Hugo](https://gohugo.io/)) is not a simple task. I had to extract out my approximately 1000 blog posts from WordPress as Markdown, fix up all their metadata, and then start fixing all of the HTML that was mangled into a weird mix of markdown and HTML. The overall goal seemed worth all of this work:
 

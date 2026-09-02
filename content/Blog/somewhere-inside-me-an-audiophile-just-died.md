@@ -1,7 +1,9 @@
 ---
-date: 2004-04-20T09:54:00+00:00
+date: 2004-04-20T09:54:00.000Z
 title: Somewhere inside me... an audiophile just died.
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 I am a closet audiophile, with all the usual history.... did the 'music man' thing for plays, moved up to music guy for bar bands, blah, blah, blah... spent way too much time worried about the alignment of my high-end tape deck, etc... but at some point my obsession with all things audio related slipped down in my priority list. I'm not sure exactly when, but at that point I stopped being willing to spend money on improving the quality of sound in my house, car or work. I still care about sound quality, and I think I'm still a pretty good judge of sonic fidelity, but I stopped being willing to pay money to achieve the best results.
 

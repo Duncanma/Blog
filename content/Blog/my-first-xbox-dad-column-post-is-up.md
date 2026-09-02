@@ -1,7 +1,9 @@
 ---
-date: 2007-04-06T18:40:00+00:00
+date: 2007-04-06T18:40:00.000Z
 title: My first "Xbox Dad" column (post?) is up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 _<random musing>It seems like an online article, but I wonder if it wouldn't be just easier for them to publish these articles as blog entries?</random musing>_
 

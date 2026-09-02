@@ -1,7 +1,9 @@
 ---
-date: 2004-07-08T07:40:00+00:00
+date: 2004-07-08T07:40:00.000Z
 title: Generics in VB 2005 Article now live on MSDN...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

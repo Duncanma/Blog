@@ -1,7 +1,9 @@
 ---
-date: 2004-02-27T10:52:00+00:00
+date: 2004-02-27T10:52:00.000Z
 title: Code Project just continues to amaze...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I love the recently posted ["Enhanced BrowseForFolder styled TreeView"](https://www.codeproject.com/cs/miscctrl/treeviewexplorer.asp) (a C# control by Jerry Maguire), and the list of new content from the last week is just amazing;
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-03-31T13:38:00+00:00
+date: 2003-03-31T13:38:00.000Z
 title: One Step Closer to Releasing MusicXP Source
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I have a home music system, that I have dubbed
 

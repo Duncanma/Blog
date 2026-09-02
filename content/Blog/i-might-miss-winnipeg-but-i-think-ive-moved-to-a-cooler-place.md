@@ -1,7 +1,9 @@
 ---
-date: 2003-07-14T21:53:00+00:00
-title: I might miss Winnipeg, but I think I've moved to a cooler place...
+date: 2003-07-14T21:53:00.000Z
+title: 'I might miss Winnipeg, but I think I''ve moved to a cooler place...'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 As a parent of a 2yr old, I don't get out to see bands as often as I used to (I know it is certainly possible, but we are not really connected into a babysitting network, so we only go out when family is visiting)... but it turns out that all you need is a toddler and to live in the right city.
 

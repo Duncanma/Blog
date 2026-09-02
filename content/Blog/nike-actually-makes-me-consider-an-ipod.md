@@ -1,7 +1,9 @@
 ---
-date: 2007-02-02T23:44:00+00:00
+date: 2007-02-02T23:44:00.000Z
 title: Nike+ actually makes me consider an iPod
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 If you know me, or read my blog much, you'll probably gather that I've fully bought into the WMA/WMV world. I've always been a bit annoyed at the iPod model of things as well... I mean, seriously, you can only use iTunes with iPods and iPods with iTunes... talk about crazy... people need choice, who wants to be locked into one music player or one music store?!?
 

@@ -1,7 +1,9 @@
 ---
-date: 2007-03-05T09:52:00+00:00
+date: 2007-03-05T09:52:00.000Z
 title: Have people forgotten how to use HTML?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 This keeps happening to me on Microsoft sites, and it really bugs me...
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-10-28T00:32:00+00:00
+date: 2003-10-28T00:32:00.000Z
 title: '"New" PDC site is up'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 We updated the PDC site for the week of the event, check it out at <http://msdn.microsoft.com/events/pdc/>...
 

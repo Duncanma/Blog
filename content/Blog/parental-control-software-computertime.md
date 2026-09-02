@@ -1,7 +1,9 @@
 ---
-date: 2006-07-21T08:52:00+00:00
+date: 2006-07-21T08:52:00.000Z
 title: Parental Control Software (ComputerTime)
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I saw this on Techie Diva today... and it was immediately appealing, but the attraction dimished quickly. This isn't any fault of the software, as far as I know it does its job perfectly, but I just don't think this is the way to deal with this problem. I have given parental control over technology a lot of thought lately, not only because I have two kids of my own, but also while writing the parental control chapter (a chapter I'm really proud of, I think it is a great bit of info for parents) in Xbox 360 for Dummies.
 

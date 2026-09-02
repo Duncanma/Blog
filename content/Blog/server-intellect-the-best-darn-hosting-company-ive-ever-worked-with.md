@@ -1,7 +1,9 @@
 ---
-date: 2005-02-02T08:37:00+00:00
+date: 2005-02-02T08:37:00.000Z
 title: Server Intellect... the best darn hosting company I've ever worked with
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've mentioned it [before](https://blogs.duncanmackenzie.net/duncanma/archive/2004/09/02/626.aspx), but it is worth saying again. When I decided to build my site up from its static beginnings and add on various asp.net-driven [applications](https://www.duncanmackenzie.net/Forums/), I needed a host that provided SQL Server database access for a reasonable fee and easerve ([Server Intellect](https://www.serverintellect.com/host/duncanma/)'s old name) came [highly recommended](https://www.pinvoke.net). Turns out to be the best hosting decision I have ever made.
 

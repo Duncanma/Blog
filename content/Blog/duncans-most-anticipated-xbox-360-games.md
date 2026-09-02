@@ -1,7 +1,9 @@
 ---
-date: 2005-11-05T09:27:00+00:00
+date: 2005-11-05T09:27:00.000Z
 title: Duncan's Most Anticipated Xbox 360 games
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Brian](https://www.bufferoverrun.net) and I have been spending a lot of our free time working on an upcoming Xbox 360 book ([Xbox 360 for Dummies](https://www.xbox4dummies.com)), which has resulted in me spending way too much time thinking about the day I will be able to pick up a box of my own to bring home. Looking forward to that day, and knowing that Brian and I have almost completely different tastes in games, I thought it would be interesting to list out the 5 games on the 360 I'm most looking forward to, and maybe Brian will do the same. I'm not going to restrict myself to just launch titles, going instead for anything that has been announced, mainly so that I can include my #1 most anticipated title:
 

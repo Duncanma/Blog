@@ -1,7 +1,9 @@
 ---
-date: 2003-04-11T10:28:00+00:00
+date: 2003-04-11T10:28:00.000Z
 title: Using what you write
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 The [Coding4Fun](https://msdn.microsoft.com/columns/codefun.asp) column has had some interesting side effects. I get to use the code I write, something that isn't very common when you are paid to write samples.
 

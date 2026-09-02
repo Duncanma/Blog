@@ -1,7 +1,9 @@
 ---
-date: 2004-09-02T07:46:00+00:00
-title: Deleting database tables, a great web host and a reactive software vendor...
+date: 2004-09-02T07:46:00.000Z
+title: 'Deleting database tables, a great web host and a reactive software vendor...'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 In [a previous post](https://blogs.duncanmackenzie.net/duncanma/archive/2004/09/01/621.aspx), I mentioned that a flaw in the installation routines for [telligent's forum system](https://www.telligentsystems.com/Solutions/Forums) resulted in the deletion of a fairly important set of data... well, after posting that, a few things happened that impressed me...
 

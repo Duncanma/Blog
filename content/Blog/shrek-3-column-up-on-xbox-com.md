@@ -1,7 +1,9 @@
 ---
-date: 2007-05-23T19:50:00+00:00
+date: 2007-05-23T19:50:00.000Z
 title: Shrek 3 column up on xbox.com
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I've done up another 'Xbox Dad' column, this one about yet another movie-related game (what's up with that... did all the game makers get together and plan this, or is it just a summer thing?).... Shrek the Third.
 

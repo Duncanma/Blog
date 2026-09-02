@@ -1,7 +1,9 @@
 ---
-date: 2004-03-13T11:13:00+00:00
+date: 2004-03-13T11:13:00.000Z
 title: Team Chat on Unit Testing coming up next Thursday (3/18)
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 A few team members have blogged about this already, but here I go again...
 

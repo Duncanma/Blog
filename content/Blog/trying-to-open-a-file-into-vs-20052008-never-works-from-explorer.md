@@ -1,7 +1,9 @@
 ---
-date: 2007-12-20T20:26:00+00:00
+date: 2007-12-20T20:26:00.000Z
 title: Trying to open a file into VS 2005/2008 ... never works from Explorer
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 So I have a file on disk, web.config in this case, and I right click and pick 'open with | Visual Studio 2008' ... and I get this:
 

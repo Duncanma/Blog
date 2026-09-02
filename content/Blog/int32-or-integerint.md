@@ -1,7 +1,9 @@
 ---
-date: 2003-04-06T10:50:00+00:00
+date: 2003-04-06T10:50:00.000Z
 title: Int32 or Integer/int?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
  [Brad Abrams posted about the use BCL types vs. language specific type names (in sample code) today](https://blogs.gotdotnet.com/BradA/permalink.aspx/a1ac850b-e21d-4d77-8b93-8832d48af1a1), which just happens to be a topic I've had to think about myself when writing sample code for my own articles, so I thought I would make a comment.
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-02-16T13:22:00+00:00
+date: 2004-02-16T13:22:00.000Z
 title: Debugging Chat Today!!!!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 #### [Debugging Visual Basic .NET Applications](https://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)
 

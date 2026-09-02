@@ -1,7 +1,9 @@
 ---
-date: 2006-06-11T02:36:00+00:00
+date: 2006-06-11T02:36:00.000Z
 title: 'Xbox 360 roundup: Blazing Angles, Rumble Roses and Tomb Raider'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've recently taken a little break from playing Oblivion, which had been the only disc in my 360 for the past couple of months, and I decided to try a range of games. While working on our book, [Xbox 360 for Dummies](https://www.xbox4dummies.com), I added every single 360 game to my Q on [Gamefly.com](https://www.gamefly.com), so I end up getting a random selection whenever I send back the previous game.
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-04-08T07:46:00+00:00
+date: 2003-04-08T07:46:00.000Z
 title: Managed Wrapper for BITS
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Wow, [people](https://aspnetweblog.com/posts/5055.aspx) [pick this stuff up ](https://radio.weblogs.com/0101134/2003/04/07.html#a45)quick... that was just an updated version of my [BITS](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/bits/bits/bits_start_page.asp) wrapper that I posted TODAY... Appreciate the link from [ScottW](https://aspnetweblog.com/posts/5055.aspx) and [Chris Kinsman](https://radio.weblogs.com/0101134/2003/04/07.html#a45), but I'd rather people read the associated article (at
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-11-17T11:01:00+00:00
+date: 2006-11-17T11:01:00.000Z
 title: First part of my Star Trek Legacy interview is up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I flew to Boston a couple of weeks ago and interviewed some folks at Mad Doc Software, and the first part of that interview is now up on 10.
 

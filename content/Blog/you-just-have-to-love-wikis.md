@@ -1,7 +1,9 @@
 ---
-date: 2004-10-07T17:25:00+00:00
+date: 2004-10-07T17:25:00.000Z
 title: You just have to 'love' wikis...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 (I'm kidding)
 

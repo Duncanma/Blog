@@ -1,7 +1,9 @@
 ---
-date: 2006-07-27T20:17:00+00:00
+date: 2006-07-27T20:17:00.000Z
 title: Microsoft Humanitarian Systems (The Show On 10)
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 This is so very cool... I wonder if they need any programmers? Of course, my wife wouldn't like it if it meant lots of travel!
 

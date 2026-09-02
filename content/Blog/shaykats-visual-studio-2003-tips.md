@@ -1,7 +1,9 @@
 ---
-date: 2004-03-14T13:00:00+00:00
+date: 2004-03-14T13:00:00.000Z
 title: Shaykat's Visual Studio 2003 Tips
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Shaykat](https://weblogs.asp.net/shaykatc), a PM on the C# Team, has been posting some great tips on VS.NET 2003 so I thought I would collect them here for your linking pleasure;
 

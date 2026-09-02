@@ -1,9 +1,11 @@
 ---
-date: 2007-04-02T09:12:00+00:00
+date: 2007-04-02T09:12:00.000Z
 title: Feeling nostalgic for my Intellivision for some reason today...
 type: posts
 tags:
- - Gaming
+  - Gaming
+historical: true
+curated: '2026-09-02'
 ---
 I think it was playing Chargeball in [Meet the Robinsons](https://www.xbox.com/en-US/games/m/meettherobinsons/default.htm), but for whatever reason I started thinking about this
 

@@ -1,14 +1,18 @@
 ---
-date: 2023-05-14T14:34:56-07:00
+date: 2023-05-14T21:34:56.000Z
 title: The evolution of Microsoft documentation sites
 type: posts
 tags:
- - Microsoft
- - Information Architecture
- - Web Development
-description: A firsthand history of how Microsoft's developer content moved from MSDN and TechNet through docs.microsoft.com to today's Microsoft Learn.
+  - Microsoft
+  - Information Architecture
+  - Web Development
+description: >-
+  A firsthand history of how Microsoft's developer content moved from MSDN and
+  TechNet through docs.microsoft.com to today's Microsoft Learn.
 techfeatured: true
 blueskyPostID: 3jvpuxajixy2k
+historical: true
+curated: '2026-09-02'
 ---
 
 I ran through this history recently with someone at work and thought

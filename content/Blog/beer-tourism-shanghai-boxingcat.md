@@ -1,14 +1,16 @@
 ---
-date: 2019-08-17T17:00:00-08:00
+date: 2019-08-18T01:00:00.000Z
 title: Boxing Cat Craft Beer Brewery in Shanghai China
 type: posts
 tags:
-- Travel
-- Beer
-- China
+  - Travel
+  - Beer
+  - China
 images:
-- /images/beer/shanghai/BoxingCat_Outside_Logo.jpg
-description: Not the first brewery I found in Shanghai, but the one I keep going back to
+  - /images/beer/shanghai/BoxingCat_Outside_Logo.jpg
+description: 'Not the first brewery I found in Shanghai, but the one I keep going back to'
+historical: true
+curated: '2026-09-02'
 ---
 ## Overview
 

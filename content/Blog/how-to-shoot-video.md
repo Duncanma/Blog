@@ -1,7 +1,9 @@
 ---
-date: 2006-10-31T08:37:00+00:00
+date: 2006-10-31T08:37:00.000Z
 title: How to Shoot Video
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 For all you wanna-be ENG folks, video interviewers, YouTube/Soapbox producers, etc... you need this video. I need this video... we all need this video.
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-01-23T08:35:00+00:00
+date: 2004-01-23T08:35:00.000Z
 title: Multi MSDN Multimedia
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 **A new .NET Rocks! has been posted:** <http://msdn.microsoft.com/dotnetrocks/>
 

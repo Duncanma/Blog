@@ -1,7 +1,9 @@
 ---
-date: 2004-09-14T07:27:00+00:00
+date: 2004-09-14T07:27:00.000Z
 title: Creating a VB.NET Windows application using the command line
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 **Juanito27** posted this question to [the VB.NET forum on GotDotNet](https://www.gotdotnet.com/Community/MessageBoard/MessageBoard.aspx?id=8) last week...
 

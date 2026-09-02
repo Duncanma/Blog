@@ -1,7 +1,9 @@
 ---
-date: 2006-07-27T17:43:00+00:00
+date: 2006-07-27T17:43:00.000Z
 title: on10 visits Penny Arcade
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Yesterday, Laura and I headed over to the offices of [Penny Arcade](https://www.penny-arcade.com) to interview them about... well, about a variety of things, it was a very interesting interview.
 

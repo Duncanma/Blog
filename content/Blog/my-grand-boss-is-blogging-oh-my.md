@@ -1,6 +1,8 @@
 ---
-date: 2003-05-01T04:16:00+00:00
-title: My Grand-Boss is Blogging, oh my!
+date: 2003-05-01T04:16:00.000Z
+title: 'My Grand-Boss is Blogging, oh my!'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <font face="Verdana" color="#008080">Sara Williams, <strike>overlord</strike> manager of MSDN, has started [her own blog](https://blogs.gotdotnet.com/saraw). I'm sure this will be a great place for discussion around MSDN futures and features. I know that many people who read my blog use MSDN every day, so I expect to see lots of comments!

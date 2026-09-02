@@ -1,15 +1,18 @@
 ---
-date: 2021-01-24T17:15:00-08:00
+date: 2021-01-25T01:15:00.000Z
 title: A Defensive Approach to Engineering Quality
 type: posts
 tags:
- - Web Development
- - Coding
- - Software Management
- - Engineering Management
- - DevTo
+  - Web Development
+  - Coding
+  - Software Management
+  - Engineering Management
+  - DevTo
 techfeatured: true
-description: One of the most important ways I can contribute to the quality of our sites is by saying no.
+description: >-
+  One of the most important ways I can contribute to the quality of our sites is
+  by saying no.
+curated: '2026-09-02'
 ---
 As an engineering manager, I have a certain amount of control over what
 ends up on our sites and in our systems. Not complete control, my voice

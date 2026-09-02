@@ -1,7 +1,9 @@
 ---
-date: 2003-11-17T10:57:00+00:00
+date: 2003-11-17T10:57:00.000Z
 title: Reading An Image from the web...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Nothing amazingly difficult about this task, but it was [an interesting GotDotNet question posted today](https://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=164268&Page=1#164357) so I thought I would answer it here;
 

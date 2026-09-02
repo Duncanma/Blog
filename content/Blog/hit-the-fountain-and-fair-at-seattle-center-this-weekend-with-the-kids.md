@@ -1,7 +1,9 @@
 ---
-date: 2006-07-17T18:06:00+00:00
+date: 2006-07-17T18:06:00.000Z
 title: Hit the fountain and fair at Seattle Center this weekend with the kids
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Good times were had by all, although mostly by my son (Connor)!
 

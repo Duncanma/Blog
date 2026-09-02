@@ -1,7 +1,9 @@
 ---
-date: 2003-09-14T02:45:00+00:00
+date: 2003-09-14T02:45:00.000Z
 title: Some new MSDN links of note
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 You probably already subscribe to the MSDN RSS feeds, so this might be a duplication but here goes;
 

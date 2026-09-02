@@ -1,7 +1,9 @@
 ---
-date: 2007-06-14T17:32:00+00:00
-title: Keeping in Touch, a new Xbox Dad article is live
+date: 2007-06-14T17:32:00.000Z
+title: 'Keeping in Touch, a new Xbox Dad article is live'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 It has been 'marketized' a bit from how I originally wrote it (with the addition of a product name right into the title for one), but a 'father's day' article from me is up on Xbox.com
 

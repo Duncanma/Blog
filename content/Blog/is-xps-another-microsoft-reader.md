@@ -1,7 +1,9 @@
 ---
-date: 2006-12-08T20:18:00+00:00
+date: 2006-12-08T20:18:00.000Z
 title: Is XPS another Microsoft Reader?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I loved [Microsoft Reader](https://www.microsoft.com/reader/default.asp), I had a ton of .lit files on my Pocket PC and I would save Word docs out as Reader files so I could read them while travelling or even just at home away from my main machine. Other than email, Reader was the 'killer app' for me on the Pocket PC. But Reader was never given the love it needed, the Reader plug-in wasn't available for some versions of Office (at least not right away), you couldn't find all that many downloads in .lit format. And their DRM/authorizing system was horrible...
 

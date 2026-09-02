@@ -1,7 +1,9 @@
 ---
-date: 2003-06-29T08:24:00+00:00
+date: 2003-06-29T08:24:00.000Z
 title: Everything you didn't need to know about me...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Is now up on the web (I guess it was all up there before, just not in one place) as my interview with [mainfunction.com](https://students.mainfunction.com/Home/) has made it up onto their web site. I think they told me this was coming months ago, so I hope I didn't mention it to a bunch of people then, because I'm betting it was only published recently.
 

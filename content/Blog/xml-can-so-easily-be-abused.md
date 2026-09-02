@@ -1,7 +1,9 @@
 ---
-date: 2003-10-22T11:32:00+00:00
+date: 2003-10-22T11:32:00.000Z
 title: XML can so easily be abused...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I am getting really tired of seeing web services (or RSS feeds, or .NET methods, or anything else) with large blocks of complex, structured data that is exposed as **"String".**
 

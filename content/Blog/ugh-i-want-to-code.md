@@ -1,7 +1,9 @@
 ---
-date: 2003-09-14T10:11:00+00:00
+date: 2003-09-14T10:11:00.000Z
 title: Ugh.. I want to code...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I have a bunch of writing to do, but what I really want to do is code!
 

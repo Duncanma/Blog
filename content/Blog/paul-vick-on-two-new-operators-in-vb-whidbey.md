@@ -1,9 +1,10 @@
 ---
-date: 2004-03-03T02:36:00+00:00
+date: 2004-03-03T02:36:00.000Z
 title: Paul Vick on two new operators in VB Whidbey
 type: posts
 tags:
- - Coding
+  - Coding
+curated: '2026-09-02'
 ---
 In [a recent post to his blog](https://www.panopticoncentral.net/PermaLink.aspx/086feb98-d3d3-4831-a1ba-e8f70c72dac1), Paul Vick discusses the new **IsNot** Operator (and the history/rational behind the **Is** operator), which allows you to write;
 

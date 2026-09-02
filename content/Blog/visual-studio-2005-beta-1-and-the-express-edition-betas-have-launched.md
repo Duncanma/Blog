@@ -1,7 +1,9 @@
 ---
-date: 2004-06-29T10:38:00+00:00
+date: 2004-06-29T10:38:00.000Z
 title: Visual Studio 2005 Beta 1 and the Express Edition Betas have launched...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Ah, launch day... what else would have most of my colleagues sitting in their offices at 12:30 am in the morning on a Monday... and there isn't a single Halo game running!!
 

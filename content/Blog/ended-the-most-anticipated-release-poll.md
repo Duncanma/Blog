@@ -1,7 +1,9 @@
 ---
-date: 2004-06-17T08:43:00+00:00
+date: 2004-06-17T08:43:00.000Z
 title: Ended the "Most anticipated release" poll...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 And (hopefully the formatting will work out ok in the blog) here are the results 🙂
 

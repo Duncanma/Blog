@@ -1,12 +1,14 @@
 ---
-date: 2009-02-19T09:40:52+00:00
+date: 2009-02-19T09:40:52.000Z
 title: Responding to feedback on Oxite
 type: posts
 tags:
- - CMS
- - Development
- - Microsoft
- - Oxite
+  - CMS
+  - Development
+  - Microsoft
+  - Oxite
+historical: true
+curated: '2026-09-02'
 ---
 {{% note %}}
 In the years since this was posted, many of the links are broken, and in the intervening time 'Oxite' as a project (basically the need for a simple CMS/blogging engine turned into a new thing from the ASP.NET team called [Orchard](https://orchardproject.net/). No shared code, but still a successor in spirit.

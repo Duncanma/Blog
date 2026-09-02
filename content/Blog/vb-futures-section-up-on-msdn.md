@@ -1,7 +1,9 @@
 ---
-date: 2005-09-20T04:32:00+00:00
+date: 2005-09-20T04:32:00.000Z
 title: VB Futures section up on MSDN...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Now, to me, VB 2005 is the "future", and anything beyond that is really just coffee-break information to read briefly.... but I guess I wouldn't be a very good Microsoft person if I didn't start pushing the version-after-next version of our development tools **before the next version has even shipped**.
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-03-15T04:41:00+00:00
+date: 2004-03-15T04:41:00.000Z
 title: There's nothing like a nice control to make development easier...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I'm just playing around with an internal application, just a tool that hits our internal web services for article ratings (you know, the little box that says "7 out of 9" next to MSDN articles...) and displays the results in a grid. Well, there are a lot of things I've been hoping to add to the Windows Forms Data Grid, and while I've done quite a few of them (3 or 4 custom column types) I've never gotten around to adding the really cool stuff.... but by using someone else's grid, I get all of that functionality for free. I've been a big Janus fan since before .NET... but I never used it in a real project before, since I had already purchased [the excellent "TrueDB Grid" ](https://www.componentone.com/products.aspx?ProductCode=1&#038;ProductID=67)for VB5/6 and ... well... once you've paid for a grid that works well, there is little incentive to try out another one. Anyway, I grabbed the trial edition of [Janus's .NET controls](https://www.janusys.com/janus/library/default.aspx?url=/janus/download/downloadcenter.aspx) and I have to say that I'm impressed... very nice stuff feature wise, and as graphically appealing as I have always thought from looking at their demos.
 

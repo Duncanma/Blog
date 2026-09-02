@@ -1,15 +1,19 @@
 ---
-date: 2020-05-23T10:52:00-08:00
+date: 2020-05-23T18:52:00.000Z
 title: The basic flow of Docs.Microsoft.com
 type: posts
 tags:
-- Docs
-- Microsoft
-- Web Development
+  - Docs
+  - Microsoft
+  - Web Development
 images:
-- /images/docs/overview.png
-description: A content change triggers a webhook, a DocFX build, a push into our DHS storage system, and then an App Service assembles the page you actually see.
+  - /images/docs/overview.png
+description: >-
+  A content change triggers a webhook, a DocFX build, a push into our DHS
+  storage system, and then an App Service assembles the page you actually see.
 docsfeatured: true
+historical: true
+curated: '2026-09-02'
 ---
 
 It's a big site, with a lot of moving pieces, but I am going to zoom out and try to start at a simplified view and then drill down one step at a time.

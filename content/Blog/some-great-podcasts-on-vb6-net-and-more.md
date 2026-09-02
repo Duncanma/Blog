@@ -1,7 +1,9 @@
 ---
-date: 2005-10-28T07:35:00+00:00
+date: 2005-10-28T07:35:00.000Z
 title: Some great podcasts on VB6 -&gt; .NET and more...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I was reading the [dotnetjunkies.com](https://dotnetjunkies.com) newsletter and I spotted these [podcasts](https://www.ddj.com/podcast/dotnetcast/), a series of them that I have never noticed before, even though they definitely the kind of content I'd be interested in hearing.
 

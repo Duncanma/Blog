@@ -1,7 +1,9 @@
 ---
-date: 2003-10-11T10:48:00+00:00
+date: 2003-10-11T10:48:00.000Z
 title: Home Machine is up and "loaded for code..."
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 Kent used a phrase a few days ago "loaded for bear", and while I can't even really explain what it meant (though [Google](https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=%22loaded+for+bear%22) certainly can), it makes me laugh every time I think of it...
 

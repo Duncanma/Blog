@@ -1,11 +1,13 @@
 ---
-date: 2007-08-30T02:34:00+00:00
+date: 2007-08-30T02:34:00.000Z
 title: Added Support for Soapbox Videos on Channel 9
 type: posts
 tags:
- - Channel9
- - Microsoft
- - Video
+  - Channel9
+  - Microsoft
+  - Video
+noindex: true
+curated: '2026-09-02'
 ---
 When I started on the C9 dev team, one of the first things I did was to **remove** the ability for users to post embed, object and script tags. We had a couple of people abusing this feature and I wanted to lock it right down. The downside to this move was that it prevented some forms of user interaction/posts that we didn't really mind and in some cases would even like to encourage.
 

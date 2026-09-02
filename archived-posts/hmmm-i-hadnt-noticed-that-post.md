@@ -1,0 +1,9 @@
+---
+date: 2003-10-26T09:10:00.000Z
+title: Hmmm... I hadn't noticed that post
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+[Kent and his little sony pda/camera thingy](https://weblogs.asp.net/ksharkey/posts/33339.aspx).... hmmm... now where did I put that wma file of him playing his new musical instrument...

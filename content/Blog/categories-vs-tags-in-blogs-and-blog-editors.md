@@ -1,7 +1,8 @@
 ---
-date: 2006-09-27T17:48:00+00:00
+date: 2006-09-27T17:48:00.000Z
 title: Categories vs. Tags in Blogs and Blog Editors
 type: posts
+curated: '2026-09-02'
 ---
 
 

@@ -1,16 +1,19 @@
 ---
-date: 2021-03-14T16:44:30-07:00
+date: 2021-03-14T23:44:30.000Z
 title: The inevitable result of focusing only on shipping features
 type: posts
 tags:
- - Web Development
- - Coding
- - Software Management
- - Engineering Management
-description: If we confuse shipping features for building a product, we will eventually see all forward progress cease.
+  - Web Development
+  - Coding
+  - Software Management
+  - Engineering Management
+description: >-
+  If we confuse shipping features for building a product, we will eventually see
+  all forward progress cease.
 images:
-- /images/inevitable/construction.jpg
+  - /images/inevitable/construction.jpg
 techfeatured: true
+curated: '2026-09-02'
 ---
 Throughout my time leading engineers at Microsoft, there would often be
 discussions about the relative 'velocity' of our team over time. As our projects

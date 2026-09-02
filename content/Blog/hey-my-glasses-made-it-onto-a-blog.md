@@ -1,7 +1,9 @@
 ---
-date: 2003-09-11T20:17:00+00:00
-title: Hey, my glasses made it onto a blog
+date: 2003-09-11T20:17:00.000Z
+title: 'Hey, my glasses made it onto a blog'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Kent has been posting pics and my glasses made it into [the shot](https://weblogs.asp.net/ksharkey/posts/26944.aspx)! Wow, this is pretty exciting, I think I'll go lie down.
 

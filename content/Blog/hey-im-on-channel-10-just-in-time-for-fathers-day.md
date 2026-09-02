@@ -1,7 +1,9 @@
 ---
-date: 2007-06-17T11:13:00+00:00
-title: Hey, I'm on Channel 10 ... just in time for Father's Day
+date: 2007-06-17T11:13:00.000Z
+title: 'Hey, I''m on Channel 10 ... just in time for Father''s Day'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I sat down to chat with [Tina](https://on10.net/blogs/tina/) from Channel 10 to chat about [my Xbox Dad articles](https://www.xbox.com/en-US/community/personality/xboxdad/default.htm), gaming with your kids, etc...
 

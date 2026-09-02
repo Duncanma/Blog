@@ -1,7 +1,9 @@
 ---
-date: 2003-07-06T03:56:00+00:00
-title: A little off-topic, but .... "Verizon Sucks"
+date: 2003-07-06T03:56:00.000Z
+title: 'A little off-topic, but .... "Verizon Sucks"'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I'm sure I've worked with more disorganized and unprofessional companies, although I can't think of any, but I certainly haven't continued to work with them... but I'm fairly stuck with Verizon.
 

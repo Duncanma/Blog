@@ -1,7 +1,9 @@
 ---
-date: 2004-03-24T21:49:00+00:00
+date: 2004-03-24T21:49:00.000Z
 title: Frequently Asked Question Section now on the C# Developer Center
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hey folks, I've been working with the C# Team and two great C# MVPs (Jon Skeet and Nicholas Paldino) to put together a 'live' C# FAQ. This FAQ is being run as a blog, hosted at [http://blogs.msdn.com/csharpfaq](https://blogs.msdn.com/csharpfaq) and is displayed on the C# Developer Center on MSDN (at [http://msdn.microsoft.com/vcsharp/team/faq](https://msdn.microsoft.com/vcsharp/team/faq)).
 

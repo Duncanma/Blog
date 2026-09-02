@@ -1,14 +1,17 @@
 ---
-date: 2021-03-21T1:44:00-07:00
+date: 2021-03-21T08:44:00.000Z
 title: You need a test environment
 type: posts
 tags:
- - Web Development
- - Coding
- - Performance
- - Engineering Management
+  - Web Development
+  - Coding
+  - Performance
+  - Engineering Management
 techfeatured: false
-description: To do accurate performance testing you need a live site that is a true mirror of your production environment.
+description: >-
+  To do accurate performance testing you need a live site that is a true mirror
+  of your production environment.
+curated: '2026-09-02'
 ---
 
 Depending on the size of your organization, you may be working in a

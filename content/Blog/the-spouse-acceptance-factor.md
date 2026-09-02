@@ -1,7 +1,9 @@
 ---
-date: 2005-06-07T16:28:00+00:00
+date: 2005-06-07T16:28:00.000Z
 title: The Spouse Acceptance Factor
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I'm not sure who invented this term, SAF, but it comes up often around folks who are into _new_ technology for the home... "sure you might want to install a media center pc, but have you taken into account the spouse acceptance factor?" or the more common, "having to restart the cable modem sure reduces the SAF". With everything new seems to come a few annoyances, so the question is whether or not the benefits outweigh the issues... and not in **your** opinion, but in the opinion of the rest of the people in your house. This is an ongoing issue for me, because I have a habit of picking up new gadgets for the home.
 

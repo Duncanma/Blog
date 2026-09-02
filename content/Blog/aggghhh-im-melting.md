@@ -1,7 +1,9 @@
 ---
-date: 2005-02-25T17:13:00+00:00
+date: 2005-02-25T17:13:00.000Z
 title: aggghhh... I'm melting...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 _or am I being scribbled?_
 

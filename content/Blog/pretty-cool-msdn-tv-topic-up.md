@@ -1,7 +1,9 @@
 ---
-date: 2003-10-15T09:11:00+00:00
+date: 2003-10-15T09:11:00.000Z
 title: Pretty cool MSDN TV Topic up..
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 * * *
 

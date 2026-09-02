@@ -1,7 +1,9 @@
 ---
-date: 2005-03-10T19:29:00+00:00
+date: 2005-03-10T19:29:00.000Z
 title: Some thoughts on "Classic VB"
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 This topic has been in the 'news' lately (well, at least in the blogs) and I've been considering replying.... but it turns out I don't have to, [because Dave Totzke has done it for me](https://geekswithblogs.net/dtotzke/archive/2005/03/10/25916.aspx). I don't really agree with his comment that we've kept C++ alive because Office is written in it... it is actually because the managed world doesn't replace the need to write native code against the underlying hardware and OS. We need to have at least one avenue for folks to write the high-performance graphic software, device drivers, network packet filters, etc.... so we need unmanaged C++ to stay. There isn't a similar need for new development on VB6.
 

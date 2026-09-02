@@ -1,12 +1,16 @@
 ---
-date: 2021-03-15T08:03:32-07:00
+date: 2021-03-15T15:03:32.000Z
 title: Adding a special section to my Hugo posts based on a tag or tags
 type: posts
 tags:
- - Web Development
- - Coding
- - Hugo
-description: How I used a Hugo tag check to promote my newsletter only on web-dev posts — so beer tourism readers won't get an unwanted pitch for web performance content.
+  - Web Development
+  - Coding
+  - Hugo
+description: >-
+  How I used a Hugo tag check to promote my newsletter only on web-dev posts —
+  so beer tourism readers won't get an unwanted pitch for web performance
+  content.
+curated: '2026-09-02'
 ---
 I recently [launched a newsletter](https://www.getrevue.co/profile/DuncanMackenzie), despite being assured email is dead, and like any good content creator I want to grow my audience.
 

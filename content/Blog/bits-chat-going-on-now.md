@@ -1,7 +1,9 @@
 ---
-date: 2004-01-14T20:49:00+00:00
+date: 2004-01-14T20:49:00.000Z
 title: BITS chat going on now....
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Background Intelligent Transfer Service (BITS) API](https://communities2.microsoft.com/home/chatroom.aspx?siteid=34000014)
 

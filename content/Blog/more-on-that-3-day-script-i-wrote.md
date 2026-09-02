@@ -1,7 +1,9 @@
 ---
-date: 2007-03-22T09:26:00+00:00
+date: 2007-03-22T09:26:00.000Z
 title: More on that 3-Day script I wrote...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Darn script removing code on AOL! One woman, Nicolle, has [a blog with AOL](https://journals.aol.com/knowwriter/AmazingAdventures), but it won't let her add script to any part of the UI... or even into a post.
 

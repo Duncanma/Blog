@@ -1,7 +1,9 @@
 ---
-date: 2004-09-23T08:34:00+00:00
+date: 2004-09-23T08:34:00.000Z
 title: Coffee with Serge
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Had an interesting coffee with [Serge Baranovsky](https://blogs.vbcity.com/sergeb),founder of [vbCity.com](https://www.vbCity.com) and owner of a cool license plate:
 

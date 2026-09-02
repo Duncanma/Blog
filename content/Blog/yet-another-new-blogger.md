@@ -1,7 +1,9 @@
 ---
-date: 2003-03-19T11:40:00+00:00
+date: 2003-03-19T11:40:00.000Z
 title: Yet Another New Blogger!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Wow,
 

@@ -1,8 +1,13 @@
 ---
-date: 2015-10-08T18:20:17+00:00
+date: 2015-10-08T18:20:17.000Z
 title: Content Taxonomy Musings
 type: posts
-tags: ["Channel9","CMS","Blogging","Writing"]
+tags:
+  - Channel9
+  - CMS
+  - Blogging
+  - Writing
+curated: '2026-09-01'
 ---
 My day job is running a bunch of systems as part of Microsoft’s developer relations (DevRel) group and the biggest of those is Channel 9 (<https://channel9.msdn.com>). Channel 9 is basically a video blogging platform. We have ‘blogs’, which contain posts, written by people. Seems simple enough, but after running for 10 years we have a bit of a problem. Too much content.
 

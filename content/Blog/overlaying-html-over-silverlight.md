@@ -1,11 +1,13 @@
 ---
-date: 2007-08-29T00:48:00+00:00
+date: 2007-08-29T00:48:00.000Z
 title: Overlaying HTML over Silverlight
 type: posts
 tags:
- - Channel9
- - Silverlight
- - Coding
+  - Channel9
+  - Silverlight
+  - Coding
+historical: true
+curated: '2026-09-02'
 ---
 In the new code that we are building for Channel 9, we have a few HTML popups here and there... floating divs for user info being one example. At the same time as we've been adding that feature, we also moved from using Windows Media Player to using Silverlight as our video player.
 

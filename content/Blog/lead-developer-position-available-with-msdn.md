@@ -1,7 +1,9 @@
 ---
-date: 2004-12-13T17:29:00+00:00
+date: 2004-12-13T17:29:00.000Z
 title: Lead Developer position available with MSDN
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Just posted recently, there is a opening at MSDN for a "Software Development Engineering Lead". This is within the same group that I have just joined and it looks like a great job for the right person. Here is a brief snippet from the [full job description](https://www.microsoft.com/careers/search/details.aspx?JobID=2e310b8d-a7ca-4105-b7bd-fcaf8eee5054)....
 

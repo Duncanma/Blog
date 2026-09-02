@@ -1,7 +1,9 @@
 ---
-date: 2004-10-02T03:58:00+00:00
+date: 2004-10-02T03:58:00.000Z
 title: An interesting response to my database usage poll...
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 [Mike Dimmick comments on SQL Server's licensing policy and compares it to Oracle... ](https://blogs.duncanmackenzie.net/duncanma/archive/2004/09/24/695.aspx#738)which puzzled me. I'm no licensing expert, but from my days in MCS I used to read up on Oracle a bit and it seemed to me that they used a similar model to ours in determining per-user licensing costs. So I looked it up.
 

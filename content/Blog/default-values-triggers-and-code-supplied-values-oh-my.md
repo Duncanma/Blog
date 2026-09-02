@@ -1,7 +1,8 @@
 ---
-date: 2004-07-14T21:20:00+00:00
-title: Default Values, Triggers, and Code supplied values ... oh my!
+date: 2004-07-14T21:20:00.000Z
+title: 'Default Values, Triggers, and Code supplied values ... oh my!'
 type: posts
+curated: '2026-09-02'
 ---
 In [an earlier post](https://weblogs.asp.net/duncanma/archive/2004/07/10/179605.aspx), I mentioned that I use a trigger to update a "DateCreated" field in one of my tables... and various people commented on this... asking "why not pass in a value in your Insert?" or "why not use a default value?"
 

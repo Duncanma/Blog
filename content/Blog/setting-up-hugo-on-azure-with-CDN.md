@@ -1,15 +1,19 @@
 ---
-date: 2019-05-12T17:58:00-08:00
+date: 2019-05-13T01:58:00.000Z
 title: Setting up Hugo on Azure
 type: posts
 tags:
-- Blogging
-- Azure
-- Hugo
+  - Blogging
+  - Azure
+  - Hugo
 images:
-- /images/beer/imperial_stout_sml.jpg
-description: Following directions from a few other folks, I setup Hugo on Azure, complete with the CDN and Azure DevOps to handle CI/CD
+  - /images/beer/imperial_stout_sml.jpg
+description: >-
+  Following directions from a few other folks, I setup Hugo on Azure, complete
+  with the CDN and Azure DevOps to handle CI/CD
 draft: true
+noindex: true
+curated: '2026-09-02'
 ---
 For various reasons, I decide to rebuild my personal site, and I knew right from the start that I wanted to go static. The core motivation is that a static site is simpler (no code running on the server) and therefore should be easier to scale and will be cheaper to host than a 'dynamic' option.
 

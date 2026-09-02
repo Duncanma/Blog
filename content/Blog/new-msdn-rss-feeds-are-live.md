@@ -1,11 +1,13 @@
 ---
-date: 2004-10-06T06:56:00+00:00
+date: 2004-10-06T06:56:00.000Z
 title: New MSDN RSS feeds are live...
 type: posts
 tags:
- - RSS
- - Coding
- - Microsoft
+  - RSS
+  - Coding
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 In [an earlier post](https://blogs.duncanmackenzie.net/duncanma/archive/2004/09/26/708.aspx), I mentioned that I had written a new system for producing [MSDN's RSS feeds](https://msdn.microsoft.com/aboutmsdn/rss), and those feeds are now live at the same URLs as the previous versions. You might get some duplicates in your aggregators, (since these are new feeds but with some overlap of items from the old feeds) but that should be temporary. Anyway, check them out ([here is the one for VB](https://msdn.microsoft.com/vbasic/rss.xml)) and let me know what you think.
 

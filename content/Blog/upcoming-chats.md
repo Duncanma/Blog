@@ -1,7 +1,9 @@
 ---
-date: 2003-11-15T01:19:00+00:00
+date: 2003-11-15T01:19:00.000Z
 title: Upcoming Chats
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I was just browsing the chats page at [http://msdn.microsoft.com/chats](https://msdn.microsoft.com/chats) (boy, if ever a page was in need of an RSS feed, this would be it) and I noticed some really cool upcoming chats;
 

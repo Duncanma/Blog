@@ -1,7 +1,9 @@
 ---
-date: 2004-07-01T08:51:00+00:00
+date: 2004-07-01T08:51:00.000Z
 title: Luke Hoban blogs on...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Luke, a PM on the C# IDE team has started a blog... should be a good source of info, especially around the new Express Edition.
 

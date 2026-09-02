@@ -1,16 +1,19 @@
 ---
-date: 2024-04-13T10:02:31-07:00
+date: 2024-04-13T17:02:31.000Z
 title: Adding photo galleries to my site
 type: posts
 tags:
- - Web Development
- - Coding
- - Photography
- - Hugo
+  - Web Development
+  - Coding
+  - Photography
+  - Hugo
 images:
- - /images/photo-gallery/flexGallery.png
-description: I wanted to show off my photos without relying on Instagram, so I built a Hugo gallery with real EXIF data, srcset images, and a PhotoSwipe lightbox.
+  - /images/photo-gallery/flexGallery.png
+description: >-
+  I wanted to show off my photos without relying on Instagram, so I built a Hugo
+  gallery with real EXIF data, srcset images, and a PhotoSwipe lightbox.
 blueskyPostID: 3kpzulrtxya22
+curated: '2026-09-02'
 ---
 I mostly talk about work on this site, but I do have other interests! While I do a few different things, I have one main hobby, and that’s photography. I take courses in it, I spend too much money on it, I travel places with photos in mind, and I’ve ended up with 100s of photos that I really like. So, for years I’ve wanted to post these pictures online (beyond just Instagram) but creating an online photo gallery that I’d be happy with is a bit of work.
 

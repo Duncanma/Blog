@@ -1,7 +1,9 @@
 ---
-date: 2006-07-27T23:26:00+00:00
-title: An interesting web problem, duplicate //s in a url
+date: 2006-07-27T23:26:00.000Z
+title: 'An interesting web problem, duplicate //s in a url'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Ok, so this is interesting to me, maybe not to everyone. Go to [this page](https://on10.net/blogs/theshow//4181) on on10.net, and notice the lack of CSS...  We are using ASP.NET themes and the CSS for the theme gets inserted as a relative reference (../../../themes etc.) ... well IE does the calculation based off of the URL and doesn't find the CSS because the extra slash confuses it.
 

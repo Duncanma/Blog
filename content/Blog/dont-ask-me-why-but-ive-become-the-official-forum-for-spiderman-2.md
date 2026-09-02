@@ -1,7 +1,9 @@
 ---
-date: 2004-07-21T21:43:00+00:00
-title: Don't ask me why, but I've become the official forum for Spiderman 2
+date: 2004-07-21T21:43:00.000Z
+title: 'Don''t ask me why, but I''ve become the official forum for Spiderman 2'
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I blame google.
 

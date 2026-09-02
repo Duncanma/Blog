@@ -1,7 +1,9 @@
 ---
-date: 2006-04-05T17:56:00+00:00
+date: 2006-04-05T17:56:00.000Z
 title: Found some pre-existing source code to send test pingbacks
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I wrote my own for Trackbacks, which I used to incorporate trackbacks into [http://on10.net](https://on10.net), but [Geoff provides one on his blog ](https://www.opinionatedgeek.com/Blog/blogentry=000037/Blog.aspx)(that doesn't appear to support comments, but does support trackbacks, so I thought I had better blog about it to thank him) that does both.
 

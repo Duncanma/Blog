@@ -1,7 +1,9 @@
 ---
-date: 2003-04-07T23:29:00+00:00
+date: 2003-04-07T23:29:00.000Z
 title: MSDN TV now available offline!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 * * *
 

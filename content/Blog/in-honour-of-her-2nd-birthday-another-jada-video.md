@@ -1,7 +1,9 @@
 ---
-date: 2006-10-10T23:09:00+00:00
+date: 2006-10-10T23:09:00.000Z
 title: In honour of her 2nd Birthday... another Jada video!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 
 

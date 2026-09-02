@@ -1,7 +1,9 @@
 ---
-date: 2003-10-10T21:24:00+00:00
+date: 2003-10-10T21:24:00.000Z
 title: Adhoc and Random
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I see by [Kent's latest post](https://weblogs.asp.net/ksharkey/posts/31496.aspx) that we've gone public with our new aliases.. in the great tradition of [Early and Adopter](https://radio.weblogs.com/0117167/), we have decided we should be known as 'adhoc and random'. Details won't be coming, but let's just say that we have a reputation at [our workplace](https://msdn.microsoft.com) as being a bit too quick to write and ship code when we want something done...
 

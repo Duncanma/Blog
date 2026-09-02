@@ -1,7 +1,9 @@
 ---
-date: 2005-05-01T15:38:00+00:00
+date: 2005-05-01T15:38:00.000Z
 title: Alienware adds another reason to buy their PCs... Star Wars themed PCs
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 If I ever get an Alienware machine, I suspect it would be their Media Center machine, but the preview images of these new Star Wars machines are quite tempting.
 

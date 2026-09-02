@@ -1,7 +1,9 @@
 ---
-date: 2007-09-15T10:49:00+00:00
+date: 2007-09-15T10:49:00.000Z
 title: We added a Silverlight player to Channel 8 today
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 
 

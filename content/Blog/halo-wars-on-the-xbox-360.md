@@ -1,7 +1,9 @@
 ---
-date: 2006-09-29T20:35:00+00:00
+date: 2006-09-29T20:35:00.000Z
 title: Halo Wars on the Xbox 360
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Wow, very cool stuff. Another fun example of how little Microsoft employees know about Microsoft products (I learned about this game from gamespot!) but still, very exciting. Another RTS for the 360 too; I'm playing Battle for Middle Earth now so I'm looking forward to the idea of a second RTS to play from my couch! [More details on Halo Wars, including trailers, available here](https://www.xbox.com/en-US/community/news/events/x06/halowarscomingtoxbox360.htm).
 

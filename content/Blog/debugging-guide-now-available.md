@@ -1,6 +1,8 @@
 ---
-date: 2004-03-10T11:39:00+00:00
+date: 2004-03-10T11:39:00.000Z
 title: Debugging Guide now available
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [Min Kwan Park](https://blogs.msdn.com/mkpark/), who works in QA on the C# team (responsible for debugger features) has compiled an amazing document for troubleshooting debugging issues in Visual Studio 2002 and 2003 ... check it out [here](https://blogs.msdn.com/mkpark/articles/86872.aspx)

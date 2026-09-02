@@ -1,7 +1,9 @@
 ---
-date: 2007-04-19T22:35:00+00:00
+date: 2007-04-19T22:35:00.000Z
 title: Trackbacks and URL matching
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I recently noticed a bug in the trackback code on Channel 10, some sites were failing to send us trackbacks, even though we were receiving trackbacks from other sources and those sites were happily trackbacking (I'm just annoying the spell checker today) other blogs.
 

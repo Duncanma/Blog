@@ -1,7 +1,9 @@
 ---
-date: 2004-09-09T07:33:00+00:00
+date: 2004-09-09T07:33:00.000Z
 title: Reducing the size of my pages....
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I was staring at my bandwidth usage tonight and it is quite high.... and thanks to this cool SVG based stats system that easerve provides, I can drill down and figure out which pages are causing the bulk of that traffic... well, the biggest offenders for # of hits were the aggBugs that .Text includes (because my blog posts, including the aggbugs, are shown on MSDN, and therefore generate 3 aggBug requests for **every single view of the [Visual Basic](https://msdn.microsoft.com/vbasic) or [C# Developer Center](https://msdn.microsoft.com/vcsharp) pages**), but the biggest use of bandwidth was by far the mainfeed.aspx.... the main RSS feed for the site...
 

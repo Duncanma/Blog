@@ -1,7 +1,9 @@
 ---
-date: 2003-04-02T02:29:00+00:00
+date: 2003-04-02T02:29:00.000Z
 title: It is a gradual process...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 As per
 

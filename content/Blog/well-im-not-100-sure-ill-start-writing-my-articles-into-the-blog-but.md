@@ -1,7 +1,9 @@
 ---
-date: 2003-07-30T10:02:00+00:00
-title: Well, I'm not 100% sure I'll start writing my articles into the blog... but...
+date: 2003-07-30T10:02:00.000Z
+title: 'Well, I''m not 100% sure I''ll start writing my articles into the blog... but...'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Here is a teaser for the article I am currently working on...
 

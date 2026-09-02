@@ -1,7 +1,9 @@
 ---
-date: 2004-06-20T09:42:00+00:00
+date: 2004-06-20T09:42:00.000Z
 title: Today's Team Chat (Thursday 6/24 at 1pm Pacific Time) has been cancelled
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <p dir="ltr">
   **Update: This chat has been cancelled, sorry folks!!**

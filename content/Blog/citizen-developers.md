@@ -1,13 +1,16 @@
 ---
-date: 2021-03-28T17:40:17-07:00
+date: 2021-03-29T00:40:17.000Z
 title: Supporting and managing "Citizen Development"
 type: posts
 tags:
- - Software Management
- - Coding
- - Microsoft
- - DevTo
-description: A rocky personal history with 'unofficial' tools at Microsoft, and the framework I now use to evaluate the risk and impact of citizen-developed apps.
+  - Software Management
+  - Coding
+  - Microsoft
+  - DevTo
+description: >-
+  A rocky personal history with 'unofficial' tools at Microsoft, and the
+  framework I now use to evaluate the risk and impact of citizen-developed apps.
+curated: '2026-09-02'
 ---
 
 In any organization, users will end up creating their own tools, outside

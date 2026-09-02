@@ -1,11 +1,13 @@
 ---
-date: 2007-03-28T01:28:00+00:00
+date: 2007-03-28T01:28:00.000Z
 title: Something I'm working on for Channel 9 and on10.net...
 type: posts
 tags:
- - RSS
- - Coding
- - Microsoft
+  - RSS
+  - Coding
+  - Microsoft
+noindex: true
+curated: '2026-09-02'
 ---
 Search based RSS...
 

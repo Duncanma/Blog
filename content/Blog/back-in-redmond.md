@@ -1,7 +1,9 @@
 ---
-date: 2004-01-07T14:02:00+00:00
+date: 2004-01-07T14:02:00.000Z
 title: Back in Redmond
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I'm back in town, but I was a little surprised to see snow all over the place... that is what I just left in Winnipeg, MB... I thought I was heading back somewhere green 🙂
 

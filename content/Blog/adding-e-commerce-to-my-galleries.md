@@ -1,16 +1,19 @@
 ---
-date: 2024-05-04T18:47:17-07:00
+date: 2024-05-05T01:47:17.000Z
 title: Adding some e-commerce to my galleries
 type: posts
 tags:
- - Web Development
- - Coding
- - Stripe
- - Photography
+  - Web Development
+  - Coding
+  - Stripe
+  - Photography
 images:
- - /images/photo-gallery/buy-links.png
-description: As a weekend project, I decided to try coding against Stripe and adding the ability to buy original versions of my photos.
+  - /images/photo-gallery/buy-links.png
+description: >-
+  As a weekend project, I decided to try coding against Stripe and adding the
+  ability to buy original versions of my photos.
 blueskyPostID: 3lbn5af5mp227
+curated: '2026-09-02'
 ---
 {{% note %}}This is a follow-up to my last post on [creating a photo gallery feature for my site](/blog/adding-photo-galleries/), so it might be worth a quick skim if you haven't read it before.{{% /note %}}
 

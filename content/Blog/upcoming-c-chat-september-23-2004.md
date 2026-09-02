@@ -1,7 +1,9 @@
 ---
-date: 2004-09-03T23:25:00+00:00
-title: Upcoming C# Chat... September 23, 2004
+date: 2004-09-03T23:25:00.000Z
+title: 'Upcoming C# Chat... September 23, 2004'
 type: posts
+noindex: true
+curated: '2026-09-01'
 ---
 Hey folks, this chat is coming up and it would be great if you could make it... if you have a lot of opinions, good or bad, around C#... please show up and let the team know....
 

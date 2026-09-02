@@ -1,7 +1,9 @@
 ---
-date: 2004-05-26T14:04:00+00:00
+date: 2004-05-26T14:04:00.000Z
 title: Contents of a programmer's backpack
 type: posts
+historical: true
+curated: '2026-09-01'
 ---
 Returning to the room tonight I was greeted by an amazing spread of technology across the bed in my hotel room. Early in the day I had returned to my room only to realize that my cell phone was not in my pocket as expected, so I had proceeded to pull everything out of my backpack, one item at a time, and place it on the bed. Turns out it wasn't in there, it was back in the Cabana... but that isn't really the point of this post. Now, because it is very late and I wish to use my bed, I'm forced to take all of these items and carefully move them to another location or put them back into my bag. Looking over the pile of items, I'm stunned by the amount of gadgetry I've brought with me... and it reminded me a lot of that scene from the first Austin Power movie where he was being given back his personal possessions after being awoken from hibernation.
 

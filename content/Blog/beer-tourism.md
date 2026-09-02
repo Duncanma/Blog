@@ -1,14 +1,18 @@
 ---
-date: 2019-05-08T10:35:00-07:00
+date: 2019-05-08T17:35:00.000Z
 title: Beer Tourism
 type: posts
 tags:
-- Travel
-- Beer
+  - Travel
+  - Beer
 images:
-- /images/beer_tourism.jpg
-description: I like traveling and I like beer, so I hunt down local breweries wherever I go — starting a running list of stops, from Madrid to Shanghai.
+  - /images/beer_tourism.jpg
+description: >-
+  I like traveling and I like beer, so I hunt down local breweries wherever I go
+  — starting a running list of stops, from Madrid to Shanghai.
 featured: true
+historical: true
+curated: '2026-09-02'
 ---
 I like traveling and I like beer.
 

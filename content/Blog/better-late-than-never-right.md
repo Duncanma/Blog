@@ -1,7 +1,9 @@
 ---
-date: 2003-06-04T21:58:00+00:00
+date: 2003-06-04T21:58:00.000Z
 title: Better late than never... right?
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 <font face="Verdana" color="teal">My latest column is up on MSDN,
 

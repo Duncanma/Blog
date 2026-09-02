@@ -1,9 +1,10 @@
 ---
-date: 2004-03-20T10:18:00+00:00
+date: 2004-03-20T10:18:00.000Z
 title: Generic Methods...
 type: posts
 tags:
- - Coding
+  - Coding
+curated: '2026-09-02'
 ---
 Someone suggested to me that VB.NET Whidbey didn't have support for 'Generic Methods', so I quickly wrote a bit of sample code to check (yes, it does support Generic Methods) and I thought I'd post that test code for your amusement.
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-06-01T08:57:00+00:00
-title: So I'm here, now what?
+date: 2003-06-01T08:57:00.000Z
+title: 'So I''m here, now what?'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 <font face="Verdana" color="teal">I thought I had better write my first TechEd related post, now that I've joined techedbloggers.net, and especially since I've arrived in Dallas.
 

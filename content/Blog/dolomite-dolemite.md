@@ -1,7 +1,9 @@
 ---
-date: 2003-11-19T02:53:00+00:00
+date: 2003-11-19T02:53:00.000Z
 title: Dolomite  Dolemite
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Earlier today I posted some background pics... including some from [Dolomites World](www.dolomitesworld.com)... Frank Redmond (Content Strategist for .NET Framework) just bust out laughing in my office because he thought I was posting backgrounds based on one of the many wonderful Dolemite films...
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-02-05T21:25:00+00:00
+date: 2006-02-05T21:25:00.000Z
 title: I now have a 'blog' on Amazon...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Well, I have dated entries... with comment support... umm, I guess it is a blog.
 

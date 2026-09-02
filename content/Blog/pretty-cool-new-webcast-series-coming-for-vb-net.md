@@ -1,7 +1,9 @@
 ---
-date: 2004-01-16T08:44:00+00:00
+date: 2004-01-16T08:44:00.000Z
 title: Pretty cool new Webcast series coming for VB.NET
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 A series of 15 webcasts & lab exercises for the VB6 programmer... (see the full list [here](https://www.lfc.edu/~hummel/webcasts.htm))
 

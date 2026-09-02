@@ -1,0 +1,9 @@
+---
+date: 2003-12-01T23:06:00.000Z
+title: Windows Forms Reference Application
+type: posts
+draft: true
+archivedDate: '2026-09-02'
+curated: '2026-09-02'
+---
+It happens to be an advertisment for Infragistics, but it looks pretty cool and shows off a bunch of [the Application Blocks](https://msdn.microsoft.com/vbasic/letters/20030724), so I'll be spending some time reading through it! [Check it out](https://devcenter.infragistics.com/RefApps/Tracker/tracker.aspx) [from [Code Project](https://www.codeproject.com)]

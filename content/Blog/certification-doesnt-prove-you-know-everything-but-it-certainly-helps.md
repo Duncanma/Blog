@@ -1,7 +1,9 @@
 ---
-date: 2003-04-07T11:09:00+00:00
-title: Certification doesn't prove you know everything, but it certainly helps....
+date: 2003-04-07T11:09:00.000Z
+title: 'Certification doesn''t prove you know everything, but it certainly helps....'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-03-11T11:39:00+00:00
+date: 2004-03-11T11:39:00.000Z
 title: Have you seen Joe Hummel's webcasts yet?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Well, if you haven't managed to see [any of them](https://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx) live yet... don't fret, they are all available on-demand as well (after the live presentation that is). If you are a VB6 programmer interested in learning .NET or if you are already programming in VB.NET, you have to [check them out](https://msdn.microsoft.com/vbasic/community/webcasts/modern/default.aspx)...
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-02-07T03:13:00+00:00
+date: 2004-02-07T03:13:00.000Z
 title: Upcoming Visual Basic Chats
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out these chats on [http://msdn.microsoft.com/chats/](https://msdn.microsoft.com/chats/)
 

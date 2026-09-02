@@ -1,7 +1,9 @@
 ---
-date: 2005-03-21T21:48:00+00:00
+date: 2005-03-21T21:48:00.000Z
 title: More on "pulling" MSDN content into my site...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 In [my last post](/blog/playing-around-with-pulling-my-articles-into-my-own-sites-chrome), I was talking about pulling my articles from MSDN into the chrome of my site. This type of system could be created using a frameset, but frames are evil, so that isn't the approach I took. Instead, knowing a bit about the files on MSDN's web servers, I took advantage of a special xml file that exists for most of our articles. This file is created as part of our publishing process and exists so that we can pull articles into the chrome of our developer centers (like [this](https://msdn.microsoft.com/vbasic/using/columns/code4fun/default.aspx?pull=/library/en-us/dncodefun/html/code4fun12102003.asp)). It isn't a straight xhtml file, but it is almost identical to the html content of the article itself. Knowing that this file exists, my pull code just munges the original (MSDN) URL of the requested article to figure out the underlying xml file name, then loads up that xml. Once I have the xml content, I do a bit of work to the elements, to make all the relative links correctly point back to MSDN (for the images, related articles, links into the SDK, etc...) and then output html into a placeholder on my own page.
 

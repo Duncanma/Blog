@@ -1,9 +1,11 @@
 ---
-date: 2005-04-15T15:33:00+00:00
+date: 2005-04-15T15:33:00.000Z
 title: Follow up on that label/line control...
 type: posts
 tags:
- - Coding
+  - Coding
+historical: true
+curated: '2026-09-02'
 ---
 It seems a few people had questions about [the control I posted previously](https://blogs.duncanmackenzie.net/duncanma/archive/2005/04/14/1306.aspx), so here are answers to two of the questions that people might be running into:
 

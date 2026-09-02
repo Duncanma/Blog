@@ -1,10 +1,12 @@
 ---
-date: 2006-10-11T09:55:00+00:00
+date: 2006-10-11T09:55:00.000Z
 title: Dig Dug hits the Xbox Live Arcade
 type: posts
 tags:
- - Xbox
- - Gaming
+  - Xbox
+  - Gaming
+noindex: true
+curated: '2026-09-02'
 ---
 [Fairly mixed response over on MajorNelson.com to this game](https://www.majornelson.com/archive/2006/10/10/Soon_3A00_-Dig-Dug.aspx), mostly either people who love it or people who are wishing we'd stop with the 'retro' games already... I'm a bit on the fence here myself, I like these games (Dig Dug, Time Pilot, Pac Man...)
 

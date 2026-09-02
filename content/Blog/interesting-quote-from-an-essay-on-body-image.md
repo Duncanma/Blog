@@ -1,7 +1,9 @@
 ---
-date: 2005-03-01T07:06:00+00:00
+date: 2005-03-01T07:06:00.000Z
 title: Interesting quote from an essay on body image
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I was searching the web for details on how best to take all the various body measurements that is a standard part of any personal training program, when my search brought me to [this essay](https://www.snac.ucla.edu/pages/Body_Image/Body_Image.htm).
 

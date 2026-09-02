@@ -1,7 +1,9 @@
 ---
-date: 2005-01-18T17:20:00+00:00
+date: 2005-01-18T17:20:00.000Z
 title: Developer.com has been publishing a ton of great VB articles...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I've been meaning to mention this for awhile, but better late than never:
 

@@ -1,7 +1,9 @@
 ---
-date: 2003-04-01T22:28:00+00:00
-title: I hate to get involved at all, but...
+date: 2003-04-01T22:28:00.000Z
+title: 'I hate to get involved at all, but...'
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt">
   <font face="Trebuchet MS"> <font color="teal">There have been a few VB vs C# debates flying around... I'll refrain from linking to them all, as they aren’t really saying anything new. One comment in particular caught my eye though, and I have to respond.<o:p></o:p>

@@ -1,7 +1,9 @@
 ---
-date: 2003-10-05T10:16:00+00:00
+date: 2003-10-05T10:16:00.000Z
 title: I am definitely going to need more HD inputs on my TV
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I have been drooling over [this](https://www.rokulabs.com/) for that last few weeks...
 

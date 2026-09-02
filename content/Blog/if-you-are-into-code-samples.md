@@ -1,7 +1,9 @@
 ---
-date: 2003-10-26T21:20:00+00:00
+date: 2003-10-26T21:20:00.000Z
 title: If you are into code samples...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I put up a newly updated (updated for VS.NET 2003) set of 101 samples for C# and for VB.NET last night;
 

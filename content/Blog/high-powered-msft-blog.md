@@ -1,7 +1,9 @@
 ---
-date: 2003-05-20T20:37:00+00:00
+date: 2003-05-20T20:37:00.000Z
 title: High-Powered MSFT Blog!
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 <font face="Tahoma">I thought it was shocking enough when
 

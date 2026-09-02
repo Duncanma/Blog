@@ -1,7 +1,8 @@
 ---
-date: 2005-03-04T06:05:00+00:00
+date: 2005-03-04T06:05:00.000Z
 title: Converting from an Integer to an IntPtr
 type: posts
+curated: '2026-09-02'
 ---
 A friend of mine at work just asked me this VB question, and it is an interesting one to me because it isn't as simple as it seems...
 

@@ -1,7 +1,9 @@
 ---
-date: 2004-04-12T02:32:00+00:00
+date: 2004-04-12T02:32:00.000Z
 title: VS 2005 has a blog?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 If you are using the CTP (Community Technical Preview) or you are just interested in Whidbey/VS2005, then you'll definitely want to check out the new blog created to allow various team members to post info on VS2005. Check it out [here](https://weblogs.asp.net/vs2005news/).
 

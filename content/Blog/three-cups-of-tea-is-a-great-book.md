@@ -1,10 +1,12 @@
 ---
-date: 2008-06-13T06:40:00+00:00
+date: 2008-06-13T06:40:00.000Z
 title: Three Cups of Tea is a great book...
 type: posts
 tags:
- - Reading
- - Books
+  - Reading
+  - Books
+historical: true
+curated: '2026-09-02'
 ---
 {{% note %}}
 In the language of the snarky internet, "This aged well", by which I mean it didn't. I really enjoyed this book, but fairly long after I read it, [questions about its honesty came out](https://www.amazon.com/Three-Cups-Deceit-Humanitarian-ebook/dp/B004XHVOW4). While many people have pointed out that the values and message of the original book were still valid, you should definitely be aware that it may be more of a story than a true accounting.

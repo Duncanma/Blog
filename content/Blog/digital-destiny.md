@@ -1,7 +1,9 @@
 ---
-date: 2003-09-30T09:22:00+00:00
+date: 2003-09-30T09:22:00.000Z
 title: Digital Destiny
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 Was it fate, or mere coincidence? Today, I checked out a little online message board where MSFT employees sell/trade various used items (computers, appliances, furniture, baby clothes... whatever) and someone was selling one of those new Samsung DVD players with DVI out... yep, [the very same one that I decided to buy, and then changed my mind](https://weblogs.asp.net/duncanma/posts/28158.aspx) after seeing the price of the DVI cables...
 

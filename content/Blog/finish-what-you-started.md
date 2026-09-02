@@ -1,13 +1,16 @@
 ---
-date: 2023-10-19T07:51:45-07:00
+date: 2023-10-19T14:51:45.000Z
 title: Finish what you started
 type: posts
 tags:
-- Management
-- Engineering Management
-- DevTo
-description: Ten features at 90% done help no one. Some concrete steps for shipping the smallest useful chunk of work instead of a pile of half-finished projects.
+  - Management
+  - Engineering Management
+  - DevTo
+description: >-
+  Ten features at 90% done help no one. Some concrete steps for shipping the
+  smallest useful chunk of work instead of a pile of half-finished projects.
 blueskyPostID: 3mdyxibeej22w
+curated: '2026-09-02'
 ---
 
 Software development projects can only have an impact if they make it to production, so instead of having forty partially done bits of work, you should always prioritize having something actually done.

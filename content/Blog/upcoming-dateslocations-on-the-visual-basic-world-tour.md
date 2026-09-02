@@ -1,7 +1,9 @@
 ---
-date: 2004-04-13T12:19:00+00:00
+date: 2004-04-13T12:19:00.000Z
 title: Upcoming Dates/Locations on the Visual Basic World Tour
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
   * <font face="Verdana">Waltham 4/14 (Steven Lees and Amanda Silver)
       * <font face="Verdana">New York 4/15 (Steven Lees and Amanda Silver)

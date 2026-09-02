@@ -1,12 +1,15 @@
 ---
-date: 2020-03-08T11:00:00-08:00
+date: 2020-03-08T19:00:00.000Z
 title: More discussion of CDNs with common questions and answers
 type: posts
 tags:
-- Web Development
-- CDN
-- Performance
-description: People keep asking me about CDNs, so here are quick answers on separate domains, purging, push vs. pull, and whatever else comes up.
+  - Web Development
+  - CDN
+  - Performance
+description: >-
+  People keep asking me about CDNs, so here are quick answers on separate
+  domains, purging, push vs. pull, and whatever else comes up.
+curated: '2026-09-02'
 ---
 There are many common questions that come up [when talking about CDNs]({{< relref "overview-of-cdn.md" >}}), and I thought I would address them here on the site one at a time. Happy to add more if I haven't addressed something you think needs to be added (just [@ me on twitter](https://twitter.com/duncanma)).
 

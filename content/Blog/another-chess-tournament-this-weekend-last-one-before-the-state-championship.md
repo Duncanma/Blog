@@ -1,11 +1,13 @@
 ---
-date: 2008-04-12T09:42:00+00:00
-title: Another chess tournament this weekend, last one before the state championship
+date: 2008-04-12T09:42:00.000Z
+title: 'Another chess tournament this weekend, last one before the state championship'
 type: posts
 tags:
- - Chess
- - Kids
- - Personal
+  - Chess
+  - Kids
+  - Personal
+historical: true
+curated: '2026-09-02'
 ---
 
 ![Connor playing Chess](/images/Connor_Chess.jpg)

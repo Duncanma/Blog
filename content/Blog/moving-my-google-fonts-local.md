@@ -1,17 +1,21 @@
 ---
-title: "Moving my Google fonts local"
-date: 2019-06-07T08:43:14-07:00
-updated: 2019-06-14T17:03:00-07:00
+title: Moving my Google fonts local
+date: 2019-06-07T15:43:14.000Z
+updated: 2019-06-15T00:03:00.000Z
 type: posts
 tags:
- - Blogging
- - Coding
- - Performance
- - Hugo
+  - Blogging
+  - Coding
+  - Performance
+  - Hugo
 images:
-- /images/performance/Baseline_New_Waterfall.png
-description: I tested self-hosting my Google Fonts instead of using Google's CDN, only to discover an unrelated, unused CSS file was the real performance culprit.
+  - /images/performance/Baseline_New_Waterfall.png
+description: >-
+  I tested self-hosting my Google Fonts instead of using Google's CDN, only to
+  discover an unrelated, unused CSS file was the real performance culprit.
 techfeatured: false
+historical: true
+curated: '2026-09-02'
 ---
 
 As you may have read, [I've been trying to improve the performance of my site]({{< relref "new-blog-performance.md" >}}) and I have gotten it to a pretty low set of #s, but one possible area for improvement has always been in my use of external fonts.

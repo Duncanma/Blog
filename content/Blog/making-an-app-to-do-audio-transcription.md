@@ -1,12 +1,14 @@
 ---
-date: 2013-09-08T19:02:19+00:00
+date: 2013-09-08T19:02:19.000Z
 title: Making an app to do audio transcription
 type: posts
 tags:
- - Coding
- - Projects
- - Downloads
- - Open Source
+  - Coding
+  - Projects
+  - Downloads
+  - Open Source
+historical: true
+curated: '2026-09-02'
 ---
 Back in the day, [I used to write articles for MSDN](https://www.duncanmackenzie.net/articles/), and I started up this column called “Coding 4 Fun” ([the name lives on today along with some of the same spirit](https://channel9.msdn.com/coding4fun)). The premise was that I would write about code I wrote for my own personal use. [An app to sync photos from my computer to my mother’s so that she would get updates of the kid’s pictures](https://msdn.microsoft.com/en-us/magazine/cc163893.aspx). [A remote control using my Pocket PC (yep, that was a while ago).](https://msdn.microsoft.com/en-us/library/ms973247.aspx) You get the idea.
 

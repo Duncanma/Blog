@@ -1,7 +1,9 @@
 ---
-date: 2003-12-07T13:45:00+00:00
+date: 2003-12-07T13:45:00.000Z
 title: Playing around
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I've been playing with some serial port code lately, working out the details of controlling an LCD Panel...
 

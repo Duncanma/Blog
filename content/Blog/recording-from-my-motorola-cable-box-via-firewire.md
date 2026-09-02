@@ -1,7 +1,9 @@
 ---
-date: 2006-11-26T23:43:00+00:00
+date: 2006-11-26T23:43:00.000Z
 title: Recording from my Motorola Cable Box via Firewire?
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I had no idea this was possible, but has anyone managed to either:
 

@@ -1,7 +1,8 @@
 ---
-date: 2003-07-25T20:31:00+00:00
+date: 2003-07-25T20:31:00.000Z
 title: You learn something new everyday...
 type: posts
+curated: '2026-09-02'
 ---
 Ok, I know that [Paul](https://www.panopticoncentral.net/) knew this, but did anyone else notice that the [VB.NET Try...Catch syntax](https://msdn.microsoft.com/library/en-us/vblr7/html/vastmTryCatchFinally.asp) includes a 'when' clause?
 

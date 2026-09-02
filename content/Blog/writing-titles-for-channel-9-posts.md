@@ -1,14 +1,15 @@
 ---
-date: 2015-04-06T16:13:43+00:00
+date: 2015-04-06T16:13:43.000Z
 title: Writing Titles for Channel 9 posts
 type: posts
 tags:
- - Docs
- - Microsoft
- - Channel9
- - Blogging
- - Writing
- - SEO
+  - Docs
+  - Microsoft
+  - Channel9
+  - Blogging
+  - Writing
+  - SEO
+curated: '2026-09-01'
 ---
 Throughout the rest of the site, on twitter and through Google/Bing … the title of your post is the first and most important description of your content that people will see. With that in mind, here are a few tips to make the most of that space.
 

@@ -1,7 +1,9 @@
 ---
-date: 2006-07-02T02:30:00+00:00
+date: 2006-07-02T02:30:00.000Z
 title: Firmware Update results in a Bricked PSP
 type: posts
+historical: true
+curated: '2026-09-02'
 ---
 I&rsquo;m at my nephew&rsquo;s place for a bit and he just &lsquo;bricked&rsquo; his PSP. He put in a game and it started to do a firmware update... he didn&rsquo;t understand what it was doing and was worried it was going to mess up his PSP, so he turned the power off.
 

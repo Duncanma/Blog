@@ -1,7 +1,9 @@
 ---
-date: 2004-07-19T13:18:00+00:00
+date: 2004-07-19T13:18:00.000Z
 title: Stuck on a problem opening vbproj or csproj files...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 On my home dev box I couldn't seem to open any of my projects (VB or C#), and whenever I tried I got this useful error;
 

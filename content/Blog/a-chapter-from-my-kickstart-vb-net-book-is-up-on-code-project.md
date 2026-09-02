@@ -1,7 +1,9 @@
 ---
-date: 2004-02-27T09:55:00+00:00
+date: 2004-02-27T09:55:00.000Z
 title: A chapter from my KickStart VB.NET book is up on Code Project
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Hmm... I had no idea it was going up, but there it is...
 

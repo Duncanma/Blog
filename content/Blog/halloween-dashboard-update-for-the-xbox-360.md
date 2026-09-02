@@ -1,7 +1,9 @@
 ---
-date: 2006-10-30T22:56:00+00:00
+date: 2006-10-30T22:56:00.000Z
 title: Halloween dashboard update for the Xbox 360
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Have you seen [this list of features](https://www.unscripted360.com/2006/10/30/xbox-360-fall-system-update/)?
 

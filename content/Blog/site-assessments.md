@@ -1,16 +1,19 @@
 ---
-date: 2021-01-18T15:30:00-08:00
-title: Assessing a website for performance, accessibility and more
+date: 2021-01-18T23:30:00.000Z
+title: 'Assessing a website for performance, accessibility and more'
 type: posts
 tags:
- - Services
- - Web Development
- - Coding
- - Performance
- - Self-Assessment
+  - Services
+  - Web Development
+  - Coding
+  - Performance
+  - Self-Assessment
 images:
-- /images/performance/Baseline_New_Waterfall.png
-description: First in a series on self-assessing your site's quality, using only free tools — and I'm offering to do free assessments for non-profits too.
+  - /images/performance/Baseline_New_Waterfall.png
+description: >-
+  First in a series on self-assessing your site's quality, using only free tools
+  — and I'm offering to do free assessments for non-profits too.
+curated: '2026-09-02'
 ---
 As a web developer who has taken on many different sites over the years, one of the valuable skills I've developed is how to go through and access a site for it's overall quality. Sometimes this is our own site, one that we've been building and working on over time and it has grown *organically* (which is to say, without as much careful planning as we might have wished), but it could also be a site that someone has asked us to take over or to just assess for their team to get an idea of where they sit. Quality is my chosen way to describe all of the things that are not about the site's direct purpose, but contribute to the user experience, site stability, and maintainability. These attributes are important to all sites, regardless of how they are built or what purpose they serve.
 

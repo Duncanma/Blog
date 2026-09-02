@@ -1,7 +1,9 @@
 ---
-date: 2005-03-19T09:36:00+00:00
+date: 2005-03-19T09:36:00.000Z
 title: Playing around with pulling my articles into my own site's chrome...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Check out my [articles page](https://www.duncanmackenzie.net/articles), which is built from [an RSS file](https://www.duncanmackenzie.net/articles/rss.xml) by the way, and click on any of the "Coding 4 Fun" articles. You'll end up still in my site, but viewing the full MSDN article. Mostly I'm just playing around, but it seemed 'neat' enough to mention 🙂
 

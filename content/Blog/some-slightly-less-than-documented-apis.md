@@ -1,7 +1,9 @@
 ---
-date: 2003-04-24T22:36:00+00:00
+date: 2003-04-24T22:36:00.000Z
 title: Some "slightly less than documented" APIs
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 I wrote an article back in August 2002 on some of the API calls that were documented as part of the Microsoft settlement agreement... but in the end, I never published it... so here it is for your viewing pleasure;
 

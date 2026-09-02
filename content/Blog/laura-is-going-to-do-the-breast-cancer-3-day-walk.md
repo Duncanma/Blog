@@ -1,7 +1,9 @@
 ---
-date: 2007-03-14T23:08:00+00:00
+date: 2007-03-14T23:08:00.000Z
 title: Laura is going to do the Breast Cancer 3-day walk
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 
 

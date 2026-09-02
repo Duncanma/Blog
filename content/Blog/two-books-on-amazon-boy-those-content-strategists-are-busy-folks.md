@@ -1,7 +1,9 @@
 ---
-date: 2005-09-27T05:46:00+00:00
+date: 2005-09-27T05:46:00.000Z
 title: Two books on Amazon... boy those Content Strategists are busy folks....
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 [ <img src="http://rcm-images.amazon.com/images/P/0764575368.01._SCTZZZZZZZ_.jpg" align="left" alt="" border="0" /> ](https://www.amazon.com/exec/obidos/ASIN/0764575368/duncanmackenz-20?creative=327641&#038;camp=14573&#038;link_code=as1" title="Professional Visual Basic 2005)
 

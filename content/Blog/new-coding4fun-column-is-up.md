@@ -1,7 +1,9 @@
 ---
-date: 2003-02-28T03:17:00+00:00
+date: 2003-02-28T03:17:00.000Z
 title: New Coding4Fun column is up...
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 ### <a name="code4fun02282003"> </a>
 

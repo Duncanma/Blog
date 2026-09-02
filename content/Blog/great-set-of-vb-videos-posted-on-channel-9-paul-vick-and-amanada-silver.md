@@ -1,7 +1,9 @@
 ---
-date: 2005-02-07T19:31:00+00:00
+date: 2005-02-07T19:31:00.000Z
 title: Great set of VB videos posted on Channel 9... Paul Vick and Amanada Silver
 type: posts
+noindex: true
+curated: '2026-09-02'
 ---
 Get the inside story on VB. Watch these Channel 9 interviews with Visual Basic team members Paul Vick (technical lead) and Amanda Silver (program manager),
 
